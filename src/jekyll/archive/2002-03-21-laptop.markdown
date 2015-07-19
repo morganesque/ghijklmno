@@ -1,0 +1,23 @@
+---
+layout: post
+status: publish
+published: true
+title: Laptop
+author:
+  display_name: Tom
+  login: admin
+  email: tsmorgan@gmail.com
+  url: ''
+author_login: admin
+author_email: tsmorgan@gmail.com
+wordpress_id: 437
+wordpress_url: http://ghijklmno.net/laptop/
+date: '2002-03-21 10:18:52 +0000'
+date_gmt: '2002-03-21 10:18:52 +0000'
+categories:
+- Old Blog
+tags: []
+comments: []
+---
+<p>I&#8217;m thinking of buying a laptop, called a notebook. Although old and feeble it is cheap and available but I&#8217;m just not sure. Even at this price it seems like a huge extravagance. I mean, I already have a computer, do I need another? Maybe I should be content with what I have for a change. Maybe I should forget all about it and give the money to charity. Maybe I&#8217;ll just have one more <a href="http://www.auctionnotebooks.com/images/Dellcpins.jpg" target="_blank">look</a>.</p>
+

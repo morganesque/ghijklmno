@@ -1,0 +1,33 @@
+---
+layout: post
+status: publish
+published: true
+title: Baby
+author:
+  display_name: Tom
+  login: admin
+  email: tsmorgan@gmail.com
+  url: ''
+author_login: admin
+author_email: tsmorgan@gmail.com
+wordpress_id: 630
+wordpress_url: http://ghijklmno.net/baby/
+date: '2005-01-05 09:12:00 +0000'
+date_gmt: '2005-01-05 09:12:00 +0000'
+categories:
+- Old Blog
+tags: []
+comments: []
+---
+<p>Well, I haven&#8217;t added anything for a while coz I&#8217;ve had some big news that I wasn&#8217;t meant to let on about and you know when you&#8217;ve got something big to say, and can&#8217;t, it&#8217;s hard to think of anything else.</p>
+
+<p>We&#8217;re having a baby. We found out in November (just before the week in Staithes) and now Kirsty is 12 weeks gone it&#8217;s OK to tell the world. So consider yourself told.</p>
+
+<p>We&#8217;re both very happy and had been "trying" for a while (since we got married really) so it&#8217;s great that it&#8217;s happened now. It&#8217;s due to pop out (like a bar of soap!) on the 19th of July which seems to be a good time to have a birthday to me. It&#8217;s a nice distance from Xmas so it&#8217;ll be something to look forward too and should be just into the summer holidays.</p>
+
+<p>Some people have mentioned that it&#8217;s quite late in the school year which I don&#8217;t know about really. Having a birthday in October myself I was always quite old for my age. Kirsty however has a birthday in August and it&#8217;s never done her any harm [sarcasm duly stifled] :-)</p>
+
+<p>We&#8217;ve had a <a href="http://flickr.com/photos/ghijklmno/2926199/">scan</a> already (we wanted to have one before Xmas to make sure everything was fine). It was nice to see the little nipper moving around in there!</p>
+
+<p>Yesterday we went for another appointment at the surgery with the midwife. She used a Doppler(?) scanner to do a audio scan and we heard the heartbeat again which was great.</p>
+

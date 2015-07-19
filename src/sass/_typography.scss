@@ -1,0 +1,77 @@
+body {
+	@extend %ff-light;
+	color:#333;
+}
+
+%textshadow {
+	text-shadow:1px 1px 2px rgba(darken($primary,30%),0.5);
+}
+
+.logo {
+	@extend %ff-light-it;
+	@extend .giga;
+	@extend %textshadow;
+	text-transform:lowercase;	
+	transition:font-size 1s $easeOutQuint;
+	a {
+		color:white;
+		&:hover {color:white;}
+	}
+}
+
+.sub-heading {
+	margin:0;
+	@extend %textshadow;
+}
+
+.nav__link {
+	// @extend %ff-black-it;
+	@extend .zeta;
+	@extend %textshadow;	
+	text-decoration:none;
+	text-transform:uppercase;
+}
+
+.section-header {
+	@extend %ff-black;
+	color:darken($tertiary,20%);
+	text-transform:uppercase;	
+}
+
+.post__title {
+	@extend %ff-light-it;
+	@extend .kilo;
+	color:darken($primary,35%);
+}
+
+.post__author {
+	@extend %ff-light;
+	@extend .zeta;
+	text-transform:uppercase;
+	letter-spacing:0.2em;
+	padding:$bsu 0;
+}
+
+a {
+	color:darken($secondary,15%);
+	text-decoration:none;
+	&:hover {
+		color:$tertiary;
+	}
+}
+
+.content {
+	@extend %ff-light;
+}
+
+// .biga {
+// 	font-size:2em;
+// 	display:inline-block;
+// 	background:rgba(white,0.1);
+// 	width:$bsu*2;height:$bsu*2;
+// 	text-align:center;
+// 	line-height:$bsu*2;
+// 	position:relative;top:$bsu/8;
+// 	border-radius:$bsu;
+// 	margin-right:-0.4em;
+// }

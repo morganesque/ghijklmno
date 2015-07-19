@@ -1,0 +1,25 @@
+---
+layout: post
+status: publish
+published: true
+title: In
+author:
+  display_name: Tom
+  login: admin
+  email: tsmorgan@gmail.com
+  url: ''
+author_login: admin
+author_email: tsmorgan@gmail.com
+wordpress_id: 461
+wordpress_url: http://ghijklmno.net/in/
+date: '2002-06-24 16:25:15 +0100'
+date_gmt: '2002-06-24 16:25:15 +0100'
+categories:
+- Old Blog
+tags: []
+comments: []
+---
+<p>We&#8217;re in, we&#8217;re in, we&#8217;re in. We own that wall. We own that door handle. We own that ceiling. We own that window. We own all of that bit over there. Actually, what is that bit over there? It looks a bit wonky. And that bit there, look it&#8217;s crumbling slightly! What&#8217;s that? My god have you see this bit? You can see right through to the brickwork!!!</p>
+
+<p>Well like us, our house isn&#8217;t perfect, but also like us it belongs to ... well ... us. So we&#8217;re going to love it the best we can.</p>
+

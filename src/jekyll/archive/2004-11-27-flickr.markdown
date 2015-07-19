@@ -1,0 +1,27 @@
+---
+layout: post
+status: publish
+published: true
+title: Flickr
+author:
+  display_name: Tom
+  login: admin
+  email: tsmorgan@gmail.com
+  url: ''
+author_login: admin
+author_email: tsmorgan@gmail.com
+wordpress_id: 628
+wordpress_url: http://ghijklmno.net/flickr/
+date: '2004-11-27 12:21:00 +0000'
+date_gmt: '2004-11-27 12:21:00 +0000'
+categories:
+- Old Blog
+tags: []
+comments: []
+---
+<p>Over there on the right. I&#8217;ve added a little column of images that represents the latest uploads to this online photo management service <a href="http://www.flickr.com">Flickr</a>, which I&#8217;ve been getting into recently.</p>
+
+<p>No doubt it&#8217;ll only turn out to be a passing fad or something but for the time being I&#8217;m going to leave it over there and see how it goes. I&#8217;m going to try and remember to take some interesting pictures with the camera in my phone, so maybe it&#8217;ll be a good way to keep this thing supplied with new content.</p>
+
+<p>Also, you may notice that I&#8217;ve updated the design slightly. I just started tinkering and didn&#8217;t stop. Oh well, that&#8217;ll keep it going for another few months.</p>
+

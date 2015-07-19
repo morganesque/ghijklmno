@@ -1,0 +1,31 @@
+---
+layout: post
+status: publish
+published: true
+title: Married
+author:
+  display_name: Tom
+  login: admin
+  email: tsmorgan@gmail.com
+  url: ''
+author_login: admin
+author_email: tsmorgan@gmail.com
+wordpress_id: 609
+wordpress_url: http://ghijklmno.net/married/
+date: '2004-05-23 16:54:00 +0100'
+date_gmt: '2004-05-23 16:54:00 +0100'
+categories:
+- Old Blog
+tags: []
+comments: []
+---
+<p>Right, so yeah, I got married. to the lovely Kirsty. 1st of May. It all went really well. Nice weather, nice people, nice food, some nice drink (not enough, couldn&#8217;t seem to get hold of it) and then a lovely honeymoon in the Maldives which was spledid and hot and all-inclusive (which made things very simple) and so, all in all, everything went as well as could be planned.</p>
+
+<p>One other thing too: people were so generous. If we&#8217;d known that by being so public about the fact we love each other (something we have, after 5 years, started to really just accept as read) that people would respond in such a manner, we might have been more tempted to get married quicker. Almost everything in our house is new now. New kettle, new toaster, new microwave, new plates, cups, saucers. We have a steamer now, which for those of you who don&#8217;t know (or can&#8217;t work out) steams things. The thing is that steaming is better for you - and for the food (makes it taste better) - and this thing has a timer, so all you do is stick in the veg, wang the timer onto the right time (they provide a book of times for various veg) and sit back and wait for the ping. No more boiling a kettle and then waiting for a year before the water comes back up to the boil just to cook frozen peas for 4 minutes. It&#8217;s great!!</p>
+
+<p>We also got one of those George Foreman grilling machine things which is very much along the same lines, only for grilling meat products. All the fat just drips out the front, which doesn&#8217;t look very appetising, but must be good for you. It also leaves those black char-lines across all your food, which looks ace.</p>
+
+<p>The honeymoon commenced the Monday after the marriage, we had a humongous flight there and back, but like I say, it really was like a paradise island. I think we&#8217;re both glad we&#8217;ve been to one at least once.</p>
+
+<p>So there you are, there will be photo&#8217;s etc once I get around to it. We have loads to go through. Apart from that, live goes on, except now with a rather fetching ring on my left hand :-)</p>
+

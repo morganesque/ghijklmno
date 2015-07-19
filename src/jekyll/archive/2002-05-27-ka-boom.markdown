@@ -1,0 +1,29 @@
+---
+layout: post
+status: publish
+published: true
+title: Ka-boom
+author:
+  display_name: Tom
+  login: admin
+  email: tsmorgan@gmail.com
+  url: ''
+author_login: admin
+author_email: tsmorgan@gmail.com
+wordpress_id: 453
+wordpress_url: http://ghijklmno.net/ka-boom/
+date: '2002-05-27 18:13:57 +0100'
+date_gmt: '2002-05-27 18:13:57 +0100'
+categories:
+- Old Blog
+tags: []
+comments: []
+---
+<p>When I imagine a huge cannon (like the one in <a href="http://us.imdb.com/Title?0050858">The Pride and the Passion</a> (starring Frank Sinatra and Cary Grant) I imagine the noise it makes is something like "BOOM". It&#8217;s certainly a single syllable kind of sound. I imagine the same kind of noise for nearly all explosion-type events.</p>
+
+<p>So where do we get the word &#8220;KA-BOOM&#8221; from? Does it come from a real life phenomenon? Is there a kind of two syllable explosion which happens in some situations?</p>
+
+<p>Also, why is &#8220;KA-BOOM&#8221; so obviously bigger than "BOOM"? Why does that extra syllable give it so much extra umph?</p>
+
+<p> I&#8217;m thinking that maybe it&#8217;s the equivalent of that momentary recoil that cartoon characters do before actions sometimes. Something entirely fictional which none the less seems to emphasise the following action?</p>
+

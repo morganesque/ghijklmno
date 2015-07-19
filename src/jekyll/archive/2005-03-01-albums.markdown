@@ -1,0 +1,31 @@
+---
+layout: post
+status: publish
+published: true
+title: Albums
+author:
+  display_name: Tom
+  login: admin
+  email: tsmorgan@gmail.com
+  url: ''
+author_login: admin
+author_email: tsmorgan@gmail.com
+wordpress_id: 636
+wordpress_url: http://ghijklmno.net/albums/
+date: '2005-03-01 12:02:00 +0000'
+date_gmt: '2005-03-01 12:02:00 +0000'
+categories:
+- Old Blog
+tags: []
+comments: []
+---
+<p>I was looking through Channel Four&#8217;s list of potential <a href="http://www.channel4.com/entertainment/tv/microsites/G/greatest/albums/">Best Albums Ever</a>. They&#8217;ve got a list of 125 there to start you off choosing your favourite 5 from which they&#8217;ll generate the final 100 (I think you can point out omissions too if you want).</p>
+
+<p>Anyway, point is, I was struck by how many recent albums were on the list and seeing as I was there I decided to rip off the list and re-order it by year in order to get a better idea of how (seemingly) biased they were being. The results of my efforts are <a href="/100s/channel4_albums.html">here</a>.</p>
+
+<p>Seems like they&#8217;re not as biased as I thought. What I realised is that this list is vaguely split down the middle for me into the years before I was really aware of music (about 1980) and those after. My problem is that I end up feeling that all the albums in the second half have all been released "recently" whereas many of them were actually released about 20 years ago... Yikes!</p>
+
+<p>When I was young and the shadow of the 60&#8217;s loomed large over the cultural (and particlarly music) world I always wondered what it would have been like to have been alive when those seminal albums where being recorded and released. To have been there first before everyone else got in sullying the water, telling you what to think. Now I find I have been alive through times when fantastic music has been made and I don&#8217;t have a lot to report really.</p>
+
+<p>Will my kids ask me me what it was like when Screamadelica was released? Will I admit that I was actually too busy listening to Now That&#8217;s What I Call Music 12 to care?</p>
+

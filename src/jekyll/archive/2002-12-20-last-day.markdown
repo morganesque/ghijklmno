@@ -1,0 +1,29 @@
+---
+layout: post
+status: publish
+published: true
+title: Last Day
+author:
+  display_name: Tom
+  login: admin
+  email: tsmorgan@gmail.com
+  url: ''
+author_login: admin
+author_email: tsmorgan@gmail.com
+wordpress_id: 526
+wordpress_url: http://ghijklmno.net/last-day/
+date: '2002-12-20 16:42:43 +0000'
+date_gmt: '2002-12-20 16:42:43 +0000'
+categories:
+- Old Blog
+tags: []
+comments: []
+---
+<p>oh, and it&#8217;s my last day of work before Xmas today so woo hoo!! I&#8217;m outa here in a mo and I won&#8217;t be back for oooooh a week. Somehow a week at this time of year seems like it&#8217;s going to be longer than at other times. I&#8217;m certainly planning to cram a lot in so hopefully it&#8217;ll seem that way.</p>
+
+<p>Anyway seeing as I probably won&#8217;t have the time or the inclination to update this before the big day</p>
+
+<p style="font:bold 30px garamond; color:red; text-align:center">Merry Christmasand a Happy New Year!</p>
+
+<p>Have a good one. :o)</p>
+

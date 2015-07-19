@@ -1,0 +1,24 @@
+---
+layout: post
+status: publish
+published: true
+title: Again...
+author:
+  display_name: Tom
+  login: admin
+  email: tsmorgan@gmail.com
+  url: ''
+author_login: admin
+author_email: tsmorgan@gmail.com
+wordpress_id: 428
+wordpress_url: http://ghijklmno.net/again/
+date: '2002-02-26 08:35:54 +0000'
+date_gmt: '2002-02-26 08:35:54 +0000'
+categories:
+- Old Blog
+tags: []
+comments: []
+---
+<p>Another beautiful winters day today. The air crisp, the sun pale and distant, patiently beating through the early morning mist. A thin layer of frost glinting on the grass and my breath visible in clouds of vapour.
+No, got soaked again!</p>
+

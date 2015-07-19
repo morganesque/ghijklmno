@@ -1,0 +1,35 @@
+---
+layout: post
+status: publish
+published: true
+title: Lakeside
+author:
+  display_name: Tom
+  login: admin
+  email: tsmorgan@gmail.com
+  url: ''
+author_login: admin
+author_email: tsmorgan@gmail.com
+wordpress_id: 605
+wordpress_url: http://ghijklmno.net/lakeside/
+date: '2004-02-26 08:25:00 +0000'
+date_gmt: '2004-02-26 08:25:00 +0000'
+categories:
+- Old Blog
+tags: []
+comments: []
+---
+<p>For Christmas my parents gave us a night in <a href="http://www.lakesidehotel.co.uk/">a nice hotel in the Lake District</a>. It sits on the western bank (at the southern end) of Lake Windermere. We went last weekend and had a marvelous time.</p>
+
+<p>Firstly, because it&#8217;s so near to the lake (literally lakeside) it&#8217;s also near to the jetty-type place where boats leave a few times a day to go to Bowness (a town on the eastern side, halfway up the lake). So on Saturday morning we took a cruise to Bowness sitting on the top deck of a nice little boat and almost had our faces froze off by the strong wind that picked up almost as soon as we got onto the lake.</p>
+
+<p>We wandered around Bowness for a few hours, had a tasty cumberland sausage in a restaurant, bought Kirsty some gloves,  and saw a couple of <a href="http://www.corrie.net/profiles/characters/platt_sarah2000.jpg">minor</a> <a href="http://www.corrie.net/profiles/actors/langley_bruno2.jpg">celebrities</a> from Corrie!! Then we got back on the boat and had, what turned out to be a far warmer and relaxing trip back.</p>
+
+<p>The hotel had a swimming pool, jacuzzi, sauna and steam room all of which we made thorough use of before going down for a meal in a very swanky looking restaurant. The food was delicious and we ended up spending more on one bottle of wine than we&#8217;d ever done before. Then we had a brandy in the drawing room don&#8217;t you know.</p>
+
+<p>The following day we got up packed our stuff and then, leaving out bags in the hotel for a while, we did a walk up the hill and around a small lake (High Dam). Then we stopped for a pub lunch on the way home.</p>
+
+<p>All in all it was a thoroughly pleasant weekend.</p>
+
+<p class="firstpar">We took a load of photo&#8217;s, the best of which are <a href="/photos/set/lakeside/">here</a>. They all have a slight yellow-ish tinge because I got a bit bored and started experimenting with filters in Paintshop Pro. I thought it made them look kind of cool. In fact I think it makes <a href="/photos/display/lakeside/0/">this one</a> look a bit like a Bruegel painting.</p>
+

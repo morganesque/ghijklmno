@@ -1,0 +1,29 @@
+---
+layout: post
+status: publish
+published: true
+title: Surveyed
+author:
+  display_name: Tom
+  login: admin
+  email: tsmorgan@gmail.com
+  url: ''
+author_login: admin
+author_email: tsmorgan@gmail.com
+wordpress_id: 445
+wordpress_url: http://ghijklmno.net/surveyed/
+date: '2002-04-19 10:05:42 +0100'
+date_gmt: '2002-04-19 10:05:42 +0100'
+categories:
+- Old Blog
+tags: []
+comments: []
+---
+<p>News just in....
+</p>
+
+<p>Our wonderfully named Surveyors (Wardle and Grindrod) have just informed us that the survey is complete. We thought they were waiting for the Bank to contact them but apparently they weren&#8217;t. Yippee!! We stil have to get the bank to pay for some of it - but at least it&#8217;s done now.
+</p>
+
+<p>We haven&#8217;t actually seen the results yet though. They might tell us the place is falling down. So we&#8217;re back to crossed-fingers again. Rollin&#8217; rollin&#8217; rollin&#8217; keep those dorgies rolling!!</p>
+

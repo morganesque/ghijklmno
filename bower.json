@@ -1,0 +1,16 @@
+{
+  "name": "package",
+  "version": "0.0.1",
+  "dependencies": {
+    "jquery": "<2.0.0",
+    "modernizr": "latest",
+    "normalize-css": "latest",
+    "inuit.css": "latest",
+    "html5-boilerplate": "latest",
+    "respond": "latest",
+    "selectivizr": "latest",
+    "nwmatcher": "latest",
+    "inuit-defaults": "~0.2.1",
+    "ScrollMagic": "~1.3.0"
+  }
+}

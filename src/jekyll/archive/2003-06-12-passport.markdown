@@ -1,0 +1,41 @@
+---
+layout: post
+status: publish
+published: true
+title: Passport
+author:
+  display_name: Tom
+  login: admin
+  email: tsmorgan@gmail.com
+  url: ''
+author_login: admin
+author_email: tsmorgan@gmail.com
+wordpress_id: 569
+wordpress_url: http://ghijklmno.net/passport/
+date: '2003-06-12 08:39:48 +0100'
+date_gmt: '2003-06-12 08:39:48 +0100'
+categories:
+- Old Blog
+tags: []
+comments: []
+---
+<p>One thing I&#8217;ve been avoiding mentioning recently is that not long ago we discovered that my passport was going to expire just before we are due to go on holiday. As you can imagine, this prompted quite a lot of worry and self immolation seeing as we&#8217;ve known about this holiday for like bloody ages and "why the hell didn&#8217;t I think to check the bastard thing before this". So after a frantic scramble for the internet and google and searching for passport pages, (&#8217;no go back and search just for sites in the UK&#8217;) I found that there are a number of different ways to get a new passport, which I will now present unto you in a list type way:</p>
+
+<p class="firstpar">
+<ol>
+<li>Send your passport and a form off to the Passport Office by post - taking 4 weeks (no guaranteed) costing &pound;33.</li>
+<li>Same as above except you take your stuff down to the Post Office and a nice person behind the counter checks it&#8217;s all OK before sending it off (these are dealt with quicker having already been checked apparently) - taking 2 weeks (not guaranteed) costing &pound;38 (an extra &pound;5 for the nice person behind the counter).</li>
+<li>Take the whole lot down to the passport office and:
+<ol style="list-style-type:lower-alpha">
+<li>pay &pound;68 for a guaranteed one week turn around.</li>
+<li>pay &pound;75 for them to get it done and back to your hands in under 4 hours (guaranteed).</li>
+</ol>
+</li>
+</ol></p>
+
+<p class="firstpar">I was in a bit of a quandary about this because I found that my particular situation pushed me generally towards option 2. I had easily more than 2 weeks before I needed the passport and I didn&#8217;t want to have to got to Liverpool and pay and extra &pound;25. However that&#8217;s when the doubts kick in and I spent quite a while pondering what would happen if the (not guaranteed) 2 weeks started to stretch towards 3 and then 4. Maybe I should go for option 3.a? It would, after all, be a relief to think that I would have the passport in a week definitely and maybe it was worth it for the peace of mind.</p>
+
+<p>Anyway, that didn&#8217;t last long and the twin drivers of my own laziness and poverty (arf!) made me decide on option 2 (besides the nice lady at the post office who I talked to when I went to get my forms said that she&#8217;d sent her sons off on a Saturday and it&#8217;d arrived back on the following Saturday which is only a week and although that probably wasn&#8217;t in the busy period before Summer she did seem sincere and well I am particularly lazy about things like this so.....).</p>
+
+<p>It arrived back yesterday, almost exactly a week after I sent it, with a nice new picture (a bit washed out, but I&#8217;d had my hair cut the day before so I looked vaguely presentable) and all blank pages ready for the many and varied stamps I&#8217;m going to get on my future holidays (they do stamp you on the way into Cornwall don&#8217;t they?). So I&#8217;d like to give a big thank you to all the nice people in the &#8216;Passport Industry&#8217; who have brought (in more ways than one) a little sunshine into my life. Thank you!</p>
+

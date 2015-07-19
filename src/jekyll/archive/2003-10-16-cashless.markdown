@@ -1,0 +1,34 @@
+---
+layout: post
+status: publish
+published: true
+title: Cashless
+author:
+  display_name: Tom
+  login: admin
+  email: tsmorgan@gmail.com
+  url: ''
+author_login: admin
+author_email: tsmorgan@gmail.com
+wordpress_id: 590
+wordpress_url: http://ghijklmno.net/cashless/
+date: '2003-10-16 14:15:00 +0100'
+date_gmt: '2003-10-16 14:15:00 +0100'
+categories:
+- Old Blog
+tags: []
+comments: []
+---
+<p>I don&#8217;t tend to carry much cash. It&#8217;s partly a kind of lazy, forgetfullness, in that I forget and can&#8217;t be bothered to check whether I have any and to stock up at a cash machine. It&#8217;s partly coz I don&#8217;t regularly need it. What with free coffee at work and a packed lunch to eat, often weeks pass without me actually having to bother with physical money at all. The other big reason why I don&#8217;t is because so many of the things I might buy are purchasable via Switch or Visa and therefore reducing the need to carry any kind of real cash</p>
+
+<p>Also I read this <a href="http://www.ananova.com/news/story/sm_828926.html?menu=news.latestheadlines"
+>article about how soon you&#8217;ll be able to pay for things (even very small things) using only a pin number and your mobile phone</a> the other day.</p>
+
+<p>If we really did stop using money, what will Big Issue sellers do? I suppose things must be pretty bad already but if this really is a trend then could the days when it&#8217;s viable to sell the Big Issue on the streets be numbered?</p>
+
+<p>I&#8217;ve heard of the &#8220;means of production&#8221; and I know I should be concerned about who owns them, but what about the "means of remuneration". What if someone owns or controls all the ways we can pay for stuff? Wouldn&#8217;t that give them power of what we could or couldn&#8217;t choose to buy?</p>
+
+<p>If Switch, Visa and the mobile companies were to get together and do some kind of big deal and start equiping all the shops with new tills and cash registers which don&#8217;t require cash at all, then everything from buying a can of Coke, to buying a train ticket, to buying a TV or a Car could become completely cashless trasactions. Could there come a point where physical money wasn&#8217;t really carried anymore. Even if it was still available.</p>
+
+<p>What would this mean for Big Issues sellers, and local markets other people who rely on your having to pay with cash? What would it mean for beggars?</p>
+

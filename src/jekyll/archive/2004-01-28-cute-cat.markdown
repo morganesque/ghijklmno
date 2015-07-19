@@ -1,0 +1,34 @@
+---
+layout: post
+status: publish
+published: true
+title: Cute Cat
+author:
+  display_name: Tom
+  login: admin
+  email: tsmorgan@gmail.com
+  url: ''
+author_login: admin
+author_email: tsmorgan@gmail.com
+wordpress_id: 600
+wordpress_url: http://ghijklmno.net/cute-cat/
+date: '2004-01-28 08:48:00 +0000'
+date_gmt: '2004-01-28 08:48:00 +0000'
+categories:
+- Old Blog
+tags: []
+comments: []
+---
+<p>Yeah, more cute pictures of our cat. Don&#8217;t you just love him.</p>
+
+<img src="/photos/phone/charlie_hiding.jpg" alt="cattty" width="132" height="176" />
+<p class="firstpar">He likes to sit on the top of our clothes horse and watch us.</p>
+
+<table>
+<tr>
+	<td><img src="/photos/phone/charlie_resting.jpg" alt="cattty" width="132" height="176" /></td>
+	<td><img src="/photos/phone/charlie_peering.jpg" alt="cattty" width="132" height="176" /></td>
+</tr>
+</table>
+<p>He also likes posing for pictures</p>
+

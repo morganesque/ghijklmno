@@ -1,0 +1,23 @@
+---
+layout: post
+status: publish
+published: true
+title: Re-design
+author:
+  display_name: Tom
+  login: admin
+  email: tsmorgan@gmail.com
+  url: ''
+author_login: admin
+author_email: tsmorgan@gmail.com
+wordpress_id: 426
+wordpress_url: http://ghijklmno.net/re-design/
+date: '2002-02-19 09:03:58 +0000'
+date_gmt: '2002-02-19 09:03:58 +0000'
+categories:
+- Old Blog
+tags: []
+comments: []
+---
+<p>Spent much time recently trying to redesign the site. There are good reasons for doing this but it&#8217;s mainly because I just feel like doing it all again (it&#8217;s alomst a year since I really made any big changes). It&#8217;s beginning to annoy me though. I may forget all about it.</p>
+

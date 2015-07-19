@@ -1,0 +1,26 @@
+---
+layout: default
+title: Ghijklmno.. Blog
+---
+<section class="main">
+	<div class="main__content">
+		<h3 class="section-header">Latest Post:</h3>
+		{% for post in site.posts limit:1 %}
+			<h1 class="post__title">{{post.title}}</h1>
+			<p class="post__author">&mdash; {{post.date | date: " %-d %B %Y" }}</p>
+			<div class="post__content content">{{post.content}}</div>
+		{% endfor %}		
+	</div><div class="main__sidebar">
+		
+		<h3 class="section-header">Recent Posts</h3>
+		<ul class="block-list">
+		{% for post in site.posts offset:1 limit:5 %}
+			<li>
+				<a class="block-list__link" href="{{post.url}}">{{post.title}}</a>
+				<p>{{post.excerpt}}</p>
+			</li>
+		{% endfor %}		
+		</ul>
+	</div>
+</section>
+

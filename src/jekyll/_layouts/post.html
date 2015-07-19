@@ -1,0 +1,13 @@
+{% include top.html %}
+
+<div class="outer">
+	<div class="main">
+		<div class="main__content soft--top">
+			<h1 class="post__title">{{page.title}}</h1>
+			<p class="post__author">&mdash; {{page.date | date: " %-d %B %Y" }}</p>
+			<div class="post__content content">{{page.content}}</div>
+		</div>
+	</div>
+</div>
+
+{% include bottom.html %}

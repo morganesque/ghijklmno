@@ -1,0 +1,2141 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"script",
+				"script	Tag"
+			],
+			[
+				"fac",
+				"_fancybox.scss"
+			],
+			[
+				"e",
+				"e.prev	preventDefault"
+			],
+			[
+				"float",
+				"float--right	 styles.css"
+			],
+			[
+				"prev",
+				"preventDefault"
+			],
+			[
+				"next",
+				"nextClick"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"pad",
+				"padding-left"
+			],
+			[
+				"show",
+				"showBlock"
+			],
+			[
+				"ch",
+				"checkedWords"
+			],
+			[
+				"today",
+				"todayname"
+			],
+			[
+				"wat",
+				"wat_svg"
+			],
+			[
+				"aver",
+				"avermonth"
+			],
+			[
+				"last",
+				"lastmonth"
+			],
+			[
+				"temp",
+				"TempStatusBlock"
+			],
+			[
+				"dayus",
+				"dayusage"
+			],
+			[
+				"v",
+				"var"
+			],
+			[
+				"E",
+				"E_MonthlyUsage"
+			],
+			[
+				"month",
+				"monthusage"
+			],
+			[
+				"per",
+				"perKiloWattHour"
+			],
+			[
+				"right",
+				"rightnow_graph"
+			],
+			[
+				"f",
+				"f()	function"
+			],
+			[
+				"check",
+				"checkUser"
+			],
+			[
+				"con",
+				"con	consolelog"
+			],
+			[
+				"pag",
+				"pageType"
+			],
+			[
+				"logbook",
+				"logbookSubpage"
+			],
+			[
+				"logboo",
+				"logbookPage"
+			],
+			[
+				"ren",
+				"renderMaster"
+			],
+			[
+				"now",
+				"NowUsageView"
+			],
+			[
+				"Coll",
+				"AlertsCollection"
+			],
+			[
+				"new",
+				"newOnes"
+			],
+			[
+				"Aler",
+				"AlertsCollection"
+			],
+			[
+				"from",
+				"fromPage"
+			],
+			[
+				"change",
+				"changePosition"
+			],
+			[
+				"control",
+				"control_sub"
+			],
+			[
+				"chan",
+				"changeMenu"
+			],
+			[
+				"head",
+				"HeaderView"
+			],
+			[
+				"menu",
+				"menuButton"
+			],
+			[
+				"onMenu",
+				"onMenuChange"
+			],
+			[
+				"house",
+				"housealarm"
+			],
+			[
+				"reset",
+				"resetMenu"
+			],
+			[
+				"Head",
+				"HeaderView"
+			],
+			[
+				"ion",
+				"iconClick"
+			],
+			[
+				"Alar",
+				"AlarmClick"
+			],
+			[
+				"set",
+				"setDate"
+			],
+			[
+				"bill",
+				"billingQuick"
+			],
+			[
+				"dat",
+				"dateObj"
+			],
+			[
+				"day",
+				"dayModel"
+			],
+			[
+				"url",
+				"urlDate"
+			],
+			[
+				"E_DAY",
+				"E_DayUsage"
+			],
+			[
+				"read",
+				"reading"
+			],
+			[
+				"update",
+				"updateGraph"
+			],
+			[
+				"graph",
+				"graphCreated"
+			],
+			[
+				"ele",
+				"electricDayPage"
+			],
+			[
+				"first",
+				"firsttime"
+			],
+			[
+				"Contr",
+				"MenuControlView"
+			],
+			[
+				"air_",
+				"air_action"
+			],
+			[
+				"sub",
+				"subpages"
+			],
+			[
+				"gold",
+				"goldilocks-justright.php"
+			],
+			[
+				"curre",
+				"currentPage"
+			],
+			[
+				"Sec",
+				"Security"
+			],
+			[
+				"sec",
+				"SecurityModel"
+			],
+			[
+				"Hou",
+				"HouseAlarmView"
+			],
+			[
+				"Rene",
+				"RecentTempView"
+			],
+			[
+				"air",
+				"airPage"
+			],
+			[
+				"inside",
+				"insideEl"
+			],
+			[
+				"in",
+				"insideEl"
+			],
+			[
+				"insi",
+				"insideModel"
+			],
+			[
+				"out",
+				"outsideModel"
+			],
+			[
+				"get",
+				"getData"
+			],
+			[
+				"page",
+				"PageView"
+			],
+			[
+				"gree",
+				"greeting_view"
+			],
+			[
+				"home",
+				"HomePage"
+			],
+			[
+				"greet",
+				"GreetingView"
+			],
+			[
+				"auth",
+				"auth_token"
+			],
+			[
+				"wa",
+				"waterheating"
+			],
+			[
+				"stat",
+				"statusImage"
+			],
+			[
+				"list",
+				"listenTo"
+			],
+			[
+				"Air",
+				"AirFlowView"
+			],
+			[
+				"airflow",
+				"airflow"
+			],
+			[
+				"dail",
+				"daily_usage_view"
+			],
+			[
+				"tody",
+				"today_usage_view"
+			],
+			[
+				"on",
+				"onRender"
+			],
+			[
+				"u",
+				"usage_now"
+			],
+			[
+				"actua",
+				"actuatePage"
+			],
+			[
+				"ini",
+				"initialize"
+			],
+			[
+				"scal",
+				"scaleX"
+			],
+			[
+				"E_",
+				"E_MonthlyUsage"
+			],
+			[
+				"add",
+				"addLine"
+			],
+			[
+				"text",
+				"text_y"
+			],
+			[
+				"re",
+				"response"
+			],
+			[
+				"this",
+				"this_month"
+			],
+			[
+				"waves_",
+				"waves_start"
+			],
+			[
+				"wave",
+				"waves_start"
+			],
+			[
+				"back",
+				"backButton"
+			],
+			[
+				"Con",
+				"ControlAll"
+			],
+			[
+				"water",
+				"waterDay"
+			],
+			[
+				"onSwi",
+				"onSwipeLeft"
+			],
+			[
+				"swi",
+				"onSwipeLeft"
+			],
+			[
+				"att",
+				"attributes"
+			],
+			[
+				"json_e",
+				"json_encode"
+			],
+			[
+				"sca",
+				"scaleY"
+			],
+			[
+				"im",
+				"img"
+			],
+			[
+				"text-",
+				"text-decoration"
+			],
+			[
+				"b",
+				"build"
+			],
+			[
+				"ex",
+				"extend"
+			],
+			[
+				"col",
+				"col-setup"
+			],
+			[
+				"font-",
+				"font-style"
+			],
+			[
+				"svg",
+				"svgmin"
+			],
+			[
+				"write",
+				"writeln"
+			],
+			[
+				"conf",
+				"confFile"
+			],
+			[
+				"for",
+				"for	for (…) {…}"
+			],
+			[
+				"main",
+				"mainFiles"
+			],
+			[
+				"str",
+				"stringify"
+			],
+			[
+				"man",
+				"manualMainFiles"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/jekyll/_includes/top.html",
+			"settings":
+			{
+				"buffer_size": 1394,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/sass/_nav.scss",
+			"settings":
+			{
+				"buffer_size": 696,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/sass/_typography.scss",
+			"settings":
+			{
+				"buffer_size": 1176,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/sass/styles.scss",
+			"settings":
+			{
+				"buffer_size": 1351,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "gulpfile.js",
+			"settings":
+			{
+				"buffer_size": 6533,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/jekyll/_includes/bottom.html",
+			"settings":
+			{
+				"buffer_size": 1600,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"clo",
+				"File: Close All"
+			],
+			[
+				"save",
+				"File: Save All"
+			],
+			[
+				"cl",
+				"File: Close All"
+			],
+			[
+				"close",
+				"File: Close All"
+			],
+			[
+				"enc",
+				"StringEncode: HTML Entitize"
+			],
+			[
+				"wrap",
+				"Word Wrap: Toggle"
+			],
+			[
+				"ske",
+				"Reg Replace: Sketch Cleanup"
+			],
+			[
+				"sket",
+				"Reg Replace: Sketch Cleanup"
+			],
+			[
+				"lower",
+				"Convert Case: Lower Case"
+			],
+			[
+				"eva",
+				"Emmet: Evaluate Math Expression"
+			],
+			[
+				"eval",
+				"Emmet: Evaluate Math Expression"
+			],
+			[
+				"encod",
+				"StringEncode: HTML Entitize"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"html",
+				"Snippet: <?php echo htmlentities(…) ?>"
+			],
+			[
+				"tag",
+				"Emmet: Rename Tag"
+			],
+			[
+				"synt con",
+				"Set Syntax: Apache Conf"
+			],
+			[
+				"selec",
+				"HTML: Wrap Selection With Tag"
+			],
+			[
+				"brow",
+				"Preferences: Browse Packages"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"sort",
+				"Sort Lines (Case Sensitive)"
+			],
+			[
+				"wra",
+				"Word Wrap: Toggle"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"br",
+				"Preferences: Browse Packages"
+			],
+			[
+				"encode",
+				"HTML: Encode Special Characters"
+			],
+			[
+				"command",
+				"Shell Command"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"outwar",
+				"Emmet: Match Pair (outward)"
+			],
+			[
+				"emme",
+				"Emmet: Match Pair (inward)"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"skect",
+				"Reg Replace: Sketch Cleanup"
+			],
+			[
+				"sketch",
+				"Reg Replace: Sketch Cleanup"
+			],
+			[
+				"Reg",
+				"Reg Replace: Sketch Cleanup"
+			],
+			[
+				"bea",
+				"Javascript Beautify"
+			],
+			[
+				"beau",
+				"Javascript Beautify"
+			],
+			[
+				"prev",
+				"Markdown Preview: Github Flavored Markdown: Preview in Browser"
+			],
+			[
+				"preview",
+				"Markdown Preview: Github Flavored Markdown: Preview in Browser"
+			],
+			[
+				"user",
+				"Preferences: Package Control Settings – User"
+			],
+			[
+				"clso",
+				"File: Close All"
+			],
+			[
+				"clos",
+				"File: Close All"
+			],
+			[
+				"cls",
+				"File: Close All"
+			],
+			[
+				"decod",
+				"Emmet: Encode\\Decode Image to data:URL"
+			],
+			[
+				"deco",
+				"Emmet: Encode\\Decode Image to data:URL"
+			],
+			[
+				"dis",
+				"Package Control: Disable Package"
+			],
+			[
+				"disable",
+				"Package Control: Disable Package"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"disbl",
+				"Package Control: Disable Package"
+			],
+			[
+				"auto",
+				"AutoFileName: Quick Settings"
+			],
+			[
+				"aut",
+				"AutoFileName: Default Settings"
+			],
+			[
+				"enco",
+				"Emmet: Encode\\Decode Image to data:URL"
+			],
+			[
+				"case",
+				"Convert Case: Title Case"
+			],
+			[
+				"csae",
+				"Convert Case: Title Case"
+			],
+			[
+				"pack",
+				"Package Control: List Packages"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"browe",
+				"Preferences: Browse Packages"
+			],
+			[
+				"cal",
+				"Calculate"
+			],
+			[
+				"all",
+				"File: Close All"
+			],
+			[
+				"hint",
+				"JSHint"
+			],
+			[
+				"conver",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"conv",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"bro",
+				"Preferences: Browse Packages"
+			],
+			[
+				"sass",
+				"Set Syntax: Sass"
+			]
+		],
+		"width": 575.0
+	},
+	"console":
+	{
+		"height": 353.0,
+		"history":
+		[
+			"view.settings().get('syntax')",
+			"clear",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/tommo/vhosts/ghijklmno/jekyll",
+		"/Users/tommo/vhosts/ghijklmno/jekyll/build",
+		"/Users/tommo/vhosts/ghijklmno/jekyll/src",
+		"/Users/tommo/vhosts/ghijklmno/jekyll/src/jekyll",
+		"/Users/tommo/vhosts/ghijklmno/jekyll/src/jekyll/_includes",
+		"/Users/tommo/vhosts/ghijklmno/jekyll/src/jekyll/_layouts",
+		"/Users/tommo/vhosts/ghijklmno/jekyll/src/jekyll/_posts",
+		"/Users/tommo/vhosts/ghijklmno/jekyll/src/sass",
+		"/Users/tommo/vhosts/ghijklmno/jekyll/tmp/about",
+		"/Users/tommo/vhosts/ghijklmno/jekyll/tmp/fourohfour"
+	],
+	"file_history":
+	[
+		"/Users/tommo/vhosts/ghijklmno/jekyll/blog.sublime-project",
+		"/Users/tommo/vhosts/www.ghijklmno.net/jekyll/src/jekyll/_posts/2003-05-30-imagery.markdown",
+		"/Users/tommo/vhosts/www.ghijklmno.net/jekyll/src/jekyll/_posts/2003-06-12-passport.markdown",
+		"/Users/tommo/vhosts/www.ghijklmno.net/jekyll/src/jekyll/_posts/2003-06-24-camcorder.markdown",
+		"/Users/tommo/vhosts/www.ghijklmno.net/jekyll/src/jekyll/_posts/2003-06-29-going-going.markdown",
+		"/Users/tommo/vhosts/www.ghijklmno.net/jekyll/src/jekyll/_posts/2003-07-03-oh-really.markdown",
+		"/Users/tommo/vhosts/www.ghijklmno.net/jekyll/src/jekyll/_posts/2003-07-16-paris.markdown",
+		"/Users/tommo/vhosts/www.ghijklmno.net/jekyll/src/jekyll/_posts/2003-07-17-sights.markdown",
+		"/Users/tommo/vhosts/www.ghijklmno.net/jekyll/src/jekyll/_posts/2003-07-18-more-sights.markdown",
+		"/Users/tommo/vhosts/www.ghijklmno.net/jekyll/src/jekyll/_posts/2003-07-22-restaurants.markdown",
+		"/Users/tommo/vhosts/www.ghijklmno.net/jekyll/src/jekyll/_posts/2003-08-05-a-date.markdown",
+		"/Users/tommo/vhosts/www.ghijklmno.net/jekyll/src/jekyll/_posts/2003-08-19-ketchup.markdown",
+		"/Users/tommo/vhosts/www.ghijklmno.net/jekyll/src/jekyll/_posts/2003-08-28-processing.markdown",
+		"/Users/tommo/vhosts/www.ghijklmno.net/jekyll/src/jekyll/_posts/2003-09-08-akimbo-too.markdown",
+		"/Users/tommo/vhosts/www.ghijklmno.net/jekyll/src/jekyll/_posts/2003-09-12-a-q-4-u-tony.markdown",
+		"/Users/tommo/vhosts/www.ghijklmno.net/jekyll/src/jekyll/_posts/2003-09-22-bolton.markdown",
+		"/Users/tommo/vhosts/www.ghijklmno.net/jekyll/src/jekyll/_posts/2003-09-26-weightloss-soap.markdown",
+		"/Users/tommo/vhosts/www.ghijklmno.net/jekyll/src/jekyll/_posts/2003-10-10-dear-catastrophe-waitress.markdown",
+		"/Users/tommo/vhosts/www.ghijklmno.net/jekyll/src/jekyll/_posts/2003-10-16-cashless.markdown",
+		"/Users/tommo/vhosts/www.ghijklmno.net/jekyll/src/jekyll/_posts/2003-10-22-birthday-2.markdown",
+		"/Users/tommo/vhosts/www.ghijklmno.net/jekyll/src/jekyll/_posts/2003-10-27-x-men-sunday.markdown",
+		"/Users/tommo/vhosts/www.ghijklmno.net/jekyll/src/jekyll/_posts/2003-11-06-peter-kay.markdown",
+		"/Users/tommo/vhosts/www.ghijklmno.net/jekyll/src/jekyll/_posts/2003-11-14-at-eighty.markdown",
+		"/Users/tommo/vhosts/www.ghijklmno.net/jekyll/src/jekyll/_posts/2003-11-28-scotland.markdown",
+		"/Users/tommo/vhosts/www.ghijklmno.net/jekyll/src/jekyll/_posts/2004-01-05-bang-up-to-date-me.markdown",
+		"/Users/tommo/vhosts/www.ghijklmno.net/jekyll/src/jekyll/_posts/2004-01-19-voices.markdown",
+		"/Users/tommo/vhosts/www.ghijklmno.net/jekyll/src/jekyll/_posts/2004-01-23-evil.markdown",
+		"/Users/tommo/vhosts/www.ghijklmno.net/jekyll/src/jekyll/_posts/2004-01-28-cute-cat.markdown",
+		"/Users/tommo/vhosts/www.ghijklmno.net/jekyll/src/jekyll/_posts/2004-02-06-inquiries.markdown",
+		"/Users/tommo/vhosts/www.ghijklmno.net/jekyll/src/jekyll/_posts/2004-02-10-snowmen.markdown",
+		"/Users/tommo/vhosts/www.ghijklmno.net/jekyll/src/jekyll/_posts/2004-02-13-daniel-kitson-2.markdown",
+		"/Users/tommo/vhosts/www.ghijklmno.net/jekyll/src/jekyll/_posts/2004-02-17-result.markdown",
+		"/Users/tommo/vhosts/www.ghijklmno.net/jekyll/src/jekyll/_posts/2004-02-26-lakeside.markdown",
+		"/Users/tommo/vhosts/www.ghijklmno.net/jekyll/src/jekyll/_posts/2004-03-31-marching.markdown",
+		"/Users/tommo/vhosts/www.ghijklmno.net/jekyll/src/jekyll/_posts/2004-04-06-roof-birds.markdown",
+		"/Users/tommo/vhosts/www.ghijklmno.net/jekyll/src/jekyll/_posts/2004-05-23-married.markdown",
+		"/Users/tommo/vhosts/www.ghijklmno.net/jekyll/src/jekyll/_posts/2004-06-07-garden-furniture.markdown",
+		"/Users/tommo/vhosts/www.ghijklmno.net/jekyll/src/jekyll/_posts/2004-06-15-fluff.markdown",
+		"/Users/tommo/vhosts/www.ghijklmno.net/jekyll/src/jekyll/_posts/2004-07-22-new-computer.markdown",
+		"/Users/tommo/vhosts/www.ghijklmno.net/jekyll/src/jekyll/_posts/2004-07-23-lost-show-desktop.markdown",
+		"/Users/tommo/vhosts/www.ghijklmno.net/jekyll/src/jekyll/_posts/2004-08-03-bathroom.markdown",
+		"/Users/tommo/vhosts/www.ghijklmno.net/jekyll/src/jekyll/_posts/2004-08-07-kev-bishop.markdown",
+		"/Users/tommo/vhosts/www.ghijklmno.net/jekyll/src/jekyll/_posts/2004-08-08-will.markdown",
+		"/Users/tommo/vhosts/www.ghijklmno.net/jekyll/src/jekyll/_posts/2004-08-26-lingo.markdown",
+		"/Users/tommo/vhosts/www.ghijklmno.net/jekyll/src/jekyll/_posts/2004-09-20-as-autumn-draws.markdown",
+		"/Users/tommo/vhosts/www.ghijklmno.net/jekyll/src/jekyll/_posts/2004-10-04-glen-baxter.markdown",
+		"/Users/tommo/vhosts/www.ghijklmno.net/jekyll/src/jekyll/_posts/2004-10-19-birthday-3.markdown",
+		"/Users/tommo/vhosts/www.ghijklmno.net/jekyll/src/jekyll/_posts/2004-10-27-peel.markdown",
+		"/Users/tommo/vhosts/www.ghijklmno.net/jekyll/src/jekyll/_posts/2004-10-28-constructive-criticism.markdown",
+		"/Users/tommo/vhosts/www.ghijklmno.net/jekyll/src/jekyll/_posts/2004-10-28-nightmares.markdown",
+		"/Users/tommo/vhosts/www.ghijklmno.net/jekyll/src/jekyll/_posts/2004-11-04-more-nightmares.markdown",
+		"/Users/tommo/vhosts/www.ghijklmno.net/jekyll/src/jekyll/_posts/2004-11-25-staithes.markdown",
+		"/Users/tommo/vhosts/www.ghijklmno.net/jekyll/src/jekyll/_posts/2004-11-27-flickr.markdown",
+		"/Users/tommo/vhosts/www.ghijklmno.net/jekyll/src/jekyll/_posts/2004-12-11-present-buying-day.markdown",
+		"/Users/tommo/vhosts/www.ghijklmno.net/jekyll/src/jekyll/_posts/2005-01-05-baby.markdown",
+		"/Users/tommo/vhosts/www.ghijklmno.net/jekyll/src/jekyll/_posts/2005-02-01-more-baby.markdown",
+		"/Users/tommo/vhosts/www.ghijklmno.net/jekyll/src/jekyll/_posts/2005-02-03-bag-seat-man.markdown",
+		"/Users/tommo/vhosts/www.ghijklmno.net/jekyll/src/jekyll/_posts/2005-02-19-daniel-kitson-3.markdown",
+		"/Users/tommo/vhosts/www.ghijklmno.net/jekyll/src/jekyll/_posts/2005-02-28-wisdom-infection.markdown",
+		"/Users/tommo/vhosts/www.ghijklmno.net/jekyll/src/jekyll/_posts/2005-03-01-albums.markdown",
+		"/Users/tommo/vhosts/www.ghijklmno.net/jekyll/src/jekyll/_posts/2005-05-03-4d-scan.markdown",
+		"/Users/tommo/vhosts/www.ghijklmno.net/jekyll/src/jekyll/_posts/2005-06-26-baby-soon.markdown",
+		"/Users/tommo/vhosts/www.ghijklmno.net/jekyll/src/jekyll/_posts/2005-10-10-carys-louisa-morgan.markdown",
+		"/Users/tommo/vhosts/www.ghijklmno.net/jekyll/src/jekyll/_posts/2013-10-24-cat-on-a-hot-tin-roof-or-how-i-learn-new-things.markdown",
+		"/Users/tommo/vhosts/www.ghijklmno.net/jekyll/src/jekyll/_posts/2014-02-04-miles-jupp-city-varieties-31st-jan-2014.markdown",
+		"/Users/tommo/vhosts/www.ghijklmno.net/jekyll/src/jekyll/_posts/2014-05-07-urls-the-bonnet-left-ajar.markdown",
+		"/Users/tommo/vhosts/www.ghijklmno.net/jekyll/src/jekyll/_posts/2014-05-09-the-new-hack.markdown",
+		"/Users/tommo/vhosts/www.ghijklmno.net/jekyll/src/jekyll/_posts/2014-09-03-scott-joplin-and-the-acquisition-of-skills.markdown",
+		"/Users/tommo/vhosts/www.ghijklmno.net/jekyll/src/jekyll/_posts/2015-01-30-some-thoughts-about-the-nest-learning-thermostat.markdown",
+		"/Users/tommo/vhosts/www.ghijklmno.net/jekyll/tmp/about/index.markdown",
+		"/Users/tommo/vhosts/www.ghijklmno.net/jekyll/src/jekyll/_posts/2003-04-07-it-took-me-years.markdown",
+		"/Users/tommo/vhosts/www.ghijklmno.net/jekyll/src/sass/_isuck.scss",
+		"/Users/tommo/vhosts/www.ghijklmno.net/jekyll/src/jekyll/_posts/2003-05-04-promo.markdown",
+		"/Users/tommo/vhosts/www.ghijklmno.net/jekyll/src/jekyll/_posts/2003-04-24-desperado.markdown",
+		"/Users/tommo/vhosts/www.ghijklmno.net/jekyll/blog.sublime-project",
+		"/Users/tommo/vhosts/www.ghijklmno.net/jekyll/src/jekyll/_posts/2002-02-27-deep-i-cant-even-spell-it.markdown",
+		"/Users/tommo/vhosts/www.ghijklmno.net/jekyll/src/jekyll/_layouts/<default class=\"html\"></default>",
+		"/Users/tommo/vhosts/www.ghijklmno.net/jekyll/src/jekyll/_posts/2003-04-15-new-job.markdown",
+		"/Users/tommo/vhosts/www.ghijklmno.net/jekyll/src/jekyll/_posts/2003-02-02-beach-snaps.markdown",
+		"/Users/tommo/vhosts/www.ghijklmno.net/jekyll/src/jekyll/_posts/2002-12-09-tree.markdown",
+		"/Users/tommo/vhosts/www.ghijklmno.net/jekyll/src/jekyll/_posts/2002-12-04-missing.markdown",
+		"/Users/tommo/vhosts/www.ghijklmno.net/jekyll/src/sass/_mixins.scss",
+		"/Users/tommo/vhosts/www.ghijklmno.net/jekyll/src/jekyll/_posts/2002-10-24-moon.markdown",
+		"/Users/tommo/vhosts/www.ghijklmno.net/jekyll/src/jekyll/_posts/2002-09-18-nectar.markdown",
+		"/Users/tommo/vhosts/www.ghijklmno.net/jekyll/src/jekyll/_posts/2002-11-07-new-comments.markdown",
+		"/Users/tommo/vhosts/www.ghijklmno.net/jekyll/src/jekyll/_posts/2002-09-06-new-litter.markdown",
+		"/Users/tommo/vhosts/www.ghijklmno.net/jekyll/src/jekyll/_posts/2003-05-27-burghers.markdown",
+		"/Users/tommo/vhosts/www.ghijklmno.net/jekyll/src/jekyll/_posts/2003-02-26-lenny.markdown",
+		"/Users/tommo/vhosts/www.ghijklmno.net/jekyll/src/jekyll/_posts/2002-09-09-mobile-trousers.markdown",
+		"/Users/tommo/vhosts/www.ghijklmno.net/jekyll/src/jekyll/_posts/2003-02-10-little-fence.markdown",
+		"/Users/tommo/vhosts/www.ghijklmno.net/jekyll/src/jekyll/_posts/2003-01-16-light-the-corners.markdown",
+		"/Users/tommo/vhosts/www.ghijklmno.net/jekyll/src/jekyll/_posts/2001-11-22-liberties.markdown",
+		"/Users/tommo/vhosts/www.ghijklmno.net/jekyll/src/js/lteie8.conf",
+		"/Users/tommo/vhosts/www.ghijklmno.net/jekyll/src/jekyll/_posts/2002-09-11-roof-photos.markdown",
+		"/Users/tommo/vhosts/www.ghijklmno.net/jekyll/src/jekyll/_posts/2002-09-17-sean-of-the-rose.markdown",
+		"/Users/tommo/vhosts/www.ghijklmno.net/jekyll/src/jekyll/_posts/2002-09-24-hermits-beware.markdown",
+		"/Users/tommo/vhosts/www.ghijklmno.net/jekyll/src/jekyll/_posts/2002-09-27-ford-for-peace.markdown",
+		"/Users/tommo/vhosts/www.ghijklmno.net/jekyll/src/jekyll/_posts/2002-10-02-the-streets-of-london.markdown",
+		"/Users/tommo/vhosts/www.ghijklmno.net/jekyll/src/jekyll/_posts/2002-10-03-foxed.markdown",
+		"/Users/tommo/vhosts/www.ghijklmno.net/jekyll/src/jekyll/_posts/2002-10-07-kitten-no-net.markdown",
+		"/Users/tommo/vhosts/www.ghijklmno.net/jekyll/src/jekyll/_posts/2002-10-09-hash-browns-over-easy.markdown",
+		"/Users/tommo/vhosts/www.ghijklmno.net/jekyll/src/jekyll/_posts/2002-10-10-glasses.markdown",
+		"/Users/tommo/vhosts/www.ghijklmno.net/jekyll/src/jekyll/_posts/2002-10-11-hoovering.markdown",
+		"/Users/tommo/vhosts/www.ghijklmno.net/jekyll/src/jekyll/_posts/2002-10-12-lens-chicken.markdown",
+		"/Users/tommo/vhosts/www.ghijklmno.net/jekyll/src/jekyll/_posts/2002-10-15-run-run-run.markdown",
+		"/Users/tommo/vhosts/www.ghijklmno.net/jekyll/src/jekyll/_posts/2002-10-23-four-years-stuck-on-my-eyes.markdown",
+		"/Users/tommo/vhosts/www.ghijklmno.net/jekyll/src/jekyll/_posts/2002-10-29-sister-sister.markdown",
+		"/Users/tommo/vhosts/www.ghijklmno.net/jekyll/src/jekyll/_posts/2002-10-30-see-through.markdown",
+		"/Users/tommo/vhosts/www.ghijklmno.net/jekyll/src/jekyll/_posts/2002-11-05-fury.markdown",
+		"/Users/tommo/vhosts/www.ghijklmno.net/jekyll/src/jekyll/_posts/2002-11-08-a-week-off.markdown",
+		"/Users/tommo/vhosts/www.ghijklmno.net/jekyll/src/jekyll/_posts/2002-11-13-snapos.markdown",
+		"/Users/tommo/vhosts/www.ghijklmno.net/jekyll/src/jekyll/_posts/2002-11-20-at-last.markdown",
+		"/Users/tommo/vhosts/www.ghijklmno.net/jekyll/src/jekyll/_posts/2002-11-21-age.markdown",
+		"/Users/tommo/vhosts/www.ghijklmno.net/jekyll/src/jekyll/_posts/2002-11-22-findings.markdown",
+		"/Users/tommo/vhosts/www.ghijklmno.net/jekyll/src/jekyll/_posts/2002-11-26-fly-cheap.markdown",
+		"/Users/tommo/vhosts/www.ghijklmno.net/jekyll/src/jekyll/_posts/2002-11-28-mozilla.markdown",
+		"/Users/tommo/vhosts/www.ghijklmno.net/jekyll/src/jekyll/_posts/2002-12-02-weekend-report.markdown",
+		"/Users/tommo/vhosts/www.ghijklmno.net/jekyll/src/jekyll/_posts/2002-12-06-morning.markdown",
+		"/Users/tommo/vhosts/www.ghijklmno.net/jekyll/src/jekyll/_posts/2002-12-12-christmas.markdown",
+		"/Users/tommo/vhosts/www.ghijklmno.net/jekyll/src/jekyll/_posts/2002-12-13-content.markdown",
+		"/Users/tommo/vhosts/www.ghijklmno.net/jekyll/src/jekyll/_posts/2002-12-13-engines.markdown",
+		"/Users/tommo/vhosts/www.ghijklmno.net/jekyll/src/jekyll/_posts/2002-12-18-python.markdown",
+		"/Users/tommo/vhosts/www.ghijklmno.net/jekyll/src/jekyll/_posts/2002-12-19-tonight.markdown",
+		"/Users/tommo/vhosts/www.ghijklmno.net/jekyll/src/jekyll/_posts/2002-12-20-last-day.markdown",
+		"/Users/tommo/vhosts/www.ghijklmno.net/jekyll/src/jekyll/_posts/2002-12-20-the-two-towers.markdown",
+		"/Users/tommo/vhosts/www.ghijklmno.net/jekyll/src/jekyll/_posts/2002-12-30-end-of-year.markdown",
+		"/Users/tommo/vhosts/www.ghijklmno.net/jekyll/src/jekyll/_posts/2003-01-07-post-christmas-blues.markdown",
+		"/Users/tommo/vhosts/www.ghijklmno.net/jekyll/src/jekyll/_posts/2003-01-09-brrrrrrrrr.markdown"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"*.scss",
+			"*.markdown",
+			"*.scss",
+			"*.scsw",
+			"*.scs",
+			"*.*",
+			"*.scss",
+			"*.*",
+			"*.scss",
+			"*.html",
+			"*.scss",
+			"*.html",
+			"*.scss",
+			"*.html",
+			"*.*",
+			"*.scss",
+			"*.*",
+			"*.scss",
+			"*.*",
+			"*.scss",
+			"*.*",
+			"*.scss",
+			"*.*",
+			"*.js",
+			"*.*",
+			"*.scss",
+			"*",
+			"*.js",
+			"*.scss",
+			"*.js",
+			"*.scss",
+			"*.php",
+			"*.scss",
+			"*.js",
+			"*.scss",
+			"*.js",
+			"*.scss",
+			"*.js",
+			"*.scss",
+			"*.js",
+			"*.*",
+			"*.js",
+			"*.scss",
+			"*.*",
+			"*.scss",
+			"*.*",
+			"*.scss",
+			"*.*",
+			"*.js",
+			"*.*",
+			"*.scss",
+			"*.*",
+			"*.scss",
+			"*.*",
+			"*.scss",
+			"*.*",
+			"*.scss",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"$coldif",
+			".section-header",
+			"nav__link",
+			"</p></p>",
+			"<br />\n",
+			"<br />",
+			"</a&gt",
+			"href\\=\\\"[^\"]*(&)(?!amp)",
+			"href\\=\\\"[^\"]*(&)[^amp]",
+			"href\\=\\\"[^\"]*&",
+			"<a/>",
+			"href\\=\\\"[^\"]*(&)[^amp]",
+			"href\\=\\\"[^\"]*&",
+			"href\\=\\\"[^\"].*&",
+			"&amp;",
+			"&",
+			"&#47;",
+			"<&#47;",
+			"<&#47;a>",
+			"<br &#47;>",
+			"dest.sass",
+			"dest.",
+			"jekyll",
+			"map",
+			">   ",
+			"ghijklmno",
+			"text--circle",
+			"block-border",
+			"bg-brand-primary",
+			"margin",
+			"nav actions bg-gb",
+			"bg-g-light",
+			"bg-grey",
+			"nav actions",
+			"library-list",
+			"media__img",
+			"<div class=\"media__body\">",
+			"media__bod",
+			"media__body",
+			"block-thumb__actions",
+			"block-thumb__acitons",
+			"item-type-label",
+			"my-label",
+			"my-",
+			"rsquo",
+			"<p class=\"name\">",
+			"block-thumb__actions",
+			"div",
+			"thumb__actions",
+			".nav",
+			"actions",
+			"centered",
+			"formtitle",
+			"subhead",
+			"label",
+			".input",
+			"label",
+			"edit-story__block",
+			"block_thumb",
+			"<div class=\"icon-example\">",
+			"classes.length",
+			"\\t",
+			"page-header",
+			"\"block-list\"",
+			"block-list",
+			"meta__link",
+			" block-list--full",
+			"block-list--full",
+			"meta__link",
+			"island--half",
+			"p--half",
+			"p--none",
+			"m--none",
+			"text--cir",
+			"meta__link",
+			"header__logo",
+			"header_logo",
+			"class=\"container",
+			"Searching",
+			"container",
+			"components",
+			"{{ include",
+			"sub-header",
+			"2px",
+			"num",
+			"stats",
+			"story__header",
+			"#main",
+			"2em",
+			"<div",
+			"</div>",
+			"<div>",
+			"p>",
+			"p",
+			"li",
+			"section-header",
+			"star-on",
+			"header__logo",
+			"padding",
+			"skin",
+			"url('/",
+			"url('img",
+			"url('",
+			"block__media",
+			"ui.next",
+			"ui.prev",
+			"updateNavs",
+			"prev",
+			"position",
+			"meta__link meta__container",
+			"icon-circle",
+			"icon-reverse",
+			"icon-circle",
+			".icon-plus",
+			"meta__",
+			"<a href=\"#\" class=\"star-svg container\">{% include img/star.svg %}</a></li>",
+			"<li class=\"places\">",
+			"<li class=\"links\">",
+			"<li class=\"notes\">",
+			"<li class=\"star\">",
+			"<li class=\"progress\">",
+			"meta__progress",
+			"<li class=\"star\"><a href=\"#\" class=\"star-svg container\">{% include img/star.svg %}</a></li>\n						<li class=\"notes\"><a href=\"#\">2 notes</a></li>\n						<li class=\"links\"><a href=\"#\">3 story links</a></li>\n						<li class=\"places\"><a href=\"#\">1 place</a></li>",
+			"id=\"main",
+			"links",
+			"stacked",
+			".star",
+			"tester"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"</p>",
+			"</a>",
+			"&",
+			"&amp;",
+			"/",
+			"</",
+			"</a>",
+			"<br />",
+			"bg-gl",
+			"bg-g",
+			"nav actions bg-gb",
+			"item-type-label",
+			"    ",
+			"",
+			"block__content",
+			"",
+			"$1",
+			"$1\\n",
+			"$1",
+			"$1\\n",
+			",\\n",
+			"\\n,",
+			"$1$2\\n",
+			"$1\\n",
+			"\",\"",
+			"class=\"$1\"",
+			"",
+			"class=\"$1\"",
+			"blk-",
+			"id=\"blk",
+			".block",
+			"<!-- .block__main -->",
+			"class=\"block",
+			"block__footer",
+			"block__main",
+			"block__header",
+			"template-block",
+			"Block",
+			"actuateGraph",
+			"opacity:$1;",
+			"box-sizing:$1;",
+			"backface-visibility:hidden;",
+			"border-radius:$1;",
+			"display:inline-block;",
+			"text-shadow:$1;",
+			"box-shadow:$1;",
+			"transition:$1;",
+			"transform:$1;",
+			",",
+			",\\n",
+			"$1// console.log",
+			"AlertsPopView",
+			"\\n$1\"id\" => 1,$1$2",
+			"\\n\"id\" => 1,$1",
+			"\"id\" => 1,$1",
+			">",
+			"$1,\\n",
+			"$1,",
+			"\\n\\t\"",
+			"),",
+			");\\n\\narray(\\n\"trigger\"",
+			"\"$1\" => \"$2\"",
+			"\"$1\" => \"$2\"\\n",
+			"\"$1\" => \"$2\"",
+			"link:",
+			"message:",
+			"title:",
+			"timestamp:",
+			"trigger:",
+			"billingAllPage",
+			"billingDetailPage",
+			"billingPage",
+			"water",
+			"electricDay",
+			"FormatStatusView",
+			"goldilocksPage",
+			"securityPage",
+			".get();",
+			"get(",
+			"get)",
+			"home",
+			"class=\"$1\"",
+			"",
+			"class=\"$1\"",
+			"",
+			"waterPage",
+			",",
+			"MenuNavView",
+			"ControlBaseView",
+			"ActuateModel",
+			"belowOrEquals",
+			"aboveOrEquals",
+			"\\n* ",
+			"\\n- ",
+			" ",
+			"placehold.it/$1x$2",
+			"http://placehold.it/$1x$2",
+			"http://placehold.it/$1/$2",
+			"\",\\n\"",
+			"\"\\n\",",
+			"resp-wrap",
+			"\"",
+			"    ",
+			"<%= yeoman.bower %>",
+			"    "
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/jekyll/_includes/top.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1394,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								548,
+								548
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								}
+							],
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Jekyll/Syntaxes/HTML (Jekyll).tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/sass/_nav.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 696,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								140,
+								140
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								}
+							],
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "src/sass/_typography.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1176,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								548,
+								548
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								}
+							],
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 255.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "src/sass/styles.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1351,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								194,
+								194
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								}
+							],
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "gulpfile.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6533,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4453,
+								4468
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								}
+							],
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2145.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "src/jekyll/_includes/bottom.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1600,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1566,
+								1566
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								}
+							],
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Jekyll/Syntaxes/HTML (Jekyll).tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.CSS Extended Completions":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "blog.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"gulp",
+				"gulpfile.js"
+			],
+			[
+				"imarg",
+				"src/jekyll/_posts/2003-05-30-imagery.markdown"
+			],
+			[
+				"prom",
+				"src/jekyll/_posts/2003-05-04-promo.markdown"
+			],
+			[
+				"promo",
+				"src/jekyll/_posts/2003-05-04-promo.markdown"
+			],
+			[
+				"des",
+				"src/jekyll/_posts/2003-04-24-desperado.markdown"
+			],
+			[
+				"missin",
+				"src/jekyll/_posts/2002-12-04-missing.markdown"
+			],
+			[
+				"moon",
+				"src/jekyll/_posts/2002-10-24-moon.markdown"
+			],
+			[
+				"nectar",
+				"src/jekyll/_posts/2002-09-18-nectar.markdown"
+			],
+			[
+				"litter",
+				"src/jekyll/_posts/2002-09-06-new-litter.markdown"
+			],
+			[
+				"newlitt",
+				"src/jekyll/_posts/2002-09-06-new-litter.markdown"
+			],
+			[
+				"save",
+				"src/jekyll/_posts/2002-06-18-advent-feeling.markdown"
+			],
+			[
+				"var",
+				"src/sass/_vars.scss"
+			],
+			[
+				"top",
+				"src/jekyll/_includes/top.html"
+			],
+			[
+				"style",
+				"src/jekyll/styleguide.html"
+			],
+			[
+				"typo",
+				"src/sass/_typography.scss"
+			],
+			[
+				"botto",
+				"src/jekyll/_includes/bottom.html"
+			],
+			[
+				"defaul",
+				"src/jekyll/_layouts/default.html"
+			],
+			[
+				"button",
+				"src/sass/components/_buttons.scss"
+			],
+			[
+				"coor",
+				"src/sass/_colours.scss"
+			],
+			[
+				"color",
+				"src/sass/_colours.scss"
+			],
+			[
+				"reading",
+				"src/sass/components/_reading-story.scss"
+			],
+			[
+				"isuc",
+				"src/sass/_isuck.scss"
+			],
+			[
+				"block",
+				"src/sass/components/_block-item.scss"
+			],
+			[
+				"edit",
+				"src/jekyll/edit-block-full.html"
+			],
+			[
+				"editbl",
+				"src/jekyll/edit-block-full.html"
+			],
+			[
+				"editblock",
+				"src/jekyll/edit-block.html"
+			],
+			[
+				"stylegui",
+				"src/sass/components/_styleguide.scss"
+			],
+			[
+				"lib",
+				"src/jekyll/library_your.html"
+			],
+			[
+				"libr",
+				"src/jekyll/library_all.html"
+			],
+			[
+				"editsa",
+				"src/jekyll/edit-story-saved.html"
+			],
+			[
+				"librar",
+				"src/jekyll/library_your.html"
+			],
+			[
+				"saved",
+				"src/jekyll/edit-story-saved.html"
+			],
+			[
+				"editsto",
+				"src/jekyll/edit-story-saved.html"
+			],
+			[
+				"tp",
+				"src/jekyll/_includes/top.html"
+			],
+			[
+				"typ",
+				"src/sass/_typography.scss"
+			],
+			[
+				"libra",
+				"src/sass/components/_library.scss"
+			],
+			[
+				"vars",
+				"src/sass/_vars.scss"
+			],
+			[
+				"tyleguide",
+				"src/jekyll/styleguide.html"
+			],
+			[
+				"lir",
+				"src/jekyll/library_all.html"
+			],
+			[
+				"arte",
+				"src/jekyll/artefact.html"
+			],
+			[
+				"styo",
+				"src/jekyll/edit-story.html"
+			],
+			[
+				"story",
+				"src/jekyll/edit-story-saved.html"
+			],
+			[
+				"isuck",
+				"src/sass/_isuck.scss"
+			],
+			[
+				"icons",
+				"src/jekyll/_includes/styleguide/icons.html"
+			],
+			[
+				"form",
+				"src/sass/components/_forms.scss"
+			],
+			[
+				"inde",
+				"src/jekyll/index.html"
+			],
+			[
+				"editblo",
+				"src/jekyll/edit-block.html"
+			],
+			[
+				"colo",
+				"src/sass/_colours.scss"
+			],
+			[
+				"index",
+				"src/jekyll/index.html"
+			],
+			[
+				"forms",
+				"src/sass/components/_forms.scss"
+			],
+			[
+				"ty",
+				"src/sass/_typography.scss"
+			],
+			[
+				"sty",
+				"src/sass/components/_styleguide.scss"
+			],
+			[
+				"all",
+				"src/js/allJS.conf"
+			],
+			[
+				"stylguid",
+				"src/jekyll/styleguide.html"
+			],
+			[
+				"header",
+				"src/sass/components/_header.scss"
+			],
+			[
+				"styl",
+				"src/sass/styles.scss"
+			],
+			[
+				"bot",
+				"src/jekyll/_includes/bottom.html"
+			],
+			[
+				"blockitem",
+				"src/sass/components/block-item.scss"
+			],
+			[
+				"read",
+				"src/js/reading.js"
+			],
+			[
+				"readin",
+				"src/jekyll/reading.html"
+			],
+			[
+				"layout",
+				"src/sass/_layout.scss"
+			],
+			[
+				"head",
+				"src/jekyll/_includes/header.html"
+			],
+			[
+				"ogo",
+				"src/img/yarn-logo-icon.svg"
+			],
+			[
+				"heare",
+				"src/sass/components/_header.scss"
+			],
+			[
+				"page",
+				"src/sass/components/_block-page.scss"
+			],
+			[
+				"logo",
+				"src/img/yarn-logo-icon.svg"
+			],
+			[
+				"icon",
+				"src/sass/_icons.scss"
+			],
+			[
+				"arch",
+				"src/jekyll/arc_part_logged.html"
+			],
+			[
+				"archi",
+				"src/jekyll/arc_part_public.html"
+			],
+			[
+				"mix",
+				"src/sass/_mixins.scss"
+			],
+			[
+				"noteno",
+				"src/jekyll/_includes/components/block-notes-notes.html"
+			],
+			[
+				"readi",
+				"src/jekyll/reading.html"
+			],
+			[
+				"fancy",
+				"src/sass/components/_fancybox.scss"
+			],
+			[
+				"meta",
+				"src/jekyll/_includes/components/meta-links-empty.html"
+			],
+			[
+				"mixi",
+				"src/sass/_mixins.scss"
+			],
+			[
+				"blok",
+				"src/jekyll/_includes/components/block-links.html"
+			],
+			[
+				"stye",
+				"src/sass/components/_styleguide.scss"
+			],
+			[
+				"lay",
+				"src/sass/_layout.scss"
+			],
+			[
+				"stoy",
+				"src/sass/components/_story.scss"
+			],
+			[
+				"butt",
+				"src/sass/components/_buttons.scss"
+			],
+			[
+				"mini",
+				"src/sass/_mixins.scss"
+			],
+			[
+				"conf",
+				"src/js/allJS.conf"
+			],
+			[
+				"bottom",
+				"src/jekyll/_includes/bottom.html"
+			],
+			[
+				"readingn",
+				"src/sass/components/_reading-nav.scss"
+			],
+			[
+				"arc",
+				"src/jekyll/arc_part_logged.html"
+			],
+			[
+				"archive",
+				"src/sass/components/_archive-partner.scss"
+			],
+			[
+				"libar",
+				"src/jekyll/library_all.html"
+			],
+			[
+				"to",
+				"build/inc/top.php"
+			],
+			[
+				"headr",
+				"build/inc/components/header.php"
+			],
+			[
+				"star",
+				"src/img/star.svg"
+			],
+			[
+				"la",
+				"src/sass/_layout.scss"
+			],
+			[
+				"right",
+				"src/img/right-arrow.svg"
+			],
+			[
+				"left",
+				"src/img/left-arrow.svg"
+			],
+			[
+				"layou",
+				"src/sass/_layout.scss"
+			],
+			[
+				"sublim",
+				"flats.sublime-project"
+			],
+			[
+				"gul",
+				"gulpfile.js"
+			],
+			[
+				"daycomp",
+				"src/js/actuate/blocks/blk-day-compare.js"
+			],
+			[
+				"daycom",
+				"build/pages/blocks/blk-day-compare.php"
+			],
+			[
+				"pageele",
+				"src/js/actuate/pages/page-electricity-day.js"
+			],
+			[
+				"daysage",
+				"build/pages/blocks/blk-day-usage.php"
+			],
+			[
+				"dayusage",
+				"src/sass/blocks/_day-usage.scss"
+			],
+			[
+				"d3dayus",
+				"src/js/actuate/d3/d3-day-usage.js"
+			],
+			[
+				"d3",
+				"src/js/actuate/d3/d3-day-totals.js"
+			],
+			[
+				"daytotals",
+				"src/js/actuate/blocks/blk-day-totals.js"
+			],
+			[
+				"pages",
+				"src/js/actuate/pages.js"
+			],
+			[
+				"pageelec",
+				"src/js/actuate/pages/page-electricity-day.js"
+			],
+			[
+				"elec",
+				"build/pages/electricity-day.php"
+			],
+			[
+				"day-tota",
+				"src/js/actuate/blocks/blk-day-totals.js"
+			],
+			[
+				"day",
+				"src/js/actuate/d3/day_total_bars.js"
+			],
+			[
+				"temp",
+				"build/pages/inc/templates.php"
+			],
+			[
+				"golid",
+				"src/js/actuate/pages/page-golidlocks.js"
+			],
+			[
+				"router",
+				"src/js/actuate/router.js"
+			],
+			[
+				"tempstatus",
+				"build/pages/blocks/blk-temp-status.php"
+			],
+			[
+				"rightnow",
+				"src/sass/blocks/_right-now.scss"
+			],
+			[
+				"styles",
+				"src/sass/styles.scss"
+			],
+			[
+				"blktemp",
+				"src/js/actuate/blocks/blk-temp-status.js"
+			],
+			[
+				"blkright",
+				"src/js/actuate/blocks/blk-right-now.js"
+			],
+			[
+				"tempstatu",
+				"src/sass/blocks/_temp-status.scss"
+			],
+			[
+				"insid",
+				"src/img/inside-outside.svg"
+			],
+			[
+				"pagehoje",
+				"src/js/actuate/pages/page-home.js"
+			],
+			[
+				"app",
+				"src/js/actuate/app.js"
+			],
+			[
+				"apiicon",
+				"build/api/icons.php"
+			],
+			[
+				"tariff",
+				"build/pages/blocks/blk-tariffs.php"
+			],
+			[
+				"blkbillarh",
+				"src/js/actuate/blocks/blk-bills-archive.js"
+			],
+			[
+				"bills",
+				"build/pages/blocks/blk-bills-archive.php"
+			],
+			[
+				"billin",
+				"build/pages/billing.php"
+			],
+			[
+				"pagebill",
+				"src/js/actuate/pages/page-billing.js"
+			],
+			[
+				"sepe",
+				"src/sass/modules/_separate.scss"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"act",
+				"~/vhosts/actuate/webapp/actuate.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 348.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

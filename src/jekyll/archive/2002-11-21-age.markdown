@@ -1,0 +1,33 @@
+---
+layout: post
+status: publish
+published: true
+title: Age
+author:
+  display_name: Tom
+  login: admin
+  email: tsmorgan@gmail.com
+  url: ''
+author_login: admin
+author_email: tsmorgan@gmail.com
+wordpress_id: 511
+wordpress_url: http://ghijklmno.net/age/
+date: '2002-11-21 08:33:16 +0000'
+date_gmt: '2002-11-21 08:33:16 +0000'
+categories:
+- Old Blog
+tags: []
+comments: []
+---
+<p>Twenty six!! Twenty-bloody-six. Fucking John Lennon played Shay Stadium when he was twenty-three. And that was him getting fed up with playing live. Godamn it!!!</p>
+
+<p>Sorry it was a bit of a slow burner this year.</p>
+
+<p>Watched the Lennon Greatest Briton program the other night. I was a bit dissapointed really as the case didn&#8217;t seem to be put all that well. Alan Davies made a good curly haried job of telling us a bit about his life, but what we really needed was a great big &#8220;call to action&#8221; at the end where he explained what made JL stand out from this list.</p>
+
+<p>There seems to be a general split in the list between those who took some kind of action to change the world around them and those who changed the world through some kind of brain-related activity (Science, Art). I&#8217;m obviously finding myself coming down on the side of the latter both for personal reasons (my own general preference for mental rather han physical activity and therefore my desire to believe this is more important ... laziness basically) and for the reason that I feel the thinkers will in the end have a greater effect on the world. A good example of this would be the difference between the long lasting effects of the works of Shakespeare as compared to those of Elizabeth I. I&#8217;m sure she did a great deal to alter the face of this country but the comparsion is plain.</p>
+
+<p>My own personal favourite is Darwin both because his achievement was purely to enable a greater understanding of ourselves and our place in the universe, and also because it was the greatest step we as a race have ever taken towards removing the need for religion from the world.</p>
+
+<p>Something maybe old John Lennon might of appreciated.</p>
+

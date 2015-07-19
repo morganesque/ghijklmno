@@ -1,0 +1,27 @@
+---
+layout: post
+status: publish
+published: true
+title: Marching
+author:
+  display_name: Tom
+  login: admin
+  email: tsmorgan@gmail.com
+  url: ''
+author_login: admin
+author_email: tsmorgan@gmail.com
+wordpress_id: 607
+wordpress_url: http://ghijklmno.net/marching/
+date: '2004-03-31 08:27:00 +0100'
+date_gmt: '2004-03-31 08:27:00 +0100'
+categories:
+- Old Blog
+tags: []
+comments: []
+---
+<p>Not a huge amount to add really. I&#8217;ve been quite busy recently starting a new job, doing a new job and pretty much enjoying a new job. Seems clearer now than when I first applied for it that this was a good move for me, not just career-wise but also enjoyment wise. It seems quite a natural place to be and a natural thing to be doing. There is also something very nice about feeling that what I have done before has lead me up to this, which makes a bit more sense of the times when I wasn&#8217;t quite sure where I was heading.</p>
+
+<p>Marriage is looming in about a month which is great (honestly!). Rooms have been booked by lots of people to stay in the hotel where it&#8217;s happening which is lovely and I&#8217;m sure will ensure a good time is had by all. We got to try a sample of the cake, that Mum is cooking for us for the event, this weekend. It&#8217;s a 3 layer jobbie (fruit, carrot, chocolate) and we got to try the carrot layer. It was delicious and looked the business.</p>
+
+<p>So yeah, everything is progressing along swimmingly. I just wish the blasted thing would happen sooner. I can&#8217;t wait!!</p>
+

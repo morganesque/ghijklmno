@@ -1,0 +1,23 @@
+---
+layout: post
+status: publish
+published: true
+title: Yup
+author:
+  display_name: Tom
+  login: admin
+  email: tsmorgan@gmail.com
+  url: ''
+author_login: admin
+author_email: tsmorgan@gmail.com
+wordpress_id: 432
+wordpress_url: http://ghijklmno.net/yup/
+date: '2002-03-07 09:02:59 +0000'
+date_gmt: '2002-03-07 09:02:59 +0000'
+categories:
+- Old Blog
+tags: []
+comments: []
+---
+<p>I&#8217;m <a target="_blank" href="http://www.dictionary.com/search?q=young">young</a>, I&#8217;m <a target="_blank" href="http://www.dictionary.com/search?q=urbane">urbane</a>, I&#8217;m <a target="_blank" href="http://www.dictionary.com/search?q=professional">professional</a> (mostly).</p>
+

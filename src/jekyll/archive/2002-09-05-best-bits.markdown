@@ -1,0 +1,29 @@
+---
+layout: post
+status: publish
+published: true
+title: Best Bits
+author:
+  display_name: Tom
+  login: admin
+  email: tsmorgan@gmail.com
+  url: ''
+author_login: admin
+author_email: tsmorgan@gmail.com
+wordpress_id: 486
+wordpress_url: http://ghijklmno.net/best-bits/
+date: '2002-09-05 09:01:17 +0100'
+date_gmt: '2002-09-05 09:01:17 +0100'
+categories:
+- Old Blog
+tags: []
+comments: []
+---
+<p>Over the last year or so I have to admit I&#8217;ve watched most of these reality game show type things (Big Brother, Survivor and more recently I&#8217;m a Celebrity, Get Me Out Of Here!!). It&#8217;s not my fault she makes me watch them, honestly.</p>
+
+<p>One of the many things they have in common is that once a contestant is voted-out/ejected they have to sit and be interviewed about their experience in the house, and part of this process always involved showing them "their best bits". This consists of a montage of clips of the contestant at (what the programme makers regard as) their most entertaining.</p>
+
+<p>Watching one of these recently put me in mind of death (no not out of sheer desperation). I realised that it&#8217;s kind of how, when I was younger, I thought it would be after you die. Either in a religious (St.Peter at the gates of heaven making the up-or-down decision) way or in a secular (life flashes before your eyes) kind of way.</p>
+
+<p>To be honest I kind of like the idea. I wouldn&#8217;t mind a quick tour through my life and a glimpse of some of my best moments - with the added bonus of seeing it through the eyes of others. As long as they leave out the bit with me dancing round the house naked singing My Way at the top of my voice.</p>
+

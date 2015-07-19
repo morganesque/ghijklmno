@@ -1,0 +1,23 @@
+---
+layout: post
+status: publish
+published: true
+title: Parents
+author:
+  display_name: Tom
+  login: admin
+  email: tsmorgan@gmail.com
+  url: ''
+author_login: admin
+author_email: tsmorgan@gmail.com
+wordpress_id: 434
+wordpress_url: http://ghijklmno.net/parents/
+date: '2002-03-10 10:38:16 +0000'
+date_gmt: '2002-03-10 10:38:16 +0000'
+categories:
+- Old Blog
+tags: []
+comments: []
+---
+<p>Spending the weekend with Ma and Pa.</p>
+

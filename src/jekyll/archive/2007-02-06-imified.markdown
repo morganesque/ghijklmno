@@ -1,0 +1,23 @@
+---
+layout: post
+status: publish
+published: true
+title: IMified
+author:
+  display_name: Tom
+  login: admin
+  email: tsmorgan@gmail.com
+  url: ''
+author_login: admin
+author_email: tsmorgan@gmail.com
+wordpress_id: 662
+wordpress_url: http://ghijklmno.net/imified/
+date: '2007-02-06 10:14:00 +0000'
+date_gmt: '2007-02-06 10:14:00 +0000'
+categories:
+- Uncategorized
+tags: []
+comments: []
+---
+<p>This IMified thing looks quite good I'm just using it now to create the very post. I can't tell yet whether edittting a blog via IM is going to be the next big thing but I do like the idea of being able to interact with these things via IM instead of needing a browser. I wonder whether there are mobile implications to this or not?</p>
+

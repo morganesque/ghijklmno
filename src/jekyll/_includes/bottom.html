@@ -1,0 +1,42 @@
+
+</div><!-- .outer -->
+     <script src="/js/all.min.js"></script>
+     <script type="text/javascript">
+        $(document).on("ready",function(e)
+        {
+            $('#nav-archive').on("click",function(e)
+            {
+                e.preventDefault();
+                $('body').toggleClass('archive');
+            });
+
+            controller = new ScrollMagic();
+            var scene = new ScrollScene({offset:168})                            
+                            .on('enter',function(e)
+                            {
+                                $('.site-header').addClass('min');
+                            })
+                            .on('leave',function(e)
+                            {
+                                $('.site-header').removeClass('min');
+                            })
+                            .addTo(controller);
+
+        });
+     </script>
+
+    <!-- Google Analytics: change UA-XXXXX-X to be your site's ID. 
+    <script>
+        (function(b,o,i,l,e,r){b.GoogleAnalyticsObject=l;b[l]||(b[l]=
+        function(){(b[l].q=b[l].q||[]).push(arguments)});b[l].l=+new Date;
+        e=o.createElement(i);r=o.getElementsByTagName(i)[0];
+        e.src='//www.google-analytics.com/analytics.js';
+        r.parentNode.insertBefore(e,r)}(window,document,'script','ga'));
+        ga('create','UA-XXXXX-X');ga('send','pageview');
+    </script>
+    -->
+<script type='text/javascript' id="__bs_script__">//<![CDATA[
+document.write("<script async src='http://localhost:3000/browser-sync/browser-sync-client.2.0.0-rc3.js'><\/script>");
+//]]></script>
+</body>
+</html>

@@ -1,0 +1,31 @@
+---
+layout: post
+status: publish
+published: true
+title: Akimbo
+author:
+  display_name: Tom
+  login: admin
+  email: tsmorgan@gmail.com
+  url: ''
+author_login: admin
+author_email: tsmorgan@gmail.com
+wordpress_id: 583
+wordpress_url: http://ghijklmno.net/akimbo/
+date: '2003-09-02 08:59:00 +0100'
+date_gmt: '2003-09-02 08:59:00 +0100'
+categories:
+- Old Blog
+tags: []
+comments: []
+---
+<p>Our cat Charlie does a funny thing when you pick him up. I don&#8217;t know whether it&#8217;s the way we do it, or if it&#8217;s something about him, or even if all cats do this (although I don&#8217;t remember my parents cat ever doing it) but when you pick him up and hold him so his belly is facing up he always straightens his legs right out.</p>
+
+<p><center><img src="/photos/phone/charlie_akimbo2.jpg" width="132" height="176" alt="legs akimbo" border="0"/>  <img src="/photos/phone/charlie_akimbo.jpg" width="132" height="176" alt="legs akimbo" border="0"/></center></p>
+
+<p class="firstpar">It isn&#8217;t a stretching thing, because he doesn&#8217;t just do it and then relax. He keeps the position sometimes throughout the entire duration of you holding him.</p>
+
+<p><center><img src="/photos/phone/charlie_akimbo3.jpg" width="132" height="176" alt="legs akimbo" border="0"/></center></p>
+
+<p class="firstpar">We feel sorry for him at the moment because he&#8217;s had a rodent ulcer and had to go to the vets. Also, while at the vets we were told that his teeth were not in a good state because we&#8217;ve been letting him have a higher proportion of wet food to dry food than we should. So we&#8217;re not as good cat parents as we thought we were :o(</p>
+

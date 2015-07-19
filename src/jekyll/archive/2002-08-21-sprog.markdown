@@ -1,0 +1,25 @@
+---
+layout: post
+status: publish
+published: true
+title: Sprog
+author:
+  display_name: Tom
+  login: admin
+  email: tsmorgan@gmail.com
+  url: ''
+author_login: admin
+author_email: tsmorgan@gmail.com
+wordpress_id: 483
+wordpress_url: http://ghijklmno.net/sprog/
+date: '2002-08-21 08:50:51 +0100'
+date_gmt: '2002-08-21 08:50:51 +0100'
+categories:
+- Old Blog
+tags: []
+comments: []
+---
+<p>Hmmm what can you say about life eh? One minute you&#8217;re there the next you&#8217;re not. One minute you&#8217;re happy the next you&#8217;re sad. One minute yo... you get the idea. And usually there nothing more to explain it than a heartily good breakfast or sleepily stumbling into the wall as you stagger out of bed in the morning. The road forks and you&#8217;re left holding the baby. The child of circumstance. The progeny of fate. The sprog of chance.</p>
+
+<p>Audience: WTF?!?!</p>
+

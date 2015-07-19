@@ -1,0 +1,25 @@
+---
+layout: post
+status: publish
+published: true
+title: Decorate
+author:
+  display_name: Tom
+  login: admin
+  email: tsmorgan@gmail.com
+  url: ''
+author_login: admin
+author_email: tsmorgan@gmail.com
+wordpress_id: 472
+wordpress_url: http://ghijklmno.net/decorate/
+date: '2002-07-22 16:53:55 +0100'
+date_gmt: '2002-07-22 16:53:55 +0100'
+categories:
+- Old Blog
+tags: []
+comments: []
+---
+<p>Did much painting this weekend. We&#8217;d already removed the wonderfully disasterous vinyl wallpaper previous-occupant had decided to cover all four walls and the ceiling with (the top layer comes away wondeful and you&#8217;re left with a papery underlayer which clings a bit more). So we started with the paint.</p>
+
+<p> The ceiling was rollered and smooth. For the walls though, there was a sandy textured paint to hide the multitude of sins for which God has seemingly been punishing our walls for years. It was lovely and thick like butter and needed plastering on with a trowel. Very nice.</p>
+

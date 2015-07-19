@@ -1,0 +1,23 @@
+---
+layout: post
+status: publish
+published: true
+title: Flare
+author:
+  display_name: Tom
+  login: admin
+  email: tsmorgan@gmail.com
+  url: ''
+author_login: admin
+author_email: tsmorgan@gmail.com
+wordpress_id: 642
+wordpress_url: http://ghijklmno.net/flare/
+date: '2007-11-02 16:16:00 +0000'
+date_gmt: '2007-11-02 16:16:00 +0000'
+categories:
+- Uncategorized
+tags: []
+comments: []
+---
+<p>I've been having a look at the <a href="http://flare.prefuse.org/">Flare</a> actionscript library for creating interactive visualisations and the like. Interestingly they've packaged in a <a href="http://osflash.org/tweener">Tweener</a> like tweening library and a physics library too.Considering I've been using <a href="http://osflash.org/tweener">Tweener</a> loads and I've been looking at <a href="http://www.cove.org/ape/">APE</a> a bit recently too I wonder whether this would be a good replacement for both or is a bit limited to what they've wanted to achieve within Flare.There's an <a href="http://flare.prefuse.org/demo/">excellent demo</a> and API documentation.I'm mostly interested in the <a href="http://flare.prefuse.org/doc/api/flare/vis/operator/layout/ForceDirectedLayout.html">ForceDirecedLayout</a> but being in alpha at the moment it seems that they haven't got round to examples and tutorials for that aspect. One to watch though I think.</p>
+

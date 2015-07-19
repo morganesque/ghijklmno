@@ -1,0 +1,29 @@
+---
+layout: post
+status: publish
+published: true
+title: Glasses
+author:
+  display_name: Tom
+  login: admin
+  email: tsmorgan@gmail.com
+  url: ''
+author_login: admin
+author_email: tsmorgan@gmail.com
+wordpress_id: 498
+wordpress_url: http://ghijklmno.net/glasses/
+date: '2002-10-10 15:18:26 +0100'
+date_gmt: '2002-10-10 15:18:26 +0100'
+categories:
+- Old Blog
+tags: []
+comments: []
+---
+<p>Trying to buy glasses at the moment coz I fancy a change from what I have. Right now I have thin metalic and I&#8217;m thinking of going for something thick and ... well ... non-metallic. Got my eyes tested in Boots the other day which was nice, but they seemed to say that I didn&#8217;t need any new lens wise so I probably needn&#8217;t have bothered. So now I enter the pricing lottery which is the glasses market.</p>
+
+<p>Does this price include the lenses or not? Will those be the standard lenses, or the ones with the scratch resistant, glare stopping, bridge building, world peace creating wafer thin coating? Can these frame bounce back to their original size and shape even if I accidentally drop them in the firey lakes of Hell? Are they made from copper, steel, platinum, titanium, iranian weapons grade plutonium? DOES THIS PRICE INCLUDE THE LENSES???</p>
+
+<p>Saw a lovely cool looking pair in the &#8220;designer&#8221; section of Boots optician section. They come at a fixed or variable rate, with life assurance thrown in and I have the option to make over payments which will either allow me to take a payment holiday at some time in the future, or to pay off the full amount in less than 25 years.</p>
+
+<p>Expensive? No. Not if you compare them to a small country.</p>
+

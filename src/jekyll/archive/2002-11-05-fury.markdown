@@ -1,0 +1,29 @@
+---
+layout: post
+status: publish
+published: true
+title: Fury
+author:
+  display_name: Tom
+  login: admin
+  email: tsmorgan@gmail.com
+  url: ''
+author_login: admin
+author_email: tsmorgan@gmail.com
+wordpress_id: 506
+wordpress_url: http://ghijklmno.net/fury/
+date: '2002-11-05 08:33:27 +0000'
+date_gmt: '2002-11-05 08:33:27 +0000'
+categories:
+- Old Blog
+tags: []
+comments: []
+---
+<p>Reading <a href="http://www.amazon.co.uk/exec/obidos/ASIN/0099421860">Fury</a> by Salman Rushdie at the moment. It&#8217;s rather good. I&#8217;ve only read <a href="http://www.amazon.co.uk/exec/obidos/ASIN/0099578514">Midnights Children</a> before so it&#8217;s hard to say whether the big difference between to two is evidence of a large change on Rushdies part or simply a conintuation of his usual diversity. What I like about it particularly though (and what I liked about Midnights Children) is the incredible level to which he manages to fold the ideas of the books around onto themselves until almost everything he writes seems to echo or re-enforce some other previous event or idea.</p>
+
+<p>This is all the more surprising because of the range of different directions he seems to head off in. I can&#8217;t begin to list the diverse of areas he touches upon in Fury and yet you feel like it&#8217;s as compact and intense as it could be.</p>
+
+<p>The only way I can describe it is like my favourite kind of art - it gives all the appearance of being as easy and spontaneous as the splash of a foot in a puddle and yet it contains such depth of meaning that it can&#8217;t have been.</p>
+
+<p>Could it?</p>
+

@@ -1,0 +1,63 @@
+/* my vars */
+$font-family-sans-serif:  	"Helvetica Neue", Helvetica, Arial, sans-serif !default;
+$font-family-serif:       	'Surveyor SSm A', 'Surveyor SSm B', serif !default;
+// $font-family-third:       	"Ubuntu Mono", sans-serif, !default;
+
+/* bits of inuit I'm using */
+$using:true;
+$use-grids:         $using;
+$use-block-list:    $using;
+$push:   			$using;
+/* bits of inuit I'm not using */
+$use-nav:           $using;
+$use-rules:         $using;
+$use-media:         $using;
+$using:false;
+$use-flexbox:       $using;
+$use-columns:       $using;
+$use-options:       $using;
+$use-pagination:    $using;
+$use-breadcrumb:    $using;
+$use-marginalia:    $using;
+$use-island:        $using;
+$use-matrix:        $using;
+$use-split:         $using;
+$use-this-or-this:  $using;
+$use-link-complex:  $using;
+$use-flyout:        $using;
+$use-arrows:        $using;
+$use-sprite:        $using;
+$use-icon-text:     $using;
+$use-beautons:      $using;
+$use-lozenges:      $using;
+$use-stats:         $using;
+$use-greybox:       $using;
+
+/* Other inuit vars that I might want to change */
+
+$base-font-size:    19px!default;
+$base-line-height:  24px!default;
+
+$base-font-family:  sans-serif!default;
+
+$base-ui-color:     #ccc!default;
+$lap-start:         481px!default;
+$desk-start:        1024px!default;
+$desk-wide-start:   1200px!default;
+
+$giga-size:         81px!default;
+$mega-size:         64px!default;
+$kilo-size:         54px!default;
+
+$h1-size:           43px!default; // .alpha
+$h2-size:           36px!default; // .beta
+$h3-size:           29px!default; // .gamma 
+$h4-size:           24px!default; // .delta  
+$h5-size:           18px!default; // .epsilon 
+$h6-size:           16px!default; // .zeta	
+
+$milli-size:        13px!default;
+$micro-size:        10px!default;
+
+$brand-face:        $font-family-sans-serif!default;
+$brand-round:       4px!default;

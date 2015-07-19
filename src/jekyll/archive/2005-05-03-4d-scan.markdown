@@ -1,0 +1,27 @@
+---
+layout: post
+status: publish
+published: true
+title: 4D Scan
+author:
+  display_name: Tom
+  login: admin
+  email: tsmorgan@gmail.com
+  url: ''
+author_login: admin
+author_email: tsmorgan@gmail.com
+wordpress_id: 633
+wordpress_url: http://ghijklmno.net/4d-scan/
+date: '2005-05-03 12:20:00 +0100'
+date_gmt: '2005-05-03 12:20:00 +0100'
+categories:
+- Old Blog
+tags: []
+comments: []
+---
+<p>We&#8217;ve just got back from having a <a href="http://www.leedsscreeningcentre.co.uk/4D.htm">4D scan</a> of our baby at the Leeds Screening Centre. It&#8217;s like a normal scan only instead of just seeing a "slice" of the baby at a time, they create what looks like a 3D moving image of your baby in real-time.</p>
+
+<p>I&#8217;ve stuck up <a href="http://flickr.com/photos/ghijklmno/sets/296196/">some photos of the scan</a> if you want to go and have a look, you can probably also see them on the right of the page there. She had her arm up next to her face for quite a while but with a bit of jiggling (well, actually quite a lot) she moved it enough for us to get a good look at her.</p>
+
+<p>We&#8217;ve got a DVD of the whole scan thing and a CD full of images, so we&#8217;ve really very pleased.</p>
+

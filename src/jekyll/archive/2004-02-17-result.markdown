@@ -1,0 +1,29 @@
+---
+layout: post
+status: publish
+published: true
+title: Result
+author:
+  display_name: Tom
+  login: admin
+  email: tsmorgan@gmail.com
+  url: ''
+author_login: admin
+author_email: tsmorgan@gmail.com
+wordpress_id: 604
+wordpress_url: http://ghijklmno.net/result/
+date: '2004-02-17 11:56:00 +0000'
+date_gmt: '2004-02-17 11:56:00 +0000'
+categories:
+- Old Blog
+tags: []
+comments: []
+---
+<p>Big &#8220;well done&#8221; to Kirsty who found out yesterday the marks she got for the first two modules of the accountancy course she started last autumn. She got 86% for one and 83% for the other and considering that she only needed 50% to pass that&#8217;s pretty darned good in anyone&#8217;s book.</p>
+
+<p>There are 14 modules to complete in all and she&#8217;s got ten years (from when she started) to complete them all. She&#8217;s already exempt from one (which she covered in her degree) so that leaves .... hangon .... errrr .... 11 left to do.</p>
+
+<p>It would be fair to say that during the autumn there were a number of times where Kirsty thought that maybe she wasn&#8217;t going to be able to pass the exams she had to take at the end of these modules. There were even times where she thought it might be best to give up completely and save the stress. But she didn&#8217;t give up, she studied harder and give up more of her free time (there were times when she literally didn&#8217;t have any more free time to give) and at the end of the day she&#8217;s totally done herself proud.</p>
+
+<p>I&#8217;m certainly proud.</p>
+

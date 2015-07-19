@@ -1,0 +1,26 @@
+---
+layout: post
+status: publish
+published: true
+title: Heaven
+author:
+  display_name: Tom
+  login: admin
+  email: tsmorgan@gmail.com
+  url: ''
+author_login: admin
+author_email: tsmorgan@gmail.com
+wordpress_id: 558
+wordpress_url: http://ghijklmno.net/heaven/
+date: '2003-04-28 10:40:00 +0100'
+date_gmt: '2003-04-28 10:40:00 +0100'
+categories:
+- Old Blog
+tags: []
+comments: []
+---
+<p><b>K (half joking and putting on a childish voice):</b> Anyway, she&#8217;s up in heaven now with God and Jesus.<b>T (joining in):</b> That&#8217;s right.<b>K:</b> ...and my Nanna and Grandpa.<b>T:</b> ...and you&#8217;ll be seeing her when you get up there.<b>K (looking a bit more wistful):</b> Yeah.<b>T:</b> ...and you can give her a great big hug and tell her how much you love her and how much you&#8217;ve missed her.<b>K (lump in her throat):</b> yeah.</p>
+
+<p class="firstpar">I wander out of the room and to go and clean my teeth</p>
+<b>K (from the bedroom):</b> God, you can really tell why people want to believe all that stuff can&#8217;t you.</p>
+
