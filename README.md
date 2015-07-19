@@ -1,2 +1,0 @@
-# ghijklmno
-My Blog
