@@ -1,67 +1,25 @@
 @import "mixins";
-@import "vars";
-@import "inuit.css/inuit";
 
-$bsu:$base-spacing-unit;
+$primary:#666;
+$secondary:hsl(10,42%,76%);
+$tertiary:hsl(190,76%,42%);
 
-// colours
-$primary:hsl(280,100%,50%);
-$secondary:adjust-hue($primary,-15deg);
-$tertiary:lighten(adjust-hue($primary,110deg),25);
+$global-border-box:true;
+
+@import "inuit.css/generic/normalize";
+@import "inuit.css/generic/reset";
+
+$bsu:24px;
 
 @import "fonts";
 @import "typography";
 
-@import "nav";
-
-::selection {
-  background:lighten(desaturate($primary,50%),30%); /* WebKit/Blink Browsers */
-}
-
-.outer {overflow:hidden;}
-
-.site-header {
-	position:fixed;
-	top:0;left:0;
-	width:100%;
-	background:darken($primary,30%);
-	color:white;
-	padding:$bsu $bsu*2;
-	z-index:1;
-	&.min {
-		padding:$bsu/4 $bsu*2;
-		.logo {@extend .beta}
-		.sub-heading {display:none}
-	}
-	background-color: darken($primary,30%);
-	background-image: linear-gradient(45deg, rgba(darken($primary,40%),.5) 0%, transparent 100%);
-}
-
-.main {
-	position:relative;
-	margin:$bsu*8 0;
-	transition:transform 1s $easeOutQuint;
-	
-	.archive & {
-		transform:translate3d(-50%,0,0);	
-	}
-}
-
 .main__content {
-	width:100%;
-	// background: #fff url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAIAAAAYCAYAAADQ+yzZAAAAF0lEQVQIW2NkgALG4cEoLy//39nZyQgAHvQEGcWYIRgAAAAASUVORK5CYII=);
-	padding:0 19%;
-	transition:opacity 0.5s $easeOutQuint;
-	line-height:29px;
-
-	.archive & {opacity:0.22}
+  margin:0 auto $bsu*4;
+  padding:0 1em;
+  @include aboveOr(pem(960)){max-width:47.37em;}
 }
 
-.main__sidebar {
-	position:absolute;
-	top:0;left:0;
-	transform:translate3d(200%,0,0);
-	width:50%;
-	font-size:1em * 12/16;
-	padding:0 $bsu*2;
+.archive-link {
+	text-align:center;
 }

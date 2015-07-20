@@ -1,18 +1,18 @@
 /* my vars */
-$font-family-sans-serif:  	"Helvetica Neue", Helvetica, Arial, sans-serif !default;
-$font-family-serif:       	'Surveyor SSm A', 'Surveyor SSm B', serif !default;
-// $font-family-third:       	"Ubuntu Mono", sans-serif, !default;
+$font-family-sans-serif:    "Helvetica Neue", Helvetica, Arial, sans-serif !default;
+$font-family-serif:         'Surveyor SSm A', 'Surveyor SSm B', serif !default;
+// $font-family-third:         "Ubuntu Mono", sans-serif, !default;
 
 /* bits of inuit I'm using */
 $using:true;
+/* bits of inuit I'm not using */
+$using:false;
 $use-grids:         $using;
 $use-block-list:    $using;
-$push:   			$using;
-/* bits of inuit I'm not using */
+$push:         		$using;
 $use-nav:           $using;
 $use-rules:         $using;
 $use-media:         $using;
-$using:false;
 $use-flexbox:       $using;
 $use-columns:       $using;
 $use-options:       $using;
@@ -54,7 +54,7 @@ $h2-size:           36px!default; // .beta
 $h3-size:           29px!default; // .gamma 
 $h4-size:           24px!default; // .delta  
 $h5-size:           18px!default; // .epsilon 
-$h6-size:           16px!default; // .zeta	
+$h6-size:           16px!default; // .zeta  
 
 $milli-size:        13px!default;
 $micro-size:        10px!default;

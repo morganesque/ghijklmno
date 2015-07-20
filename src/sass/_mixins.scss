@@ -7,7 +7,7 @@ http://jakearchibald.github.io/sass-ie/
 
 @mixin aboveOr($width) {
 
-	@if $fix-mqs {
+  @if $fix-mqs {
         
         @if $fix-mqs gte $width { @content; }
 
@@ -19,7 +19,7 @@ http://jakearchibald.github.io/sass-ie/
 
 @mixin belowOr($width) {
 
-	@if $fix-mqs {
+  @if $fix-mqs {
         
         @if $fix-mqs lte $width { @content; }
 
