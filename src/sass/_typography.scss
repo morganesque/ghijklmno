@@ -19,13 +19,22 @@ h3 { font-size:1.5rem;}
   font-size:2em;
   text-align:center;
   margin:$bsu/2 0 $bsu;
-  letter-spacing:0.05em;
-  a {text-decoration:none;color:$secondary}
+  letter-spacing:0.05em;  
   @include aboveOr(pem(640)) {margin:$bsu 0 2*$bsu;}
+  a {
+    color:$secondary;
+    &:hover, &:active {
+      text-decoration:none;
+    }
+  }
 }
 
 a {
   color:$tertiary;
+  text-decoration:none;
+  &:hover,&:active {
+    text-decoration:underline;
+  }
 }
 
 p {
@@ -51,6 +60,7 @@ p {
 
 .post__date {
   margin-bottom:$bsu;
+  color:$secondary;
   @include aboveOr(pem(640)) {margin-bottom:2*$bsu;}
 }
 

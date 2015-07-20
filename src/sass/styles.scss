@@ -8,6 +8,7 @@ $global-border-box:true;
 
 @import "inuit.css/generic/normalize";
 @import "inuit.css/generic/reset";
+@import "inuit.css/generic/clearfix";
 
 $bsu:24px;
 
@@ -17,9 +18,32 @@ $bsu:24px;
 .main__content {
   margin:0 auto $bsu*4;
   padding:0 1em;
+  @include aboveOr(pem(560)){padding:0 3em;}
   @include aboveOr(pem(960)){max-width:47.37em;}
+}
+
+.post__content {
+	margin-bottom:2*$bsu;
 }
 
 .archive-link {
 	text-align:center;
+}
+
+.next {float:right}
+.prev {float:left}
+
+.archive__skip {
+	margin-bottom:$bsu;
+
+	ul {list-style:none}
+	li {display:inline;}
+}
+.year {
+	margin-bottom:$bsu;
+	list-style:none;
+	time {
+		color:rgba($primary, 0.76);
+		font-size:0.8em;
+	}
 }
