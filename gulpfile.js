@@ -167,8 +167,8 @@ gulp.task('sync',function()
 gulp.task('browser-sync', function() {
     $.browserSync({
         open:false,
-        // server: {baseDir: "./build/"},
-        proxy: "j.ghijklmno.tom",
+        server: {baseDir: "build"},
+        // proxy: "j.ghijklmno.tom",
         // socket: {
         //     namespace: function (namespace) {
         //         return "localhost:3000" + namespace;

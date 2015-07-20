@@ -29,7 +29,7 @@ category_dir: /
 baseurl: /
 
 # The URL of your actual domain. This will be used to make absolute links in the RSS feed.
-url: http://pararchive.flats/
+url: http://localhost:3000/
 
 #### Under the Hood Stuff #####
 
@@ -40,7 +40,7 @@ markdown: rdiscount
 excerpt_separator: "\n\n"
 
 # Makes permalinks. See Jekyll docs for alternatives.
-permalink: posts/:title/
+permalink: :year/:month/:day/:title/
 
 # How many articles do you wish to appear on the front page:
 # paginate: 3

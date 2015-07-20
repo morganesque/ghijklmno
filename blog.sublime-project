@@ -1,4 +1,6 @@
 {
+    "tab_size":2,
+    "translate_tabs_to_spaces":true,
     "folders": [
     {
         "follow_symlinks": true,
@@ -9,10 +11,7 @@
         		"bower_components", 
         		"node_modules", 
         		"tasks",
-                "build/css",
-                "build/js",
-                "build/img",
-                "build/posts",                
+                "build",
         	],
         "file_exclude_patterns": 
 	        [
