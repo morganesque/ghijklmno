@@ -75,7 +75,7 @@ gulp.task('sass',function()
     ----- JEKYLL -----
     (Runs Jekyll as a shell command)
 */
-gulp.task('jekyll', $.shell.task(['jekyll build']) );
+gulp.task('jekyll', $.shell.task(['jekyll build --watch']) );
 
 /*
     ----- JS LIBRARIES -----
@@ -203,13 +203,13 @@ gulp.task('watch', function()
         gulp.watch(glob.html,['sync']) 
 
         // Watch $.jekyll files
-        gulp.watch(glob.jekyll, ['jekyll'])
+        // gulp.watch(glob.jekyll, ['jekyll'])
 });
 
 /*
     ----- DEFAULT -----
 */
-gulp.task('default', ['browser-sync','watch']);
+gulp.task('default', ['browser-sync','watch','jekyll']);
 
 /*
     JAVASCRIPT SIZES
