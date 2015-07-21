@@ -26,14 +26,16 @@ comments: []
 
 <p>Blueargh! All you wanted to do was grab your own twitter timeline to display on your own website using a bit of PHP to grab the data as JSON. You were even willing to cache it fairly aggressively in order to spare Twitter a load of unneccesary requests. But now they&#8217;ve migrated to v1.1 there's no way to get this without authentication! And you don't understand authentication. What&#8217;s a poor boy/girl to do?</p>
 <!-- more -->
-<p><span style="font-size: 1.5em;">1. Create an application</span></p>
+<h3>1. Create an application</h3>
 
 <blockquote>In version 1.1, we're requiring applications to authenticate all of their requests with&nbsp;<a href="https://dev.twitter.com/docs/auth/oauth">OAuth 1.0a</a>&nbsp;or&nbsp;<a href="https://dev.twitter.com/docs/auth/application-only-auth">Application-only authentication</a>.</blockquote>
+
 <p>As they say you need to authenticate now. What I found was that Application-only authentication was enough for what I wanted to do. So the first thing I did was create a new application. I had to sign in to twitter and then go to my&nbsp;<a href="https://dev.twitter.com/apps">apps page</a>. Once there I clicked the "Create a new application" button.</p>
 
 <p>I had to give my app a <strong>name</strong>, <strong>description</strong> and <strong>website URL</strong> so I just filled these in with my website's name, a description of "my website" and the URL ... of my website. I didn't fill in the&nbsp;<strong>Callback URL</strong> and everything was fine, so I guess for my purposes it wasn't needed.</p>
 
 <h3>2. Secret Key</h3>
+
 <p>Next I had to grab my <strong>Consumer Key</strong> and my <strong>Consumer Secret,&nbsp;</strong>these are needed to move to the next step. They're displayed on your App page (for the app you&#8217;ve just created). Twitter helpfully explains on <a href="https://dev.twitter.com/docs/auth/application-only-auth">this page</a> what you needed to do with them. Now, this is the point where things get weird. I found that page very hard to understand. I'm no security expert or API expert or auth expert so a lot of the language there was confusing.</p>
 
 <p>I did manage to glean that I had to combine my Consumer Key and Consumer Secret in a single string (with a colon : in between) this is called the&nbsp;<strong>Bearer token credentials</strong>. Then I had to <strong>base64encode</strong> that string.</p>
