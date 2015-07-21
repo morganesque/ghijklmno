@@ -14,7 +14,6 @@ $global-border-box:true;
 $bsu:24px;
 
 @import "fonts";
-@import "typography";
 @import "icons";
 
 .main__content {
@@ -61,6 +60,127 @@ $bsu:24px;
 		}
 	}
 }
+
+body {
+  @extend %ff-light;
+  color:#333;
+  font-size:16px; line-height:1.5;
+  @include aboveOr(pem(640)) {font-size:19px;}
+  @include aboveOr(pem(1400)) {font-size:24px;}
+}
+
+h1 {font-size:3rem; line-height:1;}
+h2 { font-size:2rem;}
+h3 { font-size:1.5rem;}
+
+.logo {
+  @extend %ff-light;
+  font-size:2em;
+  text-align:center;
+  margin:$bsu 0 $bsu;
+  letter-spacing:0.05em;  
+  @include aboveOr(pem(640)) {margin:$bsu*2 0 2*$bsu;}
+  a {
+    color:$secondary;
+    &:hover, &:active {
+      text-decoration:none;
+    }
+  }
+}
+
+a {
+  color:$tertiary;
+  text-decoration:none;
+  &:hover,&:active {
+    text-decoration:underline;
+  }
+}
+
+.link {
+  padding:$bsu/2;
+  &:hover, &:active {
+    background-color:$blockquote;
+    text-decoration:none;
+  }
+}
+
+p {
+  margin-bottom:$bsu; 
+}
+
+.sub-heading {
+  font-size:0.9em;
+  text-align:center;
+  margin-bottom:$bsu;
+  @include aboveOr(pem(640)) {margin:2*$bsu;}
+}
+
+.post__title {
+  font-size:2em;
+  line-height:1.2;
+  margin-bottom:$bsu*1;
+  @include aboveOr(pem(640)) {
+    font-size:3em; 
+    line-height:1.1;
+    margin-bottom:$bsu*3;
+  }
+}
+
+.post__date {
+  margin-bottom:$bsu;
+  color:$secondary;
+  @include aboveOr(pem(640)) {margin-bottom:2*$bsu;}
+}
+
+.post__excerpt {
+  color:black;
+  font-size:1.1em;
+  margin-bottom:$bsu;
+  @include aboveOr(pem(640))
+  {
+    font-size:1.2em;
+    line-height:1.5em;
+  }
+}
+
+.post__content {
+  h3 {
+    font-size:1.5em;
+  }
+  h1,h2,h3,h4 {
+  	font-weight:normal;
+    margin-bottom:$bsu;
+  }
+  blockquote {
+    padding:$bsu 2*$bsu;
+    margin-bottom:$bsu;
+    border-left:$bsu/4 solid $secondary;
+    background-color:$blockquote;
+  }  
+  pre, code {
+    font-size:0.7em;
+    background-color:rgba(desaturate($tertiary,42),0.14);
+    padding:0.25em 0.5em;
+    border-radius:0.25em;
+  }
+  pre {    
+    padding:$bsu;    
+    margin-bottom:$bsu; 
+  }
+  ul,ol {
+    margin-bottom:$bsu;
+    padding:0 2*$bsu;
+  }
+  li {
+    margin-bottom:$bsu/2;
+  }
+  .note {
+    background-color:rgba(desaturate($tertiary,42),0.14);
+    padding:1em;
+    font-size:0.8em;
+  }
+}
+
 
 .archive__skip {
 	margin-bottom:$bsu;
