@@ -19,6 +19,8 @@ categories:
 tags: []
 comments: []
 ---
+<!-- more -->
+
 <p>Had a cold, so coughed and sniffled through the weekend like a good &#8217;un. Then on Sunday the sun came out my nose cleared and I started to feel human again only to have my wisdom tooth (left side) start to hurt like a field  of painful lettuces.
 </p>
 

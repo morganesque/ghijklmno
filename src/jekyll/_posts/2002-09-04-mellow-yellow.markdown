@@ -19,6 +19,8 @@ categories:
 tags: []
 comments: []
 ---
+<!-- more -->
+
 <p>Phew! Now then, well ... </p>
 
 <p>How are you doing? Glad you made it. Like the new colours?</p>

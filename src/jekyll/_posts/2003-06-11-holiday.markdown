@@ -19,6 +19,8 @@ categories:
 tags: []
 comments: []
 ---
+<!-- more -->
+
 <p>So yeah...</p>
 
 <p class="firstpar">We&#8217;re off to Paris for a weeks holiday soon. It&#8217;s just getting to the stage now where I&#8217;m reading the guide book and having a look at the map and thinking about which parts of it we absolutely definietly must not miss. There&#8217;s a hell of a lot of it you know.</p>

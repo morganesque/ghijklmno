@@ -19,5 +19,7 @@ categories:
 tags: []
 comments: []
 ---
+<!-- more -->
+
 <p>For a while now work has been a bit more <a href="http://www.cs.rice.edu/~ssiyer/minstrels/txt/544.txt">toad-like</a> than maybe it should have been.  Today marks the end of that particular period, and although the toad still squats there&#8217;s something of a halfway grin on it&#8217;s lips. Maybe I&#8217;ll spare the pitchfork a little while longer.</p>
 

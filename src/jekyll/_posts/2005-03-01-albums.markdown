@@ -19,6 +19,8 @@ categories:
 tags: []
 comments: []
 ---
+<!-- more -->
+
 <p>I was looking through Channel Four&#8217;s list of potential <a href="http://www.channel4.com/entertainment/tv/microsites/G/greatest/albums/">Best Albums Ever</a>. They&#8217;ve got a list of 125 there to start you off choosing your favourite 5 from which they&#8217;ll generate the final 100 (I think you can point out omissions too if you want).</p>
 
 <p>Anyway, point is, I was struck by how many recent albums were on the list and seeing as I was there I decided to rip off the list and re-order it by year in order to get a better idea of how (seemingly) biased they were being. The results of my efforts are <a href="/100s/channel4_albums.html">here</a>.</p>

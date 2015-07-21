@@ -19,5 +19,7 @@ categories:
 tags: []
 comments: []
 ---
+<!-- more -->
+
 <p>This IMified thing looks quite good I'm just using it now to create the very post. I can't tell yet whether edittting a blog via IM is going to be the next big thing but I do like the idea of being able to interact with these things via IM instead of needing a browser. I wonder whether there are mobile implications to this or not?</p>
 

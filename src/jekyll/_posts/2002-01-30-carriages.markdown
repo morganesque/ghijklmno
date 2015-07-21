@@ -19,5 +19,7 @@ categories:
 tags: []
 comments: []
 ---
+<!-- more -->
+
 <p>There were four carriages on my train this morning. This made me very happy. Too happy in fact, which makes me sad.</p>
 

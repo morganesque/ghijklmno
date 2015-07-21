@@ -19,5 +19,7 @@ categories:
 tags: []
 comments: []
 ---
+<!-- more -->
+
 <p>Yet another redesign. I think this one is going to stick though (he says). I&#8217;ve taken some advice and put the blog back on the front page - you can now view older entries on the blog page. I&#8217;ve finally got rid of the grey-tartan background and I think it&#8217;s a good thing. It was hampering what could be done. Anyway you can still mail me using the mail page so drop me a line and let me know what you think. Go on!!</p>
 

@@ -19,6 +19,8 @@ categories:
 tags: []
 comments: []
 ---
+<!-- more -->
+
 <p>A couple of restaurants stand out from Paris and so for completions sake (and so I can get on with writing about something else) I&#8217;m just going describe them. Both were recommendations from the guide book we took with us.</p>
 
 <dl>

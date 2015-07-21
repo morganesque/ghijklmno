@@ -18,5 +18,7 @@ categories: []
 tags: []
 comments: []
 ---
+<!-- more -->
+
 <p>is a&nbsp;web artisan, interaction designer, user experience bod, front-end techie, freelancer (<a href="http://morganesque.com/">hire me!</a>), husband, dad (x2), welshish man; fan of daniel kitson, tom waits &amp; mark rothko; aimiable, GSOH, 5'10", glasses, not unlike a young Eric&nbsp;Morecambe&nbsp;(not so young anymore); ertwhile footballer, painter &amp; computer gamer.</p>
 

@@ -19,5 +19,7 @@ categories:
 tags: []
 comments: []
 ---
+<!-- more -->
+
 <p>Have bad tooth ache. Almost exactly two years since I had the wisdom teeth from the right side of my face removed,  it looks like their buddies on the left are starting to get bolshy. Took some paracetemol and started praying - must chew everything on the left, no right, arrrgh!!</p>
 

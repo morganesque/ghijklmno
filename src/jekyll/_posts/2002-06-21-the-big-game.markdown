@@ -19,6 +19,8 @@ categories:
 tags: []
 comments: []
 ---
+<!-- more -->
+
 <p>I promised my shrink I wouldn&#8217;t care about football at all this week. He said it could be damaging to entertain hope. Of course he was right. We weren&#8217;t even robbed, just kind of side stepped. We could have done it but we didn&#8217;t, simple as that. As a wise man once said:</p>
 
 <p>"If God meant the game to be played up high, he would have built goal posts in the sky"</p>

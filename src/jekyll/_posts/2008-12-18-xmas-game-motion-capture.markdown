@@ -19,6 +19,8 @@ categories:
 tags: []
 comments: []
 ---
+<!-- more -->
+
 <p>Movement detection with a webcam, just how do we do it? Well, in the immortal words of Dr Seuss "it's really quite simple, there's nothing much to it".
 It turns out that combining a couple of elements of Flash you can pretty swiftly get up and running with a movement detection system which whilst perhaps not the most sophisticated is easily enough to allow a small snowy man to dodge a few snowballs.
 So where do we start? Well we're going to approach this by creating a Document Class. This seems like a good approach for a demonstration but all the code below could just as easily be abstracted into a reusable Class elsewhere (as we actually did for the game).

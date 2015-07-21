@@ -19,6 +19,8 @@ categories:
 tags: []
 comments: []
 ---
+<!-- more -->
+
 <p>Well, what the Sam Hill has been going on recently? "Certainly nothing worth writing about" I hear you say. Well, probably that&#8217;s true, although I&#8217;ve also been a bit lazy, and have suddenly been doing a few drawings instead (you can&#8217;t have both you know!).</p>
 
 <p>Life has been continuing. We&#8217;ve been battening down certain hatches ready for the winter. Painting exterior surfaces and fences and screwing things down (and together). We&#8217;ve been visiting The Rubbish Tip, sorting stuff right out, and planning (don&#8217;t forget the planning).</p>

@@ -19,5 +19,7 @@ categories:
 tags: []
 comments: []
 ---
+<!-- more -->
+
 <p>Works night out last night. I baled out early but from the looks of things this morning the rest carried on for a while. It&#8217;s quite nice to be in such an empty office in the morning. Probably why I feel I can sit here writing this instead of getting on with some work.</p>
 

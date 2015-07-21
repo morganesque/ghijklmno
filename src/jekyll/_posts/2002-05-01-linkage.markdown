@@ -19,5 +19,7 @@ categories:
 tags: []
 comments: []
 ---
+<!-- more -->
+
 <p>Kev is having a <a href="http://www.sorehead.org/">week of movies and music</a>. Very nice.</p>
 

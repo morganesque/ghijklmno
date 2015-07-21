@@ -19,6 +19,8 @@ categories:
 tags: []
 comments: []
 ---
+<!-- more -->
+
 <p>I&#8217;m off to <a href="http://www.dumfries-and-galloway.co.uk/maps/map.htm">Dumfries</a> for a few days but if you can (as <a href="http://sorehead.org/redbook/prev/000402.php#000402">Kev</a> says) <a href="http://www.resistbush.org/">Resist Bush</a>.</p>
 
 <p class="firstpar">So the American President is coming and suddenly we&#8217;ve got <a href="http://news.bbc.co.uk/1/hi/uk_politics/3279179.stm">extra security</a> around the capital because of a "heightened threat of terrorist attack". That&#8217;s a coincidence right?</p>

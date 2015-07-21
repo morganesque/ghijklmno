@@ -19,6 +19,8 @@ categories:
 tags: []
 comments: []
 ---
+<!-- more -->
+
 <p>Over there on the right. I&#8217;ve added a little column of images that represents the latest uploads to this online photo management service <a href="http://www.flickr.com">Flickr</a>, which I&#8217;ve been getting into recently.</p>
 
 <p>No doubt it&#8217;ll only turn out to be a passing fad or something but for the time being I&#8217;m going to leave it over there and see how it goes. I&#8217;m going to try and remember to take some interesting pictures with the camera in my phone, so maybe it&#8217;ll be a good way to keep this thing supplied with new content.</p>

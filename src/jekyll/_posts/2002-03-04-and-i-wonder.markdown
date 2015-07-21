@@ -19,5 +19,7 @@ categories:
 tags: []
 comments: []
 ---
+<!-- more -->
+
 <p>Lately I find I have the new Will Young (Pop Idol) song etch-a-sketched into my brian. I have to shake my head very very hard to clear it, and even then before long I see the little black line begin it&#8217;s journey all over again. I&#8217;m gonna take this night... arrrrrrrgh!</p>
 

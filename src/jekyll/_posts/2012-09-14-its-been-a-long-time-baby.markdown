@@ -19,6 +19,8 @@ categories:
 tags: []
 comments: []
 ---
+<!-- more -->
+
 <p>In which I explain why suddenly all the bits of blogging I've done over the years have now found a home here, even if that means Google will probably shun for all eternity for duplicating content or some such.</p>
 <!-- more -->
 <p>There's a wonderful Mitchell and Webb sketch from their radio series in which a guy goes to heaven and is informed by the angels there that in terms of hours spent, added up, his lifes work consisted mainly of playing Minesweeper on his computer.</p>

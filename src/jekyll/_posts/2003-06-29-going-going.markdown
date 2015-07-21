@@ -19,6 +19,8 @@ categories:
 tags: []
 comments: []
 ---
+<!-- more -->
+
 <p>You know that feeling when you&#8217;ve got something to say but you can&#8217;t say it, and because you can&#8217;t say it you can&#8217;t say anything else. It&#8217;s like when you&#8217;ve got a question that you&#8217;re wanting to ask but you feel like you&#8217;ve got to make small talk first before you can ask, but consequently you can&#8217;t think of anything else to say because the only thing on your mind is the question. Or like when you&#8217;ve got something to confess and until you&#8217;ve admitted it you can&#8217;t concentrate on anything else.</p>
 
 <p class="firstpar">I haven&#8217;t quite been able to say anything properly for a while now.</p>

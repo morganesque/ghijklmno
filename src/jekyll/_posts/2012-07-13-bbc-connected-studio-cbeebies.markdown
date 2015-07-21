@@ -19,6 +19,8 @@ categories:
 tags: []
 comments: []
 ---
+<!-- more -->
+
 <p>Yesterday I took part in a <a href="http://www.bbcconnectedstudio.co.uk/">BBC Connected Studio</a> event at <a title="media city" href="http://www.mediacityuk.co.uk/">Media City</a>, Salford. Connected Studios are one day events in which people from various digital industries are allowed to come to the BBC and spend a day with them generating new ideas around various BBC products and then pitching them at the end. There’s the chance to be invited back for a couple of days to build prototypes and even the possibility of your idea being made into a pilot (if you’re lucky!).</p>
 <!-- more -->
 <p><a href="/img/2012/07/cbeebies.jpg"><img class="alignnone size-full wp-image-751" title="cbeebies" src="/img/2012/07/cbeebies.jpg" alt="" width="100%" /></a></p>

@@ -19,6 +19,8 @@ categories:
 tags: []
 comments: []
 ---
+<!-- more -->
+
 <p>Spent the weekend celebrating Kirsty&#8217;s Mum&#8217;s Birthday drinking a big chunk of the alcohol which was meant to be drunk at the party which never happened because Ken (her husband) dove for a ball while playing cricket and fractured his collar bone as well as dislocating it and was meant to be in hospital having an operation but wasn&#8217;t because the most recent consultant he saw decided that it might heal itself in time and was probably best left although he still has a lump on his left shoudler where what ever it is is sticking up. They also have a nice new digital cam-corder.</p>
 
 <p class="firstpar">As we all know, when someone has a cam-corder there&#8217;s a few things which we are all obliged to do.</p>

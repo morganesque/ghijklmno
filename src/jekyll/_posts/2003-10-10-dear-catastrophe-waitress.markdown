@@ -19,6 +19,8 @@ categories:
 tags: []
 comments: []
 ---
+<!-- more -->
+
 <p><a href="http://sorehead.org">KEv</a> did a copy of Belle and Sebastians new album Dear Catastrophe Waitress for me, which is fantastic. A really really great album. The best new album I&#8217;ve  heard since the first Coral one (I think). This is a prime example of when so called &#8220;music piracy&#8221;  pays off for the band themselves because seeing as it&#8217;s so wonderful I&#8217;m completely determined to buy the CD myself and, when I do, to pass on the &#8217;copy&#8217; to someone else I know who&#8217;ll like it, thereby spreading the word about a piece of music that it&#8217;s actually worth spending some money on.</p>
 
 <p>I haven&#8217;t the skill or energy to try and describe why it&#8217;s so good right now, but I&#8217;ll just say that to me it has all the strengths of Belle and Sebastian at their best along with a good dose of well directed inventiveness and some silky smooth production.</p>

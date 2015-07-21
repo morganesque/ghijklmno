@@ -19,6 +19,8 @@ categories:
 tags: []
 comments: []
 ---
+<!-- more -->
+
 <p>Look I&#8217;m not wanting to labour the point here or anything but he just keeps doing these things. Last night he managed this:</p>
 
 <p><center><img src="/photos/phone/charlie_on_back_3.jpg" width="132" height="176" border="0" alt="what the?" /></center></p>

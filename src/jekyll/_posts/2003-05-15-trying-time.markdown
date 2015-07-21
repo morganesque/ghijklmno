@@ -19,6 +19,8 @@ categories:
 tags: []
 comments: []
 ---
+<!-- more -->
+
 <p>Yet more disturbing <a href="http://www.commondreams.org/views03/0513-10.htm">stuff</a> about the real story of the Iraq war.</p>
 
 <p class="firstpar">I&#8217;m trying to build up an idea in my mind of exactly what I think is happening but it&#8217;s quite hard when there always seems to be new things to take into account and new theories as to why and how. What is clear though is that  the gross simplifications we&#8217;re being sold at the moment by politicians and the media are as good as (and at the same time worse than) lies.</p>

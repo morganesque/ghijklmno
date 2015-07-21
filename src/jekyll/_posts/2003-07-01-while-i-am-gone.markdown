@@ -19,6 +19,8 @@ categories:
 tags: []
 comments: []
 ---
+<!-- more -->
+
 <p>Well I&#8217;m probably well and truly in Paris by now, and seeing as Kirsty is probably there with me and no longer able to access the internet I can safely tell you without fear of giving the game away.</p>
 
 

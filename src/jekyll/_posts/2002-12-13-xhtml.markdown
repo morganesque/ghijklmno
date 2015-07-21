@@ -19,6 +19,8 @@ categories:
 tags: []
 comments: []
 ---
+<!-- more -->
+
 <p><a href="http://www.dashes.com/anil/index.php?archives/004158.php">Interesting blog entry</a> (and debate following it) about the use of XHTML for syndication. Including the folowing quote:</p>
 
 <p style="margin:0px 10px;font-style:italic;">"I have been deeply engrossed in data vs display in frameworks for a long time (including other areas of HTML and XML) and I can tell you from a lot of experience that losing the separatation between the two is a nuclear minefield waiting to happen."</p>

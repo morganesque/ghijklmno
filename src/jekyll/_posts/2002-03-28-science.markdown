@@ -19,6 +19,8 @@ categories:
 tags: []
 comments: []
 ---
+<!-- more -->
+
 <p>Some time ago scientists said that due to everything we were doing to the world bad things would happen in the future. Global warming, ice caps melting, serverer weather, general catastophy. Our response to this was mostly:
 </p>
 

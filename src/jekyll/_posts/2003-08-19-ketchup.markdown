@@ -19,6 +19,8 @@ categories:
 tags: []
 comments: []
 ---
+<!-- more -->
+
 <p>A few recent events of note (I think):</p>
 
 <ul>

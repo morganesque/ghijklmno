@@ -19,6 +19,8 @@ categories:
 tags: []
 comments: []
 ---
+<!-- more -->
+
 <p>In the spirit of a previous post here I&#8217;ve found this</p>
 
 <p style="text-align:center"><a href="http://www.math-inf.uni-greifswald.de/~fricke/cds/pa.mp.html"><img src="/images/monty_sings.gif" width="105" height="106" alt="monty python sings" /></a></p>

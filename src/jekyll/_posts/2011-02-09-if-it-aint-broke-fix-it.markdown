@@ -19,6 +19,8 @@ categories:
 tags: []
 comments: []
 ---
+<!-- more -->
+
 <p>My children are three and five years old at the moment so it seemed appropriate in a number of ways that Santa brought a copy of the game Connect 4 for Christmas. I had it when I was young and the mixture of simplicity and mild competition seemed like a good 'next step' in terms of what toys we have in the house.</p>
 
 <p>The game itself is of course a classic one of those easy to learn, impossible to master games. OK, it leans towards the noughts and crosses (actually possible to master) end of the spectrum but still with a lot of mileage for youngsters. It is no doubt an excellent precursor to the kind of think-X-moves-ahead games such as chess.</p>

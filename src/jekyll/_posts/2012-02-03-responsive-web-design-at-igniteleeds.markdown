@@ -19,6 +19,8 @@ categories:
 tags: []
 comments: []
 ---
+<!-- more -->
+
 <p>Last night I did another <a href="http://en.wikipedia.org/wiki/Pecha_Kucha">pecha kucha</a> style talk this time at an event called <a href="http://igniteleeds.com/">Ignite</a> held at <a href="http://www.oldbroadcastinghouse.com/">Old Broadcasting House</a> in Leeds. The format is basically 20 slides each set to appear for 15 seconds and then auto-advance. As opposed to <a href="http://morganesque.com/blog/2011/04/magic-conspiracy-theories/">the BettaKulcha talk I did last April</a> this event has a more tech-heavy slant and so it was more appropriate to talk about something I do for a living.</p>
 <!-- more -->
 <p><em>I chose to talk about Responsive Web Design. The slides are below, along with notes which (as before) are pretty much what I said or meant to say but with most of the umms and errrs removed.</em></p>

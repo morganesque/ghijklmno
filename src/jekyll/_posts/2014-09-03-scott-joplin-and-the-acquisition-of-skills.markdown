@@ -19,6 +19,8 @@ categories:
 tags: []
 comments: []
 ---
+<!-- more -->
+
 <p>I grew up in a house where the children were forced to have piano lessons (call me middle class if you will, it would be an accurate and wholly justified thing to do). I didn't really take to the lessons mainly because I never practised. I passed the Grade 1 exam but before long the whole thing fell away.</p>
 <!--more-->
 <p>A little later though we acquired a book with the sheet music to a number of <a href="http://en.wikipedia.org/wiki/Scott_Joplin">Scott Jopin</a>'s tunes. If you don't know Joplin he wrote "<a href="http://en.wikipedia.org/wiki/Classic_rag">ragtime</a>" which is a kind of mild piano-based early form of jazz. More importantly though it was a Scott Joplin tune that was used as the <a href="https://www.youtube.com/watch?v=-nXUPHR17FI">theme music for the Pot Black TV Snooker show</a> and it was both a fun tune and quite impressive.</p>

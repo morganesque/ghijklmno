@@ -19,6 +19,8 @@ categories:
 tags: []
 comments: []
 ---
+<!-- more -->
+
 <p>Recently I&#8217;ve found <a href="http://proce55ing.net/index.html">something new</a> (via:<a href="http://kevan.org/proce55ing/zombies/">this</a>). It&#8217;s like a programming language which sits on top of Java and hides some things you can do (which could be quite awkward for a beginner) behind much simpler commands. It&#8217;s made for people who are wanting to do visual user-interface type programming but haven&#8217;t got enough expertise to jump right in. It also has an amazing development environment that you can download which allows you to develop using a &ldquo;change and refresh&rdquo; style - which is much better for me used as I am to programming for the web. It also has a function to convert what you&#8217;ve created back into Java and save it out as a working Java applet - just click a button and there it is.</p>
 
 <p>I&#8217;ve not being playing with it for very long and I&#8217;ve already managed to come up with this:

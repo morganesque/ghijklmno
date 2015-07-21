@@ -19,6 +19,8 @@ categories:
 tags: []
 comments: []
 ---
+<!-- more -->
+
 <p>I heard a great joke the other day:</p>
 
 <p class="firstpar">Two snowmen in a field. One says to the other. "Can you smell carrots?"</p>

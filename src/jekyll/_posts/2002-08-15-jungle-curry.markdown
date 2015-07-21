@@ -19,6 +19,8 @@ categories:
 tags: []
 comments: []
 ---
+<!-- more -->
+
 <p>Went out to a lovely Thai resturant in Leeds last night for Kirsty&#8217;s friends birthday. I had, what they call, a &#8220;Jungle Curry&#8221; which was face sweatingly hot. Thai curry looks so different to Indian curry. A bit wishy washy without the thick sauce I&#8217;d usually expect. It lulls you into a false sense of oral security by looking not very spicey at all - and then Blam! you&#8217;re knocking back gallons of water and begging for mercy.</p>
 
 <p>Excellent!!</p>

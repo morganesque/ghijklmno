@@ -19,6 +19,8 @@ categories:
 tags: []
 comments: []
 ---
+<!-- more -->
+
 <p>Well, at long last I&#8217;ve sorted the old CD writer problem. I can safely say now that (touch wood, fingers crossed, stand on one leg, sell my soul to Satan) I have a CD writer which works. I&#8217;m almost scared to even write it, in case it&#8217;s tempting fate too much. I mean I bought it on Saturday and it&#8217;s worked all weekend but what does that mean? It&#8217;s probably just about to break right now. It&#8217;s probably got some kind of work-for-two-days-then-brake built in mechanism.</p>
 
 <p>Well anyway having got my money back for the last one I decided to just go out and replace it with something that was nigh on identical but just made by a different company, and it worked. One huge plus point was that while the previous one came with a cut down version of the software (with the rather annoying option to pay &pound;60 for an upgrade) this one comes with a full package and loads of documentation in such a way that you feel almost like they care whether it works when you get it home.</p>

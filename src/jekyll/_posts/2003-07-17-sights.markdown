@@ -19,6 +19,8 @@ categories:
 tags: []
 comments: []
 ---
+<!-- more -->
+
 <p>Some sights we saw while in Paris</p>
 
 <dl>

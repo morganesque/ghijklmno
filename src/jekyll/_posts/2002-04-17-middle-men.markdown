@@ -19,6 +19,8 @@ categories:
 tags: []
 comments: []
 ---
+<!-- more -->
+
 <p><i>"Can I help you?"</i></p>
 
 <p><i>"Yes, I see your house is for sale and I like the look of it. Can I give you thousands of pounds for it?"</i></p>

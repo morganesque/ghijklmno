@@ -19,5 +19,7 @@ categories:
 tags: []
 comments: []
 ---
+<!-- more -->
+
 <p>Someone once said that blogging was a good way to learn about something. Well he's to blame for what follows, not me! Enjoy!</p>
 

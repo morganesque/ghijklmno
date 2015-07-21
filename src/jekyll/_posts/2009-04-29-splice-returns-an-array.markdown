@@ -19,6 +19,8 @@ categories:
 tags: []
 comments: []
 ---
+<!-- more -->
+
 <p>This one caught me out for a long time today.</p>
 
 <p>I have an array of Objects which I want to jumble up a bit. AS3 doesn't come with a randomise (or randomize in the US!) function so I Googled around a bit to find one. The following came from some site somewhere and is no doubt a very well intentioned piece of code.</p>

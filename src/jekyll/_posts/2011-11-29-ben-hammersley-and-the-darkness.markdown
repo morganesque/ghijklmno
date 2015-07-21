@@ -19,6 +19,8 @@ categories:
 tags: []
 comments: []
 ---
+<!-- more -->
+
 <p>I went to see Ben Hammersley speak at the Rose Bowl in Leeds. Then I came back and wrote this with my tongue ever so slightly in my cheek.</p>
 
 <p>It was the best of times it was the worst of times. It was also the darkest of times.</p>

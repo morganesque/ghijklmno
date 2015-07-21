@@ -19,6 +19,8 @@ categories:
 tags: []
 comments: []
 ---
+<!-- more -->
+
 <p>Last year we went to see a comedian called <a href="http://ghijklmno.net/blog/1043742879/">Daniel Kitson</a>. He was excellent.</p>
 
 <p>So good was he in fact that I was (so I&#8217;m told) first in the que at the <a href="http://www.leeds.gov.uk/CityVarieties/">Leed City Varieties</a> to get tickets for, this time, not only me and Kirsty but also <a href="http://sorehead.org/">Kev</a>, Rob and my sister Polly and her fella James. So this time I was slightly more concerned that he&#8217;d turn out to be good, having recommended him to people and that. Luckily he didn&#8217;t dissappoint. With the exact same style that so endeared me to him last year he performed a completely new, and yet somehow exactly the same, set - which if you like the guy is exactly what you want.</p>

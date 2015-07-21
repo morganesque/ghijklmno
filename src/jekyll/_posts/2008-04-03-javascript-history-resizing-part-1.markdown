@@ -19,6 +19,8 @@ categories:
 tags: []
 comments: []
 ---
+<!-- more -->
+
 <p>OK here's a good one. I wanted to create a Flash site which acted like a normal HTML website. Why I would want to do this? You can only guess.Two things I found are a problem when it comes to this. Resizing &amp; History.(I'll deal with History in Part 2)Resizing means getting the browser to react to changes in the size of your Flash as it does to different HTML pages within a normal website (i.e. including and resizing scrollbars at the side of the page). Seeing as your swf is going to be the only thing on this page in order to achieve this we have to resize the swf within the HTML.I'm happy to tell you that all this can be achieved via the wonder which is ExternalInterface. This is the AS3 class which can act as a bridge between Actionscript in your swf and JavaScript in the HTML page. It's also a cinch to use!<span style="font-weight: bold;">context</span>: <span style="font-style: italic;">I use SWFObject.js as a way to embed my swf's into HTML pages. I don't know whether it's peculiar in this respect, but it means in the HTML the &lt;embed&gt; or &lt;object&gt; tags used always have a nice id="something" which identifies the swf within the page. That id="something" is going to be important.</span>I've embedded my swf in the HTML with the following code:
 <pre>
 &lt;script&gt;var so = new SWFObject(&quot;Something.swf&quot;, &quot;something&quot;, &quot;100%&quot;, &quot;700&quot;, &quot;8&quot;, &quot;#FFFFFF&quot;);so.addParam(&quot;scale&quot;, &quot;noscale&quot;);so.addParam(&quot;salign&quot;, &quot;t&quot;);so.write(&quot;flashcontent&quot;);&lt;/script&gt;

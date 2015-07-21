@@ -19,6 +19,8 @@ categories:
 tags: []
 comments: []
 ---
+<!-- more -->
+
 <p>Went to Ilkley Literature Festival on Saturday with <a href="http://www.billydelines.org.uk/">Rob</a>. Well actually we went to <a href="http://www.ilkleyliteraturefestival.co.uk/event-07">a little event</a> which was part of the ongoing festival.</p>
 
 <p>It was based around two cartoonists <a href="http://www.glenbaxter.com/">Glen Baxter</a> and <a href="http://www.jackyfleming.co.uk/">Jacky Flemming</a> who seemed very nice but didn&#8217;t seem to have that much to say really; much to the chagrin of the bald gentleman who&#8217;s job it was to turn the thing into a Parkinson-style chat-show.</p>

@@ -19,5 +19,7 @@ categories:
 tags: []
 comments: []
 ---
+<!-- more -->
+
 <p>Well I&#8217;ve put the new design up so you can sit in judgment and tell me how much better it was before :) I&#8217;ve removed the voting button from the display pages for the time being until I can sort some stuff out and I think I&#8217;m going to make a few more changes but I thought I&#8217;d stick it up and mend it on the fly.</p>
 

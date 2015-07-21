@@ -19,6 +19,8 @@ categories:
 tags: []
 comments: []
 ---
+<!-- more -->
+
 <p><a href="http://betali.st/" target="_blank">Betali.st</a> is a blog which hopes to allow you to "be the first to discover and get access to the latest internet startups". I can't remember where I came across it, but I've been following via RSS for a little while now. It's kind of fun because not only do they occasionally throw you a new service that's actually potentially useful but also it's a little insight into what start-ups are out there and what they're doing.</p>
 
 <p>For me personally I find it a fascinating window into a certain type of web design. Obviously these sites tend to be very much single page affairs. They're asking you to sign up for a beta testing phase or they're at a kind "invite only" stage of development so you tend to get a little teaser of information and a sign-up box. What's interesting is the way that for a lot of these there seems now to have emerged a standard for pages of this type which look almost identical. You might not always notice this if you happened to come across these sites randomly or via some other method but having them presented in a list like this just makes those similarities pop out.</p>

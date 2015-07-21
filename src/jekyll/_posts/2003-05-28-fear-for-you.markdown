@@ -19,6 +19,8 @@ categories:
 tags: []
 comments: []
 ---
+<!-- more -->
+
 <p>Interesting <a href="http://www.guardian.co.uk/usa/story/0,12271,965562,00.html">short article</a> about the state of play as seen by <a href="http://www.amnesty.org.uk/">Amnesty</a>.</p>
  
 <p class="firstpar">I&#8217;m sure I remember reading something (or maybe saw it on TV) around the late 90&#8217;s which was talking about the end of the cold war and how it was ushering in a period which was relatively unknown in the history of Britain. I can&#8217;t remember it exactly, but the basic gist was that the general populace (of this country) had been experiencing, for pretty much the first time, a period where they were not at serious physical threat from war (since the end of WWII I think they said).</p>

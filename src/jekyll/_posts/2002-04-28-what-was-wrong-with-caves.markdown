@@ -19,6 +19,8 @@ categories:
 tags: []
 comments: []
 ---
+<!-- more -->
+
 <p>Well, as we&#8217;re being told by lots of people recently surveys aren&#8217;t always as bad as they first appear. It certainly had a few things in it that are worth looking into but we think it shouldn&#8217;t cause too many problems. The solicitor&#8217;s got it now and he&#8217;s going to write with his recommendations. So we shall see what we shall see.
 </p>
 

@@ -19,6 +19,8 @@ categories:
 tags: []
 comments: []
 ---
+<!-- more -->
+
 <p>I've noticed a pattern with the way I learn new things which seems to repeat and yet is something I never able to sidestep or short cut even when I see it happening.</p>
 <!-- more -->
 <ol>

@@ -19,6 +19,8 @@ categories:
 tags: []
 comments: []
 ---
+<!-- more -->
+
 <p>I was walking to the station when I saw a guy entering the Cricket Club on foot. He was wearing vaguely sporty clothing, although nothing you would expect someone to wear for cricket, and was carrying a rucksack over his shoulder. As he walked through the car park he gave a whistle.</p>
 
 <p>It wasn&#8217;t a tunefully whistle it was a &#8220;catch your attention&#8221; whistle. Kind of &#8220;peep peep&#8221; (how hard is it to write whistling in words??). I turned round because as far as I knew I was the only other person around. However, it was obvious though that he wasn&#8217;t trying to catch my attention so I turned back - only to be surprised by a dog skipping round the corner and jogging off towards the man. So there you go - minute mystery that it was:  solved.</p>

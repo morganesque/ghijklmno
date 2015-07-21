@@ -19,6 +19,8 @@ categories:
 tags: []
 comments: []
 ---
+<!-- more -->
+
 <p>Heehee - far be it from me to laugh at the televisual misfortunes of my loverly other half but ...</p>
 
 <p>Last night she sat down to watch a program where a load of ladies surprise their fellas by proposing to them on national television on a set that seemed to be something like a cross between Miss World and Eurovision and guided by two presenters more wooden than a mahogany crate full of small wooden status of Richard Whitely. That was as much as I saw because I could stand it no longer and left.</p>

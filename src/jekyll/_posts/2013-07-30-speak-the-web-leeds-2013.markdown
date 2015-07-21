@@ -19,6 +19,8 @@ categories:
 tags: []
 comments: []
 ---
+<!-- more -->
+
 <p>I went to see Speak The Web last again week in Leeds. I say again because I went to the <a href="http://speaktheweb.org/leeds/">last one</a> (Feb 2010) which was ace so I made a bit of an effort to go to this one. It didn't disappoint.</p>
 <!-- more -->
 <p>I arrived at the <a href="http://www.thewardrobe.co.uk/">Wardrobe</a> a bit early and was ushered downstairs where just a few people had already arrived and were scattered around the place. The room itself is a bit like a jazz/comedy club with a little sunken area in the middle with tables and stools surrounded by kind of balcony seats around the edge and flanked by a bar at the back. It was actually just the right kind of venue for this kind of thing.</p>

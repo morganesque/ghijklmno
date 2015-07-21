@@ -19,6 +19,8 @@ categories:
 tags: []
 comments: []
 ---
+<!-- more -->
+
 <p>Yesterday I was on my way home, and had got on my train sat down and put my bag on the seat next to me. Now, as far as I&#8217;m concerned there&#8217;s an unspoken rule about this, which goes as follows:</p>
 
 <p>Seeing as it&#8217;s awkward to stick a bag (especially a heavy one) on the over-head racks, and considering it&#8217;s awkward to shove your bag into the tiny gap between your feet and the chair in front, it&#8217;s acceptable to put your bag on the seat next to you when you first sit down. This is only acceptable however if you are happy to remove the bag at the request of another passenger, if the train becomes full enough and the seat is therefore needed.</p>

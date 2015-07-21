@@ -22,6 +22,8 @@ tags:
 - flat design
 comments: []
 ---
+<!-- more -->
+
 <p>In which I wade into the flat design vs. skeuomorphism debate a meer two years after I first started thinking about it and when really the argument's all but over and there's probably very little I can add to it.</p>
 <!-- more -->
 <p>Prompted by <a href="https://twitter.com/deanvipond/status/347017131516370944">this tweet</a> and <a href="http://zipapp.co.uk/">the website</a> it refers to I was thinking about <a href="http://en.wikipedia.org/wiki/Metro_(design_language)" target="_blank">Metro</a> and the <a href="http://www.google.co.uk/trends/explore#q=skeuomorphism%2C%20flat%20design&amp;cmpt=q" target="_blank">whole flat design thing</a> and how there's a basic assumption at the bottom of it which underpins much of what they've done. An assumption which is also, I think, the main thing that's caused the "flat design" paradigm to fail &ndash; when it has failed.</p>

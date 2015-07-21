@@ -19,6 +19,8 @@ categories:
 tags: []
 comments: []
 ---
+<!-- more -->
+
 <p>Yeah, more cute pictures of our cat. Don&#8217;t you just love him.</p>
 
 <img src="/photos/phone/charlie_hiding.jpg" alt="cattty" width="132" height="176" />

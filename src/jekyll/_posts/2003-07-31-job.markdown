@@ -19,6 +19,8 @@ categories:
 tags: []
 comments: []
 ---
+<!-- more -->
+
 <p>Sometimes my job can be fun and interesting. Sometimes it challenges me and requires me to use my all creative or problem solving skills. Sometimes I wake up in the morning and part of me is actually looking forward to getting back in there and getting on with work.</p>
 
 <p class="firstpar">Other times it feels like working in a great cavernous factory, stood next to a section of rolling conveyor belt, spraying small round cirlces of red paint onto a non-descript pieces of metal as they slowely pass by me. I don&#8217;t know what the peices of metal will be made into, I don&#8217;t understand the significance that my small cirle of red has to that product and neither am I entirely convinced that if I stop squirting the paint onto the metal, anyone would actually notice.</p>

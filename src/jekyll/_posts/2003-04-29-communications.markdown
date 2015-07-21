@@ -19,6 +19,8 @@ categories:
 tags: []
 comments: []
 ---
+<!-- more -->
+
 <p>Ok so <a href="http://media.guardian.co.uk/broadcast/story/0,7493,945286,00.html">Rupert Murdoch really really wants to buy Channel 5</a>. It would be easy to say &#8220;Who cares, I never watch that goddamn dayglo channel anyway!!&#8221; but it&#8217;s the way that Tony and co are literally bending over backwards to let him that knarks. But wait! What about Her Majesty&#8217;s opposition? Oh that&#8217;s right they&#8217;re taking up their usual position of "yes, but more so". Both leaderships are obviously so absolutely terrified of the power that Murdoch already wields over the opinions of the nation that they want to give him more! Nice one guys.</p>
 
 <p>Oh and while they&#8217;re at it they&#8217;re changing the law so an American company can buy ITV. Again (and I think it&#8217;s been said) ITV probably can&#8217;t get much worse but why can&#8217;t we have crap telly that doesn&#8217;t funnel revenue back into the US economy. </p>

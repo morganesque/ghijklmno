@@ -19,5 +19,7 @@ categories:
 tags: []
 comments: []
 ---
+<!-- more -->
+
 <p>Well, for those of you on the egde of your respective seats about this house buying venture, we went to see the solicitor today. After a juddery start we managed to get moving and he seemed to be a very nice chap. Been in the business 27 years apparently so he knows a bit about solicitation.</p>
 

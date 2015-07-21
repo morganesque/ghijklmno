@@ -19,6 +19,8 @@ categories:
 tags: []
 comments: []
 ---
+<!-- more -->
+
 <p>It's undefined... possibly.Maybe it's undefined or maybe it's actually defined. We don't know.Given that calling a method is quite a common thing to do how is this better than "there's something wrong" in terms of helping you fix it.
 <pre>1061: Call to a possibly undefined method X througha reference with static type Y</pre>Well, possibly a bit. Possibly.Anyway here's where I went wrong.Variable at the top of my (so I can access it everywhere) like so - it's using a class I wrote for a different project (do you hear that? reusable code. I like totally rool!).
 <pre>var thing:ClassA;</pre>I've not assigned anything to it yet I'll be doing that in the class somewhere. In fact here I am doing it now.

@@ -19,6 +19,8 @@ categories:
 tags: []
 comments: []
 ---
+<!-- more -->
+
 <p>Don&#8217;t ask me how but I ended up <a href="http://www.chiark.greenend.org.uk/~sgtatham/putty/wishlist/transparency.html">here</a>,  where I found that my slightly guilty fondness for gimickery in my windows environment was also:</p>
 
 <p style="margin:5px; font-style:italic">"pointless frippery that would bloat the binary to no useful purpose"</p>

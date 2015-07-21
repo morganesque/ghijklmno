@@ -19,5 +19,7 @@ categories:
 tags: []
 comments: []
 ---
+<!-- more -->
+
 <p>Hello, this is me writing from Portugal. We�ve found a little internet cafe and I thought I�d add something while I was here. I know no body ever reads this thing so hello to me when I get back :0)</p>
 

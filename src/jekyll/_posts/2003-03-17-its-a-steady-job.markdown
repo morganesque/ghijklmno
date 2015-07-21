@@ -19,6 +19,8 @@ categories:
 tags: []
 comments: []
 ---
+<!-- more -->
+
 <p>Remember I bought a CD writer - do you? I do. Fucking piece of arse!! I wrote a CD on Saturday morning for my long suffering friend <a href="http://sorehead.org">Kev</a> who&#8217;s been providing oodles of Tom Waits-ery recently without so much as a thankyou from me. So I thought I&#8217;d return the favour and provide some Scott Walker-ery for his listening pleasure. So I wrote the CD and it was good.</p>
 
 <p>However, when I went to start the whole process again (for there was another) the CD writer just whirrred a bit and refused to accept that I had "put a blank CD into the drive". In fact it then on refused to accept that I&#8217;d put any CD in the drive. In the manual it says <i>"green light = drive empty, blue light = reading CD"</i>, the light stayed resolutely green throughout. So I turned the whole thing off and started again, but the same thing happened. So I turned it off and went for a coffee, on my return the same thing happened. So I forgot about it for a while.</p>

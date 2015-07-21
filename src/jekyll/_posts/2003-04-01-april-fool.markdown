@@ -19,6 +19,8 @@ categories:
 tags: []
 comments: []
 ---
+<!-- more -->
+
 <p>Tom Morgan died peacefully last night in his sleep. He&#8217;d been suffering from accute Perplexia for a couple of years now. He was 81.</p>
 
 <p class="firstpar"><b>UPDATE</b>:: It&#8217;s snowing, there&#8217;s an elephant in the garden, the Smiths have reformed under a new name "The Google Trousers", and the worlds going to hell in a small tetra pack which I couldn&#8217;t open without the aid of scissors.</p>

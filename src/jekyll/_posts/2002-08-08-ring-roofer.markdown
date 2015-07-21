@@ -19,6 +19,8 @@ categories:
 tags: []
 comments: []
 ---
+<!-- more -->
+
 <p>Have to ring the roofing man tonight, to see if the very-cheap-quote he gave us when he was working on behalf of the estate agent of the seller, still stands now the deal has gone through and we own the house. Far be it from me to suggest that Estate agents use low quoting roofers during the house buying/selling process in order to get the best possible deal for their clients. I only know this:</p>
 
 <p>He quoted under 2 grand for the whole job, while the roofer that we asked quoted over 7 grand.</p>

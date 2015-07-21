@@ -19,6 +19,8 @@ categories:
 tags: []
 comments: []
 ---
+<!-- more -->
+
 <p>A quote</p>
 
 <p style="margin:10px; font-size:smaller;color:#009">"Let&#8217;s start with "terror." Terror is a general state, and it&#8217;s internal to a person. Terror is not the person we&#8217;re fighting, the "terrorist." The word terror activates your fear, and fear activates the strict father model, which is what conservatives want. The "war on terror" is not about stopping you from being afraid, it&#8217;s about making you afraid.</p>

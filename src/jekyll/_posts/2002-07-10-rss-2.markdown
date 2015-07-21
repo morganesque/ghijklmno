@@ -19,5 +19,7 @@ categories:
 tags: []
 comments: []
 ---
+<!-- more -->
+
 <p>mydrawings RSS <a href="/rss.xml">go</a> geddit!</p>
 

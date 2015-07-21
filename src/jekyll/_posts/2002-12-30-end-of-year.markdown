@@ -19,6 +19,8 @@ categories:
 tags: []
 comments: []
 ---
+<!-- more -->
+
 <p>I&#8217;m back, back from Christmas back to work, la la doo doo! I suppose I should review the year and try and find some meaning in the mirky memories while the days are short and the nights are long and maybe resolve to change the way things are, or are going to be or something.... but, to be frank, why should I do that when I can just draw a graph!!</p>
 
 <p>Below is the graph of what my web host tells me is the per-monthly stats for <i>"successful page requests"</i> for this website in the last year.</p>

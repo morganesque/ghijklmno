@@ -19,6 +19,8 @@ categories:
 tags: []
 comments: []
 ---
+<!-- more -->
+
 <p>Yay! Someone has send me a little message on the subject of <a href="/mydrawings/">mydrawings</a>. It goes like this:</p>
 
 <p style="margin:10px; font-style:italic">Dude, I think that your drawings are not all that. Believe me I&#8217;ve seen better.</p>

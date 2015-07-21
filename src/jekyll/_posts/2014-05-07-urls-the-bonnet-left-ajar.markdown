@@ -19,6 +19,8 @@ categories:
 tags: []
 comments: []
 ---
+<!-- more -->
+
 <p>Very interesting to read <a href="http://www.allenpike.com/2014/burying-the-url/">this development</a> in Google's Chrome browser. I'm very much in favour of the URL being left clearly visible but at the same time it does niggle that this might be a usability pain or the generator of anxiety.</p>
 
 <p>Whilst most of the web hides it's innards behind the View Source or the Developer Tools the URL has always been there for all to see. A little chink, like the bonnet of a car being left slightly open, which allows you to have a little peak inside the workings. Maybe even spot some patterns and gain some understanding (if you're paying attention). However, I can see why people might like to gently close that bonnet and try and make everything smooth and seamless.</p>

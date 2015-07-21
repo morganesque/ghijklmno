@@ -19,6 +19,8 @@ categories:
 tags: []
 comments: []
 ---
+<!-- more -->
+
 <p>Watched the second (of 3) episode of the excellent BBC documentary series <a href="http://www.bbc.co.uk/bbctwo/listings/programme.shtml?day=wednesday&amp;service_id=4224&amp;filename=20041103/20041103_2100_4224_45945_60">The Power of Nightmares</a> yesterday. It follows the parallel progress of neo-conservatism in america and islamic fundamentalist terrorism in the middle-east.</p>
 
 <p>Not only does it clearly lay out the facts and gives a really interesting account of the, often overlapping, history of both movements (something I only had the loosest grasp of) but it also gives a context to the actions of these people now.</p>

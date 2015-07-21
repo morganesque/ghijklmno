@@ -19,6 +19,8 @@ categories:
 tags: []
 comments: []
 ---
+<!-- more -->
+
 <p>I got some wireless headphones from Kirsty for my birthday and  I&#8217;ve really been enjoying them. It&#8217;s just really nice to be able to get up and wander around and still listen to whatever your were listening to. And yes I have worn them while doing the washing up, and yes you do find yourself dancing around the house more, just because ... well, you can.</p>
 
 <p>Kirsty had some work stuff to do on Sunday so I settled myself down to watch the X-Men film I&#8217;d recorded the other night. This is a time when the headphones are great because although I was probably close enough to the telly to have headphones on a wire quite comfortably, the added freedom they give makes everything far more comfortable.</p>

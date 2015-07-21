@@ -19,6 +19,8 @@ categories:
 tags: []
 comments: []
 ---
+<!-- more -->
+
 <p>Yesterday morning I got up and opened the back door as usual, but instead of two little furry cats bundling their way in there was only one. Little black cat (Cocoa) was no where to be found. I didn&#8217;t really think much of it coz they often come in a bit late but I rattled the food bowl and did my usual shouting (I&#8217;m trying to train them to come to the sound of my voice - Kirsty has it down pat and I&#8217;m jealous).</p>
 
 <p>I made sandwiches and had breakfast and was surprised that by the time I was going back upstairs she still hadn&#8217;t appeared. I mentioned it to Kirsty (who was just getting up) and she seemed concerned and went down and did her shouting thing but without success. We continued shouting and looking while generally getting ready but we both had to leave for work, so we left the cat flap on its get-in-but-not-back-out-again setting (it&#8217;s a funky cat flap) and left.</p>

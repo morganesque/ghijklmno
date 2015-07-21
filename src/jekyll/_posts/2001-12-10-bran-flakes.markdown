@@ -19,5 +19,7 @@ categories:
 tags: []
 comments: []
 ---
+<!-- more -->
+
 <p>I totally thought of something cool to write here when I woke up this morning, and then forgot it by the time I&#8217;d eaten breakfast. Damn those Bran Flakes they steal all my best ideas.</p>
 

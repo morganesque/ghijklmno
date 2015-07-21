@@ -19,6 +19,8 @@ categories:
 tags: []
 comments: []
 ---
+<!-- more -->
+
 <p>God, it&#8217;s cold. I was freezing this morning. I was so cold. I had to get up and have a shower and I could hardly stick a toe out of the bed.</p>
 
 <p>It&#8217;s almost like deep within there&#8217;s a hibernation instinct which still kicks in when it&#8217;s that cold. As the alarm was bleeping away and my concious mind was realising the reality of the time and situation, I could feel a power greater than myself urging me to stay in bed. My body felt so heavy like I was being held down.</p>

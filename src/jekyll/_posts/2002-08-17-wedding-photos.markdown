@@ -19,6 +19,8 @@ categories:
 tags: []
 comments: []
 ---
+<!-- more -->
+
 <p>As promised, photographs of Ade and Gail&#8217;s wedding are now available for consumption <a href="/adegail/">here</a>.</p>
 
 <p>Enjoy!.</p>

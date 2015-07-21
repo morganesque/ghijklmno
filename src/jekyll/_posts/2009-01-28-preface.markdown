@@ -19,5 +19,7 @@ categories:
 tags: []
 comments: []
 ---
+<!-- more -->
+
 <p>OK just to start off I'm a complete novice here. Both to android and to java. Not to programming, I've done some php &amp; flash as3 work, it looks like the flash stuff might be most relevant so far but I'm aware of the vast pool of java knowledge that I've never even dipped my toe into. So a lot of this is likely to be very slow and basic but it might help me a bit with learning.See you at the beach.</p>
 

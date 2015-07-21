@@ -19,6 +19,8 @@ categories:
 tags: []
 comments: []
 ---
+<!-- more -->
+
 <p>Now then. We&#8217;ve had much Christmas and a tiny bit of New Year and, well, lots of things. I&#8217;m now the proud owner of <a href="http://www.bbcshop.com/invt/bbcdvd1322">Look Around You</a>, <a href="http://www.bbcshop.com/invt/bbcdvd1207&amp;bklist=icat,3,,25">Knowing Me Knowing You</a> and <a href="http://www.amazon.co.uk/exec/obidos/ASIN/B0000AZVFD/026-0934935-3586023">Phoenix Nights Two</a>, what a lucky boy.</p>
 
 <p>Just before Xmas I sent an email to Kirsty&#8217;s sister asking what she was getting for Kirsty (so as not to overlap etc) and  received a reply saying she was getting her "a book about women in a country where they have no rights and a hair brush".</p>

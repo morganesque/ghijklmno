@@ -19,6 +19,8 @@ categories:
 tags: []
 comments: []
 ---
+<!-- more -->
+
 <p style="text-align:center"><img style="border:2px solid white;" src="/images/nowar.gif" width="224" height="344" /></p>
 
 <p class="firstpar">This and a number of other anti-war posters can be found at <a href="http://www.anotherposterforpeace.com/">http://www.anotherposterforpeace.com/</a></p>

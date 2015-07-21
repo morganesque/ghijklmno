@@ -19,6 +19,8 @@ categories:
 tags: []
 comments: []
 ---
+<!-- more -->
+
 <p>Heard on the radio this morning that there&#8217;s a new plan from the UK to try and make a second UN resolution more palatable for the rest of the world.</p>
 
 <p class="firstpar" style="margin:10px"><a href="http://news.bbc.co.uk/1/hi/world/middle_east/2838607.stm"><i>"UK ambassador Jeremy Greenstock is expected to give details of the new proposals to the Security Council when it meets on Tuesday.They are reported to include a series of disarmament tests which Baghdad should fulfil within a set time limit, after which it will face war."</i></a></p>

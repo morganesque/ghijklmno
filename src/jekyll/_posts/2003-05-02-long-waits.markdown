@@ -19,6 +19,8 @@ categories:
 tags: []
 comments: []
 ---
+<!-- more -->
+
 <p>Very happy today. I&#8217;ve eventually got round to ripping all my <a href="http://www.officialtomwaits.com/">Tom Waits</a> albums and writing the resultant mp3 files onto a CD. I now have a whole CD dedicated to Mr Waits&#8217;s album sized output (bar a few stragglers) which I&#8217;ve brought into a work, inserted into one big <a href="http://www.winamp.com/">winamp</a> playlist and am now enjoying, one randomly chosen track after another.</p>
 
 <p class="firstpar">And thus the "<a href="http://www.billhicks.com/">high psychic price</a>" I pay for working here is offset slightly.</p>

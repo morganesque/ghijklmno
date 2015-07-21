@@ -19,5 +19,7 @@ categories:
 tags: []
 comments: []
 ---
+<!-- more -->
+
 <p>Right I&#8217;m back into the swing again now. Added two more drawings today and I&#8217;ve got some more in the pipe-line. Settling into the new house, got computer up and running, buying some new memory (for super hero powers), just had a haircut, feeling like a new man. What could go <a href="http://www.murphys-laws.com/murphy/murphy-laws.html" target="_blank">wrong</a>.</p>
 

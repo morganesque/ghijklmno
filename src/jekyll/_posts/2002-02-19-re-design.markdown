@@ -19,5 +19,7 @@ categories:
 tags: []
 comments: []
 ---
+<!-- more -->
+
 <p>Spent much time recently trying to redesign the site. There are good reasons for doing this but it&#8217;s mainly because I just feel like doing it all again (it&#8217;s alomst a year since I really made any big changes). It&#8217;s beginning to annoy me though. I may forget all about it.</p>
 

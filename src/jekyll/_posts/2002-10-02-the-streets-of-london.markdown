@@ -19,6 +19,8 @@ categories:
 tags: []
 comments: []
 ---
+<!-- more -->
+
 <p>Tom <a href="http://plasticbag.org/">plasticbag</a> talks us through his journey to work via BBC webcams and it makes me think - how glamorous sounding London place names are. Something which living in Leeds I&#8217;m not faced with very often at all really.</p>
 
 <p>I know why it is. It&#8217;s to do with the production of culture. It&#8217;s a self perpetuating spiral of more people living and working in a place and inevitably producing more culture, which therefore attracts more culture producing people. The place names are bound to get mentioned at some point along the way and that just adds to the allure of the place, attracting more culture producers and making the whole thing ... more. The same thing happens in places like New York - but very definitely doesn&#8217;t happen in Leeds.</p>

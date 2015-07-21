@@ -19,6 +19,8 @@ categories:
 tags: []
 comments: []
 ---
+<!-- more -->
+
 <p>I've just found a tricky little thing which I didn't know before which might be of help.I've declared a variable "img" which will be available from where ever I need it in my Document Class. It's declared as a Loader and when I come to load the image into it I use the following code.
 <pre>img = new Loader(firstUrlRequest);addChild(img);</pre>Then later on I want to replace the image. My idea was that I'd simply re-use the "img" variable and load a new image into it like so:
 <pre>img = new Loader(secondUrlRequest);addChild(img);</pre>This seems to work fine and new images keep on appearing as I re-use this code at various times within the interface.Until I want there to be no image there. Then there is a problem. I use:

@@ -18,6 +18,8 @@ categories: []
 tags: []
 comments: []
 ---
+<!-- more -->
+
 <p>Oh dear it looks like the page you're looking for hasn't been found.</p>
 
 <p>Why not try a Search or take a lookin the Archives to see if you can find it.</p>

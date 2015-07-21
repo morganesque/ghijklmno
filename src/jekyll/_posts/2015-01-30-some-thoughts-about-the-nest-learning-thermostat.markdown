@@ -19,6 +19,8 @@ categories:
 tags: []
 comments: []
 ---
+<!-- more -->
+
 <p>We moved house recently and subsequently bought a new boiler so at the same time I purchased a <a href="https://nest.com/uk/thermostat/life-with-nest-thermostat/">Nest Learning Thermostat</a>. If you haven't heard of it check it out. It's like a thermostat which is connected to the internet and learns your behaviour so it can kill you and eat your children.</p>
 <!-- more -->
 <p>We've had the Nest for a few months now so here's a few things I've noticed.</p>

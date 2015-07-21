@@ -19,6 +19,8 @@ categories:
 tags: []
 comments: []
 ---
+<!-- more -->
+
 <p>Poor Tony Blair, he&#8217;s just fed up to the back teeth of having people inquire. Why is everyone so godamn inquisitive all a sudden? Eh?</p>
 
 <p>He said just the other day that we can&#8217;t have an inquiry into whether we should have gone to war. I think that just about sums it up really. He&#8217;s perfectly happy really for us to have inquiry after inquiry just so long as nobody is allowed to question his democratic right to take this country to war on false premises.</p>

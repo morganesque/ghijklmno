@@ -19,6 +19,8 @@ categories:
 tags: []
 comments: []
 ---
+<!-- more -->
+
 <p>I lost my Show Desktop icon from my taskbar in Windows. I don&#8217;t know how I lost it but I did. I must have deleted it at some point. What was I thinking?</p>
 
 <p>After searching around in the windows menus and generally finding it slightly annoying for weeks I managed to find a simple solution, although one which I could never have come up with by myself.</p>

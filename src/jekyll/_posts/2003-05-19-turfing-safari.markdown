@@ -19,6 +19,8 @@ categories:
 tags: []
 comments: []
 ---
+<!-- more -->
+
 <p>Spent a lot of time in the garden this weekend. We&#8217;re clearing away a lot of gravel from the side of the house and getting it turfed. We&#8217;re also re-turfing the grassy bit that&#8217;s already there cos it&#8217;s not very good at all and that&#8217;s what people have said we should do.</p>
 
 <p>There&#8217;s an Electricity Substation next to our house. It about 3 meters to the left (to be exact) when you&#8217;re looking at the house from the front and it&#8217;s in between this and the house where all the gravel is. Also just behind the Electricity Substation there&#8217;s a little patch of land that&#8217;s separated from our garden by a fence. In this little gap there was a load of junk. So in order to have some room to stick all the turf and gravel we were about to dig up we decided to clear out this little area. It was very overgrown with long straggling thorny plants and there was lots of pieces of rotten fence dumped at all angles. Also in this little space someone had dumped a &#8220;Beware, Builders at Work&#8221; sign (white writing on a red background - about 2ft by 3ft), one of those triangular red and white signs with a little black stick man holding a hugely oversized spade, and the white rusty bonnet of an old Ford Escort. All this along with other assorted crates, plastic tape, netting and some lengths of lead piping (Colonel Mustard in the Library!).</p>

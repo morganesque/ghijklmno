@@ -19,6 +19,8 @@ categories:
 tags: []
 comments: []
 ---
+<!-- more -->
+
 <p>Right now we've got an image on the screen (or some other kind of View) and you want to move it around. There's two things here, firstly the method you use for doing this and secondly the context you're in. This is the code you need:</p>
 
 <pre>LayoutParams params = new LayoutParams(100,100,100,200);

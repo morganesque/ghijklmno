@@ -19,5 +19,7 @@ categories:
 tags: []
 comments: []
 ---
+<!-- more -->
+
 <p>OK a little background. I'm a designer working for a UK telco. In web design generally but it's pretty general. I started with HTML in 2000. Got a job which quickly taught me CSS and JavaScript and then did a bit of Perl before a huge amount of PHP. That pretty much became what I did (+ MYSQL naturally) before I decided that actually I wanted not to program but to design. So I jumped.Since then I've been getting to grips with all Adobe's software (not to mention Visio!) and particularly Flash has become something which most interests me. Not surprisingly perhaps as it seems to satisfy my visual/creative urges while involving that kind of programming/problem solving I still enjoy.I choose Flash over Flex (for now) as I want to keep the visual emphasis in the mix and not move completely into application design (although I see the overlap and I'm willing to be convinced).So previously I've used Flash Proffessional 8, ActionScript 2 and I've looked at Flash Lite (1 is limited, 2 seems good but handset coverage was frustratingly low when I last checked).I've recently upgraded to Adobe CS3 and thought, considering the introduction of AS3 that this is the time I should really crack Flash - which basically to me means ActionScript.That's me and this is the subsequent blog.</p>
 

@@ -19,6 +19,8 @@ categories:
 tags: []
 comments: []
 ---
+<!-- more -->
+
 <p>Above the fireplace had been a patch of plaster which sounded hollow and crumbled around the edges. It had obviously come away from the wall behind. Being, as I am, at one with the Zen of DIY I decided to hack away at said patch and replace it with brand new plaster.</p>
 
 <p>Damn right, I hear you say, and it was. The plaster was replaced with skill and abandon, and left to dry before the famous textured paint was applied on Sunday. However as the paint started to dry it became apparent that another nearby patch of plaster had only been waiting till the coast was clear before it too wrenched itself from the wall.</p>

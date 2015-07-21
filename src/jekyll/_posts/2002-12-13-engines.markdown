@@ -19,5 +19,7 @@ categories:
 tags: []
 comments: []
 ---
+<!-- more -->
+
 <p>I&#8217;ve parsed my logs! Yes that is as painful as it sounds, but it has had a side effect of producing <a href="http://www.mydrawings.co.uk/writings/logs_search.php">this page</a> for your perusal (there&#8217;s a link on the right too). My favourite part is <a href="logs_search.php?choice=search.msn">this one</a> where someone found my site by searching for "tortilla curtain pictures". Enjoy.</p>
 

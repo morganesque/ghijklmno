@@ -19,5 +19,7 @@ categories:
 tags: []
 comments: []
 ---
+<!-- more -->
+
 <p>I&#8217;m <a target="_blank" href="http://www.dictionary.com/search?q=young">young</a>, I&#8217;m <a target="_blank" href="http://www.dictionary.com/search?q=urbane">urbane</a>, I&#8217;m <a target="_blank" href="http://www.dictionary.com/search?q=professional">professional</a> (mostly).</p>
 

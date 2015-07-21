@@ -19,5 +19,7 @@ categories:
 tags: []
 comments: []
 ---
+<!-- more -->
+
 <p>It is possible that there is no solution to the problem of umbrellas (while being totally effective against rain) being absolutely useless on anything approaching a windy day. I mean can it be proven conclusively with algebra?</p>
 

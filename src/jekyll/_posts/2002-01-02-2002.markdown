@@ -19,5 +19,7 @@ categories:
 tags: []
 comments: []
 ---
+<!-- more -->
+
 <p>Happy New Year!! Hope you had a good night and that you have a plunderously good 2002.</p>
 

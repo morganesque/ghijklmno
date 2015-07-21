@@ -19,6 +19,8 @@ categories:
 tags: []
 comments: []
 ---
+<!-- more -->
+
 <p>Anyone who&#8217;s been so kind as to vote over the last couple of weeks maybe have been impressed by the number of people who seemed to have voted - like I was :( However I&#8217;ve recently realised that the high numbers were actually due to this site being scanned by the Google Search Engine Robot. Boooo! Anyway it&#8217;s fixed now so there&#8217;ll be no more artificial inflation of statistics.
 </p>
 

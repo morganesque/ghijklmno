@@ -19,5 +19,7 @@ categories:
 tags: []
 comments: []
 ---
+<!-- more -->
+
 <p>House buying almost over. Completion date kind of set for the 22nd June. Then we&#8217;ll own it, by george. I&#8217;m going to make a concerted effort to get the &#8220;drawings per week&#8221; number to 1 and then continue to do at least one drawing per week from then on. Just in case you were wondering. Sorry, this really is just a filler, because I&#8217;ve re-vamped the php code I use to edit this blog and I wanted to try it out. I&#8217;ll stop now :)</p>
 

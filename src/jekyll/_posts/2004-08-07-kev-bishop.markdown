@@ -19,6 +19,8 @@ categories:
 tags: []
 comments: []
 ---
+<!-- more -->
+
 <p>T&#8217;was a sad day yesterday as it was <a href="http://sorehead.org">Kev&#8217;s</a> last day working at the same workplace as me. Kev&#8217;s been my best workmate now for over 4 years ever since I started working at <a href="http://www.ananova.com/">Ananova</a> (now <a href="http://web.orange.co.uk">Orange</a>). He&#8217;s also one of the nicest people I&#8217;ve met, and a truely good friend.</p>
 
 <p>He&#8217;s off to persue better things (shotgun in hand) and so I wish him well. He&#8217;ll be sorely missed at work where he was always a source of amusing messenger chat, coffee break companionship and interesting links, with the unerring ability to have seen everything I found on the internet at least a month previuosly ;-)</p>

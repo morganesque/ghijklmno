@@ -19,6 +19,8 @@ categories:
 tags: []
 comments: []
 ---
+<!-- more -->
+
 <p>Having a bit of a quiet day (fiddling with background images) while Kirsty is out in Leeds avec sister looking for my Birthday present - woo hoo!</p>
 
 <p>We got this lovely pack of Chicken Tikka Chiken Pieces (ready cooked and ready to eat) and I&#8217;ve just had them on a sandwich made from a third of a french stick with salad and mayo! It was a truly bodacious sandwich! Diddle-iddle-iddle-iddle-diddle (does Bill and Ted style air guitar).</p>

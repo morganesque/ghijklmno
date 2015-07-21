@@ -19,6 +19,8 @@ categories:
 tags: []
 comments: []
 ---
+<!-- more -->
+
 <p>A few things happening at the moment.
 <ul>
 <li>Monday and Tuesday I was off with a sickness. It&#8217;s gone mostly but what remains is mainly in my throat.</li>

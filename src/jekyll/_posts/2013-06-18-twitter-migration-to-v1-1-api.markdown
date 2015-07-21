@@ -22,6 +22,8 @@ tags:
 - twitter
 comments: []
 ---
+<!-- more -->
+
 <p>Blueargh! All you wanted to do was grab your own twitter timeline to display on your own website using a bit of PHP to grab the data as JSON. You were even willing to cache it fairly aggressively in order to spare Twitter a load of unneccesary requests. But now they've migrated to v1.1 there's no way to get this without authentication! And you don't understand authentication. What's a poor boy/girl to do?</p>
 <!-- more -->
 <p><span style="font-size: 1.5em;">1. Create an application</span></p>

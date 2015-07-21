@@ -19,6 +19,8 @@ categories:
 tags: []
 comments: []
 ---
+<!-- more -->
+
 <p>Bought a CD writer on Friday. Tried using it on Saturday. Relaxed again on Sunday.</p>
 
 <p>I wasn&#8217;t that it didn&#8217;t work, and it wasn&#8217;t that when it worked it didn&#8217;t work well, it&#8217;s just it didn&#8217;t work all the time. Which before you&#8217;ve even seen it work once is a bit worrying. If it had started off working and then stopped maybe I&#8217;d have been filled with something more akin to hope, rather than despair.</p>

@@ -19,6 +19,8 @@ categories:
 tags: []
 comments: []
 ---
+<!-- more -->
+
 <p>Yes, I&#8217;ve change the commenting code now so you don&#8217;t get the popup, but instead you have a whole new page for them. I only put it live last night so if anyone notices any problems with it give me a shout.</p>
 
 <p>Same goes for the mydrawings comments too. Errrr .... and that&#8217;s about it.</p>

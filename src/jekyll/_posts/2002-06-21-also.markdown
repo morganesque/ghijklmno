@@ -19,5 +19,7 @@ categories:
 tags: []
 comments: []
 ---
+<!-- more -->
+
 <p>Oh yeah and we&#8217;re moving today. Woo!</p>
 

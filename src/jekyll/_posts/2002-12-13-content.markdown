@@ -19,5 +19,7 @@ categories:
 tags: []
 comments: []
 ---
+<!-- more -->
+
 <p>Far be it from me to nick links from Jeffery Z but there was <a href="http://www.holovaty.com/tools/getcontentsize/">this</a>. It turns out that the <a href="/">mydrawings</a> front page has 14.11% content whereas the page you&#8217;re looking at now has 68.13%. I don&#8217;t know what that tells you but there you go.</p>
 

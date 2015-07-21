@@ -19,6 +19,8 @@ categories:
 tags: []
 comments: []
 ---
+<!-- more -->
+
 <p>In the morning I go to the station <center><img src="/photos/phone/station.jpg" /></center></p>
 
 <p class="firstpar">and get on a train <center><img src="/photos/phone/train.jpg" /></center></p>

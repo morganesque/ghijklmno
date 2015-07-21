@@ -19,6 +19,8 @@ categories:
 tags: []
 comments: []
 ---
+<!-- more -->
+
 <p>I hate the way people talk about countries. The idea that you can group all those people together and say absolutely anything about them at all as a group is such rubbish. It&#8217;s so depressingly simple, so lazy, so utterly utterly wrong (I mean logically here as much as morally) and yet we just can&#8217;t stop can we. We love it. Like kids racing up the steps to take another slide down the nicely slippery surface, all ready and prepared for us, no effort required at all.</p>
 
 <p>The Americans are attacking the Iraqis, the British are helping, the French and the Germans are against it. The Americans are now warning the Syrians, the Turks and the Kurds to behave. Even when we take the huge effort to separate the regime of Saddam from the people it&#8217;s terrorised for years we make no effort whatsoever to distinguish between those people their different needs and expectations. It&#8217;s the McDonalds approach to to international politics - one solution fits all.</p>

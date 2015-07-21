@@ -19,6 +19,8 @@ categories:
 tags: []
 comments: []
 ---
+<!-- more -->
+
 <p>OK time to out myself. Time to leap from my closet and tell the world. I have something to say, it may surprise you, it may disgust you, but I feel I&#8217;ve kept silent too long.</p>
 
 <p>I&#8217;ve been jogging</p>

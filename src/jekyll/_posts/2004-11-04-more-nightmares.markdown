@@ -19,6 +19,8 @@ categories:
 tags: []
 comments: []
 ---
+<!-- more -->
+
 <p>Sorry to harp on about it but I watched the last episode of the <a href="http://ghijklmno.net/blog/1098996000/">Power of Nightmares</a> series last night and it really was excellent.</p>
 
 <p>The BBC have a section of their website devoted to the programme <a href="http://www.bbc.co.uk/nightmares/">here</a> with a comments board.</p>

@@ -19,6 +19,8 @@ categories:
 tags: []
 comments: []
 ---
+<!-- more -->
+
 <p>Went out to B and Q this weekend (amoungst other things) and bought a table and two chairs, made of "cast aloom-in-um", that can be left out in the garden until we&#8217;re both old and quite probably grey.</p>
 
 <p> This is a picture of me, at the end of a long day sitting on one of the chairs, and trying it out, as the sun drifted slowly down behind the houses at the back of our house and the breeze caught up a bit gradually turning what was a bright warm afternoon into a slightly chilly evening.</p>

@@ -19,6 +19,8 @@ categories:
 tags: []
 comments: []
 ---
+<!-- more -->
+
 <p>Went to see <a href="http://www.danielkitson.com/">Daniel Kitson</a> a fine stand up comedian last night, and he was ace. He wasn&#8217;t just ace, he was superb... and great... and brill... and just fucking funny as fuck.</p>
 
 <p>I was crying with laughter for huge chunks of the evening, and it was a long set, starting at 8 and finishing at around 10:45 (with a break in the middle of a time specified after extensive discussion with the audience). It&#8217;s hard to say what made him so funny, I can hardly remember any of the material (although bits are beginning to come sniggering back to me, last night in bed and this morning on the train) but you could tell that you were watching something that was just that bit better than other things you&#8217;d seen.</p>

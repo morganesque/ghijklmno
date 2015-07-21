@@ -19,6 +19,8 @@ categories:
 tags: []
 comments: []
 ---
+<!-- more -->
+
 <p>Lovely to wake up to a nice powdery, snow covered morning. Especially because by the time I had to walk to the station today the sun was up (not long ago I was walking there in darkness) and shining in an almost cloudless blue sky. The place looked wonderful.</p>
 
 <p><center><img src="/images/blog/incidental/snow_scene_station.jpg" width="176" height="132" /></center></p>

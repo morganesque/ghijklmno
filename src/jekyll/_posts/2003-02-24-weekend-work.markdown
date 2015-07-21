@@ -19,6 +19,8 @@ categories:
 tags: []
 comments: []
 ---
+<!-- more -->
+
 <p>We&#8217;re back on the decorating horse at the moment. Kirsty, with great gusto, started stripping the wallpaper in the dinning room on Saturday (while I made a Morrissey CD for Kev) and on Sunday we did the money spending (the CEO of Focus DIY is still weeping with gratitude), painted the ceiling white and put up some lining paper.</p>
 
 <p>Putting up the paper wasn&#8217;t the hilarious fiasco I was expecting actually. I&#8217;ve only ever tried it once before as a favour to my parents a long time ago and it ... errr ... didn&#8217;t go too well. However, with two people on the case things seems to hit a rhythm and we managed to get the whole room done. The only problem arose as it was getting darker and I decided to shed some light on the proceedings.</p>

@@ -19,6 +19,8 @@ categories:
 tags: []
 comments: []
 ---
+<!-- more -->
+
 <p>Wisdom tooth ache.</p>
 
 <p>Slow low throbbing pain.</p>

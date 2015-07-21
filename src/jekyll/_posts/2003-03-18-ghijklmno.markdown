@@ -19,6 +19,8 @@ categories:
 tags: []
 comments: []
 ---
+<!-- more -->
+
 <p>Hello!</p>
 
 <p class="firstpar">Chances are you&#8217;ve probably arrived here coz you were going to look at my weblog which used to be  here:</p>

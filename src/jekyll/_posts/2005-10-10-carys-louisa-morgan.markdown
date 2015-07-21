@@ -19,6 +19,8 @@ categories:
 tags: []
 comments: []
 ---
+<!-- more -->
+
 <p>I have a baby now, you think I have time to write things here?</p>
 
 <p>Actually I do have time for things but have chosen not to write anything here for a while. I may well do again, but for the time being there&#8217;s <a href="http://flickr.com/photos/ghijklmno/">photo&#8217;s to be taken</a>.</p>

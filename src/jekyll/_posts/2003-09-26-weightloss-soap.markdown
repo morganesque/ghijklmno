@@ -19,6 +19,8 @@ categories:
 tags: []
 comments: []
 ---
+<!-- more -->
+
 <p>I got some great spam the other day. It was sent to me by someone called &#8220;Weightloss Soap&#8221; and the subject line was "Lose  Weight While Taking A Shower".</p>
 
 <p>Well not one to be overly self-congratulatory about my body mass I decided that I might benefit from such a product and clicked on the link contained within. I was taken to a brightly coloured (slightly retro looking) web site where there was a picture of the aforementioned soap (it was pink and boxy, quite like most other soap I&#8217;ve seen) and some blurb which basically repeated the subject line of the e-mail with a little elaboration and some quotes taken from some previous customers and some people called Dr and Professor. There was some instructions at the bottom of page which said that all I needed to do was fill in my name and address and credit card number and they&#8217;d rush me my soap. It sounded very efficient so I filled in the details and pressed [SUBMIT].</p>

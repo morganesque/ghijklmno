@@ -19,6 +19,8 @@ categories:
 tags: []
 comments: []
 ---
+<!-- more -->
+
 <p>One night last week Kirsty woke in the early hours to the sound of scraping and scrabbling which sounded like it was coming from in the ceiling at the corner of our bedroom. I generally sleep like a log and so I was lucky on this occaision that Kirsty woke me from my blissful slumber to let me experience this first hand. I can confirm that it was indeed a scraping and scrabbling sound and it did indeed seem to be coming from in the ceiling above the front facing corner of our bedroom.</p>
 
 <p>Needless to say, it was the type of sound that once heard completely prevents you falling back to sleep. It would happen, then happen again, and then all would be silent for a few minutes until your eyelids started to droop, and then just at the moment you were about to fall asleep it would happen again and completely wake you up.</p>
