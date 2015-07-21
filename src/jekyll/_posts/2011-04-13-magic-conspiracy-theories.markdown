@@ -11,9 +11,6 @@ author:
   url: ''
 author_login: admin
 author_email: tsmorgan@gmail.com
-excerpt: |
-  <p>I did a talk on Tuesday this week at <a href="http://www.guardian.co.uk/leeds/2011/apr/13/leeds-bettakultcha-s-biggest-event-at-corn-exchange" target="_blank">Bettakulcha</a>. It's 20 slides in 5 minutes in front of about 300 people at the Corn Exchange in Leeds. I chose to do mine on Magic &amp; Conspiracy Theories. Below are the slides with some notes which are basically either what I said, what I was meaning to say, or what I wished I'd said almost immediately after finishing (particularly the ending which I careered towards and then seemed to crash into before I knew what was happening).</p>
-
 wordpress_id: 293
 wordpress_url: http://morganesque.com/?p=293
 date: '2011-04-13 20:50:53 +0100'
@@ -94,93 +91,95 @@ comments:
     and fairly simple. Young children love "The Magic Flute," but they don't usually
     understand it.
 ---
+<p>I did a talk on Tuesday this week at <a href="http://www.guardian.co.uk/leeds/2011/apr/13/leeds-bettakultcha-s-biggest-event-at-corn-exchange" target="_blank">Bettakulcha</a>. It's 20 slides in 5 minutes in front of about 300 people at the Corn Exchange in Leeds. I chose to do mine on Magic &amp; Conspiracy Theories. Below are the slides with some notes which are basically either what I said, what I was meaning to say, or what I wished I'd said almost immediately after finishing (particularly the ending which I careered towards and then seemed to crash into before I knew what was happening).</p>
+
 <p>It started with <a href="http://twitter.com/#!/ivorTymchak/" target="_blank">Ivor</a> introducing me with the "two interesting facts" I'd provided for the purpose. Sadly these weren't interesting (seriously I couldn&rsquo;t come up with anything!) and one wasn't even a fact. Firstly that I was a father of two (this I am, and considering penultimate slide I thought perhaps this would do a little groundwork in case that point got smudged) the second was that I was a big <a href="http://www.google.com/images?q=Tommy+Cooper">Tommy Cooper</a> fan (this isn't strictly true - I do think he's great but it's not like a "thing" about me - clearly though it fitted very well with a number of aspects of the talk so I thought it was worth the dubious moral position for the sake of a helpful bit of scene &amp; tone setting).</p>
 
 <p>Anyway, so it went like this:</p>
 
-<p><a href="http://ghijklmno.net/wp-content/uploads/2011/04/magic.001.png"><img title="Title" src="http://ghijklmno.net/wp-content/uploads/2011/04/magic.001.png" alt="Magic &amp; Conspiracy Theories" width="100%" /></a></p>
+<p><a href="/img/2011/04/magic.001.png"><img title="Title" src="/img/2011/04/magic.001.png" alt="Magic &amp; Conspiracy Theories" width="100%" /></a></p>
 
 <p>Hello. This is my talk on Magic &amp; Conspiracy Theories. Despite the hat (I was wearing a fez) I'm not a magician. Maybe there's a little disappointment at that, there's probably quite a lot of relief. It's that kind of feeling which prompted this talk really. I find myself attracted and repelled by these two subjects in equal measure and I was wondering why.</p>
 
-<p><a href="http://ghijklmno.net/wp-content/uploads/2011/04/magic.002.png"><img title="magic.002" src="http://ghijklmno.net/wp-content/uploads/2011/04/magic.002.png" alt="" width="100%" /></a></p>
+<p><a href="/img/2011/04/magic.002.png"><img title="magic.002" src="/img/2011/04/magic.002.png" alt="" width="100%" /></a></p>
 
 <p>It seemed to me that perhaps this was something to do with the break in the chain of cause and effect that seems common to both. I had a feeling that this had something to do with the effect both had on me.</p>
 
-<p><a href="http://ghijklmno.net/wp-content/uploads/2011/04/magic.003.png"><img title="Penn &amp; Teller" src="http://ghijklmno.net/wp-content/uploads/2011/04/magic.003.png" alt="Penn &amp; Teller" width="100%" /></a></p>
+<p><a href="/img/2011/04/magic.003.png"><img title="Penn &amp; Teller" src="/img/2011/04/magic.003.png" alt="Penn &amp; Teller" width="100%" /></a></p>
 
 <p>I should really start at the beginning however. In the beginning was Penn &amp; Teller. Two American magician's who, as part of their act, explain to the audience how their tricks were done. I used to watch their show when I was younger and the thing which stood out to me across a number of their tricks was the huge amount of effort they would put in for sometimes a very small magical effect.</p>
 
-<p><a href="http://ghijklmno.net/wp-content/uploads/2011/04/magic.004.png"><img title="Magic - Cause &amp; Effect " src="http://ghijklmno.net/wp-content/uploads/2011/04/magic.004.png" alt="Magic - Cause &amp; Effect " width="100%" /></a></p>
+<p><a href="/img/2011/04/magic.004.png"><img title="Magic - Cause &amp; Effect " src="/img/2011/04/magic.004.png" alt="Magic - Cause &amp; Effect " width="100%" /></a></p>
 
 <p>It struck me that perhaps this was, in some way, one of the reasons that the "cause" could get detached from the "effect" in people's minds. Maybe there was something about the size or complexity of the real cause which triggered people to go for "magic" as an explanation rather than imagine their way to the truth.</p>
 
-<p><a href="http://ghijklmno.net/wp-content/uploads/2011/04/magic.005.jpg"><img title="Magicians" src="http://ghijklmno.net/wp-content/uploads/2011/04/magic.005.jpg" alt="Magicians" width="100%" /></a></p>
+<p><a href="/img/2011/04/magic.005.jpg"><img title="Magicians" src="/img/2011/04/magic.005.jpg" alt="Magicians" width="100%" /></a></p>
 
 <p>Thinking about this it seemed that a similar theory could be applied across a great range of magic. Whether it was the long hours of practice that would go into perfecting a slight of hand or the huge logistical and organisational efforts that might go into creating some of the worlds largest and most cunning stunts.</p>
 
 <p><em>(see if you can spot the ever-so subtle spooneristic joke embedded here acknowledging my earlier point about the marmite-y reaction engendered by a lot of magicians)</em></p>
 
-<p><a href="http://ghijklmno.net/wp-content/uploads/2011/04/magic.006.png"><img title="Graph" src="http://ghijklmno.net/wp-content/uploads/2011/04/magic.006.png" alt="Graph" width="100%" /></a></p>
+<p><a href="/img/2011/04/magic.006.png"><img title="Graph" src="/img/2011/04/magic.006.png" alt="Graph" width="100%" /></a></p>
 
 <p>So that led me to thinking that if this was true perhaps you could plot it on a graph and find the point where the complexity of cause actually tips over into an amount which makes an audience blame magic.</p>
 
 <p><em>(this is clearly ridiculous as witnessed by the fact that the y-axis of the graph is measured in fish - you can try this yourself it doesn't matter what you use - barmy!)</em></p>
 
-<p><a href="http://ghijklmno.net/wp-content/uploads/2011/04/magic.007.png"><img title="Graph Zoom" src="http://ghijklmno.net/wp-content/uploads/2011/04/magic.007.png" alt="Graph Zoom" width="100%" /></a></p>
+<p><a href="/img/2011/04/magic.007.png"><img title="Graph Zoom" src="/img/2011/04/magic.007.png" alt="Graph Zoom" width="100%" /></a></p>
 
 <p>I was dragging my theory up towards this point and thinking about how it might work when I realised there was something coming at me from the other direction and that was conspiracy theories.</p>
 
-<p><a href="http://ghijklmno.net/wp-content/uploads/2011/04/magic.008.png"><img title="Cause &amp; Effect - Conspiracies" src="http://ghijklmno.net/wp-content/uploads/2011/04/magic.008.png" alt="Cause &amp; Effect - Conspiracies" width="100%" /></a></p>
+<p><a href="/img/2011/04/magic.008.png"><img title="Cause &amp; Effect - Conspiracies" src="/img/2011/04/magic.008.png" alt="Cause &amp; Effect - Conspiracies" width="100%" /></a></p>
 
 <p>It seemed to me that conspiracy theories work in the opposite way to magic. They often grow up around events which whilst often having huge world-altering effects actually have comparatively simple causes. It almost felt like reason for the link between cause and effect being broken here might be the same (or exactly the opposite) as it is for magic.</p>
 
-<p><a href="http://ghijklmno.net/wp-content/uploads/2011/04/magic.009.png"><img title="Happy - Sad" src="http://ghijklmno.net/wp-content/uploads/2011/04/magic.009.png" alt="Happy - Sad" width="100%" /></a></p>
+<p><a href="/img/2011/04/magic.009.png"><img title="Happy - Sad" src="/img/2011/04/magic.009.png" alt="Happy - Sad" width="100%" /></a></p>
 
 <p>At this point I realised also that they tend to have an opposite effect on people too. Magic tends to give us feelings of pleasure and perhaps delight, where as conspiracy theories tend to cause feelings of sadness and oppression.</p>
 
-<p><a href="http://ghijklmno.net/wp-content/uploads/2011/04/magic.010.png"><img title="Spectrum" src="http://ghijklmno.net/wp-content/uploads/2011/04/magic.010.png" alt="Spectrum" width="100%" /></a></p>
+<p><a href="/img/2011/04/magic.010.png"><img title="Spectrum" src="/img/2011/04/magic.010.png" alt="Spectrum" width="100%" /></a></p>
 
 <p>This thought led me to imagine a kind of spectrum. I thought if you placed magic at one end with it's large complex causes and delightful effects and conspiracy theories at the other with it's comparatively simple causes and oppressive effects you could possibly plot out all sorts of things in the space between in a wonderful and informative way.</p>
 
-<p><a href="http://ghijklmno.net/wp-content/uploads/2011/04/magic.011.png"><img title="Pyramids" src="http://ghijklmno.net/wp-content/uploads/2011/04/magic.011.png" alt="Pyramids" width="100%" /></a></p>
+<p><a href="/img/2011/04/magic.011.png"><img title="Pyramids" src="/img/2011/04/magic.011.png" alt="Pyramids" width="100%" /></a></p>
 
 <p>I was feeling pretty happy with myself having made this incredible discovery until I realised there was a problem, and that problem was pyramids. Pyramids: either built by the ancient Egyptians thousands of years ago or built by fried eggs from space.</p>
 
 <p><em>(I chickened out of making the fried eggs joke on the night - a reference to my poorly rendered flying saucer - as I was beginning to feel that things were racing a bit and I wasn't exactly taking the audience with me. Looking back it probably would have been fine).</em></p>
 
-<p><a href="http://ghijklmno.net/wp-content/uploads/2011/04/magic.012.png"><img title="Spectrum 2" src="http://ghijklmno.net/wp-content/uploads/2011/04/magic.012.png" alt="Spectrum 2" width="100%" /></a></p>
+<p><a href="/img/2011/04/magic.012.png"><img title="Spectrum 2" src="/img/2011/04/magic.012.png" alt="Spectrum 2" width="100%" /></a></p>
 
 <p>This puts the pyramids theory at the wrong end of the spectrum. The actual cause of pyramids is large, complex and involves a huge amount of effort, where as blaming aliens is actually fairly simple, and more like magic.</p>
 
-<p><a href="http://ghijklmno.net/wp-content/uploads/2011/04/magic.013.png"><img title="Question" src="http://ghijklmno.net/wp-content/uploads/2011/04/magic.013.png" alt="Question" width="100%" /></a></p>
+<p><a href="/img/2011/04/magic.013.png"><img title="Question" src="/img/2011/04/magic.013.png" alt="Question" width="100%" /></a></p>
 
 <p>Which lead me to this question. Is the idea of aliens building the pyramids actually simple? Surely, if true, it would have huge and complex consequences for the world. You could hardly say it was a simple explanation. This kind of goes for magic too really. If it was actually true that would not be a simple thing at all.</p>
 
-<p><a href="http://ghijklmno.net/wp-content/uploads/2011/04/magic.014.png"><img title="Iceburg" src="http://ghijklmno.net/wp-content/uploads/2011/04/magic.014.png" alt="Iceburg" width="100%" /></a></p>
+<p><a href="/img/2011/04/magic.014.png"><img title="Iceburg" src="/img/2011/04/magic.014.png" alt="Iceburg" width="100%" /></a></p>
 
 <p>But actually I think there's a sense in which it is simple. What I think I'm really talking about here is the difference between an "explanation" and "understanding". It seems that particularly in these cases an explanation doesn't necessarily need to be based on facts (or real understanding) for it to feel satisfactory to us.</p>
 
-<p><a href="http://ghijklmno.net/wp-content/uploads/2011/04/magic.015.png"><img title="Restaurant" src="http://ghijklmno.net/wp-content/uploads/2011/04/magic.015.png" alt="Restaurant" width="100%" /></a></p>
+<p><a href="/img/2011/04/magic.015.png"><img title="Restaurant" src="/img/2011/04/magic.015.png" alt="Restaurant" width="100%" /></a></p>
 
 <p>What it seems that your brain wants in these situation is an explanation that fits, but it's desire for this is so great it kind of overwhelms some of your other (more rational) mental faculties. Like a customer in a restaurant being rushed by an over-eager waiter the brain simply goes for the best available option without taking the time to look for facts or perhaps analyse the evidence more carefully.</p>
 
-<p><a href="http://ghijklmno.net/wp-content/uploads/2011/04/magic.016.png"><img title="Hunter" src="http://ghijklmno.net/wp-content/uploads/2011/04/magic.016.png" alt="Hunter" width="100%" /></a></p>
+<p><a href="/img/2011/04/magic.016.png"><img title="Hunter" src="/img/2011/04/magic.016.png" alt="Hunter" width="100%" /></a></p>
 
 <p>As with most things this probably goes back to some earlier stage of our development when we lived in circumstances where having a quick working explanation for something was far more important for our survival than whether this explanation was based on a real understanding of the situation or on reality in general. Explanations would then grow up around experiences and would never need to be changed as long as they continued to work.</p>
 
-<p><a href="http://ghijklmno.net/wp-content/uploads/2011/04/magic.017.png"><img title="Cogs" src="http://ghijklmno.net/wp-content/uploads/2011/04/magic.017.png" alt="Cogs" width="100%" /></a></p>
+<p><a href="/img/2011/04/magic.017.png"><img title="Cogs" src="/img/2011/04/magic.017.png" alt="Cogs" width="100%" /></a></p>
 
 <p>More recently this kind of thing has been superseded by a more rigorous scientific method which has enabled us to really understand the world in a much deeper way. Science itself is based on the same - keep a theory till it doesn't work any more -&nbsp; approach but because it works so much quicker and more efficiently it has meant that often those explanations which to our brains seem to fit best have been replaced by an understanding which is sometimes less intuitive.</p>
 
-<p><a href="http://ghijklmno.net/wp-content/uploads/2011/04/magic.018.png"><img title="Balloons" src="http://ghijklmno.net/wp-content/uploads/2011/04/magic.018.png" alt="Balloons" width="100%" /></a></p>
+<p><a href="/img/2011/04/magic.018.png"><img title="Balloons" src="/img/2011/04/magic.018.png" alt="Balloons" width="100%" /></a></p>
 
 <p>And so I find myself drawn toward these two subject perhaps against my better judgement. Even though I know I'm being fooled and even though I kind of know they can be easily shot down I kind of find myself enjoying going along for the ride.</p>
 
-<p><a href="http://ghijklmno.net/wp-content/uploads/2011/04/magic.019.png"><img title="Father Christmas" src="http://ghijklmno.net/wp-content/uploads/2011/04/magic.019.png" alt="Father Christmas" width="100%" /></a></p>
+<p><a href="/img/2011/04/magic.019.png"><img title="Father Christmas" src="/img/2011/04/magic.019.png" alt="Father Christmas" width="100%" /></a></p>
 
 <p>I should point out at this point that I am actually part of a global conspiracy. It involves millions of people world-wide and it's purpose is to induce a belief in magic into a large proportion of the population. This is done through encouragement of mis-understandings and the occasional use of down-right lies. You could say it is a MAGICAL CONSPIRACY!</p>
 
-<p><a href="http://ghijklmno.net/wp-content/uploads/2011/04/magic.020.png"><img title="The End" src="http://ghijklmno.net/wp-content/uploads/2011/04/magic.020.png" alt="The End" width="100%" /></a></p>
+<p><a href="/img/2011/04/magic.020.png"><img title="The End" src="/img/2011/04/magic.020.png" alt="The End" width="100%" /></a></p>
 
 <p>So perhaps magic and conspiracy theories are OK... as a source of entertainment.</p>
 

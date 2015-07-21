@@ -33,7 +33,7 @@ comments: []
 
 <p>So I knocked up a quick PHP script. Grabbed all the links from Betalist's helpful <a href="http://betali.st/archive">archive</a> page (~350 sites). Then, using regex skills I probably hadn't put into use since working with the <a href="http://en.wikipedia.org/wiki/Ananova">Ananova</a> news spider in 2000, I managed to scrape all the short descriptions from the pages of Betalist. I took all that text and fed it into Wordle. The results are below:</p>
 
-<p><a href="http://ghijklmno.net/wp-content/uploads/2011/04/betalist.png"><img class="aligncenter size-full wp-image-286" title="betalist" src="http://ghijklmno.net/wp-content/uploads/2011/04/betalist.png" alt="" width="100%" /></a></p>
+<p><a href="/img/2011/04/betalist.png"><img class="aligncenter size-full wp-image-286" title="betalist" src="/img/2011/04/betalist.png" alt="" width="100%" /></a></p>
 
 <p>So... if you're working on a <strong>New Online Service / Platform</strong> to <strong>Allow People </strong>a<strong> Way</strong> to <strong>Create</strong> and <strong>Share Information / Content </strong>with <strong>Friends</strong>, if you're going to deploy it to <strong>Web</strong> and <strong>Mobile</strong>, if you're thinking it'll be a bit like <strong>Facebook</strong> or <strong>Twitter</strong> and, more than anything else, if you're thinking it's going to be <strong>Social</strong> maybe it's worth baring in mind that there's a few other people who might have the same idea.</p>
 

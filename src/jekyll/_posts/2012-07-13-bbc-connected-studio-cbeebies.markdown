@@ -10,9 +10,6 @@ author:
   url: ''
 author_login: admin
 author_email: tsmorgan@gmail.com
-excerpt: |
-  <p>Yesterday I took part in a <a href="http://www.bbcconnectedstudio.co.uk/">BBC Connected Studio</a> event at <a title="media city" href="http://www.mediacityuk.co.uk/">Media City</a>, Salford. Connected Studios are one day events in which people from various digital industries are allowed to come to the BBC and spend a day with them generating new ideas around various BBC products and then pitching them at the end. There’s the chance to be invited back for a couple of days to build prototypes and even the possibility of your idea being made into a pilot (if you’re lucky!).</p>
-
 wordpress_id: 742
 wordpress_url: http://ghijklmno.net/?p=742
 date: '2012-07-13 13:52:25 +0100'
@@ -22,7 +19,9 @@ categories:
 tags: []
 comments: []
 ---
-<p><a href="http://ghijklmno.net/wp-content/uploads/2012/07/cbeebies.jpg"><img class="alignnone size-full wp-image-751" title="cbeebies" src="http://ghijklmno.net/wp-content/uploads/2012/07/cbeebies.jpg" alt="" width="100%" /></a></p>
+<p>Yesterday I took part in a <a href="http://www.bbcconnectedstudio.co.uk/">BBC Connected Studio</a> event at <a title="media city" href="http://www.mediacityuk.co.uk/">Media City</a>, Salford. Connected Studios are one day events in which people from various digital industries are allowed to come to the BBC and spend a day with them generating new ideas around various BBC products and then pitching them at the end. There’s the chance to be invited back for a couple of days to build prototypes and even the possibility of your idea being made into a pilot (if you’re lucky!).</p>
+<!-- more -->
+<p><a href="/img/2012/07/cbeebies.jpg"><img class="alignnone size-full wp-image-751" title="cbeebies" src="/img/2012/07/cbeebies.jpg" alt="" width="100%" /></a></p>
 
 <p>I went with <a title="@DeanVipond" href="http://deanvipond.com/">Dean Vipond</a> and we formed a little team. You could turn up with a bunch of people already or just go alone and hook up with other individuals on the day. The atmosphere was really friendly and supportive and there seemed to have been just as many hastily formed groups as there were people who&rsquo;d come together.</p>
 
@@ -33,7 +32,7 @@ So we sat down and started running through what else we could think of. Luckily 
 
 <p>There were some interesting short talks during the morning from various BBC people about the audience, the content and about some of the technology behind the site. We got also some advice about paper-prototyping and how to get the most out of the audience sessions (I&rsquo;ll get to them).</p>
 
-<p><a href="http://ghijklmno.net/wp-content/uploads/2012/07/postits-0.jpg"><img class="alignnone size-large wp-image-744" title="Post-its on the (glass) wall" src="http://ghijklmno.net/wp-content/uploads/2012/07/postits-0-1024x768.jpg" alt="Some postits stuck to a glass wall" width="100%" /></a></p>
+<p><a href="/img/2012/07/postits-0.jpg"><img class="alignnone size-large wp-image-744" title="Post-its on the (glass) wall" src="/img/2012/07/postits-0-1024x768.jpg" alt="Some postits stuck to a glass wall" width="100%" /></a></p>
 
 <p>So then it was back to our little bit of space and out with the post-its. In the rush of our initial panic at &ldquo;loosing&rdquo; our idea we&rsquo;d kind of just talked and talked without really gathering our thoughts to we spent some time writing everything down on post-its and pasting them across a nearby wall. This seemed to work well and we just about had enough time to condense this into a few sketches on a flip board when it was time for our audience session.</p>
 
@@ -47,7 +46,7 @@ The BBC had brought in a small group of CBeebies parents who we could spend 15 m
 <p>That&rsquo;s pretty short.</p>
 
 <h3>The Finishing Straight</h3>
-<a href="http://ghijklmno.net/wp-content/uploads/2012/07/deantypes-0.jpg"><img class="alignnone size-large wp-image-743" title="Quick keynote presentation" src="http://ghijklmno.net/wp-content/uploads/2012/07/deantypes-0-1024x768.jpg" alt="Dean quickly prepares some slides." width="100%" /></a></p>
+<a href="/img/2012/07/deantypes-0.jpg"><img class="alignnone size-large wp-image-743" title="Quick keynote presentation" src="/img/2012/07/deantypes-0-1024x768.jpg" alt="Dean quickly prepares some slides." width="100%" /></a></p>
 
 <p>We managed to get it down to a fair size, produced small number of slides and got our flip board into the right order (not without some comedy Mr-Bean-with-a-deckchair shenanigans from me) and after a couple of toilet trips (that&rsquo;s only one each mind) we found ourselves sat back in the main area along with all the other participants and a growing list of team names appearing on a white board in the corner.</p>
 

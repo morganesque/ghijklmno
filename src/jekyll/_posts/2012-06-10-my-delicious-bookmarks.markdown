@@ -10,9 +10,6 @@ author:
   url: ''
 author_login: admin
 author_email: tsmorgan@gmail.com
-excerpt: |
-  <p>Ever since I started using Delicious to save bookmarks I always thought one day they’d start offering ways for you to go back through them spotting patterns and surfacing interesting things. They never have, so I downloaded all my bookmarks, wrote some PHP to parse out the data and created <a href="http://del.ghijklmno.net/">a bunch of graphs and stats</a> from them.</p>
-
 wordpress_id: 692
 wordpress_url: http://ghijklmno.net/?p=692
 date: '2012-06-10 20:21:06 +0100'
@@ -132,7 +129,9 @@ comments:
     materials that are easily available in the market, \rand can be purchased under
     the budget."
 ---
-<p><a href="http://del.ghijklmno.net/"><img class="alignnone size-medium wp-image-711" title="My Delicious Bookmarks" src="http://ghijklmno.net/wp-content/uploads/2012/06/delicious-image2.jpg" alt="" width="100%" /></a></p>
+<p>Ever since I started using Delicious to save bookmarks I always thought one day they’d start offering ways for you to go back through them spotting patterns and surfacing interesting things. They never have, so I downloaded all my bookmarks, wrote some PHP to parse out the data and created <a href="http://del.ghijklmno.net/">a bunch of graphs and stats</a> from them.</p>
+<!-- more -->
+<p><a href="http://del.ghijklmno.net/"><img class="alignnone size-medium wp-image-711" title="My Delicious Bookmarks" src="/img/2012/06/delicious-image2.jpg" alt="" width="100%" /></a></p>
 
 <h3>Some Thoughts About this</h3>
 My initial motivation to do this was just because, like a lot of this personal informatics stuff, you plod away repeatedly recording stuff day by month by year and at some point you expect to get something back (in my case I want colourful graphs &mdash; always). It seems like Delicious never really got round to that part. Perhaps in the process of being mushed into Yahoo! and in the rush of the web 2.0 and social networking revolutions the idea of presenting your bookmarks back to you in some useful way got lost.</p>

@@ -19,5 +19,6 @@ categories:
 tags: []
 comments: []
 ---
+<!-- more -->
 <p>I was just reading this <a target="_blank" href="http://www.ananova.com/yournews/story/sm_455642.html">story</a> and thinking. Governments are doing all these things at the moment for the sake of protecting us and our way of life. &#8220;The price of freedom is eternal vigilance&#8221; they say, but what if their vigilance is restricting the freedoms of the people they&#8217;re trying to protect? Does that mean that the price of freedom is a lack of freedom?</p>
 

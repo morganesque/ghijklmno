@@ -23,8 +23,7 @@ tags:
 comments: []
 ---
 <p>I've been listening a lot recently to the <a href="http://www.comedianscomedian.com/">Comedian's Comedian podcast</a>. Being a bit of a comedy geek I find the glimpse it gives you into the creative process behind how comedians do what they do really interesting and not a little inspiring in terms of that self-motivated creativity which is required (and the myriad different forms that takes). I'd say it's well worth a listen for anyone (particularly freelancers) who work in a creative industry.</p>
-
-
+<!-- more -->
 <p>I listened to a couple of the most recent podcasts first and then decided I was enjoying it enough that I'd go back and work my way through from the very beginning, so I guess some of this is a little old hat in terms of the podcast but anyway...</p>
 
 <p>There's a thing in comedy called <a href="http://comedians.about.com/od/glossary/g/Hack-Definition.htm">Hack</a>, the idea is that it's stuff you've heard before, a million times, but that some comedian is churning out anyway. It's frowned upon apparently. <a href="http://www.stuartgoldsmith.co.uk/">Stuart Goldsmith</a> who's podcast it is, started <a href="http://www.comedianscomedian.com/newhack">a page on his website</a> for people to collect newer examples of this kind of material. Not just the old standards but new stuff which is now becoming "hack".</p>

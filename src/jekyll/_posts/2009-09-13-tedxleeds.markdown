@@ -62,7 +62,7 @@ comments:
     Womens Sundance 5605[/url]\r[url=http://www.ugg-boots-discount.net/ugg-nightfall-boots-5359-c-32.html]UGG
     Nightfall Boots 5359[/url]\raefzewfdfty5re"
 ---
-<p><img class="aligncenter size-full wp-image-53" title="logo_north" src="http://ghijklmno.net/wp-content/uploads/2009/09/logo_north1.jpg" alt="logo_north" width="543" height="180" /></p>
+<p><img class="aligncenter size-full wp-image-53" title="logo_north" src="/img/2009/09/logo_north1.jpg" alt="logo_north" width="543" height="180" /></p>
 
 <p>I attended TEDx Leeds at the Rose Bowl last Thursday night. It was a very interesting evening with an impressive array of speakers and a good format for the night. Interspersing live speakers with TED videos provided a nice kind of variety and of course being TED the videos were of such good quality the only worry was whether the flesh'n'blood guys would be able to keep up the standard.</p>
 
@@ -75,7 +75,7 @@ comments:
 <h2>Dr Norman Lewis</h2>
 Lewis's thesis is that innovation is on the fall. Businesses no longer are willing to fund it in the same way as they used to. Things like "The Business Case" and Return On Investment are uppermost in the mind and are leading to a risk aversion within business which is stopping the kind of free innovation which has often brought about the most useful, if unexpected, advances in technology. Innovation has become a buzz word which can be attached to anything often as a replacement for&nbsp; action. All this I completely agree with and I was highly entertained and inspired by the clarity and passion with which Lewis delivered it.</p>
 
-<h3><img class="aligncenter size-full wp-image-37" title="Space Race" src="http://ghijklmno.net/wp-content/uploads/2009/09/space2.png" alt="Space Race" width="720" height="200" /></h3>
+<h3><img class="aligncenter size-full wp-image-37" title="Space Race" src="/img/2009/09/space2.png" alt="Space Race" width="720" height="200" /></h3>
 <h3>Space Race</h3>
 Lewis made a comparison with another time in history, a period of real innovation from which we're still reaping benefit. This was the space race, particularly as encourage and promoted by JFK. He quoted Kennedy's "not because it's easy, but because it's hard" and bemoaned the fact that that kind of visionary leadership seems missing in today's western politics. However, whilst giving it a quick mention Lewis didn't really dwell on the political context and in doing so I feel he missed a key point in a discussion of why that huge amount of innovation took place, and a key reason for why it's not happening in that way today.</p>
 
@@ -93,7 +93,7 @@ At the time it was politically imperative to the U.S. Government to be seen to b
 <h2>Charles Cecil</h2>
 Charles Cecil provided an excellent counterpoint between his two more reflective companions. A builder as much as a thinker, the things he has done seemed to have a immediately tangible quality which certainly resonated with the audience. He told the history of computer games development. Having grown up with many of these computers not to mention a lot of the games and game publishers it was a strange and yet hugely satisfying experience to hear the story of those things told by a true originator and insider.</p>
 
-<p><img class="aligncenter size-full wp-image-42" title="outrun" src="http://ghijklmno.net/wp-content/uploads/2009/09/outrun2.png" alt="outrun" width="720" height="200" /></p>
+<p><img class="aligncenter size-full wp-image-42" title="outrun" src="/img/2009/09/outrun2.png" alt="outrun" width="720" height="200" /></p>
 
 <p>Sure it was long on story and shorter on ideas but I was entirely willing to forgive that for such an interesting and impressive story from such a likeable speaker. Certain facts (the 10,000 fold increase in game development costs) stood out and a certain screen-shot (of the US Gold game Out Run) generated a gasp that was part recognition and part awe. Sufficed to say the subject matter seemed tailored to generate a good response from this audience.</p>
 
@@ -122,7 +122,7 @@ According to Grinyer the designer is the visionary, the communicator and interpr
 
 <p>So where does that leave us. Thoroughly provoked (positively) if you're me. I haven't enjoyed hearing three speakers so much in ages and as you can probably guess I've been inspired to ramble on quite incessantly.</p>
 
-<h2><img class="aligncenter size-full wp-image-45" title="monkey" src="http://ghijklmno.net/wp-content/uploads/2009/09/monkey1.png" alt="monkey" width="720" height="200" /></h2>
+<h2><img class="aligncenter size-full wp-image-45" title="monkey" src="/img/2009/09/monkey1.png" alt="monkey" width="720" height="200" /></h2>
 <h2>So...</h2>
 My conclusions? Well, I suppose I might be seeing my own order in the chaos here, and I'm sure I've left out great chunks of the talks (possibly even missed the point occasionally) but the joining thread I found in the evening was this. Both Lewis and Cecil were identifying a problem with the way things are sometimes done in the world and in business. Lewis called it a lack of visionary leadership, Cecil told us more of it's consequences but personally what I see is an inability of various decision makers to take anything but the a short-term view.</p>
 

@@ -18,6 +18,7 @@ categories:
 - Old Blog
 tags: []
 comments: []
+exceprt:
 ---
 <p>This is the <a href="/images/hard_yoda.jpg" target="_blank">picture</a> we&#8217;ve all been waiting for.</p>
 

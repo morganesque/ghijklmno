@@ -10,9 +10,6 @@ author:
   url: ''
 author_login: admin
 author_email: tsmorgan@gmail.com
-excerpt: |
-  <p>I took myself along the the excellent <a href="http://www.leedsdigitalfestival.com/events/digital-by-design.html">Digital Lunch</a> upstairs at the <a href="http://www.theadelphileeds.co.uk/">Adelphi</a> on Wednesday where I was exposed to some interesting and thought provoking discussion about "design" and "digital" by some very eminent persons from the local digital design industry. Unfortunately whilst I was often provoked towards responding by the discussion I was unable to respond due to a surprising lack of a connected device and a less surprising lack of self confidence. So I retreat like a mollusc to my shell and knock out a blog post instead.</p>
-
 wordpress_id: 677
 wordpress_url: http://ghijklmno.net/?p=677
 date: '2011-10-21 10:31:41 +0100'
@@ -22,6 +19,8 @@ categories:
 tags: []
 comments: []
 ---
+<p>I took myself along the the excellent <a href="http://www.leedsdigitalfestival.com/events/digital-by-design.html">Digital Lunch</a> upstairs at the <a href="http://www.theadelphileeds.co.uk/">Adelphi</a> on Wednesday where I was exposed to some interesting and thought provoking discussion about "design" and "digital" by some very eminent persons from the local digital design industry. Unfortunately whilst I was often provoked towards responding by the discussion I was unable to respond due to a surprising lack of a connected device and a less surprising lack of self confidence. So I retreat like a mollusc to my shell and knock out a blog post instead.</p>
+
 <p>Please note most of the below was prompted by the discussion but isn't necessarily "in response" to it. I just found myself thinking this stuff at some point during or after. The main thing was that it all got me thinking at all which was great!</p>
 
 <h3>Designers Should Code</h3>

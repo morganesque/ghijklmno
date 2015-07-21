@@ -10,9 +10,6 @@ author:
   url: ''
 author_login: admin
 author_email: tsmorgan@gmail.com
-excerpt: |
-  <p>I went to see Ben Hammersley speak at the Rose Bowl in Leeds. Then I came back and wrote this with my tongue ever so slightly in my cheek.</p>
-
 wordpress_id: 680
 wordpress_url: http://ghijklmno.net/?p=680
 date: '2011-11-29 11:07:11 +0000'
@@ -22,6 +19,8 @@ categories:
 tags: []
 comments: []
 ---
+<p>I went to see Ben Hammersley speak at the Rose Bowl in Leeds. Then I came back and wrote this with my tongue ever so slightly in my cheek.</p>
+
 <p>It was the best of times it was the worst of times. It was also the darkest of times.</p>
 
 <p>It was dark before I even left the house. It was pitch black as I crossed the school field, feeling my way along the path, wondering which of the underfoot detritous I usually avoid was attaching itself to my shoes. As I wound my way through the nordic hovels of Guiseley a small gang of blond youths swept past me on skateboards like longships.</p>

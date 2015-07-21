@@ -20,8 +20,7 @@ tags: []
 comments: []
 ---
 <p>I grew up in a house where the children were forced to have piano lessons (call me middle class if you will, it would be an accurate and wholly justified thing to do). I didn't really take to the lessons mainly because I never practised. I passed the Grade 1 exam but before long the whole thing fell away.</p>
-
-
+<!--more-->
 <p>A little later though we acquired a book with the sheet music to a number of <a href="http://en.wikipedia.org/wiki/Scott_Joplin">Scott Jopin</a>'s tunes. If you don't know Joplin he wrote "<a href="http://en.wikipedia.org/wiki/Classic_rag">ragtime</a>" which is a kind of mild piano-based early form of jazz. More importantly though it was a Scott Joplin tune that was used as the <a href="https://www.youtube.com/watch?v=-nXUPHR17FI">theme music for the Pot Black TV Snooker show</a> and it was both a fun tune and quite impressive.</p>
 
 <p>So with those two things in mind I set out attempting to teach myself to play the tune (UPDATE: actually it wasn't the Pot Black theme but another tune called <a href="https://www.youtube.com/watch?v=KCToGv-lO7c">The Entertainer</a> which was also used on TV quite a lot at the time). My Dad did too if I remember rightly and so we both kind of helped and encouraged each other. It took a long long time and there was a lot of the music which we simply missed out (i.e. we found we could get a good approximation of the sound without playing full chords in the accompanying left hand) but eventually we got to the point where we could both bash out a fairly recognisable version of the tune. And this we did over and over and over.</p>

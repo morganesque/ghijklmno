@@ -10,9 +10,6 @@ author:
   url: ''
 author_login: admin
 author_email: tsmorgan@gmail.com
-excerpt: |
-  <p>In which I explain why suddenly all the bits of blogging I've done over the years have now found a home here, even if that means Google will probably shun for all eternity for duplicating content or some such.</p>
-
 wordpress_id: 684
 wordpress_url: http://ghijklmno.net/?p=684
 date: '2012-09-14 10:26:49 +0100'
@@ -22,6 +19,8 @@ categories:
 tags: []
 comments: []
 ---
+<p>In which I explain why suddenly all the bits of blogging I've done over the years have now found a home here, even if that means Google will probably shun for all eternity for duplicating content or some such.</p>
+<!-- more -->
 <p>There's a wonderful Mitchell and Webb sketch from their radio series in which a guy goes to heaven and is informed by the angels there that in terms of hours spent, added up, his lifes work consisted mainly of playing Minesweeper on his computer.</p>
 
 <p>"It's where you really put the hours in."</p>

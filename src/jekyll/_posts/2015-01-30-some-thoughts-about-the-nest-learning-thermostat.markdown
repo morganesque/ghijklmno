@@ -10,9 +10,6 @@ author:
   url: ''
 author_login: admin
 author_email: tsmorgan@gmail.com
-excerpt: |
-  <p>We moved house recently and subsequently bought a new boiler so at the same time I purchased a <a href="https://nest.com/uk/thermostat/life-with-nest-thermostat/">Nest Learning Thermostat</a>. If you haven't heard of it check it out. It's like a thermostat which is connected to the internet and learns your behaviour so it can kill you and eat your children.</p>
-
 wordpress_id: 922
 wordpress_url: http://ghijklmno.net/?p=922
 date: '2015-01-30 14:56:48 +0000'
@@ -22,6 +19,8 @@ categories:
 tags: []
 comments: []
 ---
+<p>We moved house recently and subsequently bought a new boiler so at the same time I purchased a <a href="https://nest.com/uk/thermostat/life-with-nest-thermostat/">Nest Learning Thermostat</a>. If you haven't heard of it check it out. It's like a thermostat which is connected to the internet and learns your behaviour so it can kill you and eat your children.</p>
+<!-- more -->
 <p>We've had the Nest for a few months now so here's a few things I've noticed.</p>
 
 <p>If the <b>Nest</b> thinks you want to have the house warm at 7am but the Nest also thinks that your house will take 3 hours to reach warm then the Nest will turn on your boiler at 4am which means a radiator right next to your head might start to warm up and the pipes might start to gurgle and squeak and no Nest, NO! Bad Nest!!</p>

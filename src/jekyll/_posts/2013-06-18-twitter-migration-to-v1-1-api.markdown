@@ -10,9 +10,6 @@ author:
   url: ''
 author_login: admin
 author_email: tsmorgan@gmail.com
-excerpt: |
-  <p>Blueargh! All you wanted to do was grab your own twitter timeline to display on your own website using a bit of PHP to grab the data as JSON. You were even willing to cache it fairly aggressively in order to spare Twitter a load of unneccesary requests. But now they've migrated to v1.1 there's no way to get this without authentication! And you don't understand authentication. What's a poor boy/girl to do?</p>
-
 wordpress_id: 829
 wordpress_url: http://ghijklmno.net/?p=829
 date: '2013-06-18 09:35:07 +0100'
@@ -25,6 +22,8 @@ tags:
 - twitter
 comments: []
 ---
+<p>Blueargh! All you wanted to do was grab your own twitter timeline to display on your own website using a bit of PHP to grab the data as JSON. You were even willing to cache it fairly aggressively in order to spare Twitter a load of unneccesary requests. But now they've migrated to v1.1 there's no way to get this without authentication! And you don't understand authentication. What's a poor boy/girl to do?</p>
+<!-- more -->
 <p><span style="font-size: 1.5em;">1. Create an application</span></p>
 
 <blockquote>In version 1.1, we're requiring applications to authenticate all of their requests with&nbsp;<a href="https://dev.twitter.com/docs/auth/oauth">OAuth 1.0a</a>&nbsp;or&nbsp;<a href="https://dev.twitter.com/docs/auth/application-only-auth">Application-only authentication</a>.</blockquote>

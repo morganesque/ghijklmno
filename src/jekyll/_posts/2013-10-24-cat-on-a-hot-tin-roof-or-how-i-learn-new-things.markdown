@@ -10,9 +10,6 @@ author:
   url: ''
 author_login: admin
 author_email: tsmorgan@gmail.com
-excerpt: |
-  <p>I've noticed a pattern with the way I learn new things which seems to repeat and yet is something I never able to sidestep or short cut even when I see it happening.</p>
-
 wordpress_id: 877
 wordpress_url: http://ghijklmno.net/?p=877
 date: '2013-10-24 14:30:37 +0100'
@@ -22,6 +19,8 @@ categories:
 tags: []
 comments: []
 ---
+<p>I've noticed a pattern with the way I learn new things which seems to repeat and yet is something I never able to sidestep or short cut even when I see it happening.</p>
+<!-- more -->
 <ol>
 	<li>Hear about some new thing, that I don't know about. It sounds cool.</li>
 	<li>Go and read about it. Can't really make much sense of it. Don't really have time to try it right now.</li>

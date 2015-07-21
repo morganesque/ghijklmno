@@ -10,9 +10,6 @@ author:
   url: ''
 author_login: admin
 author_email: tsmorgan@gmail.com
-excerpt: |
-  <p>In which I rail against the idea that every company no matter what service they provide and no matter what my relationship with them should have a brand and that I should have to know about it.</p>
-
 wordpress_id: 104
 wordpress_url: http://ghijklmno.wordpress.com/?p=104
 date: '2010-01-04 13:00:22 +0000'
@@ -22,6 +19,8 @@ categories:
 tags: []
 comments: []
 ---
+<p>In which I rail against the idea that every company no matter what service they provide and no matter what my relationship with them should have a brand and that I should have to know about it.</p>
+
 <p>I have a bookmark which contains my daughters most recent school photo. It's a bit of a doozy so I'm extremely pleased to have it looking out of me from the top of my book every morning. Beneath the photo but still visible is name/logo of the company who took it. The company hired (or allowed in) by the school which took my child out of her lesson for 5 minutes and then offered me the chance to pay them in many and varied ways for the chance to then own this photograph in any format I chose or printed onto a range of objects.</p>
 
 <p>My question is: why did the company (portentously named Tempest) put their logo on this bookmark?</p>
