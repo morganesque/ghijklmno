@@ -34,15 +34,15 @@ comments: []
     }
     return newArray;
 }</pre>
-So, you can kind of see what it's doing right. Take an array. While your way through it removing one item at a time by choosing a random item using the length of the array. Each time the length of the array shortens by one. You add each item to a new array and once your old array is empty return your newly random array. Sweet!</p>
+So, you can kind of see what it&#8217;s doing right. Take an array. While your way through it removing one item at a time by choosing a random item using the length of the array. Each time the length of the array shortens by one. You add each item to a new array and once your old array is empty return your newly random array. Sweet!</p>
 
 <p>Only splice returns an array! Splice returns an array!! Do you hear?</p>
 
-<p>So your newly randomised array isn't full of your objects it's full of lots of little arrays each containing one item which is your object. This is not fine. You try and do anything with those items (inside their arrays) and you can't. Cos they're inside arrays.</p>
+<p>So your newly randomised array isn't full of your objects it&#8217;s full of lots of little arrays each containing one item which is your object. This is not fine. You try and do anything with those items (inside their arrays) and you can't. Cos they're inside arrays.</p>
 
 <p>Which would be fine if you realised they were inside arrays... but I didn't.</p>
 
-<p>Took me ages to work it out, because when you trace the blasted things out the way Flash traces single item arrays makes it look like it's the object itself. You don't see that it's inside an array.</p>
+<p>Took me ages to work it out, because when you trace the blasted things out the way Flash traces single item arrays makes it look like it&#8217;s the object itself. You don't see that it&#8217;s inside an array.</p>
 
 <p>*sigh*</p>
 

@@ -21,7 +21,7 @@ comments: []
 ---
 <!-- more -->
 
-<p>Movement detection with a webcam, just how do we do it? Well, in the immortal words of Dr Seuss "it's really quite simple, there's nothing much to it".
+<p>Movement detection with a webcam, just how do we do it? Well, in the immortal words of Dr Seuss "it&#8217;s really quite simple, there's nothing much to it".
 It turns out that combining a couple of elements of Flash you can pretty swiftly get up and running with a movement detection system which whilst perhaps not the most sophisticated is easily enough to allow a small snowy man to dodge a few snowballs.
 So where do we start? Well we're going to approach this by creating a Document Class. This seems like a good approach for a demonstration but all the code below could just as easily be abstracted into a reusable Class elsewhere (as we actually did for the game).
 So without boring you with all the details of creating a Document Class I'll start with a number of variables that we want to set up first.</p>
@@ -39,7 +39,7 @@ var diff:BitmapData;
 var bitmap:Bitmap;
 var video:Video;
 </pre>
-The first ones there are <em>w</em> and <em>h</em>. These are simply the width and height that you want things to be. I've set them to be the size of my SWF so everything I do will fill the whole of my movie. You could have them whatever you like but it's important that you reuse the variable further down so everything lines up right!
+The first ones there are <em>w</em> and <em>h</em>. These are simply the width and height that you want things to be. I&#8217;ve set them to be the size of my SWF so everything I do will fill the whole of my movie. You could have them whatever you like but it&#8217;s important that you reuse the variable further down so everything lines up right!
 Next there's a bit of mathematical shenanigans which is basically setting up a few values which effect how we'll analyze the webcam image later on. All you really need to know is that the number 50 is saying '<em>split the image up into a grid which is 50x50' </em>this means that instead of looking at each pixel individually we'll skip some of them for the sake of speed. That 50 could be anything up to the value of w or h respectively.
 Finally a few global vars which we'll be using. Three lots of <strong>BitmapData</strong>, one <strong>Bitmap</strong> and one <strong>Video</strong> object. Tidy!
 <p>Now to the webcam. We need to get access to the user's camera using the following lines of code (this will be in the constructor of our Document Class).</p>
@@ -61,7 +61,7 @@ Firstly you need to create a video object. This is a kind of <strong>DisplayObje
 <p>or</p>
 
 <pre lang="actionscript">Camera.Muted</pre>
-<p>You can guess what they mean and it's worth setting a listening function in order to deal with both scenarios, or you may end up with some users hitting a dead end. Next we add the video object to the stage with <strong>addChild</strong> and you should see your self smiling back via the magic of webcam.
+<p>You can guess what they mean and it&#8217;s worth setting a listening function in order to deal with both scenarios, or you may end up with some users hitting a dead end. Next we add the video object to the stage with <strong>addChild</strong> and you should see your self smiling back via the magic of webcam.
 OK next we'll get into the motion detection. First we need a <strong>Bitmap</strong> and for a <strong>Bitmap</strong> we need <strong>BitmapData</strong>.</p>
 
 <pre lang="actionscript">var diff:BitmapData = new BitmapData(w,h,true,0x00000000);</pre>
@@ -70,7 +70,7 @@ You may have noticed that I used the variables w and h in the video object befor
 
 <pre lang="actionscript">var bm:Bitmap = new Bitmap(diff);
 addChild(bm);</pre>
-We pass <strong>BitmapData</strong> into the <strong>Bitmap</strong> and add it to the stage. We see nothing yet because it's still all empty and transparent but that's fine for now.
+We pass <strong>BitmapData</strong> into the <strong>Bitmap</strong> and add it to the stage. We see nothing yet because it&#8217;s still all empty and transparent but that&#8217;s fine for now.
 <p>Next we'll use the other two <strong>BitmapData</strong> objects. There are the ones which will actually be doing the work, but due to that fact they're not actually going to be used to display anything (incidentally during development I did pipe both these into <strong>Bitmap</strong> objects and displayed them on the stage in order to get a better idea of what was happening).</p>
 
 <pre lang="actionscript">wcam = new BitmapData(w,h,false);
@@ -78,10 +78,10 @@ snap = new BitmapData(w,h,false);
 snap.draw(video);</pre>
 I'm setting these up the same way as the other one (size-wise) but these don't need to be transparent so the third parameter is false and I'm not passing a colour. Also you'll notice that I'm callling a function in the second one (<em>snap</em>). This is the bitmap which is taking a 'snapshot' of the webcam and which we'll be comparing against later. The <strong>draw</strong> function simply copies the visual contents of the <strong>DisplayObject</strong> <em>video</em> into the <strong>BitmapData</strong>.</p>
 
-<p>The final thing I do in the Document Class constructor is to set an event listener to trigger a function on every frame. So let's do that next.</p>
+<p>The final thing I do in the Document Class constructor is to set an event listener to trigger a function on every frame. So let&#8217;s do that next.</p>
 
 <pre lang="actionscript">addEventListener(Event.ENTER_FRAME, onEnter);</pre>
-<p>Right so we're all set up with our objects in place and a webcam (hopefully) attached to a DisplayObject for showing. We've set a function to trigger every frame, this is going to be the place where the motion is actually detected so let's look at that next.</p>
+<p>Right so we're all set up with our objects in place and a webcam (hopefully) attached to a DisplayObject for showing. We&#8217;ve set a function to trigger every frame, this is going to be the place where the motion is actually detected so let&#8217;s look at that next.</p>
 
 <pre lang="actionscript">public function onEnter(e:Event):void
 {
@@ -100,13 +100,13 @@ I'm setting these up the same way as the other one (size-wise) but these don't n
     }
     snap.draw(video);
 }</pre>
-<p>Right let's start at the top. The first thing we do is we <strong>draw</strong> the current contents of <em>video</em> into the <strong>BitmapData</strong><em> wcam</em>, this is the same as what we did with <em>snap</em> above but we're expecting there to have been a change between when we did that (in reality this first time it happens there might not be, but as this function is only (!) called once every frame there soon will be).</p>
+<p>Right let&#8217;s start at the top. The first thing we do is we <strong>draw</strong> the current contents of <em>video</em> into the <strong>BitmapData</strong><em> wcam</em>, this is the same as what we did with <em>snap</em> above but we're expecting there to have been a change between when we did that (in reality this first time it happens there might not be, but as this function is only (!) called once every frame there soon will be).</p>
 
 <p>Now for the loops. Here we're using those variables from the top of the class. There's two loops, one for colomns and one for rows. In this way we'll be working out the coordinates for the centre pixel in each square of a 50x50 grid which covers the surface of our <em>video</em>. Still with me? Good. Jumping into the middle of those loops then, we have two values <em>bx</em> and <em>by</em>, these are what direct us at the pixel we're after.</p>
 
-<p>Here we use another function from <strong>BitmapData</strong> which is <strong>getPixel</strong>. This function looks at a pixel and returns the colour of that pixel as a <em>uint</em>. These are basically numbers which within the world of Flash can also represent colours (I won't go into all that here) and so they are perfect for the kind of comparison we're wanting to do here. Notice we're using <strong>getPixel</strong> to get the same pixel from both of our <strong>BitmapData</strong> objects <em>snap</em> and <em>wcam</em>.&nbsp; You're probably a step ahead of me here but you can see that it's a simple step from here to finding a kind of value for the amount of numerical difference between the two colours we find. So that's what we do.</p>
+<p>Here we use another function from <strong>BitmapData</strong> which is <strong>getPixel</strong>. This function looks at a pixel and returns the colour of that pixel as a <em>uint</em>. These are basically numbers which within the world of Flash can also represent colours (I won't go into all that here) and so they are perfect for the kind of comparison we're wanting to do here. Notice we're using <strong>getPixel</strong> to get the same pixel from both of our <strong>BitmapData</strong> objects <em>snap</em> and <em>wcam</em>.&nbsp; You're probably a step ahead of me here but you can see that it&#8217;s a simple step from here to finding a kind of value for the amount of numerical difference between the two colours we find. So that&#8217;s what we do.</p>
 
-<p>We take one from the other and put the result into a variable <em>col</em> (notice we're using Math.abs() here so it doesn't matter if one is bigger than the other or vice versa it's the magnitude of difference we're interested in). Then we check whether it's value is higher than a certain pre-defined value and if it is we decide we have found motion. The <strong>if</strong> statement as written above does a couple of things (but as I said before you might want to do differently) if there is no motion it sets the value of col to a transparent color, if there is motion it sets the colour to <em>white</em>, thereby turning the range of values we might get back into a binary (on/off) representation. Finally we draw a small rectangle into your <strong>BitmapData</strong> <em>diff</em> (using another <strong>BitmapData</strong> function <strong>fillRect</strong>) which has up till now been completely transparent, and colour it with the new binary value of <em>col</em> meaning that either you'll get a little white rectangle appearing or a little transparent rectangle ... errr ... not appearing. Theseloops continue until all the pixels have been checked and all rectangles drawn.</p>
+<p>We take one from the other and put the result into a variable <em>col</em> (notice we're using Math.abs() here so it doesn't matter if one is bigger than the other or vice versa it&#8217;s the magnitude of difference we're interested in). Then we check whether it&#8217;s value is higher than a certain pre-defined value and if it is we decide we have found motion. The <strong>if</strong> statement as written above does a couple of things (but as I said before you might want to do differently) if there is no motion it sets the value of col to a transparent color, if there is motion it sets the colour to <em>white</em>, thereby turning the range of values we might get back into a binary (on/off) representation. Finally we draw a small rectangle into your <strong>BitmapData</strong> <em>diff</em> (using another <strong>BitmapData</strong> function <strong>fillRect</strong>) which has up till now been completely transparent, and colour it with the new binary value of <em>col</em> meaning that either you'll get a little white rectangle appearing or a little transparent rectangle ... errr ... not appearing. Theseloops continue until all the pixels have been checked and all rectangles drawn.</p>
 
 <p>The final quick thing that we do is <strong>draw</strong> the current contents of <em>video</em> into the <strong>BitmapData</strong><em> snap. </em>This updates <em>snap</em> and means that next time we check we're only noticing motion that has happens since we did the last check.<em>
 </em></p>
@@ -142,7 +142,7 @@ I'm setting these up the same way as the other one (size-wise) but these don't n
 }</pre>
 <p>First thing is that we set up two <strong>Array</strong> vars at the top. These are going to store the coordinates of any movement we detect. There's one for x values and one for y because later on we're going to want to arrive at a single [x,y] coordinate for the centre of movement. Obviously if your needs are different you may find you need to diverge a bit from here on.</p>
 
-<p>Secondly we've added a couple of lines which are triggered by the pixel having motion. Basically it's not too hard to see that if the pixel does have motion we pass it's x and y coordinate into the appropriate array and save it for later.</p>
+<p>Secondly we&#8217;ve added a couple of lines which are triggered by the pixel having motion. Basically it&#8217;s not too hard to see that if the pixel does have motion we pass it&#8217;s x and y coordinate into the appropriate array and save it for later.</p>
 
 <p>OK so time for a bit of a recap, a quick list of what we're doing so far.</p>
 
@@ -152,7 +152,7 @@ I'm setting these up the same way as the other one (size-wise) but these don't n
 <li>Using these 2 we compare a grid of pixels to detect change.</li>
 <li>If the change is great enough we store the pixel's coordinates.</li>
 </ol>
-At this point I have to reiterate that it's really up to you what you do with this information, there are so many possibilities, but for our purposes here I'll assume that you want the detected motion to be used to control an object (in our case the snowman).</p>
+At this point I have to reiterate that it&#8217;s really up to you what you do with this information, there are so many possibilities, but for our purposes here I'll assume that you want the detected motion to be used to control an object (in our case the snowman).</p>
 
 <p>In order to do this what you need is to somehow translate those arrays of coordinates into a single value. Once you have this value you can apply it to your snowman either as a coordinate, a speed or perhaps even an acceleration. In our case we were only ever interested in the <em>xcoords</em> array because it was only horizontal movement we wanted to generate but all the following could be done perfectly well for the <em>ycoords</em> too.</p>
 
@@ -173,15 +173,15 @@ At this point I have to reiterate that it's really up to you what you do with th
 	}
 	var averageX = ( sum / section.length );
 }</pre>
-<p>First we check the length of the array. We've decided that if there are less that 5 items (i.e. 5 pixels registering motion) then we're going to ignore the motion, if there's that little it's probably incidental and not worth considering.</p>
+<p>First we check the length of the array. We&#8217;ve decided that if there are less that 5 items (i.e. 5 pixels registering motion) then we're going to ignore the motion, if there's that little it&#8217;s probably incidental and not worth considering.</p>
 
-<p>Next we sort the array so we know that the middle values really are the middle in size. Next we're going to extract a <em>section</em> from the array (this is the trimming bit) we've decided we'll take ten values and we'll do this using the <strong>Array.slice()</strong> method. This method takes two values which define a starting and end point for your section&nbsp; so we find the starting point by finding the centre of the array and couning back 5. Then our<em> section</em> will be 10 items long so the second value is naturally <em>start+10</em>.</p>
+<p>Next we sort the array so we know that the middle values really are the middle in size. Next we're going to extract a <em>section</em> from the array (this is the trimming bit) we&#8217;ve decided we'll take ten values and we'll do this using the <strong>Array.slice()</strong> method. This method takes two values which define a starting and end point for your section&nbsp; so we find the starting point by finding the centre of the array and couning back 5. Then our<em> section</em> will be 10 items long so the second value is naturally <em>start+10</em>.</p>
 
-<p>Next we whizz through the new <em>section</em> array adding up all the values to create a <em>sum</em> of them all. Once we have the sum of those values we can easily find the average of them by dividing by the number of them (in this case it's 10 but more generically it would be <em>section.length</em>).</p>
+<p>Next we whizz through the new <em>section</em> array adding up all the values to create a <em>sum</em> of them all. Once we have the sum of those values we can easily find the average of them by dividing by the number of them (in this case it&#8217;s 10 but more generically it would be <em>section.length</em>).</p>
 
 <p>So now we have an <em>averageX</em> variable containing a kind of central point for where motion was detected. At first I used this as the x coordinate of the snowman but this created a very jerky movement as the point was often moving around erratically so I started experimenting with moving the snowman towards this point more smoothly and with a bit of speed and acceleration.</p>
 
-<p>So there you have it. Motion detection and snowman control with a webcam. It's not perfect and could probably be improved here and there but it worked for us.</p>
+<p>So there you have it. Motion detection and snowman control with a webcam. It&#8217;s not perfect and could probably be improved here and there but it worked for us.</p>
 
 <p>We hope it works for you. ;-)</p>
 

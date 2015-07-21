@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: It's been a long time baby
+title: It&#8217;s been a long time baby
 author:
   display_name: Tom
   login: admin
@@ -21,13 +21,13 @@ comments: []
 ---
 <!-- more -->
 
-<p>In which I explain why suddenly all the bits of blogging I've done over the years have now found a home here, even if that means Google will probably shun for all eternity for duplicating content or some such.</p>
+<p>In which I explain why suddenly all the bits of blogging I&#8217;ve done over the years have now found a home here, even if that means Google will probably shun for all eternity for duplicating content or some such.</p>
 <!-- more -->
 <p>There's a wonderful Mitchell and Webb sketch from their radio series in which a guy goes to heaven and is informed by the angels there that in terms of hours spent, added up, his lifes work consisted mainly of playing Minesweeper on his computer.</p>
 
-<p>"It's where you really put the hours in."</p>
+<p>"It&#8217;s where you really put the hours in."</p>
 
-<p>I was reading a blog post by someone saying that all things considered when he adds it up, probably by the end of his life it'll be his blog which will he'll consider his magnum opus. For similar reasons really; it's where he really put the hours in.</p>
+<p>I was reading a blog post by someone saying that all things considered when he adds it up, probably by the end of his life it'll be his blog which will he'll consider his magnum opus. For similar reasons really; it&#8217;s where he really put the hours in.</p>
 
 <p>Of course the joke above is about the way we waste our lives on meaningless trivialities even when we know that more important things await. The reason this guy piqued my interest was because I'd hadn't ever really considered blogging as something more significant. I'd always put it down somewhere a lot closer to Minesweeper on my personal spectrum of triviality.</p>
 
@@ -41,7 +41,7 @@ comments: []
 
 <p>None of this added up to much and I found myself with lots of little silos where I imagined rivers of content would flow and where it turned out, only drips of rare content ever trickled. However, reading the aformentioned blog post made me realised that whilst I none of these bits of blogging ever really amounted to much on their own, I had in fact been blogging, here and there for the entire time.</p>
 
-<p>So with a bit of help from various export and import features of the various blogging platforms I've used over the years, and with a bit of hand crafted XML (the oldest blog was all my own work) I've managed to gather the entire lot in one place and now this is the home to that.</p>
+<p>So with a bit of help from various export and import features of the various blogging platforms I&#8217;ve used over the years, and with a bit of hand crafted XML (the oldest blog was all my own work) I&#8217;ve managed to gather the entire lot in one place and now this is the home to that.</p>
 
-<p>I probably should have done it all along. Hindsight. Anyway it feels good to tidy things up a little, to find a place for everything and put everything in it's place. No doubt now silence will descend again. Twas ever thus.</p>
+<p>I probably should have done it all along. Hindsight. Anyway it feels good to tidy things up a little, to find a place for everything and put everything in it&#8217;s place. No doubt now silence will descend again. Twas ever thus.</p>
 

@@ -31,12 +31,12 @@ comments:
     this.\r\rA lot of it was about \"search anxiety\", that later you wouldn't
     be able to find the thing you found interesting.\r\rSometimes, tags became
     a millstone, a lost interest that just wouldn't die.\r\rAnd bizarrely, given
-    that Delicious were a TAGCLOUD tool, they've killed the tagcloud. Unbelievable.
+    that Delicious were a TAGCLOUD tool, they&#8217;ve killed the tagcloud. Unbelievable.
     Your tag cloud almost was the value, a tool for reflection or digging up old interests
     and millstones. Now you can't even see what tags you used, you have to SEARCH
     your own tags???!!!! \r\rI always thought that a tagcloud would be a great
     start to a personal wiki. All you would need to do would be to add rich HTML to
-    a tags description, do a little ordering, and bingo... a resource that you've
+    a tags description, do a little ordering, and bingo... a resource that you&#8217;ve
     crafted over years.\r\rI don't know who rescued Delicious, but in doing so
     they killed all the parts of it that had promise and kept alive all the bits that
     didn't. I'd prefer a tool like your page about your tagging experience than what
@@ -56,7 +56,7 @@ comments:
     at first but I can't think of many examples of that early promise turning into
     anything really special down the road. The thing is though; I still think there's
     something in it, the whole folksonomy thing still makes sense to me, but then
-    I've never really tried working with actual data. Maybe it's harder to draw useful
+    I&#8217;ve never really tried working with actual data. Maybe it&#8217;s harder to draw useful
     meaning from it than you'd think."
 - id: 65
   author: Program tv
@@ -103,7 +103,7 @@ comments:
   date_gmt: '2014-01-15 06:02:17 +0000'
   content: Hello there,I'm starting to cetare a new plugin, this time I will keep
     it in github so people can tweak (and help too :) ), right now I would like some
-    feedbacks on usage and things that would be useful. I've seen sites on dogs shelters
+    feedbacks on usage and things that would be useful. I&#8217;ve seen sites on dogs shelters
     and how folks are sorting the data,  if you run a shelter site or intend to, please
     contact me.
 - id: 223
@@ -123,7 +123,7 @@ comments:
   author_url: http://ikzouhetnietweten.nl/index.php?mod=users&amp;action=view&amp;id=222300
   date: '2014-11-20 22:42:35 +0000'
   date_gmt: '2014-11-20 22:42:35 +0000'
-  content: "To use as an example, let's look at that $30,000 photovoltaic system \rthat
+  content: "To use as an example, let&#8217;s look at that $30,000 photovoltaic system \rthat
     can provide the electrical needs for your home.\rs need for electricity and
     natural gas from local utility companies.\rOne can use various weather-stripping
     materials that are easily available in the market, \rand can be purchased under
@@ -160,5 +160,5 @@ I think the real value in Delicious is perhaps not for an individual. The real v
 <p>Even bookmarks themselves seem a strange breed when you really look at them. Always slightly illusive in their purpose. Always fighting that battle with the search-engine for speed of use and actual utility. Do I actually want to curate a gallery of bookmarks and prune and cut them into some kind of shape or form? Would that be of use as anything other than self-expression? Should I simply be posting these things directly to Twitter instead now as &ldquo;hey look at this&rdquo; or more simply &ldquo;this is where I currently am&rdquo; (a web analogy for location).</p>
 
 <h3>And So?</h3>
-I think I would like to see Delicious try and find ways to feed back my usage to me. I&rsquo;m not sure if what I&rsquo;ve done would really be the right way (although I am a sucker for colourful graphs!) but I can&rsquo;t help feeling there must be something in it. I think in general though there is a question over what we're doing when we add to services like this. Whether that's just something we need to work out for ourselves or whether it has wider implications for the way services like Delicious allow us not just to see what we've done, but to draw meaning (and therefore value) back from it; it will surely be more and more important in the future.</p>
+I think I would like to see Delicious try and find ways to feed back my usage to me. I&rsquo;m not sure if what I&rsquo;ve done would really be the right way (although I am a sucker for colourful graphs!) but I can&rsquo;t help feeling there must be something in it. I think in general though there is a question over what we're doing when we add to services like this. Whether that&#8217;s just something we need to work out for ourselves or whether it has wider implications for the way services like Delicious allow us not just to see what we&#8217;ve done, but to draw meaning (and therefore value) back from it; it will surely be more and more important in the future.</p>
 

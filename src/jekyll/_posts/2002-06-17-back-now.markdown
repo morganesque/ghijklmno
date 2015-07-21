@@ -21,7 +21,7 @@ comments: []
 ---
 <!-- more -->
 
-<p>"Back in work, back in work, la la la, la la la"</p>
+<p>&ldqou;Back in work, back in work, la la la, la la la&rdquo;</p>
 
 <p>No, it&#8217;s no use there&#8217;s nothing positive about getting back from holiday is there? There we had freedom, time, no money worries, here we have bills, rush hours and stupid rules about not stepping out until there&#8217;s a green man or something. They didn&#8217;t have pavements there but then what good is a pavement when the road isn&#8217;t leading to a beach?</p>
 

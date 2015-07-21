@@ -24,11 +24,10 @@ comments: []
 <p>Some time ago scientists said that due to everything we were doing to the world bad things would happen in the future. Global warming, ice caps melting, serverer weather, general catastophy. Our response to this was mostly:
 </p>
 
-<p><b>"What do we care we&#8217;ll be dead by then - go away scientists!!"</b>
-</p>
+<blockquote>"What do we care we&#8217;ll be dead by then - go away scientists!!"</blockquote>
 
 <p>Now with developments in understanding the genome, scientists are discovering the very secrets of life itself. One of the benefits being that they will be able to extend the life of people to a huge extent. What&#8217;s the betting that once they&#8217;ve prefected a cure for death they&#8217;re going to come back and ask:
 </p>
 
-<p><b>"What was that you were saying about global warming?".</b></p>
+<blockquote>"What was that you were saying about global warming?".</blockquote>
 

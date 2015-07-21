@@ -27,7 +27,7 @@ comments: []
 
 <p><em><a href="/img/2012/02/IgniteTalk2.001.jpg"><img title="IgniteTalk2.001" src="/img/2012/02/IgniteTalk2.001.jpg" alt="Responsive Web Design" width="100%" /></a></em></p>
 
-<p>Hello. I'm going to talk about Responsive Web Design. A bit about what it is, where's it's come from, where's it's going. Etc.</p>
+<p>Hello. I'm going to talk about Responsive Web Design. A bit about what it is, where's it&#8217;s come from, where's it&#8217;s going. Etc.</p>
 
 <p><a href="/img/2012/02/IgniteTalk2.002.jpg"><img title="IgniteTalk2.002" src="/img/2012/02/IgniteTalk2.002.jpg" alt="All the web enabled devices." width="100%" /></a></p>
 
@@ -37,15 +37,15 @@ comments: []
 
 <p><a href="/img/2012/02/IgniteTalk2.003.jpg"><img title="IgniteTalk2.003" src="/img/2012/02/IgniteTalk2.003.jpg" alt="" width="100%" /></a></p>
 
-<p>But it's not only screen size. Each of these devices actually has a whole range of capabilities, things they can do, content they can cope with, which all effect the kind of website you would want to design for them.</p>
+<p>But it&#8217;s not only screen size. Each of these devices actually has a whole range of capabilities, things they can do, content they can cope with, which all effect the kind of website you would want to design for them.</p>
 
 <p><a href="/img/2012/02/IgniteTalk2.004.jpg"><img title="IgniteTalk2.004" src="/img/2012/02/IgniteTalk2.004.jpg" alt="" width="100%" /></a></p>
 
-<p>Now traditionally the way you'd deal with this would be to find a kind of highest common denominator. A baseline to design to that you were pretty sure the vast majority of your audience would be able to view perfectly. The trouble is that nowadays the website you've designed for a table lamp is going to look pretty basic to someone viewing it on an iPad.</p>
+<p>Now traditionally the way you'd deal with this would be to find a kind of highest common denominator. A baseline to design to that you were pretty sure the vast majority of your audience would be able to view perfectly. The trouble is that nowadays the website you&#8217;ve designed for a table lamp is going to look pretty basic to someone viewing it on an iPad.</p>
 
 <p><a href="/img/2012/02/IgniteTalk2.005.jpg"><img title="IgniteTalk2.005" src="/img/2012/02/IgniteTalk2.005.jpg" alt="" width="100%" /></a></p>
 
-<p>So you want to design a separate website for each device. This way everyone will get an optimum experience whatever device they're using. The trouble with this approach is that it's a huge amount of work and it's also a never ending task as new devices enter the market.</p>
+<p>So you want to design a separate website for each device. This way everyone will get an optimum experience whatever device they're using. The trouble with this approach is that it&#8217;s a huge amount of work and it&#8217;s also a never ending task as new devices enter the market.</p>
 
 <p><a href="/img/2012/02/IgniteTalk2.006.jpg"><img title="IgniteTalk2.006" src="/img/2012/02/IgniteTalk2.006.jpg" alt="" width="100%" /></a></p>
 
@@ -73,11 +73,11 @@ comments: []
 
 <p>Also by using percentage measurements to lay out out designs and by using <a href="http://www.google.co.uk/search?ix=hcb&amp;sourceid=chrome&amp;ie=UTF-8&amp;q=media+queries">media queries</a> to define multiple break points we can create designs which expand and contract and even reflow themselves into whatever space they have available to them.</p>
 
-<p><em>(Ugh! Again condensing everything that's covered in <a href="http://www.abookapart.com/products/responsive-web-design">Ethan's book</a> into a single slide seems like a&nbsp;disservice&nbsp;but going into more detail seemed like it would open a can of worms which wouldn't have left enough slides to still make the points I wanted to make later on).</em></p>
+<p><em>(Ugh! Again condensing everything that&#8217;s covered in <a href="http://www.abookapart.com/products/responsive-web-design">Ethan's book</a> into a single slide seems like a&nbsp;disservice&nbsp;but going into more detail seemed like it would open a can of worms which wouldn't have left enough slides to still make the points I wanted to make later on).</em></p>
 
 <p><a href="/img/2012/02/IgniteTalk2.010.jpg"><img title="IgniteTalk2.010" src="/img/2012/02/IgniteTalk2.010.jpg" alt="" width="100%" /></a></p>
 
-<p>A lot of these techniques are fairly new and there's a number of things which are still being ironed out but I think what's interesting here is that there seems to be a direction that things are going in which is becoming more clear in terms of web design itself.</p>
+<p>A lot of these techniques are fairly new and there's a number of things which are still being ironed out but I think what&#8217;s interesting here is that there seems to be a direction that things are going in which is becoming more clear in terms of web design itself.</p>
 
 <p><a href="/img/2012/02/IgniteTalk2.011.jpg"><img title="IgniteTalk2.011" src="/img/2012/02/IgniteTalk2.011.jpg" alt="" width="100%" /></a></p>
 
@@ -93,11 +93,11 @@ comments: []
 
 <p><a href="/img/2012/02/IgniteTalk2.014.jpg"><img title="IgniteTalk2.014" src="/img/2012/02/IgniteTalk2.014.jpg" alt="" width="100%" /></a></p>
 
-<p>Many of these ways of working could have been adopted right from the beginning of the web, but I think previously we've be able to get away without embracing them. I think the way the web is changing means that doing that is going to be less viable going forward.</p>
+<p>Many of these ways of working could have been adopted right from the beginning of the web, but I think previously we&#8217;ve be able to get away without embracing them. I think the way the web is changing means that doing that is going to be less viable going forward.</p>
 
 <p><a href="/img/2012/02/IgniteTalk2.015.jpg"><img title="IgniteTalk2.015" src="/img/2012/02/IgniteTalk2.015.jpg" alt="" width="100%" /></a></p>
 
-<p>Now you could say this is all irrelevant because native apps easily outstrip websites in terms of providing a great user experience, and I think in many circumstances that's correct but I also see an interesting&nbsp;parallel.</p>
+<p>Now you could say this is all irrelevant because native apps easily outstrip websites in terms of providing a great user experience, and I think in many circumstances that&#8217;s correct but I also see an interesting&nbsp;parallel.</p>
 
 <p><a href="/img/2012/02/IgniteTalk2.016.jpg"><img title="IgniteTalk2.016" src="/img/2012/02/IgniteTalk2.016.jpg" alt="" width="100%" /></a></p>
 
@@ -111,23 +111,23 @@ comments: []
 
 <p><a href="/img/2012/02/IgniteTalk2.018.jpg"><img title="IgniteTalk2.018" src="/img/2012/02/IgniteTalk2.018.jpg" alt="" width="100%" /></a></p>
 
-<p>It's a rather long quote but what he's basically saying here is: "I agree with Tom".</p>
+<p>It&#8217;s a rather long quote but what he's basically saying here is: "I agree with Tom".</p>
 
-<p><em>(Obviously it's nice to have a TBL quote in there. I've seen it used elsewhere in this context and I think it definitely supports what I'm saying. However it became clear when practising this (in front of my wife) that there really wouldn't be enough time for people to read it. It was only in attempting to work out how to get around that obvious mis-calculation that I decided that an&nbsp;ironically&nbsp;self-aggrandising&nbsp;summary of the quote might work. I don't know if it'll come out in the video but being aware that this worked much more like an actual "punch line" than anything else in the talk actually caused me to fluff it slightly, which is strange but definitely something to remember for next time).</em></p>
+<p><em>(Obviously it&#8217;s nice to have a TBL quote in there. I&#8217;ve seen it used elsewhere in this context and I think it definitely supports what I'm saying. However it became clear when practising this (in front of my wife) that there really wouldn't be enough time for people to read it. It was only in attempting to work out how to get around that obvious mis-calculation that I decided that an&nbsp;ironically&nbsp;self-aggrandising&nbsp;summary of the quote might work. I don't know if it'll come out in the video but being aware that this worked much more like an actual "punch line" than anything else in the talk actually caused me to fluff it slightly, which is strange but definitely something to remember for next time).</em></p>
 
 <p><a href="/img/2012/02/IgniteTalk2.019.jpg"><img title="IgniteTalk2.019" src="/img/2012/02/IgniteTalk2.019.jpg" alt="" width="100%" /></a></p>
 
-<p>So in conclusion I think it's only by appreciating the way that web design is evolving, by understanding what it's becoming and what it's growing away from, can we start not only to redefine what web design is but also more importantly to rediscover what it has always been.</p>
+<p>So in conclusion I think it&#8217;s only by appreciating the way that web design is evolving, by understanding what it&#8217;s becoming and what it&#8217;s growing away from, can we start not only to redefine what web design is but also more importantly to rediscover what it has always been.</p>
 
-<p><em>(One thing I learned from <a href="http://morganesque.com/blog/2011/04/magic-conspiracy-theories/">my previous attempt at this kind of thing</a> was that you need to end with some kind of statement. Last time "I pulled a funny face, mumbled something about that being it, and quickly handed back the mike" which I didn't want to do this time. So I deliberately tried to come up with something which sounded final, so I could then say "the end" or something which would hopefully trigger polite applause. I can't remember exactly what I said now but I'm pleased that this seemed to work the way I intended. It's nice to feel I learned something and have improved, even just a little).</em></p>
+<p><em>(One thing I learned from <a href="http://morganesque.com/blog/2011/04/magic-conspiracy-theories/">my previous attempt at this kind of thing</a> was that you need to end with some kind of statement. Last time "I pulled a funny face, mumbled something about that being it, and quickly handed back the mike" which I didn't want to do this time. So I deliberately tried to come up with something which sounded final, so I could then say "the end" or something which would hopefully trigger polite applause. I can't remember exactly what I said now but I'm pleased that this seemed to work the way I intended. It&#8217;s nice to feel I learned something and have improved, even just a little).</em></p>
 
 <p><a href="/img/2012/02/IgniteTalk2.020.jpg"><img title="IgniteTalk2.020" src="/img/2012/02/IgniteTalk2.020.jpg" alt="" width="100%" /></a></p>
 
 <p><em>I didn't actually say anything over this final slide although I think my "conclusion" overran enough that it had popped up before I'd properly got to the end. I felt like I had to have these names included here as I'd drawn pretty much the whole talk from various things these guys have written or created over the last few years. It also seemed like, apart from some of the phrases I deliberately scattered through some of the other slides, these names would be the best place to start for anyone who was interested in finding out more.</em></p>
 
-<p><em>A couple of final things to say. There could be a bit of dispute about whether what I described is actually Responsive Web Design or whether I'm actually describing something bigger which includes Responsive Web Design, Adaptive Web Design, the Mobile First philosophy and generally the Web Standards, Progressive Enhancement, One Web movements or ideas. I hoped by touching on as much as I could and then making a more general point I've managed not to stray too far form something that most people could accept was a current trend in web design (whatever you call it).</em></p>
+<p><em>A couple of final things to say. There could be a bit of dispute about whether what I described is actually Responsive Web Design or whether I'm actually describing something bigger which includes Responsive Web Design, Adaptive Web Design, the Mobile First philosophy and generally the Web Standards, Progressive Enhancement, One Web movements or ideas. I hoped by touching on as much as I could and then making a more general point I&#8217;ve managed not to stray too far form something that most people could accept was a current trend in web design (whatever you call it).</em></p>
 
-<p><em>The other thing would be to address the idea that I've kind of conflated all of web design into one humongous whole which is all moving in one direction. I don't really think that but it's hard in the restricted time of the format to get into too many subtleties. There's always going to be a number of different approaches to designing for the web (and a number of different purposes for websites) and I don't really believe in one ring to rule them all. I do think that Responsive Web Design is such a good idea, it makes so much sense, and it is so true to some of those unique attributes and aspirations of the web, that it is definitely going to be an important trend on the web in the future. </em></p>
+<p><em>The other thing would be to address the idea that I&#8217;ve kind of conflated all of web design into one humongous whole which is all moving in one direction. I don't really think that but it&#8217;s hard in the restricted time of the format to get into too many subtleties. There's always going to be a number of different approaches to designing for the web (and a number of different purposes for websites) and I don't really believe in one ring to rule them all. I do think that Responsive Web Design is such a good idea, it makes so much sense, and it is so true to some of those unique attributes and aspirations of the web, that it is definitely going to be an important trend on the web in the future. </em></p>
 
 <p><em>Personally I love it, I hope now you do too. ;-)</em></p>
 

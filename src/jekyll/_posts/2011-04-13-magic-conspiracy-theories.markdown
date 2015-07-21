@@ -76,7 +76,7 @@ comments:
     They assert that 9/11 was an inside job. They insist that the moon landing
     was faked. They posit elaborate theories on everything from the JFK assassination,
     to the Roswell flying saucer to the death of Princess Diana. What are some of
-    the conspiracy theories you''ve encountered in your own circle? Do they have merit
+    the conspiracy theories you'&#8217;ve encountered in your own circle? Do they have merit
     and warrant further time and attention? Or are they merely products of overactive
     imaginations? Dr. Michael Shermer of Skeptic Magazine joins us. Plus, your calls
     and emails.'
@@ -91,15 +91,15 @@ comments:
     and fairly simple. Young children love "The Magic Flute," but they don't usually
     understand it.
 ---
-<p>I did a talk on Tuesday this week at <a href="http://www.guardian.co.uk/leeds/2011/apr/13/leeds-bettakultcha-s-biggest-event-at-corn-exchange" target="_blank">Bettakulcha</a>. It's 20 slides in 5 minutes in front of about 300 people at the Corn Exchange in Leeds. I chose to do mine on Magic &amp; Conspiracy Theories. Below are the slides with some notes which are basically either what I said, what I was meaning to say, or what I wished I'd said almost immediately after finishing (particularly the ending which I careered towards and then seemed to crash into before I knew what was happening).</p>
+<p>I did a talk on Tuesday this week at <a href="http://www.guardian.co.uk/leeds/2011/apr/13/leeds-bettakultcha-s-biggest-event-at-corn-exchange" target="_blank">Bettakulcha</a>. It&#8217;s 20 slides in 5 minutes in front of about 300 people at the Corn Exchange in Leeds. I chose to do mine on Magic &amp; Conspiracy Theories. Below are the slides with some notes which are basically either what I said, what I was meaning to say, or what I wished I'd said almost immediately after finishing (particularly the ending which I careered towards and then seemed to crash into before I knew what was happening).</p>
 
-<p>It started with <a href="http://twitter.com/#!/ivorTymchak/" target="_blank">Ivor</a> introducing me with the "two interesting facts" I'd provided for the purpose. Sadly these weren't interesting (seriously I couldn&rsquo;t come up with anything!) and one wasn't even a fact. Firstly that I was a father of two (this I am, and considering penultimate slide I thought perhaps this would do a little groundwork in case that point got smudged) the second was that I was a big <a href="http://www.google.com/images?q=Tommy+Cooper">Tommy Cooper</a> fan (this isn't strictly true - I do think he's great but it's not like a "thing" about me - clearly though it fitted very well with a number of aspects of the talk so I thought it was worth the dubious moral position for the sake of a helpful bit of scene &amp; tone setting).</p>
+<p>It started with <a href="http://twitter.com/#!/ivorTymchak/" target="_blank">Ivor</a> introducing me with the "two interesting facts" I'd provided for the purpose. Sadly these weren't interesting (seriously I couldn&rsquo;t come up with anything!) and one wasn't even a fact. Firstly that I was a father of two (this I am, and considering penultimate slide I thought perhaps this would do a little groundwork in case that point got smudged) the second was that I was a big <a href="http://www.google.com/images?q=Tommy+Cooper">Tommy Cooper</a> fan (this isn't strictly true - I do think he's great but it&#8217;s not like a "thing" about me - clearly though it fitted very well with a number of aspects of the talk so I thought it was worth the dubious moral position for the sake of a helpful bit of scene &amp; tone setting).</p>
 
 <p>Anyway, so it went like this:</p>
 
 <p><a href="/img/2011/04/magic.001.png"><img title="Title" src="/img/2011/04/magic.001.png" alt="Magic &amp; Conspiracy Theories" width="100%" /></a></p>
 
-<p>Hello. This is my talk on Magic &amp; Conspiracy Theories. Despite the hat (I was wearing a fez) I'm not a magician. Maybe there's a little disappointment at that, there's probably quite a lot of relief. It's that kind of feeling which prompted this talk really. I find myself attracted and repelled by these two subjects in equal measure and I was wondering why.</p>
+<p>Hello. This is my talk on Magic &amp; Conspiracy Theories. Despite the hat (I was wearing a fez) I'm not a magician. Maybe there's a little disappointment at that, there's probably quite a lot of relief. It&#8217;s that kind of feeling which prompted this talk really. I find myself attracted and repelled by these two subjects in equal measure and I was wondering why.</p>
 
 <p><a href="/img/2011/04/magic.002.png"><img title="magic.002" src="/img/2011/04/magic.002.png" alt="" width="100%" /></a></p>
 
@@ -139,7 +139,7 @@ comments:
 
 <p><a href="/img/2011/04/magic.010.png"><img title="Spectrum" src="/img/2011/04/magic.010.png" alt="Spectrum" width="100%" /></a></p>
 
-<p>This thought led me to imagine a kind of spectrum. I thought if you placed magic at one end with it's large complex causes and delightful effects and conspiracy theories at the other with it's comparatively simple causes and oppressive effects you could possibly plot out all sorts of things in the space between in a wonderful and informative way.</p>
+<p>This thought led me to imagine a kind of spectrum. I thought if you placed magic at one end with it&#8217;s large complex causes and delightful effects and conspiracy theories at the other with it&#8217;s comparatively simple causes and oppressive effects you could possibly plot out all sorts of things in the space between in a wonderful and informative way.</p>
 
 <p><a href="/img/2011/04/magic.011.png"><img title="Pyramids" src="/img/2011/04/magic.011.png" alt="Pyramids" width="100%" /></a></p>
 
@@ -161,7 +161,7 @@ comments:
 
 <p><a href="/img/2011/04/magic.015.png"><img title="Restaurant" src="/img/2011/04/magic.015.png" alt="Restaurant" width="100%" /></a></p>
 
-<p>What it seems that your brain wants in these situation is an explanation that fits, but it's desire for this is so great it kind of overwhelms some of your other (more rational) mental faculties. Like a customer in a restaurant being rushed by an over-eager waiter the brain simply goes for the best available option without taking the time to look for facts or perhaps analyse the evidence more carefully.</p>
+<p>What it seems that your brain wants in these situation is an explanation that fits, but it&#8217;s desire for this is so great it kind of overwhelms some of your other (more rational) mental faculties. Like a customer in a restaurant being rushed by an over-eager waiter the brain simply goes for the best available option without taking the time to look for facts or perhaps analyse the evidence more carefully.</p>
 
 <p><a href="/img/2011/04/magic.016.png"><img title="Hunter" src="/img/2011/04/magic.016.png" alt="Hunter" width="100%" /></a></p>
 
@@ -177,13 +177,13 @@ comments:
 
 <p><a href="/img/2011/04/magic.019.png"><img title="Father Christmas" src="/img/2011/04/magic.019.png" alt="Father Christmas" width="100%" /></a></p>
 
-<p>I should point out at this point that I am actually part of a global conspiracy. It involves millions of people world-wide and it's purpose is to induce a belief in magic into a large proportion of the population. This is done through encouragement of mis-understandings and the occasional use of down-right lies. You could say it is a MAGICAL CONSPIRACY!</p>
+<p>I should point out at this point that I am actually part of a global conspiracy. It involves millions of people world-wide and it&#8217;s purpose is to induce a belief in magic into a large proportion of the population. This is done through encouragement of mis-understandings and the occasional use of down-right lies. You could say it is a MAGICAL CONSPIRACY!</p>
 
 <p><a href="/img/2011/04/magic.020.png"><img title="The End" src="/img/2011/04/magic.020.png" alt="The End" width="100%" /></a></p>
 
 <p>So perhaps magic and conspiracy theories are OK... as a source of entertainment.</p>
 
-<p>And that's the end of my talk. Like a swiss cheese produced from under a fez, it is from my head and most definitely full of holes. But I hope it was a source of some entertainment too. Thanks.</p>
+<p>And that&#8217;s the end of my talk. Like a swiss cheese produced from under a fez, it is from my head and most definitely full of holes. But I hope it was a source of some entertainment too. Thanks.</p>
 
 <p><em>(I have heavily tidied up the end there. In reality I think I pulled a funny face, mumbled something about that being it, and quickly handed back the mike. Oh well, it was my first time. Maybe I'll have another go one day).</em></p>
 
@@ -191,6 +191,6 @@ comments:
 
 <p><em><strong>UPDATE:</strong></em></p>
 
-<p>I've collated some of the responses I got on twitter below. Thanks to everyone who tweeted.
+<p>I&#8217;ve collated some of the responses I got on twitter below. Thanks to everyone who tweeted.
 <script type="text/javascript" src="http://storify.com/morganesque/magic-conspiracy-theories-bettakultcha-vii.js"></script></p>
 

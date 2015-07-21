@@ -21,7 +21,7 @@ comments: []
 ---
 <!-- more -->
 
-<p>Right now we've got an image on the screen (or some other kind of View) and you want to move it around. There's two things here, firstly the method you use for doing this and secondly the context you're in. This is the code you need:</p>
+<p>Right now we&#8217;ve got an image on the screen (or some other kind of View) and you want to move it around. There's two things here, firstly the method you use for doing this and secondly the context you're in. This is the code you need:</p>
 
 <pre>LayoutParams params = new LayoutParams(100,100,100,200);
  image.setLayoutParams(params);</pre>
@@ -30,5 +30,5 @@ The parameters you pass into that object are width,height,x,y so this is quite s
 <p>Above I was using a AbsoluteLayout so that LayoutParams object is imported from within this class.</p>
 
 <pre>import android.widget.AbsoluteLayout.LayoutParams;</pre>
-If you import (and therefore pass) the wrong kind of LayoutParams object to a View that's within a different kind of ViewGroup this would cause problems (your app crashing). Eclipse isn't clever enough to sort this out for you so watch out! ;-)</p>
+If you import (and therefore pass) the wrong kind of LayoutParams object to a View that&#8217;s within a different kind of ViewGroup this would cause problems (your app crashing). Eclipse isn't clever enough to sort this out for you so watch out! ;-)</p>
 
