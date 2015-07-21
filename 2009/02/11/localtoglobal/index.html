@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Ghijklmno..</title>
+    <meta name="description" content="The blog of Tom Morgan">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" type="text/css" href="//cloud.typography.com/6272452/793286/css/fonts.css" />
+    <link rel="stylesheet" href="/css/styles.css">
+    <!-- <script src="/js/modernizr.js"></script> -->
+</head>
+<body>
+<header class="site-header" id="header">
+        <h1 class="logo"><a href="/">Ghijklmno..</a></h1> 
+        <p class="sub-heading">This is <a href="#">Tom Morgan</a>'s blog</p>
+</header>
+<main>
+  
+  <div class="main__content">
+      <h1 class="post__title">localToGlobal</h1>
+      <p class="post__date">&mdash;
+                
+        11th
+          
+        February 2009 
+      </p>
+      <div class="post__content content"><p>Right so you&#8217;ve got an hierarchy of nested movieclips (or sprites) and you're rotating each  separately to get a kind chain effect like the different moving parts of an arm or a leg. At the end of your leg you&#8217;ve got a foot (and maybe even toes) and there you are with your leg flailing around like a dervish on heat! Perfect. Now you need to workout the x and y coordinates of one of those toes, so you can... errr... make lasers fire out of it whenever the user sneezes, right? (am I right?).Anyway, if you want those coordinates you can't just say <span style="font-style: italic;">toe.x</span> and <span style="font-style: italic;">toe.y</span> that&#8217;s not going to work, because those coordinates are local to those toes, or at least local to the foot movieclip you&#8217;ve attached them to. So what do you do? Well, you might find yourself iterating back through the hierarchy of movieclips finding out the x and y and adding them up and stuff. Phew! It&#8217;s hard work, but do-able. But wait, then you&#8217;ve got to degotiate all that rotation. Gah! What was that stuff I read about coordinate rotation? Oh god please don't send me back to the dark place!!!Luckily you're saved all this by using the helpful function <span style="font-weight: bold;">localToGlobal</span>. It takes a <span style="font-weight: bold;">Point</span> which is local to your object and translates it to a <span style="font-weight: bold;">Point</span> which is relative the global object (let&#8217;s call that the <span style="font-weight: bold;">Stage</span>).You use it like this:
+<pre class="brush:as3; gutter:false; wrap-lines:false">var p:Point = new Point(toe.x,toe.y);var np:Point = toe.parent.localToGlobal(p);</pre>What I'm doing there is finding out the actual global position of the <span style="font-style: italic;">toe</span>. So I create a new <span style="font-weight: bold;">Point</span> and pass in the <span style="font-style: italic;">x</span> and <span style="font-style: italic;">y</span> coordinates of <span style="font-style: italic;">toe</span>. Then I can find out where actually it is on the stage by  passing that <span style="font-weight: bold;">Point</span> into the function <span style="font-weight: bold;">localToGlobal</span>.Remember the key point here is that it&#8217;s the <span style="font-style: italic;">toe</span>'s parent (the <span style="font-style: italic;">foot</span>?) which has to call the function because of course the <span style="font-style: italic;">x</span> and <span style="font-style: italic;">y</span> coordinates of <span style="font-style: italic;">toe</span> are relative to the <span style="font-style: italic;">foot</span> aren't they.</p>
+
+
+
+</div>    
+      <div class="post__nextprev cf">
+         
+          <a class="link prev" href="/2009/01/29/startactivity/"><span class="icon-arrow-left"></span> startActivity</a> 
+         
+         
+          <a class="link next" href="/2009/04/29/splice-returns-an-array/">splice returns an array! <span class="icon-arrow-right"></span></a> 
+         
+      </div>
+  </div>  
+
+</main>
+
+<p class="archive-link link"><a href="/archive/">Archive</a></p>
+
+<!-- <script src="/js/all.min.js"></script> -->
+
+<!-- Google Analytics: change UA-XXXXX-X to be your site's ID. 
+<script>
+  (function(b,o,i,l,e,r){b.GoogleAnalyticsObject=l;b[l]||(b[l]=
+  function(){(b[l].q=b[l].q||[]).push(arguments)});b[l].l=+new Date;
+  e=o.createElement(i);r=o.getElementsByTagName(i)[0];
+  e.src='//www.google-analytics.com/analytics.js';
+  r.parentNode.insertBefore(e,r)}(window,document,'script','ga'));
+  ga('create','UA-XXXXX-X');ga('send','pageview');
+</script>
+-->
+<script type='text/javascript' id="__bs_script__">//<![CDATA[
+document.write("<script async src='http://localhost:3000/browser-sync/browser-sync-client.2.0.0-rc3.js'><\/script>");
+//]]></script>
+</body>
+</html>

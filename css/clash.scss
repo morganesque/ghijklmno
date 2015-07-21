@@ -1,0 +1,66 @@
+
+@import 'bootstrap/assets/stylesheets/bootstrap';
+
+body {
+	margin:0;padding:0;
+	
+}
+body#wobbles {
+	background-image:url(https://s-media-cache-ak0.pinimg.com/236x/b7/d3/0e/b7d30ee69307ff391505e38480dfd3b4.jpg);
+	background-size:cover;
+}
+body#re {
+	background:black;
+}
+
+body#or {
+	background:grey;
+	color:white;
+	font-size:100px;
+	div#slider {
+		-webkit-transform:translate3d(-100%,0,0);
+		        transform:translate3d(-100%,0,0);
+		background-image:url(/img/Wiki-background.png);
+		background-size:cover;
+		min-height:1200px;
+		-webkit-transition:-webkit-transform 3s ease-out;
+		        transition:transform 3s ease-out;
+		-webkit-transition-delay:1s;
+		        transition-delay:1s;
+		&.in {
+			-webkit-transform:translate3d(0,0,0);
+			        transform:translate3d(0,0,0);
+		}
+	}
+}
+
+
+div.top {
+	width:100%;
+	height:300px;
+	background-image:url(https://fbcdn-sphotos-e-a.akamaihd.net/hphotos-ak-xfp1/v/t1.0-9/10386746_983938531630470_6622837490873195662_n.png?oh=d58132d130a7f16e3a224bdaca3f7183&oe=55AE6BBD&__gda__=1438554676_dd9f45454d47623d6b98fb4bb980530c);
+	background-size:cover;
+	border-bottom:3px solid black;
+}
+div.tree {
+	font-size:21px;
+	padding:42px
+}
+div.middle {
+	background:#87E0FD;
+}
+img.picture {
+	float:right;
+	margin-right:500px;
+	margin-top:50px;
+}
+	div.for {
+	font-size:60px;
+	padding:84px;
+}
+
+div.first{
+	background:#54C571;
+}
+
+
