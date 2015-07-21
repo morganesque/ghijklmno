@@ -37,7 +37,8 @@ url: http://localhost:3000/
 # If you use maroku (default engine) some of your generated pages may not validate or lint as html5
 # If you don't have it install it via gem install rdiscount
 markdown: rdiscount
-excerpt_separator: "\n\n"
+# excerpt_separator: "\n\n"
+excerpt_separator: "<!-- more -->"
 
 # Makes permalinks. See Jekyll docs for alternatives.
 permalink: :year/:month/:day/:title/
