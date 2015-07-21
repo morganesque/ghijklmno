@@ -12,10 +12,7 @@
           {% endcase %}
         {{ page.date | date: "%B %Y" }} 
       </p>
-      {% if page.excerpt %}
-        <p class="post__excerpt">{{page.excerpt}}</p>
-      {% endif %}
-      <div class="post__content content">{{page.content}}</div>    
+      <div class="post__content content">{{page.content | markdownify }}</div>    
       <div class="post__nextprev cf">
         {% if page.previous.url %} 
           <a class="link prev" href="{{page.previous.url}}"><span class="icon-arrow-left"></span> {{page.previous.title}}</a> 

@@ -62,7 +62,7 @@ comments:
     Womens Sundance 5605[/url]\r[url=http://www.ugg-boots-discount.net/ugg-nightfall-boots-5359-c-32.html]UGG
     Nightfall Boots 5359[/url]\raefzewfdfty5re"
 ---
-<p><img class="aligncenter size-full wp-image-53" title="logo_north" src="/img/2009/09/logo_north1.jpg" alt="logo_north" width="543" height="180" /></p>
+<p><img class="aligncenter size-full wp-image-53" title="logo_north" src="/img/2009/09/logo_north1.jpg" alt="logo_north" width="100%" style="max-width:543px; margin:0; auto;"/></p>
 
 <p>I attended TEDx Leeds at the Rose Bowl last Thursday night. It was a very interesting evening with an impressive array of speakers and a good format for the night. Interspersing live speakers with TED videos provided a nice kind of variety and of course being TED the videos were of such good quality the only worry was whether the flesh'n'blood guys would be able to keep up the standard.</p>
 

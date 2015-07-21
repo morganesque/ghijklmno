@@ -21,5 +21,5 @@ comments: []
 ---
 <!-- more -->
 
-<p>Have you noticed how that Monsters.Inc film has got everywhere. Just try counting how many times you see it during one day. They&#8217;re sponsoring just about everything from burgers to electricity. It&#8217;s incredible the advertising budget Disney must have. Actually I&#8217;m playing right into their hands here. Forget you read this!!</p>
+<p>Have you noticed how that Monsters. Inc film has got everywhere. Just try counting how many times you see it during one day. They&#8217;re sponsoring just about everything from burgers to electricity. It&#8217;s incredible the advertising budget Disney must have. Actually I&#8217;m playing right into their hands here. Forget you read this!!</p>
 

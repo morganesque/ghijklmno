@@ -48,7 +48,7 @@ Finally a few global vars which we'll be using. Three lots of <strong>BitmapData
 var camera = Camera.getCamera();
 if (camera !== null)
 {
-    camera.addEventListener(StatusEvent.STATUS, camStatus);
+    camera.addEventListener(StatusEvent. STATUS, camStatus);
     video.attachCamera(camera);
     addChild(video);
 }</pre>
@@ -57,10 +57,10 @@ Firstly you need to create a video object. This is a kind of <strong>DisplayObje
 
 <p>If you have an available webcam there's two things you need to do. I'll take it backwards because the first is a consequence of the second. The function <strong>attachCamera</strong> tells flash to start piping the data from your webcam into the video object we created before. It is at this point (not at <strong>getCamera</strong>) where Flash checks for permission and when you might see a little popup saying something like "This website is requesting access to your Webcam and Microphone". When the user chooses Allow or Deny an <strong>StatusEvent</strong> is thrown by Flash with one of two codes.</p>
 
-<pre lang="actionscript">Camera.Unmuted</pre>
+<pre lang="actionscript">Camera. Unmuted</pre>
 <p>or</p>
 
-<pre lang="actionscript">Camera.Muted</pre>
+<pre lang="actionscript">Camera. Muted</pre>
 <p>You can guess what they mean and it&#8217;s worth setting a listening function in order to deal with both scenarios, or you may end up with some users hitting a dead end. Next we add the video object to the stage with <strong>addChild</strong> and you should see your self smiling back via the magic of webcam.
 OK next we'll get into the motion detection. First we need a <strong>Bitmap</strong> and for a <strong>Bitmap</strong> we need <strong>BitmapData</strong>.</p>
 
@@ -80,7 +80,7 @@ I'm setting these up the same way as the other one (size-wise) but these don't n
 
 <p>The final thing I do in the Document Class constructor is to set an event listener to trigger a function on every frame. So let&#8217;s do that next.</p>
 
-<pre lang="actionscript">addEventListener(Event.ENTER_FRAME, onEnter);</pre>
+<pre lang="actionscript">addEventListener(Event. ENTER_FRAME, onEnter);</pre>
 <p>Right so we're all set up with our objects in place and a webcam (hopefully) attached to a DisplayObject for showing. We&#8217;ve set a function to trigger every frame, this is going to be the place where the motion is actually detected so let&#8217;s look at that next.</p>
 
 <pre lang="actionscript">public function onEnter(e:Event):void

@@ -96,14 +96,27 @@ p {
     margin-bottom:$bsu;
     border-left:$bsu/4 solid $secondary;
     background-color:$blockquote;
-  }
-  pre,code {
+  }  
+  pre, code {
     font-size:0.7em;
-    padding:$bsu;
     background-color:rgba(desaturate($tertiary,42),0.14);
+    padding:0.25em 0.5em;
+    border-radius:0.25em;
+  }
+  pre {    
+    padding:$bsu;    
     margin-bottom:$bsu; 
+  }
+  ul,ol {
+    margin-bottom:$bsu;
+    padding:0 2*$bsu;
   }
   li {
     margin-bottom:$bsu/2;
+  }
+  .note {
+    background-color:rgba(desaturate($tertiary,42),0.14);
+    padding:1em;
+    font-size:0.8em;
   }
 }

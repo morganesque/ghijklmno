@@ -76,7 +76,7 @@ comments:
     They assert that 9/11 was an inside job. They insist that the moon landing
     was faked. They posit elaborate theories on everything from the JFK assassination,
     to the Roswell flying saucer to the death of Princess Diana. What are some of
-    the conspiracy theories you'&#8217;ve encountered in your own circle? Do they have merit
+    the conspiracy theories you&#8217;ve encountered in your own circle? Do they have merit
     and warrant further time and attention? Or are they merely products of overactive
     imaginations? Dr. Michael Shermer of Skeptic Magazine joins us. Plus, your calls
     and emails.'

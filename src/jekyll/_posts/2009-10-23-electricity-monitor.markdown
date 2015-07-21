@@ -77,7 +77,7 @@ comments:
   date_gmt: '2014-01-14 21:38:37 +0000'
   content: HiI am a professional game deinesgr and I just picked up your game on steam.
     I have to say it&#8217;s a breath of fresh air! It immediately stood out to me and after
-    trying the demo I had to pick it up. I have just spent my lunch hour playing it.I
+    trying the demo I had to pick it up. I have just spent my lunch hour playing it. I
     wish you much success with Solar 2 and future games. I would say  going pro' and
     entering the mainstream industry would only ruin you (and it would probably suck
     the fun out of making games for you). If you can take your ideas and run with

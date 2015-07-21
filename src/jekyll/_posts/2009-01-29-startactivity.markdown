@@ -19,8 +19,8 @@ categories:
 tags: []
 comments: []
 ---
-<!-- more -->
+<p class="note">This was one of a series of posts I wrote on a short lived android dev blog I had during a period where I did a tiny bit of android app development.</p>
 
 <p>So now you want to move onto to another page of you application. You&#8217;ve created another Activity class and filled it with loads of lovely goodness. What you need to do is create a Intent. Intents seem to be used to get things done (nice naming). So the code you need to call to get there is this.
-<pre>Intent i = new Intent(this, NextActivity.class);startActivity(i);</pre>You create your Intent object and pass in the current context (<span style="font-weight: bold;">this</span>) and the Activity class that you're wanting to move to. All good?Not quite, if you run the code like this you'll get an error? Why? You haven't added the new Activity class to the manifest? Huh? The manifest needs to be told about all Activities before it'll let you view them.This seems to be the opposite of the resources situation where things are picked up automatically. I'm sure there's a good reason but still... open up the AnroidManifest.xml and if you're using Eclipse (like me) there's nice easy interface for adding new Activities (under the Application tab).</p>
+<pre>Intent i = new Intent(this, NextActivity.class);startActivity(i);</pre>You create your Intent object and pass in the current context (<span style="font-weight: bold;">this</span>) and the Activity class that you're wanting to move to. All good?Not quite, if you run the code like this you'll get an error? Why? You haven't added the new Activity class to the manifest? Huh? The manifest needs to be told about all Activities before it'll let you view them. This seems to be the opposite of the resources situation where things are picked up automatically. I'm sure there's a good reason but still... open up the AnroidManifest.xml and if you're using Eclipse (like me) there's nice easy interface for adding new Activities (under the Application tab).</p>
 

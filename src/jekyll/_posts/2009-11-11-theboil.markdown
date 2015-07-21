@@ -95,7 +95,7 @@ comments:
 ---
 <p>Look at this graph. It&#8217;s a graph from a website but it looks very similar to a graph in a science experiment I did at school.</p>
 
-<p><a href="http://hyperphysics.phy-astr.gsu.edu/hbase/thermo/phase.html"><img class="aligncenter size-full wp-image-86" title="Water phase change" src="/img/2009/11/boiling.gif" alt="A graph of the phase changes of water." width="511" height="255" /></a></p>
+<p><a href="http://hyperphysics.phy-astr.gsu.edu/hbase/thermo/phase.html"><img class="aligncenter size-full wp-image-86" title="Water phase change" src="/img/2009/11/boiling.gif" alt="A graph of the phase changes of water." width="100%" style="max-width:511px;" /></a></p>
 
 <p>It basically tracks the temperature of water as you heat it. All the way from ice through it&#8217;s melting point (0&deg;C) up to and through it&#8217;s boiling point (100&deg;C). Ha, like you didn't know that.</p>
 
