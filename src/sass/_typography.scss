@@ -18,9 +18,9 @@ h3 { font-size:1.5rem;}
   @extend %ff-light;
   font-size:2em;
   text-align:center;
-  margin:$bsu/2 0 $bsu;
+  margin:$bsu 0 $bsu;
   letter-spacing:0.05em;  
-  @include aboveOr(pem(640)) {margin:$bsu 0 2*$bsu;}
+  @include aboveOr(pem(640)) {margin:$bsu*2 0 2*$bsu;}
   a {
     color:$secondary;
     &:hover, &:active {
@@ -37,11 +37,20 @@ a {
   }
 }
 
+.link {
+  padding:$bsu/2;
+  &:hover, &:active {
+    background-color:$blockquote;
+    text-decoration:none;
+  }
+}
+
 p {
   margin-bottom:$bsu; 
 }
 
 .sub-heading {
+  font-size:0.9em;
   text-align:center;
   margin-bottom:$bsu;
   @include aboveOr(pem(640)) {margin:2*$bsu;}
@@ -64,59 +73,37 @@ p {
   @include aboveOr(pem(640)) {margin-bottom:2*$bsu;}
 }
 
-// %textshadow {
-//   text-shadow:1px 1px 2px rgba(darken($primary,30%),0.5);
-// }
+.post__excerpt {
+  color:black;
+  font-size:1.1em;
+  margin-bottom:$bsu;
+  @include aboveOr(pem(640))
+  {
+    font-size:1.2em;
+    line-height:1.5em;
+  }
+}
 
-// .logo {
-//   @extend %ff-light-it;
-//   @extend %textshadow;
-//   text-transform:lowercase;  
-//   transition:font-size 1s $easeOutQuint;
-//   a {
-//     color:white;
-//     &:hover {color:white;}
-//   }
-// }
-
-// .sub-heading {
-//   margin:0;
-//   @extend %textshadow;
-// }
-
-// .nav__link {
-//   // @extend %ff-black-it;
-//   @extend %textshadow;  
-//   text-decoration:none;
-//   text-transform:uppercase;
-// }
-
-// .section-header {
-//   @extend %ff-black;
-//   color:darken($tertiary,20%);
-//   text-transform:uppercase;  
-// }
-
-// .post__title {
-//   @extend %ff-light-it;
-//   color:darken($primary,35%);
-// }
-
-// .post__author {
-//   @extend %ff-light;
-//   text-transform:uppercase;
-//   letter-spacing:0.2em;
-//   padding:$bsu 0;
-// }
-
-// a {
-//   color:darken($secondary,15%);
-//   text-decoration:none;
-//   &:hover {
-//     color:$tertiary;
-//   }
-// }
-
-// .content {
-//   @extend %ff-light;
-// }
+.post__content {
+  h3 {
+    font-size:1.5em;
+  }
+  h1,h2,h3,h4 {
+    margin-bottom:$bsu;
+  }
+  blockquote {
+    padding:$bsu 2*$bsu;
+    margin-bottom:$bsu;
+    border-left:$bsu/4 solid $secondary;
+    background-color:$blockquote;
+  }
+  pre,code {
+    font-size:0.7em;
+    padding:$bsu;
+    background-color:rgba(desaturate($tertiary,42),0.14);
+    margin-bottom:$bsu; 
+  }
+  li {
+    margin-bottom:$bsu/2;
+  }
+}

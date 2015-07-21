@@ -1,8 +1,9 @@
 @import "mixins";
 
 $primary:#666;
-$secondary:hsl(10,42%,76%);
+$secondary:hsl(10,22%,62%);
 $tertiary:hsl(190,76%,42%);
+$blockquote:rgba($secondary,0.17);
 
 $global-border-box:true;
 
@@ -14,11 +15,12 @@ $bsu:24px;
 
 @import "fonts";
 @import "typography";
+@import "icons";
 
 .main__content {
-  margin:0 auto $bsu*4;
+  margin:0 auto $bsu;
   padding:0 1em;
-  @include aboveOr(pem(560)){padding:0 3em;}
+  @include aboveOr(pem(560)){padding:0 3em; margin-bottom:$bsu*2}
   @include aboveOr(pem(960)){max-width:47.37em;}
 }
 
@@ -27,11 +29,38 @@ $bsu:24px;
 }
 
 .archive-link {
+	width:7em;
+	margin:0 auto;
 	text-align:center;
+	margin-bottom:$bsu*4;
+}
+.list-header {
+	margin-bottom:$bsu/4;
 }
 
-.next {float:right}
-.prev {float:left}
+.post__nextprev {	
+	a {
+		position:relative;		
+		display:inline-block;
+		@include aboveOr(pem(560))
+		{
+			span {
+				font-size:2em;
+				position:absolute;
+				top:50%;
+				margin-top:-0.5em;
+			}
+			&.next {
+				float:right;
+				span {left:100%;}
+			}
+			&.prev {
+				float:left;
+				span {right:100%;}
+			}			
+		}
+	}
+}
 
 .archive__skip {
 	margin-bottom:$bsu;
@@ -39,11 +68,13 @@ $bsu:24px;
 	ul {list-style:none}
 	li {display:inline;}
 }
+
 .year {
 	margin-bottom:$bsu;
 	list-style:none;
 	time {
 		color:rgba($primary, 0.76);
 		font-size:0.8em;
+		white-space:nowrap;
 	}
 }
