@@ -75,7 +75,7 @@ gulp.task('sass',function()
     ----- JEKYLL -----
     (Runs Jekyll as a shell command)
 */
-gulp.task('jekyll', $.shell.task(['jekyll build --watch']) );
+gulp.task('jekyll', $.shell.task(['jekyll build --source '+build+' --destination '+build+'/_site --watch']) );
 
 /*
     ----- JS LIBRARIES -----
