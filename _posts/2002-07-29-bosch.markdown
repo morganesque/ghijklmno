@@ -1,0 +1,35 @@
+---
+layout: post
+status: publish
+published: true
+title: Bosch
+author:
+  display_name: Tom
+  login: admin
+  email: tsmorgan@gmail.com
+  url: ''
+author_login: admin
+author_email: tsmorgan@gmail.com
+wordpress_id: 474
+wordpress_url: http://ghijklmno.net/bosch/
+date: '2002-07-29 09:06:11 +0100'
+date_gmt: '2002-07-29 09:06:11 +0100'
+categories:
+- Old Blog
+tags: []
+comments: []
+---
+<!-- more -->
+
+<p>Whoah! I&#8217;m becoming my Dad more rapidly than ever. This Sunday pm found me in the garden jigsawing some laminated floor covering panels while dust billowed all around and Kirsty cooked tea!!?!?!</p>
+
+<p>The jigsaw is this months power tool of choice (last month was the power drill with masonery bits and powerful screwdriver attachments). Like the drill it&#8217;s made by Bosch which as far as I&#8217;m concerned is the only manufacturer worth considering for such things. The word says it all ... Bosch !</p>
+
+<p> Who&#8217;s your power drill made by? - Bosch!</p>
+
+<p>What does it do? - Bosch!!</p>
+
+<p>Pardon? -  BOSCH BOSCH BOSCH!!!</p>
+
+<p>Ok, I&#8217;ve typed that word too many times, it looks all wrong now - and I&#8217;m feeling slightly dizzy.</p>
+

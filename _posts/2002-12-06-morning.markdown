@@ -1,0 +1,29 @@
+---
+layout: post
+status: publish
+published: true
+title: Morning
+author:
+  display_name: Tom
+  login: admin
+  email: tsmorgan@gmail.com
+  url: ''
+author_login: admin
+author_email: tsmorgan@gmail.com
+wordpress_id: 517
+wordpress_url: http://ghijklmno.net/morning/
+date: '2002-12-06 14:37:40 +0000'
+date_gmt: '2002-12-06 14:37:40 +0000'
+categories:
+- Old Blog
+tags: []
+comments: []
+---
+<!-- more -->
+
+<p>Exactly 1 minute into the song called &#8220;Ce Matin La&#8221; by the french band Air there&#8217;s a brass insturment part. I don&#8217;t know whether it&#8217;s a muted trumpet or even a trombone, it might even be another kind of instrument altogether or maybe it&#8217;s a wonderful synthesisation. It follows a long airy introduction, which to be honest I hardly ever listen to anymore, having discovered that the trumpet begins at exactly 1 minute in.</p>
+
+<p>It&#8217;s a wonderful sound like someone saying &#8220;pah&#8221; through cotton wool, yet it&#8217;s elongated and fades off beatifully. I imagine such a trombone solo might be playing as you accend the great white escalator to heaven.</p>
+
+<p>Obviously there&#8217;s a huge easy listening influence (I&#8217;m imagining the great smiling face of Burt Bacharach beaming down on this heaven) and later the track merges itself into almost a &#8216;best of&#8217; of sounds from the easy listening ouvre, but it&#8217;s just that moment when the noise kicks in, it&#8217;s just that feeling, no matter the context or the cloudiness of the day, that makes me feel happy.</p>
+

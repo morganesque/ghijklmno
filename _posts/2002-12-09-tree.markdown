@@ -1,0 +1,29 @@
+---
+layout: post
+status: publish
+published: true
+title: Tree
+author:
+  display_name: Tom
+  login: admin
+  email: tsmorgan@gmail.com
+  url: ''
+author_login: admin
+author_email: tsmorgan@gmail.com
+wordpress_id: 518
+wordpress_url: http://ghijklmno.net/tree/
+date: '2002-12-09 08:47:21 +0000'
+date_gmt: '2002-12-09 08:47:21 +0000'
+categories:
+- Old Blog
+tags: []
+comments: []
+---
+<!-- more -->
+
+<p>This weekend we had to drive back to Kirsty&#8217;s Mum&#8217;s to get our Xmas decorations. We thought we had them in our house until we looked, and then we found we didn&#8217;t. On the way back to Leeds to stopped off and bought a Christmas tree, which was great. We tried a place near to home but it didn&#8217;t really have much so we ended up going to our previous regular Christmas tree purveyor which is on the Leeds ring road in between the Asda roundabout in Pudsey, and the roundabout with the Olive Tree Resturant on (nice Greek food, friendly service) towards Horsforth. I would recommend it for all your tree buying needs.</p>
+
+<p>So along the way I took some <a href="http://mydrawings.co.uk/writings/photolist.php?photoset=tree">photos</a> for you to see. I have to stress that the wonderful shape and uncanny symetry of the tree is not down to it&#8217;s plastic-ness for it is real (godamnit!, real, do you hear me?!?) but more a tribute to our well honed tree picking skills (and a large amount of luck).</p>
+
+<p>Also I should really mention that the reason that some of the pictures are all blurry is not because I was blind drunk while doing this, but because I&#8217;m experimenting with a function on my camera which allows the shutter to stay open longer meaning you don&#8217;t have to use the flash for all your indoors pictures. I find the colours come out loads, loads better but it does mean you have to keep very still (which I can&#8217;t) while taking the pictures. Anyway, for picture&#8217;s like the one of the <a href="http://mydrawings.co.uk/writings/photodisplay.php?photoset=tree&amp;photo=L3Bob3Rvcy8yMDAyLzEyL2NocmlzdG1hc190cmVlLmpwZw%3D%3D">tree</a> I think it kind of adds a certain impressionist vibe to the whole thing.</p>
+

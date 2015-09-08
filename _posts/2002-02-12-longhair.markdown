@@ -1,0 +1,25 @@
+---
+layout: post
+status: publish
+published: true
+title: Longhair
+author:
+  display_name: Tom
+  login: admin
+  email: tsmorgan@gmail.com
+  url: ''
+author_login: admin
+author_email: tsmorgan@gmail.com
+wordpress_id: 425
+wordpress_url: http://ghijklmno.net/longhair/
+date: '2002-02-12 16:11:34 +0000'
+date_gmt: '2002-02-12 16:11:34 +0000'
+categories:
+- Old Blog
+tags: []
+comments: []
+---
+<!-- more -->
+
+<p>This morning after walking out of the station, down the stairs and turning and walking some way under the tunnel that leads under the railway line I heard someone say "Excuse me". I turned to see a large bloke with a big face who screached &#8220;GET A HAIR CUT!!!&#8221; and walked off.</p>
+

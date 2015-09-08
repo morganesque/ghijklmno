@@ -1,0 +1,31 @@
+---
+layout: post
+status: publish
+published: true
+title: A Date
+author:
+  display_name: Tom
+  login: admin
+  email: tsmorgan@gmail.com
+  url: ''
+author_login: admin
+author_email: tsmorgan@gmail.com
+wordpress_id: 580
+wordpress_url: http://ghijklmno.net/a-date/
+date: '2003-08-05 12:20:00 +0100'
+date_gmt: '2003-08-05 12:20:00 +0100'
+categories:
+- Old Blog
+tags: []
+comments: []
+---
+<!-- more -->
+
+<p>"May the first be with you" - just doesn&#8217;t quite have the same ring to it does it? But the 4th of May is a Tuesday and we wanted to have the wedding on a Saturday.</p>
+
+<p class="firstpar">So we&#8217;ve set a date. The 1st of May it is, and things are beginning to move along nicely. We&#8217;ve booked the hotel (where it&#8217;s all going to happen) and we&#8217;ve booked the registrar. We had to go down and pay &pound;30 each and answer a load of questions which (although we were sat right next to each other) we were told we strictly had to answer separately. It was all quite formal in a funny way which made us both realised how hard it&#8217;s going to be not to start laughing on the day.</p>
+
+<p>The hotel is called the Ramada Jarvis (sometimes known as The Parkway by those who&#8217;ve been around longer than us). It&#8217;s on a road out of Leeds to the north. It&#8217;s the type that&#8217;s mainly used by business people during the week, but it&#8217;s got a nice function room where we can have the service and which can then be transformed in order to have a meal there too. Basically we&#8217;ve got the room all day and night so people (who will mostly be travelling from afar) only have one place to get to.</p>
+
+<p class="firstpar">We&#8217;ve also been looking at honeymoon destinations too which is quite exciting. The current favourite is something like <a href="http://kuredu.com/">this</a> which seems to be within budget (just about). It is a once in a lifetime type of thing after all.</p>
+

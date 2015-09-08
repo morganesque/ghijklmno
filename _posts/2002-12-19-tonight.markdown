@@ -1,0 +1,31 @@
+---
+layout: post
+status: publish
+published: true
+title: Tonight
+author:
+  display_name: Tom
+  login: admin
+  email: tsmorgan@gmail.com
+  url: ''
+author_login: admin
+author_email: tsmorgan@gmail.com
+wordpress_id: 524
+wordpress_url: http://ghijklmno.net/tonight/
+date: '2002-12-19 09:36:50 +0000'
+date_gmt: '2002-12-19 09:36:50 +0000'
+categories:
+- Old Blog
+tags: []
+comments: []
+---
+<!-- more -->
+
+<p>Tonight&#8217;s the night and I&#8217;m feeling alright.</p>
+
+<p>Well half of that is true. Tonight me and Kev are <a href="http://sorehead.org/images/ster_reciept.gif">off to see</a> The Two Towers!! At last. I&#8217;ve been reading the book furiously for about the last month (I read slowly) and this morning I&#8217;ve got to within the last 3 pages. I have also, however, been becoming sicker and sicker over the last few days. As usual perfectly timing the onslaught of my yearly cold to coincide with my Christmas holidays. I&#8217;m at the stage now where normally a day off work might be in order, but no, it&#8217;s LOTR tonight. I can&#8217;t not go in!</p>
+
+<p>So I must stuggle on, like Frodo himself towards either death or glory - except with me it&#8217;s either illness or not being ill which is either way hardly a matter of life and death. Not forgetting of course that the Lord of the Rings is in fact fiction. I mean I&#8217;m not really comparing myself to......</p>
+
+<p>You know I think I&#8217;m feeling a little delerious.</p>
+

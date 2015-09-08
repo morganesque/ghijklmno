@@ -1,0 +1,31 @@
+---
+layout: post
+status: publish
+published: true
+title: Fluff
+author:
+  display_name: Tom
+  login: admin
+  email: tsmorgan@gmail.com
+  url: ''
+author_login: admin
+author_email: tsmorgan@gmail.com
+wordpress_id: 612
+wordpress_url: http://ghijklmno.net/fluff/
+date: '2004-06-15 20:23:00 +0100'
+date_gmt: '2004-06-15 20:23:00 +0100'
+categories:
+- Old Blog
+tags: []
+comments: []
+---
+<!-- more -->
+
+<p>Euro 2004 is on, German are playing Holland and winning one nill at the moment, I&#8217;ve not really been watching the first half coz I&#8217;ve been doing a new <a href="http://mydrawings.co.uk/">drawing</a> and uploading it. Having wirless and broadband now it&#8217;s much easier than it was but you still can&#8217;t do it and pay attention to the football at the same time.</p>
+
+<p>I&#8217;ve also decided to make a list, a list of things to do which I&#8217;m not getting done because I haven&#8217;t really got a handle on what I want to get done. All this is completely by the by, by the way but still.</p>
+
+<p>Now you see if I&#8217;d have been clever I would have paused for a while, watched the match and written this at half time (which is a few minutes away now), but unfortunately I&#8217;m not that clever. Hence the need for list making I feel.</p>
+
+<p>Anyway this has been the most self-indulgent entry I&#8217;ve written for a long time, so I think I&#8217;ll stop there.</p>
+

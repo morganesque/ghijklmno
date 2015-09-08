@@ -1,0 +1,25 @@
+---
+layout: post
+status: publish
+published: true
+title: Curve
+author:
+  display_name: Tom
+  login: admin
+  email: tsmorgan@gmail.com
+  url: ''
+author_login: admin
+author_email: tsmorgan@gmail.com
+wordpress_id: 433
+wordpress_url: http://ghijklmno.net/curve/
+date: '2002-03-08 08:56:42 +0000'
+date_gmt: '2002-03-08 08:56:42 +0000'
+categories:
+- Old Blog
+tags: []
+comments: []
+---
+<!-- more -->
+
+<p>Learning curves tend to be exponential in nature (e.g. y = x<sup>0.9</sup>). At the start you learn a lot very quickly, but as time goes by the curve becomes less steep and your learning becomes slower and less significant. Eventually you reach a point where the ground is almost level yet however long you trudge you will never reach the summit. Maybe it&#8217;s time to find a new curve.</p>
+

@@ -1,0 +1,35 @@
+---
+layout: post
+status: publish
+published: true
+title: Paris
+author:
+  display_name: Tom
+  login: admin
+  email: tsmorgan@gmail.com
+  url: ''
+author_login: admin
+author_email: tsmorgan@gmail.com
+wordpress_id: 574
+wordpress_url: http://ghijklmno.net/paris/
+date: '2003-07-16 08:30:00 +0100'
+date_gmt: '2003-07-16 08:30:00 +0100'
+categories:
+- Old Blog
+tags: []
+comments: []
+---
+<!-- more -->
+
+<p>Whooops I&#8217;m back. Actually I was back ages ago and was going to update this blog to tell all and sundry what the outcome of the previous stuff was but I thought it would be better and far more fun not to update this page for ages thereby alienating even those few people who might still come here expecting novelty.</p>
+
+<p>The whole Paris thing went swimmingly we stopped off at my parents house on the way to the airport (Liverpool, EasyJet - both great) and at the last minute my mother back-handed me the ring, which I&#8217;d left with them for safe keeping and secrecy. It went straight into a bum-bag (a uniquley holiday thing I assure you) and stayed there until the very moment I proposed. The only vaguely hairy moment was going through the metal-detector/frisking bit of the airport where I had visions of some burly woman rumaging around and pulling out the ring saying &#8220;what&#8217;s this&#8221; and then the look on Kirsty&#8217;s face. However, this nightmare senario wasn&#8217;t to be and everything sailed along smoothly.</p>
+
+<p>We got a train from Charles de Gaule Airport to Gare de Nord and then walked to the Hotel (after asking to be taken in a taix and being told rather bruskly by a driver that it was only "cinq minutes!!"). The hotel was lovely and although we were far too early to check in the nice woman in reception told us all about the area and allowed us to leave our baggage in a locked room around the side. We went and found a bar and had some lunch.</p>
+
+<p>After checking in we walked into the center of Paris. Past the Centre Pompidou and on to the Seine. We wandered around a bit and then had a boat trip along the river (a good way too see a lot of sights but I felt they concentrated on the history of the many bridges a bit more than was strictly interesting). After that, and a bit more wandering, we found a resturant and had and evening meal.</p>
+
+<p>It was  after this evening meal and while we were sitting down on a little jetty of land which points out east from the center of the Pont Neuf, as the sun was setting in the sky and reflecting across the river, that I actually popped the question. Kirsty said yes, we hugged and then floated off back to the hotel.</p>
+
+<p class="firstpar">We stopped at a grotty little convienience store on the way to buy a hugely over priced bottle of Champagne. C&#8217;est la vie.</p>
+

@@ -1,0 +1,35 @@
+---
+layout: post
+status: publish
+published: true
+title: Burghers
+author:
+  display_name: Tom
+  login: admin
+  email: tsmorgan@gmail.com
+  url: ''
+author_login: admin
+author_email: tsmorgan@gmail.com
+wordpress_id: 565
+wordpress_url: http://ghijklmno.net/burghers/
+date: '2003-05-27 10:29:43 +0100'
+date_gmt: '2003-05-27 10:29:43 +0100'
+categories:
+- Old Blog
+tags: []
+comments: []
+---
+<!-- more -->
+
+<p>Went to Edinburgh to see my sister Polly. She lives with her boyfriend James in a flat in a lovely old building near the centre of the city. It&#8217;s a three storey block built in a rectangle with a grassy area in the centre onto which all the front doors of the flats (painted bright red, blue, yellow or green) over look. It&#8217;s actually a category B listed building (built by William Lambie Moffat in 1860)</p>
+
+<p>We went for a meal in a restaurant called Montpelliers where I had the best meal I&#8217;ve had for a long time, and then wandered off (trying to avoid the multiple stag and hen parties which seemed to litter the night) into some local bars for fruity cocktails where we earned a laser pen by virtue of how much vodka we were inadvertently getting through.</p>
+
+<p><center><img src="/photos/phone/tompol.jpg" />Notice the family resemblance?</center></p>
+
+<p class="firstpar">The drive up to Edinburgh was far nicer than I&#8217;d expected. We shared the driving, stopping off to swap at a service station in <a href="http://www.moto-way.com/html/locations/location.cfm?SiteID=27&amp;D=&amp;Category=Home">Southwaite</a>  where we went to a Little Chef and had an Early Starter which took so long to arrive that it turned us into Late Finishers. I got to do the second bit behind the wheel which meant driving up through the stunning scenery around the north of Cumbria and south of Edinburgh, which was beautiful. I love that feeling of having the natural world tower around me, all green and looming. I could just imagine armies of blue faced Mel Gibsons roaring down the hillside and ransacking the motorway with claymores and kilts.</p>
+
+<p>We went to the <a href="http://www.rampantscotland.com/features/bldev_seafestival.htm">Festival of the Sea</a> on Sunday at Leith Docks. Well, I say we went, but they tried to charge us &pound;15 to get in so we skirted around the edge and went to peer out at it from the commercialised safety of a shopping centre near by. We saw lots of tall ships and some short ones and then saw a small rubber boat go skidding off into the bay to rescue some little people in a similar rubber boat while a voice described what was happening.</p>
+
+<p>We came home and spend the Bank Holiday laying the turf that had been delivered previously. It was great and all fairly easy and cool until we got near the end and realised that we&#8217;d not ordered enough. Surprisingly the man who&#8217;d come to give us a quote (which was HUGE) and who&#8217;s services we chose not to use but who&#8217;s measurements we somehow took as completely reliable, had got it slightly wrong. The rest is arriving tomorrow night so then it&#8217;ll be done.</p>
+

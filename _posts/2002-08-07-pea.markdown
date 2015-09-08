@@ -1,0 +1,27 @@
+---
+layout: post
+status: publish
+published: true
+title: Pea
+author:
+  display_name: Tom
+  login: admin
+  email: tsmorgan@gmail.com
+  url: ''
+author_login: admin
+author_email: tsmorgan@gmail.com
+wordpress_id: 477
+wordpress_url: http://ghijklmno.net/pea/
+date: '2002-08-07 09:28:53 +0100'
+date_gmt: '2002-08-07 09:28:53 +0100'
+categories:
+- Old Blog
+tags: []
+comments: []
+---
+<!-- more -->
+
+<p>Feeling very strange at the moment. Kind of not quite here. A little bit loosing my mind, with a pinch of vertigo about life in general. Something has changed but I can&#8217;t put my finger on what. It&#8217;s not any of the big obvious things, but something really small and trivial. Yet as with pea to princess, it&#8217;s making all the difference.</p>
+
+<p>I seem to remember feeling similar before, and that after some time an adjustment was made and normality reigned again. I think it&#8217;s a bit like saying goodbye to one version of myself as I become another.</p>
+

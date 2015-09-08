@@ -1,0 +1,30 @@
+---
+layout: post
+status: publish
+published: true
+title: Now List
+author:
+  display_name: Tom
+  login: admin
+  email: tsmorgan@gmail.com
+  url: ''
+author_login: admin
+author_email: tsmorgan@gmail.com
+wordpress_id: 550
+wordpress_url: http://ghijklmno.net/now-list/
+date: '2003-03-27 14:56:10 +0000'
+date_gmt: '2003-03-27 14:56:10 +0000'
+categories:
+- Old Blog
+tags: []
+comments: []
+---
+<!-- more -->
+
+<p>A few things happening at the moment.
+<ul>
+<li>Monday and Tuesday I was off with a sickness. It&#8217;s gone mostly but what remains is mainly in my throat.</li>
+<li>Kirsty&#8217;s Grandad on her fathers side died earlier this week. Kirsty is going to the funeral tomorrow.</li>
+<li>There&#8217;s a great big fucking war on and the politicians are starting to say things like "Hello, it looks a bit more complicated than we thought, you won&#8217;t mind us killing a lot of Iraqis after all will you? Oh and can we have some more cash?"</li>
+<li>Bought myself some nice new trainers at the weekend. I haven&#8217;t bought myself nice new trainers for ages. I used to revel in the activity. I took me back.</li></ul> and that&#8217;s about it.</p>
+

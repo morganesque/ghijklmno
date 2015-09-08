@@ -1,0 +1,25 @@
+---
+layout: post
+status: publish
+published: true
+title: Voting
+author:
+  display_name: Tom
+  login: admin
+  email: tsmorgan@gmail.com
+  url: ''
+author_login: admin
+author_email: tsmorgan@gmail.com
+wordpress_id: 416
+wordpress_url: http://ghijklmno.net/voting/
+date: '2001-12-31 14:52:33 +0000'
+date_gmt: '2001-12-31 14:52:33 +0000'
+categories:
+- Old Blog
+tags: []
+comments: []
+---
+<!-- more -->
+
+<p>Well here&#8217;s a little something I snuck in before the New Year!!! There&#8217;s now a way for you to tell me which is you favourite drawing. You can choose by clicking the new link at the top of the display pages. You each have only one vote, but you can change your mind as many times as you like. You can see the results and current &#8216;rankings&#8217; after you&#8217;ve voted. (or you can click <a href="fave.php">here</a> for a sneak peek). Please vote and show me that there is actually someone out there looking at all this :)</p>
+

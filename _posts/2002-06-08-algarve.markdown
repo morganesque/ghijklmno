@@ -1,0 +1,25 @@
+---
+layout: post
+status: publish
+published: true
+title: Algarve
+author:
+  display_name: Tom
+  login: admin
+  email: tsmorgan@gmail.com
+  url: ''
+author_login: admin
+author_email: tsmorgan@gmail.com
+wordpress_id: 455
+wordpress_url: http://ghijklmno.net/algarve/
+date: '2002-06-08 18:52:22 +0100'
+date_gmt: '2002-06-08 18:52:22 +0100'
+categories:
+- Old Blog
+tags: []
+comments: []
+---
+<!-- more -->
+
+<p>Hello, this is me writing from Portugal. We&#8217;ve found a little internet cafe and I thought I&#8217;d add something while I was here. I know no body ever reads this thing so hello to me when I get back :0)</p>
+

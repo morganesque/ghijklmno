@@ -1,0 +1,29 @@
+---
+layout: post
+status: publish
+published: true
+title: New Job
+author:
+  display_name: Tom
+  login: admin
+  email: tsmorgan@gmail.com
+  url: ''
+author_login: admin
+author_email: tsmorgan@gmail.com
+wordpress_id: 555
+wordpress_url: http://ghijklmno.net/new-job/
+date: '2003-04-15 08:38:28 +0100'
+date_gmt: '2003-04-15 08:38:28 +0100'
+categories:
+- Old Blog
+tags: []
+comments: []
+---
+<!-- more -->
+
+<p>I&#8217;d like to give a big shout out to <a href="/photos/photodisplay.php?photoset=kirsty&amp;photo=L3Bob3Rvcy8yMDAyLzExL2tpcnN0eV93YWxraW5nLmpwZw%3D%3D">&#8217;ma Kirsty&#8217;</a> who started her new job, working <a href="http://www.theridingsha.co.uk/">here</a> as a Finance Officer, yesterday. Everything seems to have gone well and I&#8217;m very proud of her.</p>
+
+<p>I think it&#8217;s definitely a step in the right direction as she&#8217;s ceertainly got a flare for all things organised and financial and by all accounts (hehe geddit?) it&#8217;s a company who seems to treat their employees well. For example (try to see if you can detect my seething jealousy) she gets 31 (count &#8217;em 31) days holiday each year and works &#8216;flexi-time&#8217; which, although I&#8217;ve never experienced it I&#8217;m assured by all those who have, provides ample oppertunity to acculmulate even more days off than that. Over and above the training they&#8217;re going to provide as part of the job they also provide a small amount for each employee to &#8216;do some not-job-related training or activity&#8217; and they give female employees 12 months maternity leave with extra cash for childcare when they return.</p>
+
+<p>She seems to be particularly excited about this last point. I can&#8217;t imagine why ;o)</p>
+
