@@ -41,7 +41,7 @@ markdown: rdiscount
 excerpt_separator: "<!-- more -->"
 
 # Makes permalinks. See Jekyll docs for alternatives.
-permalink: :year/:month/:day/:title/
+permalink: :title/
 
 # How many articles do you wish to appear on the front page:
 # paginate: 3
