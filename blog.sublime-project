@@ -11,7 +11,6 @@
         		"bower_components", 
         		"node_modules", 
         		"tasks",
-                "build",
         	],
         "file_exclude_patterns": 
 	        [
@@ -20,7 +19,7 @@
 	        	"Gemfile*", 
 	        	"package.json",
                 "project.sh",
-                "build/index.html",
+                // "build/index.html",
 	        ],
         "path": "."
     }]

@@ -16,51 +16,6 @@ $bsu:24px;
 @import "fonts";
 @import "icons";
 
-.main__content {
-  margin:0 auto $bsu;
-  padding:0 1em;
-  @include aboveOr(pem(560)){padding:0 3em; margin-bottom:$bsu*2}
-  @include aboveOr(pem(960)){max-width:47.37em;}
-}
-
-.post__content {
-	margin-bottom:2*$bsu;
-}
-
-.archive-link {
-	width:7em;
-	margin:0 auto;
-	text-align:center;
-	margin-bottom:$bsu*4;
-}
-.list-header {
-	margin-bottom:$bsu/4;
-}
-
-.post__nextprev {	
-	a {
-		position:relative;		
-		display:inline-block;
-		@include aboveOr(pem(560))
-		{
-			span {
-				font-size:2em;
-				position:absolute;
-				top:50%;
-				margin-top:-0.5em;
-			}
-			&.next {
-				float:right;
-				span {left:100%;}
-			}
-			&.prev {
-				float:left;
-				span {right:100%;}
-			}			
-		}
-	}
-}
-
 body {
   @extend %ff-light;
   color:#333;
@@ -69,9 +24,16 @@ body {
   @include aboveOr(pem(1400)) {font-size:24px;}
 }
 
-h1 {font-size:3rem; line-height:1;}
+h1 { font-size:3rem; line-height:1;}
 h2 { font-size:2rem;}
 h3 { font-size:1.5rem;}
+
+.main__content {
+  margin:0 auto $bsu;
+  padding:0 1em;
+  @include aboveOr(pem(560)){padding:0 3em; margin-bottom:$bsu*2}
+  @include aboveOr(pem(960)){max-width:47.37em;}
+}
 
 .logo {
   @extend %ff-light;
@@ -112,10 +74,12 @@ p {
   font-size:0.9em;
   text-align:center;
   margin-bottom:$bsu;
+  padding-right:1em;
   @include aboveOr(pem(640)) {margin:2*$bsu;}
 }
 
 .post__title {
+  color:black;
   font-size:2em;
   line-height:1.2;
   margin-bottom:$bsu*1;
@@ -133,13 +97,13 @@ p {
 }
 
 .post__excerpt {
-  color:black;
   font-size:1.1em;
   margin-bottom:$bsu;
   @include aboveOr(pem(640))
   {
     font-size:1.2em;
     line-height:1.5em;
+    margin-bottom:2*$bsu;
   }
 }
 
@@ -197,4 +161,42 @@ p {
 		font-size:0.8em;
 		white-space:nowrap;
 	}
+}
+
+.post__content {
+  margin-bottom:2*$bsu;
+}
+
+.archive-link {
+  width:7em;
+  margin:0 auto;
+  text-align:center;
+  margin-bottom:$bsu*4;
+}
+.list-header {
+  margin-bottom:$bsu/4;
+}
+
+.post__nextprev { 
+  a {
+    position:relative;    
+    display:inline-block;
+    @include aboveOr(pem(560))
+    {
+      span {
+        font-size:2em;
+        position:absolute;
+        top:50%;
+        margin-top:-0.5em;
+      }
+      &.next {
+        float:right;
+        span {left:103%;}
+      }
+      &.prev {
+        float:left;
+        span {right:102%;}
+      }     
+    }
+  }
 }

@@ -32,7 +32,7 @@ var glob = {
     "img":      'src/img/**/*.{jpg,jpeg,gif,png}',
     "svg":      'src/img/**/*.svg',
     "jekyll":   ['src/jekyll/**/*.{html,yml,md,mkd,markdown}','_config.yml'],
-    "html":     build+'/**/*.{html,yml,md,mkd,markdown,php}',
+    "html":     [build+'/20*/**/*.html',build+'/index.html',build+'/archive/**/*.html'],
     "css":      '.tmp/*.css',
 };
 
@@ -75,7 +75,7 @@ gulp.task('sass',function()
     ----- JEKYLL -----
     (Runs Jekyll as a shell command)
 */
-gulp.task('jekyll', $.shell.task(['jekyll build --watch']) );
+gulp.task('jekyll', $.shell.task(['jekyll build --source '+build+' --watch']) );
 
 /*
     ----- JS LIBRARIES -----
