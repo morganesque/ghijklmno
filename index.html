@@ -17,5 +17,12 @@ title: Ghijklmno.. Blog
       {{ post.date | date: "%B %Y" }} 
     </p>
     <div class="post__content content">{{post.content}}</div>
+
+    <div class="post__nextprev cf">
+      {% if post.previous.url %} 
+        <a class="link prev" href="{{post.previous.url}}"><span class="icon-arrow-left"></span> {{post.previous.title}}</a> 
+      {% endif %}  
+    </div>
+
   {% endfor %}        
 </div>  
