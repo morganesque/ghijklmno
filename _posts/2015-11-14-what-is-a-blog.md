@@ -23,10 +23,8 @@ The idea that &ldquo;that&rsquo;s why you should write&rdquo; has been there in 
 
 Of course if you are writing for money you&rsquo;re in whole other situation. In that case getting your ideas together and expressing them properly is absolutely necessary. That&rsquo;s what you&rsquo;re being paid to do. But that&rsquo;s not blogging. A blog by it&rsquo;s nature is free to create, free to consume. It has none of those expectations or and should have none of those restrictions.
 
-The other thing a blog should be is a conversation starter and I also realised that by always attempting to create an complete and unassailable argument I was unwittingly attempting to ward off the contributions of others. &ldquo;I&rsquo;ve got this sorted&rdquo; I was saying &ldquo;no need for your input&rdquo;. Whereas if _sorting out my ideas_ was really what I was interested in doing, what better a way than to bounce them off others.
+The other thing a blog should be is a conversation starter and I also realised that by always attempting to create complete and unassailable arguments I was unwittingly attempting to ward off the contributions of others. &ldquo;I&rsquo;ve got this sorted&rdquo; I was saying &ldquo;no need for your input&rdquo;. Whereas if _sorting out my ideas_ was really what I was interested in doing, what better a way than to bounce them off others.
 
 Hmmm&hellip; 485 words, beginning to look like a blog-post type of length. Now the feelings of discomfort set in. &ldquo;It&rsquo;s all a little facile isn&rsquo;t it&rdquo;. &ldquo;Surely people know all this already&rdquo;. &rdquo;They will think you are an idiot for stating the obvious&rdquo;. Self-doubt is such a wonderfully predictable thing.
 
 Well to hell with it. I&rsquo;ll put this up and from now on attempt to remember to try and post more imperfect half-formed rubbish maybe. 
-
-Or will I&hellip;?
