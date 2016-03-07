@@ -16,5 +16,8 @@ date_gmt: '2012-06-15 09:37:13 +0100'
 ---
 <!-- more -->
 
-<p>A web artisan, interaction designer, user experience bod, front-end techie, <a href="http://morganesque.com/">ex-freelancer</a>, husband, dad (x2), welshish man; fan of daniel kitson, tom waits &amp; mark rothko; aimiable, GSOH, 5'10", glasses, not unlike a young Eric&nbsp;Morecambe&nbsp;(not so young anymore); ertwhile footballer, painter &amp; computer gamer.</p>
+A web artisan, interaction designer, user experience bod, front-end techie, [ex-freelancer](http://morganesque.com/), husband, dad (x2), welshish man; fan of [Daniel Kitson](https://www.youtube.com/watch?v=ImJ9b-EfkJg), [Tom Waits](https://www.youtube.com/watch?v=WPnOEiehONQ&list=PLN4iuKdspbOxIvZnc0g5duv8RCiCSXYxy) &amp; [Mark Rothko](https://www.google.co.uk/search?tbm=isch&q=mark+rothko+paintings); aimiable, GSOH, 5'10", glasses, not unlike a young Eric&nbsp;Morecambe&nbsp;(not so young anymore); ertwhile footballer, painter &amp; computer gamer.
 
+I'm currenty working for the [Department for Work &amp; Pensions](https://dwpdigital.blog.gov.uk/).
+
+You can follow me on [twitter](http://twitter.com/morganesque/).
