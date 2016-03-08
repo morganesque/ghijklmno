@@ -7,7 +7,9 @@ $blockquote:rgba($secondary,0.17);
 
 $global-border-box:true;
 
+@import "inuit.css/defaults";
 @import "inuit.css/generic/normalize";
+@import "inuit.css/generic/mixins";
 @import "inuit.css/generic/reset";
 @import "inuit.css/generic/clearfix";
 
@@ -17,9 +19,9 @@ $bsu:24px;
 @import "icons";
 
 body {
-  @extend %ff-light;
+  @extend %ff-book;
   color:#333;
-  font-size:16px; line-height:1.5;
+  font-size:16px; line-height:1.6;
   @include aboveOr(pem(640)) {font-size:19px;}
   @include aboveOr(pem(1400)) {font-size:24px;}
 }
@@ -40,7 +42,7 @@ h3 { font-size:1.5rem;}
   font-size:2em;
   text-align:center;
   margin:$bsu 0 $bsu;
-  letter-spacing:0.05em;  
+  letter-spacing:0.05em;
   @include aboveOr(pem(640)) {margin:$bsu*2 0 2*$bsu;}
   a {
     color:$secondary;
@@ -67,7 +69,7 @@ a {
 }
 
 p {
-  margin-bottom:$bsu; 
+  margin-bottom:$bsu;
 }
 
 .sub-heading {
@@ -79,12 +81,13 @@ p {
 }
 
 .post__title {
+  @extend %ff-black;
   color:black;
   font-size:2em;
   line-height:1.2;
   margin-bottom:$bsu*1;
   @include aboveOr(pem(640)) {
-    font-size:3em; 
+    font-size:3em;
     line-height:1.1;
     margin-bottom:$bsu*3;
   }
@@ -115,21 +118,25 @@ p {
   	font-weight:normal;
     margin-bottom:$bsu;
   }
+  p.standfirst {
+    @extend %ff-medium;
+    font-size:1.2em;
+  }
   blockquote {
     padding:$bsu 2*$bsu;
     margin-bottom:$bsu;
     border-left:$bsu/4 solid $secondary;
     background-color:$blockquote;
-  }  
+  }
   pre, code {
     font-size:0.7em;
     background-color:rgba(desaturate($tertiary,42),0.14);
     padding:0.25em 0.5em;
     border-radius:0.25em;
   }
-  pre {    
-    padding:$bsu;    
-    margin-bottom:$bsu; 
+  pre {
+    padding:$bsu;
+    margin-bottom:$bsu;
   }
   ul,ol {
     margin-bottom:$bsu;
@@ -177,9 +184,9 @@ p {
   margin-bottom:$bsu/4;
 }
 
-.post__nextprev { 
+.post__nextprev {
   a {
-    position:relative;    
+    position:relative;
     display:inline-block;
     @include aboveOr(pem(560))
     {
@@ -196,7 +203,7 @@ p {
       &.prev {
         float:left;
         span {right:102%;}
-      }     
+      }
     }
   }
 }
