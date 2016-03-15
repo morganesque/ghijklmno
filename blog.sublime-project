@@ -1,26 +1,35 @@
-{
-    "tab_size":2,
-    "translate_tabs_to_spaces":true,
-    "folders": [
-    {
+{    
+    "folders": 
+    [{
         "follow_symlinks": true,
         "folder_exclude_patterns": 
-        	[
-        		".jekyll",
-        		".sass-cache", 
-        		"bower_components", 
-        		"node_modules", 
-        		"tasks",
-        	],
+          [
+            ".jekyll",
+            ".sass-cache", 
+            "bower_components", 
+            "node_modules", 
+            "tasks",
+          ],
         "file_exclude_patterns": 
-	        [
-	        	".bowerrc", 
-	        	"bower.json", 
-	        	"Gemfile*", 
-	        	"package.json",
+          [
+            ".bowerrc", 
+            "bower.json", 
+            "Gemfile*", 
+            "package.json",
                 "project.sh",
                 // "build/index.html",
-	        ],
+          ],
         "path": "."
-    }]
+    }],
+    "settings":
+    {
+        "word_wrap": true,
+        "tab_size":8,
+        "translate_tabs_to_spaces":true,
+        "Jekyll":
+        {
+          "posts_path":   "build/_posts",
+          "drafts_path":  "build/_drafts",
+        }
+    }
 }

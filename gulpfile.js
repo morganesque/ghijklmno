@@ -1,18 +1,18 @@
 /*
     the basic stuff.
-*/        
+*/
 var gulp    = require('gulp'),
     fs      = require('fs');
 
 /*
     load all the other things.
-*/        
+*/
 var gulpLoadPlugins = require('gulp-load-plugins'),
 $ = gulpLoadPlugins({pattern:'*', camelize:true,});
 
 /*
     keep references to filenames up here.
-*/        
+*/
 var files = {
     "jsconf":   'src/js/allJS.conf',
     "jslib":    "all.min.js",
@@ -25,10 +25,10 @@ var build = 'build';
 
 /*
     keep all the globs together here.
-*/        
+*/
 var glob = {
     "sass":     'src/sass/**/*.scss',
-    "js":       'src/js/**/*.js',    
+    "js":       'src/js/**/*.js',
     "img":      'src/img/**/*.{jpg,jpeg,gif,png}',
     "svg":      'src/img/**/*.svg',
     "jekyll":   ['src/jekyll/**/*.{html,yml,md,mkd,markdown}','_config.yml'],
@@ -38,7 +38,7 @@ var glob = {
 
 /*
     keeping all the destinations together here.
-*/        
+*/
 var dest = {
     "sass":      ".tmp",
     "css":      build+"/css",
@@ -47,35 +47,26 @@ var dest = {
 }
 
 /*
-    - - - - - - - - - - - - - - - - - - - - - - - START OF TASKS - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-*/       
+    - - - - - - - - - - - - - - - - - - - - - - - START OF TASKS - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+*/
 
 /*
     ----- SASS -----
-*/        
-gulp.task('sass',function()
-{
-    return $.rubySass(files.sass, {
-            style:'compressed', // Can be nested, compact, compressed, expanded 
-            loadPath:'bower_components', 
-            quiet:false,
-            sourcemap:true, 
-            // sourcemapPath: 'sass',
-            verbose: true,
-        })
-        .on('error', function (err) {console.error('Error!', err.message);})
-        .pipe($.autoprefixer('last 2 version', 'safari 5', 'ie 8', 'ie 9', 'opera 12.1', 'ios 6', 'android 4'))
-        .pipe($.sourcemaps.write('.'))
-        .pipe(gulp.dest(dest.css))
-        .pipe($.filter('**/*.css'))
-        .pipe($.browserSync.reload({stream:true}));
+*/
+gulp.task('sass', function () {
+  return gulp.src(files.sass)
+    .pipe($.sass({
+      includePaths:'bower_components',
+      outputStyle:'compressed'
+    }).on('error', $.sass.logError))
+    .pipe(gulp.dest(dest.css));
 });
 
 /*
     ----- JEKYLL -----
     (Runs Jekyll as a shell command)
 */
-gulp.task('jekyll', $.shell.task(['jekyll build --source '+build+' --destination '+build+'/_site --watch']) );
+gulp.task('jekyll', $.shell.task(['bundle exec jekyll build --source build --destination build/_site/ --watch']) );
 
 /*
     ----- JS LIBRARIES -----
@@ -88,9 +79,9 @@ gulp.task('libScripts',function()
         var src = refreshJSLibs(conf);
         if (src.length)
         {
-            $.util.log(src);   
+            $.util.log(src);
             return gulp.src(src,{base:'bower_components/'})
-                .pipe($.uglify())  
+                .pipe($.uglify())
                 .pipe($.header("/*! bower_components/${file.relative} */\n",{foo:'bar'}))
                 .pipe($.concat(lib))
                 .pipe(gulp.dest(dest.js))
@@ -106,7 +97,7 @@ gulp.task('libScripts',function()
 
 /*
     ----- JS FILES -----
-    (for separates minified and copied across) 
+    (for separates minified and copied across)
 */
 gulp.task('scripts',function()
 {
@@ -157,8 +148,8 @@ gulp.task('sync',function()
 });
 
 /*
-    - - - - - - - - - - - - - - - - - - - - - - - END OF TASKS - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-*/        
+    - - - - - - - - - - - - - - - - - - - - - - - END OF TASKS - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+*/
 
 /*
     ----- BROWSER SYNC SERVER -----
@@ -167,7 +158,7 @@ gulp.task('sync',function()
 gulp.task('browser-sync', function() {
     $.browserSync({
         open:false,
-        server: {baseDir: "build"},
+        server: {baseDir: "build/_site"},
         // proxy: "j.ghijklmno.tom",
         // socket: {
         //     namespace: function (namespace) {
@@ -180,18 +171,18 @@ gulp.task('browser-sync', function() {
 /*
     ----- WATCH -----
 */
-gulp.task('watch', function() 
-{ 
+gulp.task('watch', function()
+{
         // Watch .scss files
-        gulp.watch(glob.sass, ['sass']);     
-        gulp.watch(glob.css, ['autoprefix']); 
+        gulp.watch(glob.sass, ['sass']);
+        gulp.watch(glob.css, ['autoprefix']);
 
         // Watch .js files
         gulp.watch(glob.js, ['scripts']);
 
         // Watch JS library conf
         gulp.watch(files.jsconf, ['libScripts']); // and "checkScripts" ???
-        gulp.watch(files.jsieconf, ['libScripts']); 
+        gulp.watch(files.jsieconf, ['libScripts']);
 
         // Watch bitmaps
         gulp.watch(glob.img, ['bitmaps']);
@@ -200,10 +191,7 @@ gulp.task('watch', function()
         gulp.watch(glob.svg, ['svg']);
 
         // watch HTML (etc)
-        gulp.watch(glob.html,['sync']) 
-
-        // Watch $.jekyll files
-        // gulp.watch(glob.jekyll, ['jekyll'])
+        gulp.watch(glob.html,['sync'])
 });
 
 /*
@@ -214,14 +202,14 @@ gulp.task('default', ['browser-sync','watch','jekyll']);
 /*
     JAVASCRIPT SIZES
     (A task to determine how mch javascript there is and which libraries are to blame)
-*/        
+*/
 gulp.task('checkScripts',function()
 {
     var src = refreshJSLibs();
     if (src.length)
     {
         return gulp.src(src,{base:'bower_components/'})
-            .pipe($.uglify())  
+            .pipe($.uglify())
             .pipe($.header("/*! bower_components/${file.relative} */\n",{foo:'bar'}))
             .pipe($.gzip())
             .pipe($.flatten())
@@ -234,22 +222,22 @@ gulp.task('checkScripts',function()
 
 /*
     Quick function to grab the conf files and check through it's contents.
-*/        
+*/
 function refreshJSLibs(confFile)
 {
-    var file = fs.readFileSync(confFile,'utf8').trim().split('\n');    
+    var file = fs.readFileSync(confFile,'utf8').trim().split('\n');
     var src = file.filter(function(v)
     {
         if (!v) return false;
-        if (v.substr(0,1) == '#') return false;   
+        if (v.substr(0,1) == '#') return false;
 
-        if (!fs.existsSync(v)) 
+        if (!fs.existsSync(v))
         {
             $.util.log($.util.colors.red(v+' does not exist!'));
             return false;
         }
-              
+
         return true;
-    })    
+    })
     return src;
 }

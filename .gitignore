@@ -39,3 +39,4 @@ node_modules
 .jekyll
 build
 *sublime*
+*.lock
