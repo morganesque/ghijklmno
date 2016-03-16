@@ -55,9 +55,6 @@ h3 { font-size:1.5rem;}
 a {
   color:$tertiary;
   text-decoration:none;
-  &:hover,&:active {
-    text-decoration:underline;
-  }
 }
 
 .link {
@@ -150,6 +147,13 @@ p {
     padding:1em;
     font-size:0.8em;
   }
+  a {
+    color:$tertiary;
+    background-color:lighten($secondary,35);
+    &:hover,&:active {
+      background-color:lighten(yellow,30);
+    }
+  }
 }
 
 
@@ -205,5 +209,23 @@ p {
         span {right:102%;}
       }
     }
+  }
+}
+
+.img-half-left {
+  width:100%;
+  @include aboveOr(pem(640)) {
+    width:50%;
+    float:left;
+    margin:0 2em 1em 0;
+  }
+}
+
+.img-half-right {
+  width:100%;
+  @include aboveOr(pem(640)) {
+    width:50%;
+    float:right;
+    margin:0 0 1em 2em;
   }
 }
