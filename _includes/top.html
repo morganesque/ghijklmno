@@ -4,18 +4,29 @@
 <!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
 <!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
 <head>
+    <title>{{ page.title }}</title>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="author" content="Tom Morgan">
+    <meta name="robots" content="index, follow">
     <title>Ghijklmno..</title>
-    <meta name="description" content="The blog of Tom Morgan">
+    <meta name="description" content="Tom Morgan's blog">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" type="text/css" href="//cloud.typography.com/6272452/793286/css/fonts.css" />
     <link rel="stylesheet" href="/css/styles.css">
     <!-- <script src="/js/modernizr.js"></script> -->
+    <meta property="og:title" content="{{ page.title }}">
+    <meta property="og:site_name" content="Ghijklmno">
+    <meta property="og:url" content="http://ghijklmno.net{{ page.url }}">
+    <meta property="og:description" content="Tom Morgan's Blog">
+    <meta property="og:type" content="article">
+    <meta property="og:image" content="{{ page.image }}">
+    <meta name="twitter:card" content="app">
+    <meta name="twitter:site" content="@morganesque">
 </head>
 <body>
 <header class="site-header" id="header">
-        <h1 class="logo"><a href="/">Ghijklmno..</a></h1> 
+        <h1 class="logo"><a href="/">Ghijklmno..</a></h1>
         <p class="sub-heading">This is <a href="/about/">Tom Morgan</a>'s blog</p>
 </header>
 <main>
