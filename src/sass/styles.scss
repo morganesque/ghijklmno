@@ -118,6 +118,7 @@ p {
   p.standfirst {
     @extend %ff-medium;
     font-size:1.2em;
+    margin-bottom:2em;
   }
   blockquote {
     padding:$bsu 2*$bsu;
