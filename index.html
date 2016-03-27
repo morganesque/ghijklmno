@@ -1,28 +1,29 @@
 ---
 layout: default
 title: Ghijklmno.. Blog
+image: /img/2016/title.jpg
 ---
-  
+
 <div class="main__content">
   {% for post in site.posts limit:1 %}
     <h1 class="post__title">{{post.title}}</h1>
     <p class="post__date">&mdash;
-      {% assign d = post.date | date: "%-d"  %}        
+      {% assign d = post.date | date: "%-d"  %}
       {% case d %}
         {% when '1' or '21' or '31' %}{{ d }}st
         {% when '2' or '22' %}{{ d }}nd
         {% when '3' or '23' %}{{ d }}rd
         {% else %}{{ d }}th
         {% endcase %}
-      {{ post.date | date: "%B %Y" }} 
+      {{ post.date | date: "%B %Y" }}
     </p>
     <div class="post__content content">{{post.content}}</div>
 
     <div class="post__nextprev cf">
-      {% if post.previous.url %} 
-        <a class="link prev" href="{{post.previous.url}}"><span class="icon-arrow-left"></span> {{post.previous.title}}</a> 
-      {% endif %}  
+      {% if post.previous.url %}
+        <a class="link prev" href="{{post.previous.url}}"><span class="icon-arrow-left"></span> {{post.previous.title}}</a>
+      {% endif %}
     </div>
 
-  {% endfor %}        
-</div>  
+  {% endfor %}
+</div>
