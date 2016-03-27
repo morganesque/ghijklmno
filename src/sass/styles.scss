@@ -41,9 +41,9 @@ h3 { font-size:1.5rem;}
   @extend %ff-light;
   font-size:2em;
   text-align:center;
-  margin:$bsu 0 $bsu;
+  margin:$bsu 0 $bsu/2;
   letter-spacing:0.05em;
-  @include aboveOr(pem(640)) {margin:$bsu*2 0 2*$bsu;}
+  @include aboveOr(pem(640)) {margin:$bsu*2 0 $bsu;}
   a {
     color:$secondary;
     &:hover, &:active {
@@ -72,9 +72,10 @@ p {
 .sub-heading {
   font-size:0.9em;
   text-align:center;
+  margin-top:$bsu/2;
   margin-bottom:$bsu;
   padding-right:1em;
-  @include aboveOr(pem(640)) {margin:2*$bsu;}
+  @include aboveOr(pem(640)) {margin:2*$bsu;margin-top:$bsu;}
 }
 
 .post__title {
@@ -190,6 +191,7 @@ p {
 }
 
 .post__nextprev {
+  clear:both;
   a {
     position:relative;
     display:inline-block;
@@ -226,6 +228,28 @@ p {
   width:100%;
   @include aboveOr(pem(640)) {
     width:50%;
+    float:right;
+    margin:0 0 1em 2em;
+  }
+}
+
+.img-quart-left {
+  width:50%;
+  margin:0 auto;
+  display:block;
+  @include aboveOr(pem(640)) {
+    width:25%;
+    float:left;
+    margin:0 2em 1em 0;
+  }
+}
+
+.img-quart-right {
+  width:50%;
+  margin:0 auto;
+  display:block;
+  @include aboveOr(pem(640)) {
+    width:25%;
     float:right;
     margin:0 0 1em 2em;
   }
