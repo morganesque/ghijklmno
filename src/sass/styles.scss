@@ -41,11 +41,11 @@ h3 { font-size:1.5rem;}
   @extend %ff-light;
   font-size:2em;
   text-align:center;
-  margin:$bsu auto $bsu/2;
+  margin:$bsu auto 0;
   letter-spacing:0.05em;
   width:100%;
   img {max-width:480px}
-  @include aboveOr(pem(640)) {margin:$bsu*2 auto $bsu; }
+  @include aboveOr(pem(640)) {margin:$bsu*2 auto 0; }
   a {
     color:$secondary;
     &:hover, &:active {
@@ -74,10 +74,10 @@ p {
 .sub-heading {
   font-size:0.9em;
   text-align:center;
-  margin-top:$bsu/2;
+  margin-top:0;
   margin-bottom:$bsu;
   padding:0;
-  @include aboveOr(pem(640)) {margin:2*$bsu;margin-top:$bsu;}
+  @include aboveOr(pem(640)) {margin:2*$bsu;margin-top:0}
 }
 
 .post__title {
