@@ -41,9 +41,11 @@ h3 { font-size:1.5rem;}
   @extend %ff-light;
   font-size:2em;
   text-align:center;
-  margin:$bsu 0 $bsu/2;
+  margin:$bsu auto $bsu/2;
   letter-spacing:0.05em;
-  @include aboveOr(pem(640)) {margin:$bsu*2 0 $bsu;}
+  width:100%;
+  img {max-width:480px}
+  @include aboveOr(pem(640)) {margin:$bsu*2 auto $bsu; }
   a {
     color:$secondary;
     &:hover, &:active {
@@ -74,7 +76,7 @@ p {
   text-align:center;
   margin-top:$bsu/2;
   margin-bottom:$bsu;
-  padding-right:1em;
+  padding:0;
   @include aboveOr(pem(640)) {margin:2*$bsu;margin-top:$bsu;}
 }
 
