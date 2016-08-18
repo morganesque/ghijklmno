@@ -8,6 +8,8 @@ image:
 
 Over the holiday I read a book called [But Beautiful](https://www.amazon.co.uk/dp/B007NXZI7C/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) by Geoff Dyer. It's a book about jazz. Well, it's a book about people who played jazz, back when jazz was just starting out, being invented. It's an amazing book.
 
+[<img class="img-half-right" src="/img/2016/butbeautiful.jpg" />](https://www.amazon.co.uk/dp/B007NXZI7C/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)
+
 The book consists of a number of stories about a number of characters from the early days of jazz. Episodes from their life or incidents that happened to them. But they aren't necessarily true stories. Dyer has taken a few facts and existing anecdotes and he's woven fictional accounts around those. The point being not to relate the facts but to provide Dyer with a kind of extended metaphor within which he can explore ways to tell you not only about the person themselves but also their music.
 
 It's a wonderful idea but also with it's emphasis on invention and improvisation around it's subject this approach is deliciously well suited to a book about jazz, an art form which revels in both those things.
