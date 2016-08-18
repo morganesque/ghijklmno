@@ -6,13 +6,11 @@ title: "But Beautiful"
 image:
 ---
 
-Over the holiday I read a book called But Beautiful by Geoff Dyer. It's a book about jazz. Well, it's a book about people who played jazz, back when jazz was just starting out, being invented. It's an amazing book.
+Over the holiday I read a book called [But Beautiful](https://www.amazon.co.uk/dp/B007NXZI7C/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) by Geoff Dyer. It's a book about jazz. Well, it's a book about people who played jazz, back when jazz was just starting out, being invented. It's an amazing book.
 
 The book consists of a number of stories about a number of characters from the early days of jazz. Episodes from their life or incidents that happened to them. But they aren't necessarily true stories. Dyer has taken a few facts and existing anecdotes and he's woven fictional accounts around those. The point being not to relate the facts but to provide Dyer with a kind of extended metaphor within which he can explore ways to tell you not only about the person themselves but also their music.
 
-Dyer himself explains that in attempting to write about the jazz music itself he was constantly moving into metaphor and the more these metaphors grew and expanded the more he realised that he could simply write the whole book in these and forget any idea of formal music criticism or description.
-
-It's a wonderful idea but also with it's emphasis on invention and improvisation this approach is deliciously well suited to a book about jazz, an art form which revels in both those things.
+It's a wonderful idea but also with it's emphasis on invention and improvisation around it's subject this approach is deliciously well suited to a book about jazz, an art form which revels in both those things.
 
 Of course a brilliant concept would be nothing if it wasn't executed well and fortunately Dyer is a phenomenal writer who seems to effortlessly juggle various themes and styles throughout. Each story has a different tone and structure. They're all memorable in their own ways and notable for the way that the slightly different approach he takes with each gives you a different feeling which you sense is telling you more about the music than a straight description ever could.
 
