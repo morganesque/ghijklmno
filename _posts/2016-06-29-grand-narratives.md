@@ -5,9 +5,9 @@ published: true
 title: "Grand Narratives"
 image: "/img/2016/deadwhiteguys.jpg"
 ---
-I’m a big fan of a grand narrative. But being a good postmodernist (not to mention feminist) I know that they’re not to be trusted. Which is a shame because they’re satisfying little buggers (or big buggers I should say).
+I’m a big fan of a [grand narrative](http://www.newworldencyclopedia.org/entry/Metanarrative). But being a good postmodernist (not to mention feminist) I know that they’re not to be trusted. Which is a shame because they’re satisfying little buggers (or big buggers I should say).
 
-A grand narrative gives you a lovely logical-sounding story to hang your understanding upon. A nice string of cause and effect which simply and neatly explains things in a way which makes perfect sense (or seems to). This is why they are so alluring and it’s so tempting to believe them.
+A grand (or meta) narrative gives you a lovely logical-sounding story to hang your understanding upon. A nice string of cause and effect which simply and neatly explains things in a way which makes perfect sense (or seems to). This is why they are so alluring and it’s so tempting to believe them.
 
 The trouble is that nothing is ever really that simple. The complexities of the world and the contingent dependencies of life mean that very rarely does cause and effect line up in such a neat and easy-to-track way. There’s always something else going on, some other factors at play. In short, things are never that simple.
 
