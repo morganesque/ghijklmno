@@ -24,4 +24,4 @@ Listening to music is never just about what you're hearing. Your ideas and preco
 
 It's funny to think that when the book was published in 1991 there would have been no Spotify for readers to rush to upon completing it. I was delighted to return from holiday and start looking up these names. Listening for whether the recordings themselves showed the same qualities Dyer had described, and trawling Google Images &amp; YouTube for grainy footage of these musicians.
 
-I've never been a fan of jazz particularly and I'm not sure that this book will turn me into one, however, it is remarkable achievement. The sheer quality of the writing, the brilliance of the over-arching idea and the skill of it's execution makes it one of the best books I've read. Whether you like jazz or not it's a book everyone should read.
+I've never been a fan of jazz particularly and I'm not sure that this book will turn me into one, however, it is remarkable achievement. The sheer quality of the writing, the brilliance of the over-arching idea and the skill of it's execution makes it one of the best books I've read.
