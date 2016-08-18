@@ -3,7 +3,7 @@ layout: post
 status: publish
 published: true
 title: "But Beautiful"
-image:
+image: http://ghijklmno.net/img/2016/butbeautiful.jpg
 ---
 
 Over the holiday I read a book called [But Beautiful](https://www.amazon.co.uk/dp/B007NXZI7C/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) by Geoff Dyer. It's a book about jazz. Well, it's a book about people who played jazz, back when jazz was just starting out, being invented. It's an amazing book.
