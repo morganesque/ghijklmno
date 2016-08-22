@@ -49,3 +49,6 @@ permalink: :title/
 
 # Exclude metadata and development time dependencies (like Grunt plugins)
 exclude: [README.markdown, package.json, grunt.js, gulpfile.js, Gruntfile.coffee, node_modules]
+
+gems:
+  - jekyll-feed
