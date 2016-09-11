@@ -3,7 +3,7 @@ layout: post
 status: publish
 published: true
 title: "Brendan Dawes at #govdesign"
-image: http://ghijklmno.net/img/2016/dawes-sm.jpg
+image: /img/2016/dawes-sm.jpg
 ---
 <p>Last week I went to a cross-government design meeting in the amazing <a href="https://en.wikipedia.org/wiki/North_of_England_Institute_of_Mining_and_Mechanical_Engineers">North of England Institute of Mining and Mechanical Engineers</a> building in Newcastle. Amongst the usual updates and talks about specific projects we heard from <a href="http://www.brendandawes.com/">Brendan Dawes</a>.</p>
 
