@@ -4,8 +4,8 @@ status: publish
 published: true
 title: "Curiosity, Enthusiasm &amp; Optimism"
 image:
+standfirst: 'How important is it that everyone in agile teams has a high level of skill, experience or seniority? Not very important at all.'
 ---
-<p class="standfirst">How important is it that everyone in agile teams has a high level of skill, experience or seniority? Not very important at all.</p>
 
 In a multi-disciplinary team, you’re very unlikely ever to get the whole team to be on exactly the same level in terms of experience. I was thinking recently that in this environment experience isn’t actually the most important factor in terms of contribution.
 

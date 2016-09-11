@@ -7,13 +7,13 @@
 # keep_files: ['css','js','img']
 
 # Name of your blog (this will show up at the top of your page and in the RSS feed)
-name: Ghijklmno.. - Tom Morgan's blog
+name: Ghijklmno - Tom Morgan
 
 # Short description (goes below the title; it will also be used in the RSS feed)
 description: A blog about stuff - aren't they all?
 
 # Your name, as you want it to appear underneath each post and in the footer
-author: Tom morgan
+author: Tom Morgan
 
 # Your email if you want it to be linked on the contact page
 author_email: morganesque@gmail.com

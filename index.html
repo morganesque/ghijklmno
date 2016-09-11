@@ -1,7 +1,8 @@
 ---
 layout: default
-title: Ghijklmno.. Blog
+title: Home
 image: /img/2016/title.jpg
+standfirst: Tom Morgan's Blog
 ---
 
 <div class="main__content">
@@ -17,11 +18,15 @@ image: /img/2016/title.jpg
         {% endcase %}
       {{ post.date | date: "%B %Y" }}
     </p>
-    <div class="post__content content">{{post.content}}</div>
-
+    <div class="post__content content">
+      {% if post.standfirst %}<p class="standfirst">{{ post.standfirst }}</p>{% endif %}
+      {{ post.content | markdownify }}
+    </div>
     <div class="post__nextprev cf">
       {% if post.previous.url %}
-        <a class="link prev" href="{{post.previous.url}}"><span class="icon-arrow-left"></span> {{post.previous.title}}</a>
+        <a class="link prev" href="{{post.previous.url}}">
+          <span class="icon-arrow-left"></span> {{ post.previous.title }}
+        </a>
       {% endif %}
     </div>
 
