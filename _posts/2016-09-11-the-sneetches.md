@@ -4,7 +4,7 @@ status: publish
 published: true
 title: "The Sneetches"
 image: "/img/2016/sneetches.jpg"
-standfirst: "In which I discover a three year old meme and then get pedantic as an excuse to write a big blog about one of my favourite Dr Seuss books."
+standfirst: "In which I discover a three year old meme and get all pedantic about it as an excuse to write a long post about one of my favourite Dr Seuss books."
 ---
 The other day I saw [this page](http://imgur.com/a/rfofh) showing a load of Dr Seuss book covers where the underlying subtext was made plain on the front cover. It’s funny. Partly because these are children’s books and so the overly wordy and complex sounding titles jar the intended audience and partly because there’s a feeling of left-wing satisfaction that yes, those are the values subtly being imparted to children here and yes, the world is a better place for it. Hurrah!
 
