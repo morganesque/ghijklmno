@@ -262,3 +262,11 @@ p {
   margin:0 auto;
   display:block;  
 }
+
+.break {
+  width:12%;
+  margin:$bsu auto 3*$bsu/2;
+  border: 0;
+  border-bottom: 1px dashed #EEE;
+  background: #999;
+}
