@@ -2,7 +2,9 @@
     the basic stuff.
 */
 var gulp    = require('gulp'),
-    fs      = require('fs');
+    fs      = require('fs'),
+    child = require('child_process'),
+    gutil = require('gulp-util');
 
 /*
     load all the other things.
@@ -66,8 +68,27 @@ gulp.task('sass', function () {
     ----- JEKYLL -----
     (Runs Jekyll as a shell command)
 */
-gulp.task('jekyll', $.shell.task(['bundle exec jekyll build --source build --destination build/_site/ --watch --drafts']) );
+// gulp.task('jekyll', $.shell.task(['bundle exec jekyll build --source build --destination build/_site/ --watch --drafts --incremental']) );
+gulp.task('jekyll', () => {
+  const jekyll = child.spawn('bundle', ['exec','jekyll','serve',
+    '--source build',
+    '--destination build/_site/',
+    // '--help',
+    '--watch',
+    // '--config build/_config.yml',
+    '--incremental',
+    '--drafts'
+  ]);
 
+  const jekyllLogger = (buffer) => {
+    buffer.toString()
+      .split(/\n/)
+      .forEach((message) => gutil.log('Jekyll: ' + message));
+  };
+
+  jekyll.stdout.on('data', jekyllLogger);
+  jekyll.stderr.on('data', jekyllLogger);
+});
 /*
     ----- JS LIBRARIES -----
     (Minified into a single file)
@@ -197,7 +218,8 @@ gulp.task('watch', function()
 /*
     ----- DEFAULT -----
 */
-gulp.task('default', ['browser-sync','watch','jekyll']);
+gulp.task('default', ['browser-sync','watch']);
+// gulp.task('default', ['browser-sync','watch','jekyll']);
 
 /*
     JAVASCRIPT SIZES
