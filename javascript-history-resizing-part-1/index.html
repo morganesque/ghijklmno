@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
+<head>
+    <title>Javascript, History, Resizing - Part 1 - </title>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="author" content="Tom Morgan">
+    <meta name="robots" content="index, follow">
+    <meta name="description" content="Tom Morgan's blog">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="https://fonts.googleapis.com/css?family=Volkhov" rel="stylesheet">
+    <link rel="stylesheet" href="/css/styles.css">
+    <!-- <script src="/js/modernizr.js"></script> -->
+    <meta property="og:type" content="article">
+    <meta property="og:title" content="Javascript, History, Resizing - Part 1">
+    <meta property="og:site_name" content="">
+    <meta property="og:url" content="http://ghijklmno.net">
+    <meta property="og:description" content="">
+    <meta property="og:type" content="article">
+    <meta property="og:image" content="http://ghijklmno.net">
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:site" content="@morganesque">
+    <meta name="twitter:description" content="" />
+    <meta name="twitter:image:src" content="http://ghijklmno.net">
+</head>
+<body>
+<header class="site-header" id="header">
+        <!-- <h1 class="logo"><a href="/">Ghijklmno..</a></h1> -->
+        <h1 class="logo"><a href="/"><img src="/img/2016/title.jpg" width="100%" alt="...GHIJKLMNO..."/></a></h1>
+        <p class="sub-heading">This is <a href="/about/">Tom Morgan</a>'s blog</p>
+</header>
+<main>
+
+  
+
+  <div class="main__content">
+      <h1 class="post__title">Javascript, History, Resizing - Part 1</h1>
+      <p class="post__date">&mdash; 4th April 2008</p>
+      <div class="post__content content">
+        
+        <!-- more -->
+<p>OK here&#39;s a good one. I wanted to create a Flash site which acted like a normal HTML website. Why I would want to do this? You can only guess. Two things I found are a problem when it comes to this. Resizing &amp; History.(I&#39;ll deal with History in Part 2)Resizing means getting the browser to react to changes in the size of your Flash as it does to different HTML pages within a normal website (i.e. including and resizing scrollbars at the side of the page). Seeing as your swf is going to be the only thing on this page in order to achieve this we have to resize the swf within the HTML.I&#39;m happy to tell you that all this can be achieved via the wonder which is ExternalInterface. This is the AS3 class which can act as a bridge between Actionscript in your swf and JavaScript in the HTML page. It&#8217;s also a cinch to use! <span style="font-weight: bold;">context</span>: <span style="font-style: italic;">I use SWFObject.js as a way to embed my swf&#39;s into HTML pages. I don&#39;t know whether it&#8217;s peculiar in this respect, but it means in the HTML the &lt;embed&gt; or &lt;object&gt; tags used always have a nice id=&quot;something&quot; which identifies the swf within the page. That id=&quot;something&quot; is going to be important.</span>I&#8217;ve embedded my swf in the HTML with the following code:</p>
+<pre>
+&lt;script&gt;var so = new SWFObject(&quot;Something.swf&quot;, &quot;something&quot;, &quot;100%&quot;, &quot;700&quot;, &quot;8&quot;, &quot;#FFFFFF&quot;);so.addParam(&quot;scale&quot;, &quot;noscale&quot;);so.addParam(&quot;salign&quot;, &quot;t&quot;);so.write(&quot;flashcontent&quot;);&lt;/script&gt;
+</pre>
+<p>I won&#39;t explain how to use SWFObject here. There&#39;s lots of help out on the web. But the important bits to note are:</p>
+<ul>
+    <li>the width is 100% but the <span style="font-weight: bold;">height </span>is 700 - this height will be changing, so set it to something sensible to start with.</li>
+    <li>the <span style="font-weight: bold;">id </span>is going to be &quot;something&quot; that&#8217;s the second parameter for SWFObject.</li>
+    <li>I&#8217;ve set <span style="font-weight: bold;">scale </span>to &quot;noscale&quot; this will keep the actual flash content looking normal.</li>
+    <li>I&#8217;ve set <span style="font-weight: bold;">salign </span>to &quot;t&quot; which will align the Flash movie top-centre.</li>
+</ul>
+<p>(If you wanted to align your movie differently then top-left should be &quot;tl&quot; and top-right should be &quot;tr&quot;. I&#39;d have thought you&#39;d want to keep it top-something.)</p>
+<p>For resizing you&#39;ll need the following JavaScript in your HTML.</p>
+<pre>
+&lt;script&gt;function resizePage(height){var d = document.getElementById(&#039;something&#039;);d.height = height;}&lt;/script&gt;
+</pre>
+This takes a height value and resizes your Flash movie to fit (using that <span style="font-weight: bold;">id</span> &lsquo;something&rsquo; which we passed to SWFObject).You&#39;ll then need the following ActionScript in your Flash.
+<pre>
+function resizePage(){ExternalInterface.call(&#039;resizePage&#039;,this.height);}
+</pre>
+This must be placed at the <span style="font-weight: bold;">root</span> of your Flash movie, and called from there. I tend to use an Event or something to trigger it from elsewhere. The point here is that ExternalInterface is able to call the JavaScript function <span style="font-style: italic;"><span style="font-weight: bold;">resizePage</span> </span>and pass in the value <span style="font-style: italic; font-weight: bold;">this.height</span>. Because it&#8217;s at the root of the swf <span style="font-weight: bold; font-style: italic;">this</span> refers to the entire movie and therefore will expand and contract depending on the stuff you&#8217;ve added to it. Again I won&#39;t go into how and why you might call this function because this post is long enough already but still, I&#8217;ve found the above works pretty well, so I&#39;m happy.</p>
+
+
+      </div>
+      <div class="post__nextprev cf">
+        
+          <a class="link prev" href="/javascript-history-resizing-part-1/"><span class="icon-arrow-left"></span> Javascript, History, Resizing - Part 1</a>
+        
+        
+          <a class="link next" href="/delicious/">Delicious <span class="icon-arrow-right"></span></a>
+        
+      </div>
+  </div>
+
+
+
+</main>
+
+<p class="archive-link link"><a href="/archive/">Archive</a></p>
+
+<script>
+  (function(b,o,i,l,e,r){b.GoogleAnalyticsObject=l;b[l]||(b[l]=
+  function(){(b[l].q=b[l].q||[]).push(arguments)});b[l].l=+new Date;
+  e=o.createElement(i);r=o.getElementsByTagName(i)[0];
+  e.src='//www.google-analytics.com/analytics.js';
+  r.parentNode.insertBefore(e,r)}(window,document,'script','ga'));
+  ga('create','UA-110489-1');ga('send','pageview');
+</script>
+
+</body>
+</html>

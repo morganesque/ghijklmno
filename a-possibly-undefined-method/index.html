@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
+<head>
+    <title>a possibly undefined method - </title>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="author" content="Tom Morgan">
+    <meta name="robots" content="index, follow">
+    <meta name="description" content="Tom Morgan's blog">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="https://fonts.googleapis.com/css?family=Volkhov" rel="stylesheet">
+    <link rel="stylesheet" href="/css/styles.css">
+    <!-- <script src="/js/modernizr.js"></script> -->
+    <meta property="og:type" content="article">
+    <meta property="og:title" content="a possibly undefined method">
+    <meta property="og:site_name" content="">
+    <meta property="og:url" content="http://ghijklmno.net">
+    <meta property="og:description" content="">
+    <meta property="og:type" content="article">
+    <meta property="og:image" content="http://ghijklmno.net">
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:site" content="@morganesque">
+    <meta name="twitter:description" content="" />
+    <meta name="twitter:image:src" content="http://ghijklmno.net">
+</head>
+<body>
+<header class="site-header" id="header">
+        <!-- <h1 class="logo"><a href="/">Ghijklmno..</a></h1> -->
+        <h1 class="logo"><a href="/"><img src="/img/2016/title.jpg" width="100%" alt="...GHIJKLMNO..."/></a></h1>
+        <p class="sub-heading">This is <a href="/about/">Tom Morgan</a>'s blog</p>
+</header>
+<main>
+
+  
+
+  <div class="main__content">
+      <h1 class="post__title">a possibly undefined method</h1>
+      <p class="post__date">&mdash; 2nd February 2008</p>
+      <div class="post__content content">
+        
+        <!-- more -->
+<p>It&#8217;s undefined... possibly. Maybe it&#8217;s undefined or maybe it&#8217;s actually defined. We don&#39;t know. Given that calling a method is quite a common thing to do how is this better than &quot;there&#39;s something wrong&quot; in terms of helping you fix it.
+<pre>1061: Call to a possibly undefined method X througha reference with static type Y</pre>Well, possibly a bit. Possibly. Anyway here&#39;s where I went wrong. Variable at the top of my (so I can access it everywhere) like so - it&#8217;s using a class I wrote for a different project (do you hear that? reusable code. I like totally rool!).
+<pre>var thing:ClassA;</pre>I&#8217;ve not assigned anything to it yet I&#39;ll be doing that in the class somewhere. In fact here I am doing it now.
+<pre>thing = new ClassA(var1, var2);</pre>So all is well and good until I realise that despite the joys and karmic benefits of reusable code ClassA just isn&#39;t going to cut it with this new project. It&#8217;s got the juice but I&#39;m going to be needing biscuits with that juice if you know what I mean (tell me if I&#39;m loosing you here).So a quick new class.
+<pre>class ClassB extends ClassA{ /<em> new stuff </em>/}</pre>and a change to the code
+<pre>thing = new ClassB(var1, var2);</pre>and I&#39;m away using the new stuff and making good things happen. But no... I get that error above there. I&#39;m scratching my head because as far as I know the whole thing with this class based OOP based programming shizzle is to do just that kind of thing. And the method is there. It&#8217;s fucking there. Look I extended ClassA and WROTE A NEW METHOD! Here it is! Aaaaarrgh! Anyway turns out (as usual) I&#39;d missed something. You see at the top of the class there when I defined the variable (but didn&#39;t assign anything to it) the variable was still being given a type of ClassA.
+<pre>var thing:ClassA;</pre>and it seems that because of that, even though I assigned an object of type ClassB to it later on. It never really got over being a ClassA. In fact it as so attached to it&#8217;s status as a ClassA varaible it kind of ignored everything about ClassB that it didn&#39;t already know. Hence when I come to call on one of my new methods, they &quot;officially&quot; didn&#39;t exist. Possibly.</p>
+
+
+      </div>
+      <div class="post__nextprev cf">
+        
+          <a class="link prev" href="/addchild-and-removechild-and-references/"><span class="icon-arrow-left"></span> addChild and removeChild and references.</a>
+        
+        
+          <a class="link next" href="/javascript-history-resizing-part-1/">Javascript, History, Resizing - Part 1 <span class="icon-arrow-right"></span></a>
+        
+      </div>
+  </div>
+
+
+
+</main>
+
+<p class="archive-link link"><a href="/archive/">Archive</a></p>
+
+<script>
+  (function(b,o,i,l,e,r){b.GoogleAnalyticsObject=l;b[l]||(b[l]=
+  function(){(b[l].q=b[l].q||[]).push(arguments)});b[l].l=+new Date;
+  e=o.createElement(i);r=o.getElementsByTagName(i)[0];
+  e.src='//www.google-analytics.com/analytics.js';
+  r.parentNode.insertBefore(e,r)}(window,document,'script','ga'));
+  ga('create','UA-110489-1');ga('send','pageview');
+</script>
+
+</body>
+</html>

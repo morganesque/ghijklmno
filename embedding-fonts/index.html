@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
+<head>
+    <title>Embedding fonts - </title>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="author" content="Tom Morgan">
+    <meta name="robots" content="index, follow">
+    <meta name="description" content="Tom Morgan's blog">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="https://fonts.googleapis.com/css?family=Volkhov" rel="stylesheet">
+    <link rel="stylesheet" href="/css/styles.css">
+    <!-- <script src="/js/modernizr.js"></script> -->
+    <meta property="og:type" content="article">
+    <meta property="og:title" content="Embedding fonts">
+    <meta property="og:site_name" content="">
+    <meta property="og:url" content="http://ghijklmno.net">
+    <meta property="og:description" content="">
+    <meta property="og:type" content="article">
+    <meta property="og:image" content="http://ghijklmno.net">
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:site" content="@morganesque">
+    <meta name="twitter:description" content="" />
+    <meta name="twitter:image:src" content="http://ghijklmno.net">
+</head>
+<body>
+<header class="site-header" id="header">
+        <!-- <h1 class="logo"><a href="/">Ghijklmno..</a></h1> -->
+        <h1 class="logo"><a href="/"><img src="/img/2016/title.jpg" width="100%" alt="...GHIJKLMNO..."/></a></h1>
+        <p class="sub-heading">This is <a href="/about/">Tom Morgan</a>'s blog</p>
+</header>
+<main>
+
+  
+
+  <div class="main__content">
+      <h1 class="post__title">Embedding fonts</h1>
+      <p class="post__date">&mdash; 11th November 2007</p>
+      <div class="post__content content">
+        
+        <!-- more -->
+<p>Right, bare in mind this is using Flash CS3 Professional and AS3 so it might be different for different people out there, but this is my description of the damned nightmare I had trying to get fonts to embed in a that version of Flash and Actionscript. Basically I didn&#39;t get much out of the docs so I was left fumbling around by myself. I&#39;m using a Document Class (keeping the AS separate) so I wanted a way to embed a font directly from there. The things I found seemed to be targeted at Flex users and as far as I could see don&#39;t work within the Flash CS3 environment. I&#39;ll happily be corrected on this if anyone knows different. So I went back into the .fla and embedded a font directly into the Library using the (old fashioned) &#39;right click&#39; -&gt; &#39;new Font&#39; method. Which is fine. You have to give your font a name which then appears in the library. Let&#8217;s call it the Library Name. I&#39;m using Verdana so I use &#39;Verdana&#39; as the Library Name. Seems fair enough. Secondly like any good little flash boy I right clicked on the Font itself in the Library and chose the Linkage option (don&#39;t forget linkage, right?). I &#39;Export for Actionscript&#39;. I also need to give the font a Class Name. It looks like this then involves the flash.text. Font class.  Well, I don&#39;t really know what that means but fine. I&#39;m guessing I&#39;ll be using that Class Name to get at the font from within Actionscript. So I make it memorable but slightly shorter than the real font name (&#39;Verd&#39;).So far I have a Library Name which I can see, and a Class Name which is something to do with Actionscript. I&#39;m thinking I&#39;m set. I get into my Document Class create a TextField. I set embedFonts to &#39;true&#39;. Then I create a TextFormat and give it a colour, size etc. This is where I should be setting the font value. This is the Actionscript part of the process so naturally I use the Class Name for the font.
+<pre>textformat.font = &#39;Verd&#39;;</pre>WRONG!OK that didn&#39;t work. No text appears. Well what else then maybe I should try the Library Name. It&#8217;s a long shot but it just might..... oooh it worked! How strange. So from within Actionscript I need to use the Library Name to access the font. Oh well now I know....A bit later I&#39;m doing something similar and user Helvetica 55 Roman as the font. I happily create everything exactly as before and confidently use the Library Name as the identifier. WRONG!Nothing happens. No text. Huh? I try the Class Name. Nothing. I try changing these names. Nothing. I go back to my previous file using Verdana. I check the Font. Check the Linkage. Everything looks the same. Why isn&#39;t it working? I copy the Verdana script (and font) into this new .fla - it works! Why won&#39;t the Helvetica font work!?!?!?Well if you know the answer then you&#39;re probably already laughing at my stupidity. What I finally worked out is that although you need to embed the font into the library of your .fla giving it a Library Name, and you really need to then make sure the Linkage settings are right, giving it a Class Name, in fact the only name you need for the TextFormat is the actual font name. Just the one you know it by. The one it&#8217;s actually called. My trouble with Verdana was that I&#39;d &quot;accidentally&quot; used that name as the Library Name so it &quot;unfortunately&quot; worked fine. For the Helvetica I&#39;d not used the right name for either the Library Name or Class Name and therefore it wasn&#39;t until I tried
+<pre>textformat.font  = &#39;Helvetica 55 Roman&#39;;</pre>that anything showed up. I won&#39;t forget this. Hopefully someone else can learn from it too ;-)</p>
+
+
+      </div>
+      <div class="post__nextprev cf">
+        
+          <a class="link prev" href="/flare/"><span class="icon-arrow-left"></span> Flare</a>
+        
+        
+          <a class="link next" href="/textfield-and-buttonmode/">TextField and buttonMode <span class="icon-arrow-right"></span></a>
+        
+      </div>
+  </div>
+
+
+
+</main>
+
+<p class="archive-link link"><a href="/archive/">Archive</a></p>
+
+<script>
+  (function(b,o,i,l,e,r){b.GoogleAnalyticsObject=l;b[l]||(b[l]=
+  function(){(b[l].q=b[l].q||[]).push(arguments)});b[l].l=+new Date;
+  e=o.createElement(i);r=o.getElementsByTagName(i)[0];
+  e.src='//www.google-analytics.com/analytics.js';
+  r.parentNode.insertBefore(e,r)}(window,document,'script','ga'));
+  ga('create','UA-110489-1');ga('send','pageview');
+</script>
+
+</body>
+</html>

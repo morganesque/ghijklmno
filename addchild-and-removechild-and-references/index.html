@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
+<head>
+    <title>addChild and removeChild and references. - </title>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="author" content="Tom Morgan">
+    <meta name="robots" content="index, follow">
+    <meta name="description" content="Tom Morgan's blog">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="https://fonts.googleapis.com/css?family=Volkhov" rel="stylesheet">
+    <link rel="stylesheet" href="/css/styles.css">
+    <!-- <script src="/js/modernizr.js"></script> -->
+    <meta property="og:type" content="article">
+    <meta property="og:title" content="addChild and removeChild and references.">
+    <meta property="og:site_name" content="">
+    <meta property="og:url" content="http://ghijklmno.net">
+    <meta property="og:description" content="">
+    <meta property="og:type" content="article">
+    <meta property="og:image" content="http://ghijklmno.net">
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:site" content="@morganesque">
+    <meta name="twitter:description" content="" />
+    <meta name="twitter:image:src" content="http://ghijklmno.net">
+</head>
+<body>
+<header class="site-header" id="header">
+        <!-- <h1 class="logo"><a href="/">Ghijklmno..</a></h1> -->
+        <h1 class="logo"><a href="/"><img src="/img/2016/title.jpg" width="100%" alt="...GHIJKLMNO..."/></a></h1>
+        <p class="sub-heading">This is <a href="/about/">Tom Morgan</a>'s blog</p>
+</header>
+<main>
+
+  
+
+  <div class="main__content">
+      <h1 class="post__title">addChild and removeChild and references.</h1>
+      <p class="post__date">&mdash; 2nd February 2008</p>
+      <div class="post__content content">
+        
+        <!-- more -->
+<p>I&#8217;ve just found a tricky little thing which I didn&#39;t know before which might be of help. I&#8217;ve declared a variable &quot;img&quot; which will be available from where ever I need it in my Document Class. It&#8217;s declared as a Loader and when I come to load the image into it I use the following code.
+<pre>img = new Loader(firstUrlRequest);addChild(img);</pre>Then later on I want to replace the image. My idea was that I&#39;d simply re-use the &quot;img&quot; variable and load a new image into it like so:
+<pre>img = new Loader(secondUrlRequest);addChild(img);</pre>This seems to work fine and new images keep on appearing as I re-use this code at various times within the interface. Until I want there to be no image there. Then there is a problem. I use:
+<pre>removeChild(img);</pre>and sure enough the last image I added is gone, but wait, what&#8217;s that? The image before that is still there. How the heck am I accidentally adding that back in?The problem goes back to the fact that the img variable isn&#39;t the same as the Loader I&#8217;ve added to the stage. It&#8217;s just a reference to that Loader. So what happens when I make the img variable reference a different Loader (i.e. the new one I&#8217;ve added)?What happens is I loose my control over the original image. It&#8217;s still sat there on the stage but now I have no way to connect to it (except perhaps by some iteration through the stage&#39;s children and possibly using removeChildAt).So the moral of the story: if you&#39;re reusing references to load different objects onto the stage (to replace each other) make sure you removeChild the referenced object first, that way you&#39;ll have nothing floating around in the background to surprise you later.</p>
+
+
+      </div>
+      <div class="post__nextprev cf">
+        
+          <a class="link prev" href="/textfield-and-buttonmode/"><span class="icon-arrow-left"></span> TextField and buttonMode</a>
+        
+        
+          <a class="link next" href="/a-possibly-undefined-method/">a possibly undefined method <span class="icon-arrow-right"></span></a>
+        
+      </div>
+  </div>
+
+
+
+</main>
+
+<p class="archive-link link"><a href="/archive/">Archive</a></p>
+
+<script>
+  (function(b,o,i,l,e,r){b.GoogleAnalyticsObject=l;b[l]||(b[l]=
+  function(){(b[l].q=b[l].q||[]).push(arguments)});b[l].l=+new Date;
+  e=o.createElement(i);r=o.getElementsByTagName(i)[0];
+  e.src='//www.google-analytics.com/analytics.js';
+  r.parentNode.insertBefore(e,r)}(window,document,'script','ga'));
+  ga('create','UA-110489-1');ga('send','pageview');
+</script>
+
+</body>
+</html>

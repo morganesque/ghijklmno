@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
+<head>
+    <title>Twitter Migration to v1.1 API. My code breaks. I mend it.  - </title>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="author" content="Tom Morgan">
+    <meta name="robots" content="index, follow">
+    <meta name="description" content="Tom Morgan's blog">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="https://fonts.googleapis.com/css?family=Volkhov" rel="stylesheet">
+    <link rel="stylesheet" href="/css/styles.css">
+    <!-- <script src="/js/modernizr.js"></script> -->
+    <meta property="og:type" content="article">
+    <meta property="og:title" content="Twitter Migration to v1.1 API. My code breaks. I mend it. ">
+    <meta property="og:site_name" content="">
+    <meta property="og:url" content="http://ghijklmno.net">
+    <meta property="og:description" content="">
+    <meta property="og:type" content="article">
+    <meta property="og:image" content="http://ghijklmno.net">
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:site" content="@morganesque">
+    <meta name="twitter:description" content="" />
+    <meta name="twitter:image:src" content="http://ghijklmno.net">
+</head>
+<body>
+<header class="site-header" id="header">
+        <!-- <h1 class="logo"><a href="/">Ghijklmno..</a></h1> -->
+        <h1 class="logo"><a href="/"><img src="/img/2016/title.jpg" width="100%" alt="...GHIJKLMNO..."/></a></h1>
+        <p class="sub-heading">This is <a href="/about/">Tom Morgan</a>'s blog</p>
+</header>
+<main>
+
+  
+
+  <div class="main__content">
+      <h1 class="post__title">Twitter Migration to v1.1 API. My code breaks. I mend it. </h1>
+      <p class="post__date">&mdash; 6th June 2013</p>
+      <div class="post__content content">
+        
+        <!-- more -->
+<p>Blueargh! All you wanted to do was grab your own twitter timeline to display on your own website using a bit of PHP to grab the data as JSON. You were even willing to cache it fairly aggressively in order to spare Twitter a load of unneccesary requests. But now they&#8217;ve migrated to v1.1 there&#39;s no way to get this without authentication! And you don&#39;t understand authentication. What&#8217;s a poor boy/girl to do?</p>
+<!-- more -->
+<h3>1. Create an application</h3>
+
+<blockquote>In version 1.1, we&#39;re requiring applications to authenticate all of their requests with&nbsp;<a href="https://dev.twitter.com/docs/auth/oauth">OAuth 1.0a</a>&nbsp;or&nbsp;<a href="https://dev.twitter.com/docs/auth/application-only-auth">Application-only authentication</a>.</blockquote>
+
+<p>As they say you need to authenticate now. What I found was that Application-only authentication was enough for what I wanted to do. So the first thing I did was create a new application. I had to sign in to twitter and then go to my&nbsp;<a href="https://dev.twitter.com/apps">apps page</a>. Once there I clicked the &quot;Create a new application&quot; button.</p>
+
+<p>I had to give my app a <strong>name</strong>, <strong>description</strong> and <strong>website URL</strong> so I just filled these in with my website&#39;s name, a description of &quot;my website&quot; and the URL ... of my website. I didn&#39;t fill in the&nbsp;<strong>Callback URL</strong> and everything was fine, so I guess for my purposes it wasn&#39;t needed.</p>
+
+<h3>2. Secret Key</h3>
+
+<p>Next I had to grab my <strong>Consumer Key</strong> and my <strong>Consumer Secret,&nbsp;</strong>these are needed to move to the next step. They&#39;re displayed on your App page (for the app you&#8217;ve just created). Twitter helpfully explains on <a href="https://dev.twitter.com/docs/auth/application-only-auth">this page</a> what you needed to do with them. Now, this is the point where things get weird. I found that page very hard to understand. I&#39;m no security expert or API expert or auth expert so a lot of the language there was confusing.</p>
+
+<p>I did manage to glean that I had to combine my Consumer Key and Consumer Secret in a single string (with a colon : in between) this is called the&nbsp;<strong>Bearer token credentials</strong>. Then I had to <strong>base64encode</strong> that string.</p>
+
+<p><pre>$bearer_token_credentials = $consumer_key.&quot;:&quot;.$consumer_secret;
+$b64_bearer_token_credentials = base64_encode($bearer_token_credentials);</pre>
+I then had to post this string to the Twitter API at this URL:</p>
+<p><pre>$url = &#039;<a href="https://api.twitter.com/oauth2/token&amp;#039">https://api.twitter.com/oauth2/token&amp;#039</a>;;</pre></p>
+<p>I used CURL via PHP to do this. It took a bit of trial and error to get the CURL right but here&#39;s what I ended up with:</p>
+
+<p><pre>$headers = array(
+&#039;Authorization: Basic &#039;.$b64_bearer_token_credentials,
+&#039;Content-Type: application/x-www-form-urlencoded;charset=UTF-8&#039;
+);
+$ch = curl_init($url);
+curl_setopt($ch, CURLOPT_HEADER, 0);
+curl_setopt($ch, CURLOPT_HTTPHEADER, $headers);
+curl_setopt($ch, CURLOPT_USERAGENT, &#039;Morganesque&#039;);
+curl_setopt($ch, CURLOPT_SSL_VERIFYHOST, 0);
+curl_setopt($ch, CURLOPT_SSL_VERIFYPEER, 0);
+curl_setopt($ch, CURLOPT_RETURNTRANSFER, 1);
+curl_setopt($ch, CURLOPT_POST, 1);
+curl_setopt($ch, CURLOPT_POSTFIELDS, &#039;grant_type=client_credentials&#039;);
+curl_setopt($ch, CURLINFO_HEADER_OUT, 0);
+$output =  curl_exec($ch);
+$data = json_decode($output);</pre></p>
+<p>I&#39;m not entirely sure what all those options are. The $headers are clearly what Twitter states you need to include and the POSTFIELDS option is again stated as a requirement. It took me a while to get all of my ducks in a line here but I&#39;m pretty sure this is cool. Oh... and the user-agent is just the name of the app I created, I don&#39;t think it&#8217;s necessarily vital.</p>
+
+<p><h3>3. Bearer Token</h3></p>
+<p>What I got back from that request was a tiny piece of JSON which had two values.</p>
+
+<p><pre>{&quot;token_type&quot;:&quot;bearer&quot;,&quot;access_token&quot;:&quot;AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA&quot;}</pre></p>
+<p>It&#8217;s the <strong>access_token</strong> there that&#8217;s important. That&#8217;s what I need to be able to send more general requests to the Twitter API from now on. Now one thing I&#39;m not entirely sure about here is how long this <strong>access_token</strong> lasts. I think it lasts a while. Maybe not forever but quite a long time (assuming you don&#39;t piss twitter off!) so the above code probably only needs to be run once. Once you&#8217;ve got the <strong>access_token</strong> you&#39;re ready to go (I think).</p>
+
+<p><h3>4. Get My Twitter Feed</h3></p>
+<p>So finally I could now sent a request to the Twitter API to retrieve my timeline data. As before I needed to create a CURL request.</p>
+
+<p><pre>$url = &#039;<a href="https://api.twitter.com/1.1/statuses/user_timeline.json?count=100&amp;amp;screen_name=morganesque&amp;#039">https://api.twitter.com/1.1/statuses/user_timeline.json?count=100&amp;amp;screen_name=morganesque&amp;#039</a>;;</pre></p>
+<p>And then ... Kablammo!</p>
+
+<p><pre>$tw = curl_init($url);
+$headers = array(&#039;Authorization: Bearer &#039;.$access_token);
+curl_setopt($tw, CURLOPT_HTTPHEADER, $headers);
+curl_setopt($tw, CURLOPT_USERAGENT, &#039;Morganesque&#039;);
+curl_setopt($tw, CURLOPT_SSL_VERIFYHOST, 0);
+curl_setopt($tw, CURLOPT_SSL_VERIFYPEER, 0);
+curl_setopt($tw, CURLOPT_RETURNTRANSFER, 1);
+$output =  curl_exec($tw);
+$data = json_decode($output);
+var_dump($data);</pre></p>
+<p>As before the output is JSON but as far as I could see this was as similar to the output of the V1 API as I needed to make everything else work fine. I haven&#39;t tried any other calls to the API and I don&#39;t know whether you need to authenticate differently if you&#39;re posting to timelines or reading direct messages (I&#39;m guessing you do). But for that basic &quot;grab a few tweets&quot; type of thing which I&#39;m guessing a few people want, and if you&#39;re not content to cede all control and use Twitter&#39;s suggested <a href="https://twitter.com/settings/widgets">embed</a>&nbsp;solution, maybe this will be of help.</p>
+
+<p><h3>5. Cache Yo!</h3></p>
+<p>Finally it might be worth sticking those tweets into a file and only going back to the API when that file is a bit old. Again I don&#39;t know exactly how many requests Twitter will accept before it starts getting sad about you, but unless you&#39;re updating your timeline every second and don&#39;t have too many visitors to your site, going back to the API for each and every request probably isn&#39;t a good idea.</p>
+
+
+      </div>
+      <div class="post__nextprev cf">
+        
+          <a class="link prev" href="/the-procrastination-express/"><span class="icon-arrow-left"></span> The Procrastination Express</a>
+        
+        
+          <a class="link next" href="/affordance-flat-design/">Affordance &amp; Flat Design <span class="icon-arrow-right"></span></a>
+        
+      </div>
+  </div>
+
+
+
+</main>
+
+<p class="archive-link link"><a href="/archive/">Archive</a></p>
+
+<script>
+  (function(b,o,i,l,e,r){b.GoogleAnalyticsObject=l;b[l]||(b[l]=
+  function(){(b[l].q=b[l].q||[]).push(arguments)});b[l].l=+new Date;
+  e=o.createElement(i);r=o.getElementsByTagName(i)[0];
+  e.src='//www.google-analytics.com/analytics.js';
+  r.parentNode.insertBefore(e,r)}(window,document,'script','ga'));
+  ga('create','UA-110489-1');ga('send','pageview');
+</script>
+
+</body>
+</html>

@@ -1,0 +1,654 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title type="text" xml:lang="en">Ghijklmno - Tom Morgan</title>
+  <link type="application/atom+xml" href="http://ghijklmkno.net/feed.xml" rel="self"/>
+  <link type="text/html" href="http://ghijklmkno.net/" rel="alternate"/>
+  <updated>2016-11-28T19:13:54+00:00</updated>
+  <id>http://ghijklmno.net/f</id>
+  <author>
+    <name>Tom Morgan</name>
+  </author>
+  <rights>Copyright &copy; Tom Morgan 2016</rights>
+
+  
+  <entry>
+    <title>AJAX, Branding and Uclidean Design</title>
+    <link href="home_url/ajax-branding-and-uclidean-design/"/>
+    <updated>2016-10-15T00:00:00+01:00</updated>
+    <id>home_url/ajax-branding-and-uclidean-design</id>
+    <content type="html"><p>In which I play with the matches of irony around the gasoline of acronyms and expect somehow that no-one is going to get hurt.</p>&lt;p&gt;Remember &lt;a href=&quot;http://adaptivepath.org/ideas/ajax-new-approach-web-applications/&quot;&gt;Jesse James Garrett’s AJAX article&lt;/a&gt;. Where he took a thing that was going on and found a kind of catchy acronym for it. Remember how it spread around the internet. Remember how it got kind of bastardised and changed until you kind of hated it? Until it had turned from a useful way to refer to a particular thing into some kind of hellish buzzword which people used to mean “whizzy”. Will it have AJAX? Will it be whizzy? Ugh! Horrible.&lt;/p&gt;
+
+&lt;p&gt;Remember that? Remember all those people who came after him who thought they could pull off the same trick. By giving a name to something that was already going on. The blog posts you read where someone was desperately trying to stake a claim on something by inventing a bogus brand for it.&lt;/p&gt;
+
+&lt;p&gt;If you do remember that, you’re going to hate what I’m about to do next. Really hate it. I hate myself for it. Honestly I do.&lt;/p&gt;
+
+&lt;p&gt;Hmmm…&lt;/p&gt;
+
+&lt;p&gt;So I’ve been thinking (and occasionally writing) about what I do in government, and each time I try to write about it I realise that we don’t have a word for it. Sometimes I use “agile” but that doesn’t cover it (unless you’re writing about agile of course). Sometimes I list a bunch of words, user centred, iterative, quick, lean, data-driven. All these things are true but it seems unnecessarily clumsy to always be listing them.&lt;/p&gt;
+
+&lt;p&gt;So I was thinking about that. And I was wondering whether there would be a shorter quicker way of talking about it. It was a short step from there to looking for an acronym … I know, I know … but I didn’t mean to look for one. My brain just started gathering letters, and before I knew it this happened.&lt;/p&gt;
+
+&lt;p&gt;User Centred, Lean, Iterative, Data-driven … UCLID.&lt;/p&gt;
+
+&lt;p&gt;It’s pronounceable. It has overtones of &lt;a href=&quot;https://en.wikipedia.org/wiki/Euclid&quot;&gt;science and maths&lt;/a&gt; (and &lt;a href=&quot;https://www.google.co.uk/search?q=euclid&amp;amp;espv=2&amp;amp;biw=1280&amp;amp;bih=676&amp;amp;source=lnms&amp;amp;tbm=isch&amp;amp;sa=X&amp;amp;ved=0ahUKEwjcqYOP89nPAhXG1BoKHQhMCb8Q_AUIBigB&quot;&gt;great beards&lt;/a&gt;). It brings with it the familiar sounding adjective “uclidean”. It’s short, but I think it encompasses pretty much what we’re talking about.&lt;/p&gt;
+
+&lt;p&gt;It makes me cringe.&lt;/p&gt;
+
+&lt;p&gt;It’s everything I hate. Forcing a complex concept into a catchy sounding acronym which is at once distracting and overly pleased with itself. Playing on people’s familiarity with another concept. Lending itself a sheen of double-meaning which would only serve only to obscure and mystify what should be a clear and simple.&lt;/p&gt;
+
+&lt;p&gt;I hereby claim it so I can hereby bury it. Forget it. Don’t use it. Run screaming from this blog post and never return (… to this blog post).&lt;/p&gt;
+
+&lt;p&gt;If I see it in the wild I will use this blog post. I will descend upon anyone claiming to have invented it and strip them of their authorship (assuming they didn’t invent it first of course). I will do everything in my power to see that it never catches on (except leaving this blog post unwritten of course).&lt;/p&gt;
+
+&lt;p&gt;Still, it is catchy isn’t it? I’m surprised that no-one thought of it before! ;)&lt;/p&gt;
+</content>
+  </entry>
+  
+  <entry>
+    <title>When the shooting stops...</title>
+    <link href="home_url/when-the-shooting-stops/"/>
+    <updated>2016-10-09T00:00:00+01:00</updated>
+    <id>home_url/when-the-shooting-stops</id>
+    <content type="html"><p></p>&lt;p&gt;I was reading &lt;a href=&quot;https://www.amazon.co.uk/When-Shooting-Stops-Cutting-Begins/dp/0306802724&quot;&gt;this excellent book&lt;/a&gt; recently all about the art of the film editor. It’s an interesting account of one man’s career. It spans a fascinating time in filmmaking and covers in detail the making of some famous and significant films.&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&quot;img-quart-right&quot; src=&quot;/img/2016/shooting.jpg&quot; style=&quot;border:1px solid #ccd&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;It is an insight into a job and into a part of the film industry that I knew little about and there was one part which particularly struck a chord with me.&lt;/p&gt;
+
+&lt;p&gt;In the early days of film, things were different. If a film-maker wanted a character to go from their home to their office they would have lead the audience through the sequence bit by bit. Starting with them in their apartment. Then going out of the front door. Next showing them getting into their car. Then a shot of them driving. Then getting out of their car again. And finally entering in their office building before finally walking into the office.&lt;/p&gt;
+
+&lt;p&gt;This laborious telling of each part of the story was necessary to help audiences understand the action. They weren’t used to the way film cuts worked and may have got lost as the film progressed from scene to scene.&lt;/p&gt;
+
+&lt;p&gt;At a certain point, audiences got more savvy to the way cuts worked. A similar sequence might start with the character rolling over in bed, picking up the phone and listening. The film would then cut straight to them walking into the office. By this time the audience understood the implicit language of film enough to fill in the gaps.&lt;/p&gt;
+
+&lt;p&gt;This new found knowledge on the part of audiences opened up new possibilities. Allowing filmmakers to explore a new type of rhythms in their films.&lt;/p&gt;
+
+&lt;p&gt;It struck me that in web design we have a similar situation around affordances. As times change and technology moves on, people adapt and learn about how those technologies work. New kinds of interactions become the norm. New affordances which would have been bewildering to previous generations become second nature.&lt;/p&gt;
+
+&lt;p&gt;Of course, when designing for a wide and varied audience we need to make sure that those with less experience are not left behind. A challenging film may still be a success in a way that a challenging interface definitely can’t.&lt;/p&gt;
+
+&lt;p&gt;Yet, I think it’s worth remembering that these things are always changing. People are learning all the time to take for granted things they’d have been baffled by before. This means that more than ever we cannot take for granted even the most hard-won experience of what users can or can’t use.&lt;/p&gt;
+
+&lt;p&gt;The task of learning about our users is never ending because our users are always changing. Unless we are in constant contact with the users of our services we cannot assume that we know what they understand or what they can or can’t use.&lt;/p&gt;
+
+&lt;p&gt;Expertise in this area is not a thing you can have and keep. It’s a process. A humbling process at that.&lt;/p&gt;
+</content>
+  </entry>
+  
+  <entry>
+    <title>Bringing Software Development In House</title>
+    <link href="home_url/in-house/"/>
+    <updated>2016-10-05T16:09:52+01:00</updated>
+    <id>home_url/in-house</id>
+    <content type="html"><p>What I'm thinking, when I think about software development, who does it and where it's done.</p>&lt;p&gt;File under: &lt;a href=&quot;/grand-narratives/&quot;&gt;All stories are wrong but some are useful&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;First there was Software and not enough people in organisations understood it. The experts were on the outside so it made sense to outsource Software to them. So Software became something you bought. For the experts it became something you sold, and so salesmen started to play a greater role. It also became something you could profit from and so instead of playing to the strengths of software, the experts played to the strengths of the salesmen and tried to turn software into a product. They sold “solutions” that they’d already built, that they could sell to lots of other people too. They produced software to a specification and got paid when the specification was met and the Software Product was delivered.&lt;/p&gt;
+
+&lt;p&gt;This was not the best for software, and didn’t produce the best software for each situation. Look at the internal systems (intranet, resource management, e-learning) that your organisation probably still uses. It wasn’t tailored to your specific needs. It was bought and people attempted to make it fit, or worse, made people change to fit it.&lt;/p&gt;
+
+&lt;p&gt;Over time a consensus emerged amongst the experts creating software about how to play to software’s strengths. Software is inherently changeable in a way that things like buildings and spoons just aren’t. By playing to that strength you can create tools and services which are far better suited to the needs of the people who are using them. You can tailor your solutions for different situations.&lt;/p&gt;
+
+&lt;p&gt;The trouble with that consensus is that it didn’t work for the salesmen. They still needed ready-made, pre-built solutions that they could sell to customers for a fixed price. What the experts were advocating would mean a messy on-going kind of relationship with the customer, where deliverables were less tangible and where the thing being paid for was less the Software and more just the expertise.&lt;/p&gt;
+
+&lt;p&gt;Luckily at around this time people within organisations were getting to grips more with software. There was less fear around it and people could see a bit more clearly how it could be done. This coupled with the consensus that the experts had built made this a perfect time to start bringing the experts back in house. In this way the experts could be freed from the straightjacket of trying to produce saleable products and could start playing to software’s strengths, and the organisation could start to get software solutions which were tailored more specifically to its needs.&lt;/p&gt;
+
+&lt;p&gt;And so here we find ourselves.&lt;/p&gt;
+
+&lt;p&gt;The trouble is that this change has not been wholesale and is not yet complete. There are still legions of salesmen attempting to sell us ready-mades and there are still a lot of people who’s only experience of software is as a product that must be bought and then accepted with all it’s faults. It is strange to come in on this wave of change and still find the old ways persisting. To be faced with this anachronism not just in the legacy systems but also in ongoing activity.&lt;/p&gt;
+
+&lt;p&gt;The worry is that the change could be slowed or stopped by those with vested interests in the way things were. I’m hoping that won’t happen.&lt;/p&gt;
+</content>
+  </entry>
+  
+  <entry>
+    <title>Howe?</title>
+    <link href="home_url/howe/"/>
+    <updated>2016-09-26T00:00:00+01:00</updated>
+    <id>home_url/howe</id>
+    <content type="html"><p>In 1990 Geoffrey Howe made a speech in The House of Commons which is credited with starting the process of removing Margaret Thatcher from her position as Prime Minister.</p>&lt;p&gt;&lt;img class=&quot;img-half-right&quot; src=&quot;/img/2016/howe.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I was fourteen at the time (she’d been Prime Minister since I was two) so I understood what a momentous occasion it was. Also growing up in a household where Thatcher was reviled there may have been an extra impetus for me to pay attention.&lt;/p&gt;
+
+&lt;p&gt;The speech included this phrase:&lt;/p&gt;
+
+&lt;blockquote&gt;
+“It is rather like sending your opening batsmen to the crease only for them to find, the moment the first balls are bowled, that their bats have been broken before the game by the team captain.”
+&lt;/blockquote&gt;
+
+&lt;p&gt;Being perhaps a bit too uninterested to have paid attention to the nuances of what he was saying, it was that phrase I remember most. It was also probably the most media friendly soundbite which got it replayed often on the TV afterwards. Either way the idea of it is something that has stuck with me.&lt;/p&gt;
+
+&lt;p&gt;I remember it because it clearly conveys the idea and is memorably ridiculous to boot. Why would the team captain brake the bats of their own team? The opposing captain perhaps but not the batsmen’s own captain? How could you end up in the situation where that was possible?&lt;/p&gt;
+
+&lt;p&gt;Of course the team captain could have chosen to betray their team and have acted to sabotage them. Maybe, but I think that’s unlikely to be the case very often. It’s too dramatic. I think what’s more likely is that the team captain still thought that what they were doing was actually helping. In their heads breaking the bats was somehow the right thing to do!&lt;/p&gt;
+
+&lt;p&gt;How could they have ended up thinking that? Perhaps because their thinking had become detached from reality? Insanity had taken hold? Maybe. Again, I think reality is more mundane. I think more likely they had simply lost track of anyone else’s needs but their own.&lt;/p&gt;
+
+&lt;p&gt;They’d forgotten to think about the batsmen at all. Forgotten to think about what it’s like to be a batsman and what a batsman needs to get their job done.&lt;/p&gt;
+
+&lt;p&gt;I think the main reason that Thatcher was reviled in our house was because whilst she may have had a clear sense of how she felt the world should be run, her actions appeared to lack empathy for the lives of the people that those ideas effected.&lt;/p&gt;
+
+&lt;p&gt;It’s interesting to me that Geoffrey Howe seemed to be pointing out similar lack of empathy for those that she worked with (at least in this case).&lt;/p&gt;
+
+&lt;p&gt;If there isn’t a basic empathy between people at different levels of a company then those higher up are increasingly likely to make ridiculous decisions like this. It won’t be because of insanity or sabotage; it’ll be because somehow in their view these decisions make sense.&lt;/p&gt;
+
+&lt;p&gt;Maybe they feel like they have a broader view or a higher perspective. So they feel like they’re helping when what they’re actually doing is breaking your bats.&lt;/p&gt;
+
+&lt;p&gt;I try to remember this as a way to help me maintain empathy myself. Empathy for those people and understanding for what might have brought them to these decisions.&lt;/p&gt;
+
+&lt;p&gt;Sometimes though, empathy is hard.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+Please note: I don't want you to think this is a veiled attack on an individual. There is no one &quot;Thatcher&quot; in my personal situation. The thing I was grappling with is that strange feeling of being sabotaged from somewhere above and attempting understand how and why that might happen.
+&lt;/blockquote&gt;
+</content>
+  </entry>
+  
+  <entry>
+    <title>The Sneetches</title>
+    <link href="home_url/the-sneetches/"/>
+    <updated>2016-09-11T00:00:00+01:00</updated>
+    <id>home_url/the-sneetches</id>
+    <content type="html"><p>In which I discover a three year old meme and get all pedantic about it as an excuse to write a long post about one of my favourite Dr Seuss books.</p>&lt;p&gt;The other day I saw &lt;a href=&quot;http://imgur.com/a/rfofh&quot;&gt;this page&lt;/a&gt; showing a load of Dr Seuss book covers where the underlying subtext was made plain on the front cover. It’s funny. Partly because these are children’s books and so the overly wordy and complex sounding titles jar the intended audience and partly because there’s a feeling of left-wing satisfaction that yes, those are the values subtly being imparted to children here and yes, the world is a better place for it. Hurrah!&lt;/p&gt;
+
+&lt;p&gt;Reading the list I was chuckling away to myself and then I found myself looking at the cover of my favourite ever Dr Suess book The Sneetches and Other Stories. I remember being read it as a child, and I now chose to read it to my kids at any available opportunity. So much so it’s become a bit of a running joke. Oh no, not that again.&lt;/p&gt;
+
+&lt;p&gt;Yes this again! It’s great. Shut up and listen or its early bedtime for you!&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&quot;img-quart-right&quot; src=&quot;/img/2016/sneetches.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Yet looking at it’s treatment here I was surprised. Instead of the aforementioned overly wordiness this one was quite short “The Racists”. But that’s not what it’s about, I thought, and the more I thought about it the more it bothered me. I think because what I feel is going on in this book is much more complex than just “racism is bad” and actually that’s why it’s my favourite.&lt;/p&gt;
+
+&lt;p&gt;Yes, The Sneetches seems at first to describe a situation analogous to racism. Two very similar types of creature, separated by a small difference in appearance, live segregated lives because one set ostracises the other because of that difference. Some sneetches have stars on their belly some don’t.&lt;/p&gt;
+
+&lt;blockquote&gt;
+Aside: rhyming “stars” with “thars” as in “the plain belly sneetches had none upon thars” is probably my favourite example of Dr Seuss's brilliantly blase attitude to neologism in aid of making a rhyme work.
+&lt;/blockquote&gt;
+
+&lt;p&gt;However, then “a stranger drove up in the strangest of cars” and this is where the story changes. This new guy is called McBean and he’s an inventor, an entrepreneur and he has a solution. He has a machine which will put belly stars onto plain bellied sneetches thereby rendering the whole star-apartheid situation moot. In fact, rendering any comparison to racism moot. People can’t change their race but here we have a character offering to allow the sneetches the chance to change. So could Dr Seuss really be taking aim at racism?&lt;/p&gt;
+
+&lt;p&gt;Now you may be thinking what a wonderful fellow this McBean is, helping out like this. But no, he’s not doing this out of the kindness of his heart he’s doing it for cash. So he charges the plain bellies five dollars a pop to go through the machine. Again you may think, fair enough, the man should be rewarded for his invention and his initiative, he’s still done a good thing.&lt;/p&gt;
+
+&lt;p&gt;But no. As soon as the problem is solved he creates it again by offering the use of a new machine to remove the stars from the bellies of those who “had stars at start” allowing them to reclaim their pole position in society by reversing the rules. “To be wearing a star now was frightfully bad”. Then having solved that problem he again turns the tables by offering the first group the chance to revert back to their non-starred state, again for a price.&lt;/p&gt;
+
+&lt;p&gt;“And then” Dr Seuss says “as you can probably guess, things really got into a horrible mess”.&lt;/p&gt;
+
+&lt;p&gt;The price keeps going up, the sneetches keep racing through, until all of their money is gone at which point McBean packs up and leaves. Laughing.&lt;/p&gt;
+
+&lt;p&gt;You see, if the story was about racism then the sneetches wouldn’t have been able to change, but by introducing that possibility Dr Seuss shows us that racism isn’t his target here.&lt;/p&gt;
+
+&lt;p&gt;His real target is the kind of entrepreneurial consumerism which preys on the fears we have of being ostracised by our peers for exactly the kind of trivial reason found at the start of the story, and which then, by offering some supposed solution extracts our money, only to quickly move the goalposts and extract even more money as we try keep up.&lt;/p&gt;
+
+&lt;p&gt;The cosmetics industry, the fashion industry, the personal hygiene industry, the trainers industry, the car industry and maybe mostly  nowadays the technology industry. Any industry that attaches status to something they’re selling and which changes rapidly in order to keep demand high and keep consumers on their toes.&lt;/p&gt;
+
+&lt;p&gt;Dr Seuss in this book is taking aim at the very idea that people should be judging each other on what clothes, makeup, deodorant, footwear, car, or mobile phone, iPod, laptop, they own. He’s showing how ridiculous those kind of judgements are and how they leave us open to being exploited by unscrupulous businesses who only want to profit from our insecurities.&lt;/p&gt;
+
+&lt;p&gt;It’s a much more complex idea than simply “we should treat all people equally”.&lt;/p&gt;
+
+&lt;p&gt;This is why it’s my favourite Dr Suess. He’s managed somehow to condense one of the most tricky aspects of modern life, one which we all struggle with, one which if anything is getting worse as time goes by, into a brilliantly simple fable.&lt;/p&gt;
+
+&lt;p&gt;I want my kids to learn this lesson. I want them to recognise how ridiculous are most of the ways we differentiate ourselves from each other, but more than this I really want them to look out for and recognise characters like McBean.&lt;/p&gt;
+
+&lt;p&gt;In the end It’s only when “every last cent of their money was spent” that the sneetches realise the error of their ways, and so in the end Dr Seuss makes it clear: money was at the heart of this story and it’s moral.&lt;/p&gt;
+</content>
+  </entry>
+  
+  <entry>
+    <title>Curiosity, Enthusiasm &amp; Optimism</title>
+    <link href="home_url/curiosity_enthusiasm_optimism/"/>
+    <updated>2016-09-04T00:00:00+01:00</updated>
+    <id>home_url/curiosity_enthusiasm_optimism</id>
+    <content type="html"><p>How important is it that everyone in agile teams has a high level of skill, experience or seniority? Not very important at all.</p>&lt;p&gt;In a multi-disciplinary team, you’re very unlikely ever to get the whole team to be on exactly the same level in terms of experience. I was thinking recently that in this environment experience isn’t actually the most important factor in terms of contribution.&lt;/p&gt;
+
+&lt;p&gt;Of course, an experienced person will perhaps bring more in certain areas and will maybe be able to contribute in a wider range of activities. But it’s the team as a whole that matters and the experience of individual members is less important.&lt;/p&gt;
+
+&lt;p&gt;What is important is that every member of the team displays certain characteristics regardless of their experience. This is what makes the difference between a well-functioning team who are able to work together, solve problems and create great services and those who can’t.&lt;/p&gt;
+
+&lt;h2 id=&quot;curiosity&quot;&gt;Curiosity&lt;/h2&gt;
+
+&lt;p&gt;Curiosity is the first thing. Without this you are just going through the motions, turning up for work and doing what’s asked of you.&lt;/p&gt;
+
+&lt;p&gt;A lot of people work this way, particularly in large hierarchical organisations. Waiting for a line manager (or someone else more senior) to ask them to do something and then getting that one thing done as painlessly as possible.&lt;/p&gt;
+
+&lt;p&gt;The opposite of that is someone who is curious. Someone who sees the problems around them and wonders about them. Wonders why they exist and wonders how they might be solved. This kind of person listens intently to users and colleague alike. They try to interpret what they hear and draw lessons from it. Then they invent ways to find out more.&lt;/p&gt;
+
+&lt;p&gt;In agile projects all members of the team have permission and the responsibility to discover and solve problems. Curiosity is what drives us to continue learning that’s what drives all our progress.&lt;/p&gt;
+
+&lt;h2 id=&quot;enthusiasm&quot;&gt;Enthusiasm&lt;/h2&gt;
+
+&lt;p&gt;Where curiosity is the desire to learn, enthusiasm is about your drive to be active. In agile projects activity is what’s needed. Agile reduces the need to worry about making mistakes by putting the emphasis on learning and quickly iterating. We learn by doing. If you’re not doing you’re not learning.&lt;/p&gt;
+
+&lt;p&gt;In some organisations, people often insulate themselves from making costly mistakes by finding ways to avoid activity. Whole areas of business evolve whose sole purpose seems to be inertia. A lot of people are very used to this way of working, but it’s the opposite of what we need in agile.&lt;/p&gt;
+
+&lt;p&gt;Enthusiasm for what you’re doing means you’re more likely to want to do it, rather than sit and wait for instructions or permission. Enthusiasm is what will turn your curiosity into positive action.&lt;/p&gt;
+
+&lt;h2 id=&quot;optimism&quot;&gt;Optimism&lt;/h2&gt;
+
+&lt;p&gt;Which brings me to optimism. Whilst enthusiasm is great we have to accept that it’s only sustainable if you feel it isn’t wasted.&lt;/p&gt;
+
+&lt;p&gt;Of course, the learning culture of agile means that as long as you’re discovering new things you’re not entirely wasting your time, but the other side of that coin is that we need to feel those learnings are contributing to something purposeful. This is where the optimism comes in. You have to believe that things can change for the better, that the things we’re finding out are going to make a difference.&lt;/p&gt;
+
+&lt;p&gt;It is very easy for someone who’s worked in an organisation for years to get into a “t’was always thus” kind of mentality. Undermining attempts to improve things that are, in their view, always doomed to failure. It’s also common for people to build up cynicism about the intentions of users or their colleagues, allowing &lt;a href=&quot;https://en.wikipedia.org/wiki/Availability_heuristic&quot;&gt;availability bias&lt;/a&gt; to paint them as stupid, lazy or even dishonest.&lt;/p&gt;
+
+&lt;p&gt;Being optimistic means that you can always see the potential to make things better, you’ll expect change to be possible and that the people involved will mostly be hard-working, conscientious and honest. Most importantly it’ll mean you &lt;a href=&quot;https://twitter.com/BenHolliday/status/677525549498155008&quot;&gt;keep going&lt;/a&gt;.&lt;/p&gt;
+
+&lt;hr class=&quot;break&quot; /&gt;
+
+&lt;p&gt;It’s easy to get bogged down in levels of experience or seniority. Hierarchies embed a strong sense of place — and by implication worth — in people. I think one of the great opportunities of agile is to sweep away those old, often arbitrary, distinctions and replace it with something where the unit of performance is more often the team than the individual.&lt;/p&gt;
+
+&lt;p&gt;If you want to really see a person’s worth to an agile team look at how curious, enthusiastic and optimistic they are. People with those characteristics will be contributing and making a different no matter what their level of seniority or experience.&lt;/p&gt;
+</content>
+  </entry>
+  
+  <entry>
+    <title>In Praise Of Reinventing The Wheel</title>
+    <link href="home_url/reinventing-the-wheel/"/>
+    <updated>2016-08-22T00:00:00+01:00</updated>
+    <id>home_url/reinventing-the-wheel</id>
+    <content type="html"><p></p>&lt;p&gt;“We must find ways to reuse this stuff” people say. “We don’t want people reinventing the wheel.” Other people hear this and they nod sagely. That’s right, they think, nobody should reinvent the wheel. That would be inefficient.&lt;/p&gt;
+
+&lt;p&gt;But what about when there are no wheels?&lt;/p&gt;
+
+&lt;p&gt;When there are no wheels you really need someone to invent the wheel. When someone is inventing a wheel at this point you want them to get on and invent it as soon as they bloody well can. Because you need wheels.&lt;/p&gt;
+
+&lt;p&gt;Say you find a second person busy inventing a wheel. Maybe you realise you have the opportunity to create An Efficiency. You leap in. “Hey!” you say. “Don’t invent that wheel, there’s someone over there already doing it! Wait a bit and you’ll be able to reuse that one. After all… you don’t want to reinvent the wheel.”&lt;/p&gt;
+
+&lt;p&gt;At this the second person will stop inventing their wheel. It’s clear to them that reinventing the wheel would be a bad thing to do and they don’t want to waste their time. In fact, so pleased are they with this new knowledge they start to spread it far and wide. “Did you hear?” they say. “There’s some person inventing a wheel. So you don’t need to!”.&lt;/p&gt;
+
+&lt;p&gt;Nobody wants to reinvent the wheel. So people stop inventing wheels all over.&lt;/p&gt;
+
+&lt;p&gt;Then someone says “When will this wheel be invented? I really need a wheel by next Sunday”.&lt;/p&gt;
+
+&lt;p&gt;Well, Sunday comes and the first person hasn’t invented the wheel yet. That’s a shame because this Sunday guy misses his deadline and is stuck with a wheel-less thing that doesn’t work properly. He thinks about inventing his own wheel, but now he’s further behind and the idea that a wheel might be right on the horizon seems like one way he could claw back some time. He decides to wait for the first person to invent the wheel.&lt;/p&gt;
+
+&lt;p&gt;In the meantime as word spread people have been inundating the wheel inventor with feature requests for the wheel. Things to make it more useful for their particular needs. They’ve also been worrying vocally about whether it’ll be good enough, safe enough or durable enough. This makes things quite hard for the inventor because they’re trying to juggle their own reasons for inventing a wheel, against these differing demands. Some of the demands even contradict each other!&lt;/p&gt;
+
+&lt;p&gt;The pressure to meet all these demands means that the invention of this wheel is taking a long time. There’s a lot hanging on this wheel now and there’s an increasing number of people waiting in increasing states of impatience because they were told there would soon be a wheel.&lt;/p&gt;
+
+&lt;p&gt;“Where’s our wheel?” they shout.&lt;/p&gt;
+
+&lt;p&gt;The wheel inventor is finding it harder than they originally thought. Deadlines slip. Promises are broken. The pressure grows. Then, one day, they realise that for their particular problem they could get around the need for a wheel by using some existing stuff they already have.&lt;/p&gt;
+
+&lt;p&gt;“Sorry everyone” they say. “I’ve realised I don’t need a wheel anymore. So the invention of the wheel will be put on hold indefinitely”.&lt;/p&gt;
+
+&lt;p&gt;“What?!?” says everyone.&lt;/p&gt;
+
+&lt;p&gt;Imagine the alternative to this situation. Where each person who needed a wheel invented their own. How might that play out?&lt;/p&gt;
+
+&lt;p&gt;For a start you’d end up with a bunch of different wheels. This might be hard if you were trying to plan what material to make your roads out of, or if you were trying to train up a number of wheel-repair people. You might find that this proliferation of different wheels had knock-on effects to a number of other vehicle components. Different axles, different gears etc etc. In short an efficiency nightmare!&lt;/p&gt;
+
+&lt;p&gt;What you would have though is a load of people with wheels. Those people would be using those wheels to make their life better. They’d be building upon those wheels, getting around quicker on bicycles, carrying heavy loads with wheelbarrows, powering mills with water wheels. Most importantly though (more important than anything else) people would be learning. Learning about what it’s like to live in a world of wheels. Learning how having wheels changes things. Even learning what problems wheels cause.&lt;/p&gt;
+
+&lt;p&gt;Yes, wheels will cause problems as well as solve them. But the sooner people know what those problems are the sooner they can start to solve them too!&lt;/p&gt;
+
+&lt;p&gt;The issue here is not that reinventing the wheel is a good thing. The issue is that inventing stuff and standardising stuff for reuse are separate activities. When things don’t exist you need to encourage invention. Once your world is full of wheels that’s when you want to start standardising and encouraging reuse. At that point you’re going to have a lot of knowledge of wheels to draw on. In fact that’s the only time when you have enough knowledge about wheels to even think about creating the ultimate uber-wheel that will work for everyone.&lt;/p&gt;
+
+&lt;p&gt;What you really need at that point is a way for all the best practise around wheels to float to the top. It’s not wheel sharing, its knowledge sharing that matters. Then you can cream that wonderful knowledge off and go away (separately) and create the most wonderful multi-purpose wheel the world has ever seen. A wheel so good that anyone needing a wheel from that point on would be stupid not to use it.&lt;/p&gt;
+
+&lt;p&gt;From then on even those people who had previously used their own wheels will start to move towards using yours. It won’t happen straight away but your new super-duper wheel will be so good that they’ll start to chose to use it instead of their own.&lt;/p&gt;
+
+&lt;p&gt;It’s at this point that you’ll start to achieve the efficiencies you wanted but this is only possible because of all the learning you’ve done along the way.&lt;/p&gt;
+
+&lt;p&gt;The problem that needs to be solved is the knowledge sharing part. Knowledge sharing of this type is hard. It doesn’t just mean writing or talking about wheels. It requires analysis, documentation and discussion. It requires cooperation, organisation and discipline. It also requires well informed decision making by leaders who are also experts.&lt;/p&gt;
+
+&lt;p&gt;It’s a complex problem and doesn’t have that immediate easy-to-grasp appeal of the phrase “We shouldn’t reinvent the wheel”.&lt;/p&gt;
+
+&lt;p&gt;So next time you hear someone opine “We really shouldn’t be reinventing the wheel” ask yourself, how many wheels do we currently have? Would a few people reinventing this particular wheel possibly be a good thing?&lt;/p&gt;
+</content>
+  </entry>
+  
+  <entry>
+    <title>Interaction Design</title>
+    <link href="home_url/interaction-design/"/>
+    <updated>2016-08-18T19:00:48+01:00</updated>
+    <id>home_url/interaction-design</id>
+    <content type="html"><p></p>&lt;p&gt;For me the purpose of design is clarity. For interaction design it’s enabling a user to clearly understand what they can do with this thing you’ve given them. This is different from other forms of design where the user is more a passive recipient.&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&quot;img-full&quot; src=&quot;/img/2016/hammer.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;If the user plays an active part in the process then what you’re basically creating is a tool. The user should be in charge of how and when they use that tool. Your job is to make it crystal clear what the tool can do and how they can use it. Whether that’s an application, a website, or even a game the point is that people should be able to use the thing to get the outcome they want.&lt;/p&gt;
+
+&lt;p&gt;Persuasion isn’t part of this. Persuasion takes the control out of the user’s hands and places it in the hands of the creator. It assumes the creator knows better than the user what they want, or how they should act. When it comes to tools the user should always be in control. For better or worse it’s not the place of the designer to step in the way of that.&lt;/p&gt;
+
+&lt;p&gt;Obviously in real life things are complicated and a user can be an active participant and passive recipient of design almost simultaneously. All information has an agenda and bringing clarity to that (in whatever way) will always be serving that agenda. However, I think it’s important to try and separate these two things as far as possible to understand what kind of design should be prioritised in each circumstance.&lt;/p&gt;
+
+&lt;p&gt;To make a tool harder to use for everyone because a small number of people might misuse it isn’t the answer. There are other ways to solve those problems.&lt;/p&gt;
+
+&lt;p&gt;Interaction design should always seek to empower the user.&lt;/p&gt;
+</content>
+  </entry>
+  
+  <entry>
+    <title>But Beautiful</title>
+    <link href="home_url/but-beautiful/"/>
+    <updated>2016-08-18T00:00:00+01:00</updated>
+    <id>home_url/but-beautiful</id>
+    <content type="html"><p></p>&lt;p&gt;Over the holiday I read a book called &lt;a href=&quot;https://www.amazon.co.uk/dp/B007NXZI7C/ref=dp-kindle-redirect?_encoding=UTF8&amp;amp;btkr=1&quot;&gt;But Beautiful&lt;/a&gt; by Geoff Dyer. It’s a book about jazz. Well, it’s a book about people who played jazz, back when jazz was just starting out, being invented. It’s an amazing book.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.amazon.co.uk/dp/B007NXZI7C/ref=dp-kindle-redirect?_encoding=UTF8&amp;amp;btkr=1&quot;&gt;&lt;img class=&quot;img-half-right&quot; src=&quot;/img/2016/butbeautiful.jpg&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;The book consists of a number of stories about a number of characters from the early days of jazz. Episodes from their life or incidents that happened to them. But they aren’t necessarily true stories. Dyer has taken a few facts and existing anecdotes and he’s woven fictional accounts around those. The point being not to relate the facts but to provide Dyer with a kind of extended metaphor within which he can explore ways to tell you not only about the person themselves but also their music.&lt;/p&gt;
+
+&lt;p&gt;It’s a wonderful idea but also with it’s emphasis on invention and improvisation around it’s subject this approach is deliciously well suited to a book about jazz, an art form which revels in both those things.&lt;/p&gt;
+
+&lt;p&gt;Of course a brilliant concept would be nothing if it wasn’t executed well and fortunately Dyer is a phenomenal writer who seems to effortlessly juggle various themes and styles throughout. Each story has a different tone and structure. They’re all memorable in their own ways and notable for the way that the slightly different approach he takes with each gives you a different feeling which you sense is telling you more about the music than a straight description ever could.&lt;/p&gt;
+
+&lt;p&gt;The text is peppered with the kind of wonderful detail which brings each story to life and being fiction allows Dyer to flesh out all the characters (not just the protagonist) with far more depth and a straight recounting would have allowed.&lt;/p&gt;
+
+&lt;p&gt;The stories themselves, like the lives they depict are mostly incredibly sad. The toll that life took in various ways on these performers is rendered with heart breaking clarity, and yet their importance and their achievement shines through.&lt;/p&gt;
+
+&lt;p&gt;Listening to music is never just about what you’re hearing. Your ideas and preconceptions about the singers or musicians always play a part. By approaching his subject in this way Dyer acknowledges that the music these people made is linked inextricably to the lives they led. The stories (or legends) associated with those lives can play a vital part in helping you to appreciate not only the people but the music too.&lt;/p&gt;
+
+&lt;p&gt;It’s funny to think that when the book was published in 1991 there would have been no Spotify for readers to rush to upon completing it. I was delighted to return from holiday and start looking up these names. Listening for whether the recordings themselves showed the same qualities Dyer had described, and trawling Google Images &amp;amp; YouTube for grainy footage of these musicians.&lt;/p&gt;
+
+&lt;p&gt;I’ve never been a fan of jazz particularly and I’m not sure that this book will turn me into one, however, it is remarkable achievement. The sheer quality of the writing, the brilliance of the over-arching idea and the skill of it’s execution makes it one of the best books I’ve read.&lt;/p&gt;
+</content>
+  </entry>
+  
+  <entry>
+    <title>Grand Narratives</title>
+    <link href="home_url/grand-narratives/"/>
+    <updated>2016-06-29T00:00:00+01:00</updated>
+    <id>home_url/grand-narratives</id>
+    <content type="html"><p></p>&lt;p&gt;I’m a big fan of a &lt;a href=&quot;http://www.newworldencyclopedia.org/entry/Metanarrative&quot;&gt;grand narrative&lt;/a&gt;. But being a good postmodernist (not to mention feminist) I know that they’re not to be trusted. Which is a shame because they’re satisfying little buggers (or big buggers I should say).&lt;/p&gt;
+
+&lt;p&gt;A grand (or meta) narrative gives you a lovely logical-sounding story to hang your understanding upon. A nice string of cause and effect which simply and neatly explains things in a way which makes perfect sense (or seems to). This is why they are so alluring and it’s so tempting to believe them.&lt;/p&gt;
+
+&lt;p&gt;The trouble is that nothing is ever really that simple. The complexities of the world and the contingent dependencies of life mean that very rarely does cause and effect line up in such a neat and easy-to-track way. There’s always something else going on, some other factors at play. In short, things are never that simple.&lt;/p&gt;
+
+&lt;p&gt;However, with that pinch of salt firmly in place, it’s still possible to enjoy the both the stories of others and the act of creating them yourself. It is often fun to try and piece things together into a logical order and there’s nothing better than being presented with a simple elegant explanation of something you otherwise regard as impossibly complex. Even when you know that that simplicity has mostly likely been won at the expense of truth.&lt;/p&gt;
+
+&lt;p&gt;Conspiracy theories fit into that category. I certainly don’t believe most of the ones I’ve heard but there is something fascinating in what they say about the people who tell them, and what the enjoyment of them says about me. I’ve &lt;a href=&quot;magic-conspiracy-theories/&quot;&gt;written (and spoken)&lt;/a&gt; previously about some of the ways I think they work.&lt;/p&gt;
+
+&lt;p&gt;The work of &lt;a href=&quot;http://www.bbc.co.uk/blogs/adamcurtis&quot;&gt;Adam Curtis&lt;/a&gt; is also something I’d put in here. Although he sometimes drifts into vagueness and self-parody at his best he presents what seems like a beautiful string of related  cause and effect which although simplistic is also illuminating. When he traces the link from Game Theory through to Thatcherism I find myself far more interested in each step because of the way each leads to the next than if I’d have found them all out separately.&lt;/p&gt;
+
+&lt;p&gt;The statistician George Box once said “&lt;a href=&quot;https://en.wikipedia.org/wiki/All_models_are_wrong&quot;&gt;All models are wrong but some are useful&lt;/a&gt;” which like and I think also applies to stories. We tell stories for all sorts of reasons, we don’t necessarily have to believe them as fact to get something out of them and they don’t need to be 100% true in every detail for them to help us understand something.&lt;/p&gt;
+
+&lt;p&gt;I think also story telling in this way can be a form of empathy. Attempting to make sense of the situation (especially one created by people) is a way to understand the reasons and the influences that caused those people to act in the way they did. When attempting to make sense of seemingly incoherent decisions, the ability to tell a convincing story about why they might have happened means you can deal with those things (and those people) with more compassion and understanding.&lt;/p&gt;
+
+&lt;p&gt;You may have been brought here by a link from another blog post I’ve written. Apart from being something I’m interested in, in it’s own right, this is also a big disclaimer. Maybe I wrote a thing which is a bit simplistic, and most likely doesn’t get everything right, but maybe I wrote it because it helps me explain something else, or just because I enjoyed trying to piece together a cogent story, even whilst realising it wasn’t the complete picture.&lt;/p&gt;
+
+&lt;p&gt;If I got it wrong that’s fine. Let me know. Maybe I can improve it. Maybe I won’t though. Sometimes a good story is an end in itself.&lt;/p&gt;
+</content>
+  </entry>
+  
+  <entry>
+    <title>Links</title>
+    <link href="home_url/links/"/>
+    <updated>2016-03-27T00:00:00+00:00</updated>
+    <id>home_url/links</id>
+    <content type="html"><p></p>&lt;p class=&quot;standfirst&quot;&gt;What are links? When we say “link” we think of two things connected together. On the web we think of links taking us to different pages or sites but in fact they don't really connect those pages.&lt;/p&gt;
+
+&lt;p&gt;A link on a website works more like a sign post. “Hey”, it says “look over there at that thing”. The link, in terms of a connection,  is in the heads of the author and viewer. We assume that a link will signpost us towards something that’s connected in some way.&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&quot;img-half-right&quot; src=&quot;/img/2016/network.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;When we picture the internet we think of a network of linked documents. Only actually those links aren’t two way things they’re signposts. The direction of travel is always the same.&lt;/p&gt;
+
+&lt;p&gt;Of course this is no revelation. &lt;a href=&quot;https://en.wikipedia.org/wiki/PageRank&quot;&gt;Google’s search algorithm&lt;/a&gt; since the start was based on tracing back those links and assigning meaning to them.&lt;/p&gt;
+
+&lt;p&gt;Anyone who’s ever poured over &lt;a href=&quot;https://en.wikipedia.org/wiki/HTTP_referer&quot;&gt;referrer logs&lt;/a&gt; has understood the power of looking at links from the opposite direction.&lt;/p&gt;
+
+&lt;p&gt;Before social media, when the blog was king, &lt;a href=&quot;https://en.wikipedia.org/wiki/Trackback&quot;&gt;trackbacks&lt;/a&gt; were invented as a way to make obvious on destination pages the different incoming links that existed on other blogs.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://interconnected.org/home/&quot;&gt;Matt Webb&lt;/a&gt;, a long time ago, created a little experiment called &lt;a href=&quot;http://interconnected.org/home/2006/08/24/dirk_is_back&quot;&gt;Dirk&lt;/a&gt; (after the &lt;a href=&quot;https://en.wikipedia.org/wiki/Dirk_Gently&quot;&gt;Douglas Adams character&lt;/a&gt;) which attempted to treat links more like links. Instead of creating a sign post you created actual links. They took the form “X is connected to Y because…” which meant that they consisted of 3 things. First the two things that were linked and secondly the link itself, explained.&lt;/p&gt;
+
+&lt;p&gt;What I like about this is that the link is an entity in itself. Not just the result or implication of signposting. It exists in its own right. I think this changes the nature of the relationship in a important way, but also opens up the potential for a different kind of experience.&lt;/p&gt;
+
+&lt;p&gt;When I was working on the &lt;a href=&quot;http://pararchive.com/&quot;&gt;Pararchive&lt;/a&gt; (latterly &lt;a href=&quot;http://yarncommunity.com/&quot;&gt;Yarn&lt;/a&gt;) project, this was an idea we toyed with for a while. We wanted to allow users to link up disparate things to tell stories about them. My thought then was that instead of creating implied links through grouping or sequencing items we could make the links explicit and even the main focus of story-telling. I still think this idea has legs although I think that creating a user interface which clearly and satisfyingly makes use of this is a challenge.&lt;/p&gt;
+
+&lt;p&gt;I think there’s something in this though. I imagine some tool that’s something like Dirk crossed with a Wiki. Something that allows the creation of web pages quickly and easily but where as well as creating inline hyperlinks there are also ways of creating explicit stand-alone links to connect these page to one another page and with some kind of explanation of the connection.&lt;/p&gt;
+
+&lt;p&gt;My thought here is that in practice this would open up a much more organic form of information architecture. One where as well as tracing the edit history of the page (à la wikis) you could also trace the number of incoming links (à la Google) and use these to guide people through the content itself. You could track the number of times links were followed where usage would somehow strengthen and neglect weaken them. Perhaps instead of categories and tags we’d have links to canonical pages which expressed those ideas but with the added benefit of those pages being linkable in themselves.&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&quot;img-quart-left&quot; src=&quot;/img/2016/scratch-head.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;To be honest I’m not entirely sure about all this. I’m not sure the whole idea wouldn’t actually collapse under it’s own weight if pressed any further. However, it’s been an idea I’ve had rattling around my head for a while. So now here is it, out of my head, maybe now I’ll be able forget it? Or maybe I’ll go and try and build it.&lt;/p&gt;
+
+&lt;p&gt;Stay tuned to find out!&lt;/p&gt;
+</content>
+  </entry>
+  
+  <entry>
+    <title>Brendan Dawes at #govdesign</title>
+    <link href="home_url/brendan_dawes/"/>
+    <updated>2016-03-15T00:00:00+00:00</updated>
+    <id>home_url/brendan_dawes</id>
+    <content type="html"><p></p>&lt;p&gt;Last week I went to a cross-government design meeting in the amazing &lt;a href=&quot;https://en.wikipedia.org/wiki/North_of_England_Institute_of_Mining_and_Mechanical_Engineers&quot;&gt;North of England Institute of Mining and Mechanical Engineers&lt;/a&gt; building in Newcastle. Amongst the usual updates and talks about specific projects we heard from &lt;a href=&quot;http://www.brendandawes.com/&quot;&gt;Brendan Dawes&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&quot;img-half-right&quot; src=&quot;/img/2016/dawes-sm.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;A successful designer with a flair for visually impressive digital artworks he seemed like a strange choice of speaker to a group of designers who, whilst no doubt having an interesting and important job on their hands, have little or no opportunity for the colourful, whimsical and playful flights of fancy that he tends to go in for.&lt;/p&gt;
+
+&lt;p&gt;Were they trying to bait us?&lt;/p&gt;
+
+&lt;p&gt;Maybe. But whilst pangs of jealousy were in evidence it was also interesting to see how much similarity there was between his individual practice and our group endeavours.&lt;/p&gt;
+
+&lt;p&gt;First his approach to work was clearly agile in all but name. Starting quickly. Prototyping something “ugly” which is “just there to be criticised” and improved upon. Moving quickly on. Ditching bad ideas and replacing them with better ones. Keeping the work fluid as far as possible.&lt;/p&gt;
+
+&lt;p&gt;Although he professed ignorance of agile there is a clear similarity there and really it’s not surprising to find a man who has carved a niche for himself in the digital world naturally utilising the key benefits of his medium in the same way that agile does.&lt;/p&gt;
+
+&lt;p&gt;More interesting for me though was the idea of his “digital cupboard”.&lt;/p&gt;
+
+&lt;p&gt;I remember Brendan Dawes from my Flash days. He used to create loads of cool little experiments online. I used to think: Where does he find time?&lt;/p&gt;
+
+&lt;p&gt;It’s clear though that all those things (and no doubt more besides) now form a panoply of ideas, techniques, reusable doodads, that he can draw on and throw at any problem put in front of him. Combining, recombining and adding things to meet new demands. These are the contents of his digital cupboard.&lt;/p&gt;
+
+&lt;p&gt;Thinking about how great it would be to have such a back catalogue it struck me that this is actually the same thing we’re doing in government. When we share patterns and techniques; when we’re attempting to create communities around specialisms. The aim is to solve future problems by combining the good ideas we’ve had in the past. Only rather than living in the head (and laptop) of a single man we need it to be shared across the collective brain of government.&lt;/p&gt;
+
+&lt;p&gt;One of the best tools for doing this kind of thing online is clearly a wiki. The brain-like structure of links and connections and the potential for a kind of organic growth and development makes wikis ideal for sharing and organising knowledge. Not surprising then that one if the main places we attempt to create this currently is on &lt;a href=&quot;http://designpatterns.hackpad.com/&quot;&gt;hackpad&lt;/a&gt;. It seems that soon the lease will be up on that particular tool and so what better time to be thinking about this in a new kind of way.&lt;/p&gt;
+
+&lt;p&gt;Maybe by thinking about how we can best create our own “digital cupboard” we can redefine what tools and practises best suit our needs in the future.&lt;/p&gt;
+</content>
+  </entry>
+  
+  <entry>
+    <title>Communication is the only problem</title>
+    <link href="home_url/communication/"/>
+    <updated>2016-03-07T00:00:00+00:00</updated>
+    <id>home_url/communication</id>
+    <content type="html"><p></p>&lt;p class=&quot;standfirst&quot;&gt;The only problem we have is communication but the problem we have with communication isn’t as important as the problem we have understanding that we have a problem with communication.&lt;/p&gt;
+
+&lt;p&gt;Language evolves, whether on a historical timescale or on the very short timescale of a project or piece of work. In an &lt;a href=&quot;http://www.agilemanifesto.org/&quot;&gt;agile&lt;/a&gt; environment we work on small multidisciplinary teams where we spend most of our time “in the room” with each other. This creates a really good working environment where communication can happen quickly and easily and where talking to each other frequently is a core part of the discipline. It also creates an environment where the language we use can start to evolve. This can be both good and bad.&lt;/p&gt;
+
+&lt;p&gt;Being a multidisciplinary team means we all have different specialisms and skills. This can mean that when we talk to each other we aren’t always clear. Sometimes this is easy to spot simply because the things people say sound so strange. If a developer talks about “bouncing tomcat” she’s probably not talking about cruelty to animals; if she mentions “optimising our jenkins deployment” she’s probably not talking about upgrading her butler’s jetpack. These are easily noticed and can (hopefully) be explained to those whose with less experience. As part of that explanation team members learn what words best get the message across and so those terms which work best are adopted and used more frequently.&lt;/p&gt;
+
+&lt;p&gt;At other times though confusion is not so easy to spot even within a team. When the words that different people use don’t sound so crazy and in fact sound like they make sense. A slight difference in the usage of a word can be lost and often in these situations teams can continue merrily working away oblivious to the confusion until the issue is forced into the open (usually by something bad happening). These problems stem from the fact that we don’t always have the words to describe what we’re talking about. We reach for something that’s close-enough but often our instinct for efficiency means we go for something too simple and too ambiguous.&lt;/p&gt;
+
+&lt;p&gt;An example from the service I’m working on right now involves “advisers” and “assessors”. These are two separate job roles of people who are involved with the application process and, without needing to describe the detail of what they do, it’s fair to say that advisers at times need to assess things, and assessors definitely could be described as sometimes giving advice. That’s not to say that within the project there’s any confusion about these roles, but it’s clear that to someone without the specific knowledge of the service these two words don’t really convey the differences between these roles. When it comes to describing the process involved in an application as a lay person it would be absolutely no use for you to use your general understanding of the meaning of these words to help you understand.&lt;/p&gt;
+
+&lt;p&gt;And yet naturally that’s what you’d do. When I talked about people making assessments you’d think “he’s talking about the assessors”, and when I spoke about the people who give advice you’d be thinking “and those must be the advisers”. But you’d be wrong.&lt;/p&gt;
+
+&lt;p&gt;The interesting thing is that you wouldn’t necessarily know it, and because you didn’t know it you wouldn’t be pulling a confused face or giving me those indication that I wasn’t getting my message across. The way our brains work is to construct the most plausible reality from the information we have. There are all sorts of mental tics and &lt;a href=&quot;https://en.wikipedia.org/wiki/Confirmation_bias&quot;&gt;biases&lt;/a&gt; which mean that we are extremely prone to mistakenly thinking that we understand a situation when actually we don’t. Our brains are constantly in a state of just-good-enough understanding are naturally bent towards not abandoning that understanding unless they’re really forced to.&lt;/p&gt;
+
+&lt;p&gt;Language evolves and I think the &lt;a href=&quot;https://en.wikipedia.org/wiki/Memetics&quot;&gt;memetic&lt;/a&gt; nature of this evolution is such that trying to impose a solution would likely meet with failure. What we can do though is recognise the problem exists and try and be mindful of it. Acknowledging it openly and mentioning it frequently. We can create glossaries of terms we use and share them between ourselves and with new people. We can try and use the terminology we agree upon consistently and (when we get the chance) we can try and name things sensibly. Also when we’re on the other side of the situation talking to an expert about their field we need to look out for and ask about what’s specifically meant by these words in this context, and try not to assume we understand even when the words being used seem recognisable and understandable.&lt;/p&gt;
+
+&lt;p&gt;Above all we need to recognise and not stigmatise people not understanding each other. The English language is a wonderful thing; a full and powerful tool. Yet it is also limited and always changing. We need to be aware of the language we use and it’s potential for being misunderstood. Communication, after all, is the only problem we have.&lt;/p&gt;
+</content>
+  </entry>
+  
+  <entry>
+    <title>Beep Beep Beep</title>
+    <link href="home_url/beep-beep-beep/"/>
+    <updated>2016-02-19T00:00:00+00:00</updated>
+    <id>home_url/beep-beep-beep</id>
+    <content type="html"><p></p>&lt;p&gt;And you may find yourself waking up in the night to the sound of a beep-beep-beep. And you may wonder “Did I dream that?” and roll over and for a second listening out for another beep-beep-beep but hearing nothing shut your eyes and drift back to sleep. Only to immediately hear another beep-beep-beep and wake up thinking “Could I be dreaming this beep-beep-beep?” and lying a little longer this time waiting, listening, but hearing no beep-beep-beep. So again drifting slowly back off to slee… beep-beep-beep!! What? And you may find yourself awake contemplating the idea that some ongoing dream, your subconscious has created to torture you with, contains a beep-beep-beep and that every time you close your eyes you sink back into this same dream and the beep-beep-beep contained within it immediately now wakes you up because somehow your conscious mind is now aware and, even in sleep, listening out for it. And you may wonder what kind of circular hell is this? So you roll over and start to concentrate your mind on not caring whether you can hear a beep-beep-beep or not, only each time you drift back off to sleep you immediately hear beep-beep-beep and awake. This happens again and again until you take the perfectly reasonable decision to wake up your wife. “I keep hearing a beep-beep-beep” you say, knowing that she, being slightly more worry-prone than yourself, will take this seriously in case it is in fact the first signs of armageddon. So now you are both listening. Waiting and listening. And you’re doubting and thinking “I think I dreamt it” and you’re just about say so when beep-beep-beep. And that wave of relief you feel washes over you like a warm summer. She heard it too! We both heard it! It’s real. I didn’t dream it. And then anger. What the fuck is waking me up with a beep-beep-beep in the night, making me think I’m going mad!? So you’re up on the landing standing stock still like some frozen explorer staring into the black abyss of the stair well. Waiting again. Wondering whether a beep-beep-beep could ever stop of it’s own accord. You wife wanders into a child’s bedroom but you stay still not wanting to miss it. Then it’s there. Clearer now. Coming from downstairs. Lights on, bounding down the stairs. Knowing that it won’t happen again now for a while but thinking maybe you can spot the culprit anyway. Sure enough, lying on it’s side on a shelf, the second cordless landline phone. Out of batteries and asking to be swapped with it’s brother in the cradle (it now shares since the first cradle broke, or was broken, you can’t remember which).&lt;/p&gt;
+
+&lt;p&gt;And so now it’s clear that rather than dreaming the beep-beep-beep immediately upon falling asleep, sleep was just robbing you of your appreciation of time and so each beep-beep-beep was appearing to you to come immediately. Just like sometimes you can wake up in the morning with that feeling that actually you just dropped off. And you lie awake thinking about this and feeling relieved and now unfortunately unable to sleep at all because your brain has started inadvertently composing a blog post in this strange kind of style where every sentence starts with “And…” a bit like that Talking Heads song.&lt;/p&gt;
+</content>
+  </entry>
+  
+  <entry>
+    <title>What is a blog?</title>
+    <link href="home_url/what-is-a-blog/"/>
+    <updated>2015-11-14T00:00:00+00:00</updated>
+    <id>home_url/what-is-a-blog</id>
+    <content type="html"><p></p>&lt;p&gt;I have often had trouble getting around to writing stuff here. I have a far too many half-written posts tumbling around my computer in folders or in google docs. I was reading &lt;a href=&quot;http://gilest.org/blog-brain.html&quot;&gt;A blog is your brain, over time, on the internet&lt;/a&gt; by Giles Turnbull the other day and I realised something I’d been thinking for a while which has been tripping me up.&lt;/p&gt;
+
+&lt;p&gt;My abiding idea about why it might be a good thing to write in general (but specifically a blog) comes from the thought that writing about something you think is a really good way to help you sort out your ideas about it. A good way to force yourself to collect and organise your thoughts and present them coherently. A good exercise.&lt;/p&gt;
+
+&lt;p&gt;So, often when I have an idea for something to write about, I’ll start making notes or writing disconnected paragraphs in an attempt to get stuff out of my head. Then I sit and look at that stuff and quite often it doesn’t seem to amount to much. Occasionally I’ll leave it and come back to it. Once in a while I’ll come back later, start from scratch and get the sense that a new tack might flow better. Just very rarely does that result in something where I have truly nailed what I think on a subject and properly expressed it in a coherent and well formed way. It has happened. Just not very often.&lt;/p&gt;
+
+&lt;p&gt;What I realised, reading Giles’s article, is that I’d been thinking that this was the only approach. To wait until you had something perfectly formed before sharing it. Because I was thinking that the process was meant to end with you having sorted out in your head what you thought and how to express that. Which is stupid. Most of the time what I think about something is a swirling mass of contradiction and confusion which never really coalesces into anything (or at least takes years and years to do so).&lt;/p&gt;
+
+&lt;p&gt;The idea that “that’s why you should write” has been there in the background for years making me feel like only those perfectly formed nuggets should ever see the light of day. Don’t get me wrong, there have been occasions where that kind of perfectionism has worked and I’ve been really proud of the results, but there are far, far more times when it’s been a stultifying force instead.&lt;/p&gt;
+
+&lt;p&gt;Of course if you are writing for money you’re in whole other situation. In that case getting your ideas together and expressing them properly is absolutely necessary. That’s what you’re being paid to do. But that’s not blogging. A blog by it’s nature is free to create, free to consume. It has none of those expectations or and should have none of those restrictions.&lt;/p&gt;
+
+&lt;p&gt;The other thing a blog should be is a conversation starter and I also realised that by always attempting to create complete and unassailable arguments I was unwittingly attempting to ward off the contributions of others. “I’ve got this sorted” I was saying “no need for your input”. Whereas if &lt;em&gt;sorting out my ideas&lt;/em&gt; was really what I was interested in doing, what better a way than to bounce them off others.&lt;/p&gt;
+
+&lt;p&gt;Hmmm… 485 words, beginning to look like a blog-post type of length. Now the feelings of discomfort set in. “It’s all a little facile isn’t it”. “Surely people know all this already”. ”They will think you are an idiot for stating the obvious”. Self-doubt.&lt;/p&gt;
+
+&lt;p&gt;Well to hell with it. I’ll put this up and from now on attempt to remember to try and post more imperfect half-formed rubbish maybe.&lt;/p&gt;
+</content>
+  </entry>
+  
+  <entry>
+    <title>Pondering Podcast Pricing</title>
+    <link href="home_url/pondering-podcast-pricing/"/>
+    <updated>2015-10-04T00:00:00+01:00</updated>
+    <id>home_url/pondering-podcast-pricing</id>
+    <content type="html"><p></p>&lt;p&gt;Podcasting grew out of the internet and the internet’s most common model for making money is “free-to-access but comes-with-adverts”. So it’s not surprising that most of the podcasts I listen to include adverts.&lt;/p&gt;
+
+&lt;p&gt;Stuart Goldsmith’s podcast &lt;a href=&quot;http://www.comedianscomedian.com/&quot;&gt;Comedian’s Comedian&lt;/a&gt; doesn’t include adverts; unlike so many of the (non-BBC) podcasts I listen to it relies solely on asking listeners to give money. Goldsmith’s approach is (unsurprisingly given his &lt;a href=&quot;https://en.wikipedia.org/wiki/Stuart_Goldsmith&quot;&gt;oh-so-secret past&lt;/a&gt;) much more like the type of thing you’d get from a street performer. “Here”, he says, “I’ve done a thing, you decide how much it’s worth to you?”.&lt;/p&gt;
+
+&lt;p&gt;By not going down the advertising route (whether by design or not) this podcast has ended up in a place which I find quite interesting. Without advertising the only choice is to ask consumers to pay for the product, but rather than making a product, setting a price and perhaps allowing the &lt;a href=&quot;http://www.investopedia.com/articles/economics/08/adam-smith-economics.asp&quot;&gt;invisible hand of supply and demand&lt;/a&gt; to dictate whether that price should rise or fall, Goldsmith puts all of the control of price into the hands of his consumers.&lt;/p&gt;
+
+&lt;p&gt;This is similar in some ways to the &lt;a href=&quot;https://en.wikipedia.org/wiki/Pay-what-you-want&quot;&gt;pay-what-you-want&lt;/a&gt; model used by people like Louis CK or famously by Radiohead for their &lt;a href=&quot;https://en.wikipedia.org/wiki/In_Rainbows#Release&quot;&gt;In Rainbows&lt;/a&gt; album. However, the difference here is that you already have the product before you need to decide whether to pay or not. There is no chance of buyer’s remorse. Also with podcasts there’s an expectation of new content flowing from the producer regularly, and so actually they’re a lot more like a service than a product. The question isn’t so much “do you want to own this thing” but is more “do you want this thing to continue”.&lt;/p&gt;
+
+&lt;p&gt;This creates a different kind of relationship between producer and consumer. Rather than just producing something we want, this podcaster needs also to convince us that we should also pay for it. Not as a way to access the product but almost as a way to say thank you.&lt;/p&gt;
+
+&lt;p&gt;When Goldsmith asks us for money he doesn’t present it as paying for a product. The product is always “free”; what we’re doing is “donating” and he makes it clear that the idea is that those who can afford to pay are paying for those who can’t. This immediately begs the question: How able am I to pay? It’s not just a question of wealth but also a question of self-perception. How do I compare to the rest of the audience? Am I one of the richer ones? How do I feel towards those people? Should I help them out? Would I feel differently about paying if I felt sure that they were all much poorer than me? These are not simple questions and the answers may be different for each different person asking them.&lt;/p&gt;
+
+&lt;p&gt;Also, whilst he will occasionally suggest amounts, Goldsmith’s more common request is for you to judge a donation amount for yourself. “Give me what you think it’s worth” he says. But what is it worth? What’s it worth to me? What are these hour-long interviews, on a subject that’s dear to my heart, really worth? If I was suddenly forced to pay would I stop listening? If not then how much would I accept paying before I did stop? Should I pay that? Half that maybe? The questions go on.&lt;/p&gt;
+
+&lt;p&gt;I have to date listened to over 140 episodes of the podcast. Does that change my feelings about paying? Is there a tipping point where I start to think “OK, well I’m starting to feel like I’ve got a lot out of this”. Is there even a point at which my ability to pay coupled with the number of episodes I’ve listened to means that the resulting “price-per-episode” would be insultingly small? Would that motivate me to pay something or actually make me feel slightly embarrassed to give anything at all?&lt;/p&gt;
+
+&lt;p&gt;Maybe this is all a bit crazy, maybe that’s why most people have fallen into line and included advertising in their podcasts. The idea of putting this weight of responsibility on the consumer to answer these questions and decide to pay a fair amount is perhaps too off putting. Far easier to use the established method of getting money from a company and selling the attention of your audience to them instead.&lt;/p&gt;
+
+&lt;p&gt;That is a shame though because if it could be made to work this kind of system holds a lot of promise. It’s more transparent, it’s somehow more honest. It directly connects the consumer to the producer and it is based entirely around the relationship between the two being good. It puts a huge onus on the producer to make something which is worthy of payment but also it really encourages the consumer to be mindful of the value they’re getting.&lt;/p&gt;
+
+&lt;p&gt;So many of our purchases are done without enough thought, or without enough information. So much of the stress of buying things is down to that one missing piece of the puzzle, the answer to the question “what will it be like when I own that”. Also so many of the “free” digital products and services we use are paid for in ways which aren’t transparent, and are not particularly well understood. When there is a lack of knowledge or understanding in those kind of exchanges there will always be worries about the motivations of the different parties involved.&lt;/p&gt;
+
+&lt;p&gt;One of Goldsmith’s genius moves is that he always concentrates on thanking those who have already given. I don’t know how much deliberate psychology is going on here, but this is clearly an excellent way to both normalise the idea of giving in the mind of his audience and give the clear message that “other people are paying, so maybe you should too”. It’s impossible to know how well this is actually working, but from the sounds of things, for this podcast at least, it’s not going too badly.&lt;/p&gt;
+
+</content>
+  </entry>
+  
+  <entry>
+    <title>Thinking about change</title>
+    <link href="home_url/thinking-about-change/"/>
+    <updated>2015-08-20T00:00:00+01:00</updated>
+    <id>home_url/thinking-about-change</id>
+    <content type="html"><p></p>&lt;p&gt;When I &lt;a href=&quot;https://twitter.com/mattedgar/status/554546372926791680&quot;&gt;first heard about the job at DWP&lt;/a&gt; my excitement at the opportunity was mixed with something else, a kind of anxiety. Not because I was afraid of the job, or my ability to do it, but because it was immediately clear to me that it would mean change. A big change. I had been freelancing successfully (more or less) for about four years and enjoying both the variety of work, the flexibility of hours, and that nice sense of self-worth I got from being my own boss. I was in no way looking to go back into a permanent job.&lt;/p&gt;
+
+&lt;p&gt;But the opportunity was too good. My feelings about what had been going on at GDS were too positive. The idea of perhaps getting to be involved in those things and doing that kind of work in that kind of way was far too alluring. I had a definite sense that whilst I might not even get the job this was an opportunity that I couldn’t let go by.&lt;/p&gt;
+
+&lt;p&gt;So suddenly out of nowhere change was on the agenda. A change of focus, maybe a change of routine, a change of environment. Change is scary, especially when it suddenly comes looming at you out of nowhere, but sometimes it’s important to embrace it, so I did.&lt;/p&gt;
+
+&lt;h3&gt;Ch-changes&lt;/h3&gt;
+
+&lt;p&gt;Despite all my experience with user-centered design, iterative design and service design in general, I’d never really worked in this kind of agile process. I thought maybe I had a bit. I certainly thought I understood the point of it, the way it was meant to work. Turns out I hadn’t really. I’ve learned a lot since I’ve been here and have to say I like it. I like the rhythm, the enforced visibility, the amount of communication and the discipline of it. What I like the most though is how much of what we do is changeable. It’s not just the service that we iterate, but the process itself. If things are working well we celebrate but if they’re not working we can change them.&lt;/p&gt;
+
+&lt;p&gt;The fundamental idea is feedback. The opportunity for a team to take in information about what’s happening and to interpret and make changes based on it. It runs through everything we do and being able to change things is a fundamental requirement because if you can’t change things then the feedback is pointless.&lt;/p&gt;
+
+&lt;p&gt;You could say this is a pessimistic view, that the need to be always able to change is based on an expectation that things aren’t going to go well. “If you get it right first time, then why would you need to change it?” In fact though, not getting it right first time is a fact of life and inside this process is a &lt;a href=&quot;https://en.wikipedia.org/wiki/Optimism#Optimalism&quot;&gt;brand of optimism&lt;/a&gt; which is actually more powerful.&lt;/p&gt;
+
+&lt;h3&gt;Ch-ch-changes&lt;/h3&gt;
+
+&lt;p&gt;This is a disconcerting time for the digital bit of UK government. A time of speculation and concern. Yesterday &lt;a href=&quot;https://twitter.com/benterrett&quot;&gt;Ben Terrett&lt;/a&gt; stood up in front of a cross-government gathering of designers and told us not to worry. He wanted to reassure us that just because he was leaving, things weren’t going to change. That good people were already in place and things would continue. I was reassured and I do believe things will continue, but they won’t continue in the same way. They'll change, maybe in some ways for the worse, hopefully in lots of ways for the better. There will be problems but given the chance people will solve those problems and the problems after those. It’s easy to be scared by change, to cling to the way things are, to seek reassurance in continuity, but actually what we need is the kind of optimism I described above.&lt;/p&gt;
+
+&lt;p&gt;However, it’s not just about changing things (although we certainly need to do that). We also need to fight to make things more changeable and to keep them that way. A natural propensity to see change as worrying or scary is something that needs to be overcome because whilst it might feel counterintuitive, making things as changeable as possible is the best way to make them better.&lt;/p&gt;
+
+&lt;p&gt;The fact that this concept is part of the actual way we work, the fact that it’s an integral part of the &lt;a href=&quot;https://www.gov.uk/service-manual/digital-by-default&quot;&gt;Service Standard&lt;/a&gt; and the fact that this philosophy has spread out to the different departments of government and is taking root is the most reassuring thing. Of all the things that have been achieved so far by GDS that is by far the most important and by far the most precious.&lt;/p&gt;
+
+&lt;h3&gt;Ch-ch-ch-changes&lt;/h3&gt;
+
+&lt;p&gt;I was talking to a couple of new recruits the other day and during my babbling about user research, agile ceremonies and prototyping toolkits it suddenly struck me that what I really wanted to know when I first started was whether it’d be the way I was hoping it would be. Whether all the reasons I’d thought it was an opportunity too good to be missed would actually turn out to be true. So I stopped babbling and basically said that yes it was.&lt;/p&gt;
+
+&lt;p&gt;It definitely is. And then some.&lt;/p&gt;
+</content>
+  </entry>
+  
+  <entry>
+    <title>Some thoughts about the Nest Learning Thermostat</title>
+    <link href="home_url/some-thoughts-about-the-nest-learning-thermostat/"/>
+    <updated>2015-01-30T14:56:48+00:00</updated>
+    <id>home_url/some-thoughts-about-the-nest-learning-thermostat</id>
+    <content type="html"><p></p>&lt;!-- more --&gt;
+
+&lt;p&gt;We moved house recently and subsequently bought a new boiler so at the same time I purchased a &lt;a href=&quot;https://nest.com/uk/thermostat/life-with-nest-thermostat/&quot;&gt;Nest Learning Thermostat&lt;/a&gt;. If you haven't heard of it check it out. It&amp;#8217;s like a thermostat which is connected to the internet and learns your behaviour so it can kill you and eat your children.&lt;/p&gt;
+&lt;!-- more --&gt;
+&lt;p&gt;We&amp;#8217;ve had the Nest for a few months now so here's a few things I&amp;#8217;ve noticed.&lt;/p&gt;
+
+&lt;p&gt;If the &lt;b&gt;Nest&lt;/b&gt; thinks you want to have the house warm at 7am but the Nest also thinks that your house will take 3 hours to reach warm then the Nest will turn on your boiler at 4am which means a radiator right next to your head might start to warm up and the pipes might start to gurgle and squeak and no Nest, NO! Bad Nest!!&lt;/p&gt;
+
+&lt;p&gt;The Nest only tells you what your heating has been doing the day after it&amp;#8217;s done it. Given all the &quot;clever&quot; and all the &quot;learning&quot; I'd have thought it could tell me what my heating has been doing today. I'm not certain but I feel like this information would be more likely to alter my behaviour.&lt;/p&gt;
+
+&lt;p&gt;What I'd like to know is what temperature Nest thought the house was at at various times. It tells you (the following day) when the boiler was turned on and off but it doesn't tell you what temp was reached at those times. I think this would be interesting.&lt;/p&gt;
+
+&lt;p&gt;The Nest doesn't solve the thermostat problem of not all rooms being the same temperature. You have to decide to place the thermostat somewhere, and the heating will be controlled on the basis of the temperature at that place. As the Nest learns this problem is accentuated because more is riding on this decision. Our Nest is in the living room where the sun shines in and heats the room naturally meaning that the thermostat might sometimes imagine the rest of the house is hotter than it really is. Maybe it&amp;#8217;s clever enough to realise this and compensate but I'm not sure.&lt;/p&gt;
+
+&lt;p&gt;Don't get me wrong I love the Nest. It&amp;#8217;s a beautiful piece of technology and a wonderful idea. By tickling at the edges of the few aspects which don't quite work (for me) I'm not saying it&amp;#8217;s no good, but I do find those edges interesting and it bothers me that something which has clearly has so much attention paid to it&amp;#8217;s design isn't quite right (again for me).&lt;/p&gt;
+
+&lt;p&gt;It seems to me that in attempting to build something that will learn, the makers of Nest are attempting to make things easier for us. &quot;Don't make me think!&quot; we say, and they say &quot;OK, we'll do the thinking for you&quot;. Only at the end of the day I'm not sure it&amp;#8217;s necessarily the right thinking. I don't want to think, that&amp;#8217;s true (God so true!), but I do want to &lt;em&gt;know&lt;/em&gt; and I do want to &lt;em&gt;understand&lt;/em&gt;. After all this is a large household expense, I'm not quite ready to trust that to the unwinking eye of artificial intelligence just yet.&lt;/p&gt;
+
+&lt;p&gt;What I want is for things to be clearer not just hidden. I think in some ways they&amp;#8217;ve tried to hide things to make it simpler and easier but what would make it easier is if I understood it and that means showing me what I&amp;#8217;ve done in a way which helps me understand how to do it better.&lt;/p&gt;
+
+&lt;p&gt;Maybe instead of the Learning Thermostat they should have tried to build the Teaching Thermostat. I'm not sure such a Reithian idea would go down as well in the west-coast utpoian atmosphere that spawned Nest, but still it might have been a nobler goal.&lt;/p&gt;
+
+</content>
+  </entry>
+  
+  <entry>
+    <title>Scott Joplin &amp; the acquisition of skills</title>
+    <link href="home_url/scott-joplin-and-the-acquisition-of-skills/"/>
+    <updated>2014-09-03T09:09:17+01:00</updated>
+    <id>home_url/scott-joplin-and-the-acquisition-of-skills</id>
+    <content type="html"><p></p>&lt;!-- more --&gt;
+
+&lt;p&gt;I grew up in a house where the children were forced to have piano lessons (call me middle class if you will, it would be an accurate and wholly justified thing to do). I didn't really take to the lessons mainly because I never practised. I passed the Grade 1 exam but before long the whole thing fell away.&lt;/p&gt;
+&lt;!--more--&gt;
+&lt;p&gt;A little later though we acquired a book with the sheet music to a number of &lt;a href=&quot;http://en.wikipedia.org/wiki/Scott_Joplin&quot;&gt;Scott Jopin&lt;/a&gt;'s tunes. If you don't know Joplin he wrote &quot;&lt;a href=&quot;http://en.wikipedia.org/wiki/Classic_rag&quot;&gt;ragtime&lt;/a&gt;&quot; which is a kind of mild piano-based early form of jazz. More importantly though it was a Scott Joplin tune that was used as the &lt;a href=&quot;https://www.youtube.com/watch?v=-nXUPHR17FI&quot;&gt;theme music for the Pot Black TV Snooker show&lt;/a&gt; and it was both a fun tune and quite impressive.&lt;/p&gt;
+
+&lt;p&gt;So with those two things in mind I set out attempting to teach myself to play the tune (UPDATE: actually it wasn't the Pot Black theme but another tune called &lt;a href=&quot;https://www.youtube.com/watch?v=KCToGv-lO7c&quot;&gt;The Entertainer&lt;/a&gt; which was also used on TV quite a lot at the time). My Dad did too if I remember rightly and so we both kind of helped and encouraged each other. It took a long long time and there was a lot of the music which we simply missed out (i.e. we found we could get a good approximation of the sound without playing full chords in the accompanying left hand) but eventually we got to the point where we could both bash out a fairly recognisable version of the tune. And this we did over and over and over.&lt;/p&gt;
+
+&lt;p&gt;In some ways this was a bit of a peculiar situation. My Dad I remember could play a few things on the piano but apart from the dross I'd be encouraged to play in lessons I couldn't really play anything else. Certainly nothing that was a fun to play or gave me anything like the sense of achievement and satisfaction I got from clumping my way through this. What was so satisfying I think was the memory of how impossible the thing had seemed at the beginning. Just looking up to the snow-capped peaks of it and thinking &quot;I'll never get there&quot;. I mean, I hadn't totally got there but getting even close was a great feeling.&lt;/p&gt;
+
+&lt;p&gt;Unfortunately, it having taken so long and been such a slog to get there, I never really fancied starting at the bottom and learning another, and so apart from a bit of dabbling and then concentrating on understanding music instead of gaining playing skill, I ended up not really being a piano player. What I did come away with was the general impression that if I wanted to, and gave it enough time, I could probably learn to play a lot of things on a piano and more than likely the same could be said of similar skills-based activities.&lt;/p&gt;
+
+&lt;p&gt;I think that it was the first time I'd really internalised the importance (the primacy) of hard work in any kind of achievement and the possibility that time and effort (and not innate skill) was all that was needed. There had been things before this I'd found myself to be good at (football predominantly) but hadn't really thought about how that had happened. It now struck me that possibly those endless hours in the back garden kicking a ball against a wall might have had something to do with it. I wondered what my friends might have been doing whilst I'd been doing that. It gave me a different perspective.&lt;/p&gt;
+
+&lt;p&gt;I think about all this now because it&amp;#8217;s these kind of lessons I want my kids to learn. It&amp;#8217;s hard because the only way to learn it is through experience and it&amp;#8217;s almost impossible to engineer. But thinking about how I came to understand stuff like this is sometimes useful. Maybe just to keep it in mind when opportunities to give my kids opportunities arise.&lt;/p&gt;
+
+&lt;p&gt;The American TV Show Yo Gabba Gabba included a song in which the lyrics went &quot;keep on trying, keep on trying, never give up, never give up&quot;. It has become a kind of tradition in our house that if someone is obviously throwing up their hands and walking away from a thing we sing it to them. It&amp;#8217;s an incredibly annoying song, and incredibly annoying to have it sung to you in those situations. Still every little helps.&lt;/p&gt;
+
+</content>
+  </entry>
+  
+  <entry>
+    <title>The New Hack</title>
+    <link href="home_url/the-new-hack/"/>
+    <updated>2014-05-09T09:00:37+01:00</updated>
+    <id>home_url/the-new-hack</id>
+    <content type="html"><p></p>&lt;!-- more --&gt;
+
+&lt;p&gt;I&amp;#8217;ve been listening a lot recently to the &lt;a href=&quot;http://www.comedianscomedian.com/&quot;&gt;Comedian's Comedian podcast&lt;/a&gt;. Being a bit of a comedy geek I find the glimpse it gives you into the creative process behind how comedians do what they do really interesting and not a little inspiring in terms of that self-motivated creativity which is required (and the myriad different forms that takes). I'd say it&amp;#8217;s well worth a listen for anyone (particularly freelancers) who work in a creative industry.&lt;/p&gt;
+&lt;!-- more --&gt;
+&lt;p&gt;I listened to a couple of the most recent podcasts first and then decided I was enjoying it enough that I'd go back and work my way through from the very beginning, so I guess some of this is a little old hat in terms of the podcast but anyway...&lt;/p&gt;
+
+&lt;p&gt;There's a thing in comedy called &lt;a href=&quot;http://comedians.about.com/od/glossary/g/Hack-Definition.htm&quot;&gt;Hack&lt;/a&gt;, the idea is that it&amp;#8217;s stuff you&amp;#8217;ve heard before, a million times, but that some comedian is churning out anyway. It&amp;#8217;s frowned upon apparently. &lt;a href=&quot;http://www.stuartgoldsmith.co.uk/&quot;&gt;Stuart Goldsmith&lt;/a&gt; who's podcast it is, started &lt;a href=&quot;http://www.comedianscomedian.com/newhack&quot;&gt;a page on his website&lt;/a&gt; for people to collect newer examples of this kind of material. Not just the old standards but new stuff which is now becoming &quot;hack&quot;.&lt;/p&gt;
+
+&lt;p&gt;It&amp;#8217;s an interesting read. Some things you recognise and some things you don't. The way it&amp;#8217;s presented means that not recognising something immediately makes you feel slightly &quot;out of it&quot;, but of course I am, not being a comedian, not experiencing more than a couple of live shows a year (and whatever I can get at from TV/Youtube). And it made me realise that it&amp;#8217;s only really comedians who could compile a list like this. Being in and around comedy all the time, they're bound to notice the patterns and they'll be the first for whom this stuff starts to grate.&lt;/p&gt;
+
+&lt;p&gt;Of course this all happens within a set of constraints. No comedian walks on stage and refuses to communicate or talks entirely in a language which is incomprehensible to their audience. (Almost) none spout meaningless non sequiturs that have no resemblance to jokes at all. There are some agreed parameters, but within those you're expected to be creative, or I should say, you are respected if you are.&lt;/p&gt;
+
+&lt;p&gt;As I said there's parallels here with any creative industry but the key is to understand the difference between the constraints that you work within and the spaces where creativity can and should flourish. Personally I feel like most of my struggles with work revolve around grappling with that issue. Where do the parameters end and where should I be creative? Often I think that&amp;#8217;s a very blurry line. Things like &lt;a href=&quot;http://en.wikipedia.org/wiki/Affordance&quot;&gt;affordances&lt;/a&gt; and learned behaviour are very powerful things. After all, users who are familiar with a certain way of doing things will &lt;a href=&quot;http://en.wikipedia.org/wiki/Don%27t_Make_Me_Think&quot;&gt;breeze through an interface&lt;/a&gt;, understand a website, and generally have a better experience. And yet my desire is always to be as creative as possible, and not to have my work become an exercise is connecting existing pieces (like a jigsaw puzzle).&lt;/p&gt;
+
+&lt;p&gt;I think understanding the difference between good and hack is a hard thing. Both can appear to the same to the untrained eye. Thinking about that difference though and constantly questioning it is important to keep your standards high and keep you progressing. It might not be a question that can ever really be answered (or ever should be) but it&amp;#8217;s worth asking all the same.&lt;/p&gt;
+
+</content>
+  </entry>
+  
+</feed>
