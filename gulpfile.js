@@ -180,7 +180,7 @@ gulp.task('browser-sync', function() {
     $.browserSync({
         open:false,
         server: {baseDir: "build/_site"},
-        // proxy: "j.ghijklmno.tom",
+        proxy: "http://127.0.0.1:4000/",
         // socket: {
         //     namespace: function (namespace) {
         //         return "localhost:3000" + namespace;

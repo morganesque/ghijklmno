@@ -129,6 +129,14 @@ p {
     border-left:$bsu/4 solid $secondary;
     background-color:$blockquote;
   }
+  h3.aside {
+    float:left;
+    color:$secondary;
+    margin:0 1em 0 0;
+    font-size:0.62em;
+    text-transform:uppercase;
+    letter-spacing:0.1em;
+  }
   pre, code {
     font-size:0.7em;
     background-color:rgba(desaturate($tertiary,42),0.14);
@@ -260,7 +268,7 @@ p {
 .img-full {
   width:100%;
   margin:0 auto;
-  display:block;  
+  display:block;
 }
 
 .break {
