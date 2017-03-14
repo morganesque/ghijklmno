@@ -4,7 +4,7 @@ status: publish
 published: true
 title: "AJAX, Branding and Uclidean Design"
 image: ""
-standfirst: "In which I play with the matches of irony around the gasoline of acronyms and expect somehow that no-one is going to get hurt."
+standfirst: "In which I play with the matches of irony around the gasoline of acronyms and expect somehow that no-one is going to get hurt. Boo!"
 ---
 
 Remember [Jesse James Garrett’s AJAX article](http://adaptivepath.org/ideas/ajax-new-approach-web-applications/). Where he took a thing that was going on and found a kind of catchy acronym for it. Remember how it spread around the internet. Remember how it got kind of bastardised and changed until you kind of hated it? Until it had turned from a useful way to refer to a particular thing into some kind of hellish buzzword which people used to mean “whizzy”. Will it have AJAX? Will it be whizzy? Ugh! Horrible.
