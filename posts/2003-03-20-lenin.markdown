@@ -1,0 +1,33 @@
+---
+layout: post
+status: publish
+published: true
+title: Lenin
+author:
+  display_name: Tom
+  login: admin
+  email: tsmorgan@gmail.com
+  url: ''
+author_login: admin
+author_email: tsmorgan@gmail.com
+wordpress_id: 549
+wordpress_url: http://ghijklmno.net/lenin/
+date: '2003-03-20 09:15:43 +0000'
+date_gmt: '2003-03-20 09:15:43 +0000'
+categories:
+- Old Blog
+tags: []
+comments: []
+---
+<!-- more -->
+
+<p>A while ago I was in a charity shop in Guiseley and I saw a metal bust of Lenin. I thought it looked cool, in a funny kind of way, and it was only a fiver. I didn&#8217;t buy it though and we wandered off through town to the library (if I remember) and so on. But I couldn&#8217;t get it out of my head and so before we returned home I went back and bought it. I got a few comical comments from the lady in the shop who&#8217;d seen me looking at it earlier and it has sat on a windowsill in our house ever since.</p>
+
+<p style="text-align:center; margin:20px;"><a href="/photos/photodisplay.php?photo=L3Bob3Rvcy9sZW5pbi9sZW5pbl9uZXh0X3RvX3dpbmRvdy5qcGc%3D"><img src="/photos/lenin/thumbs/lenin_next_to_window.jpg" width="" height=""  alt="Lenin" /></a></p>
+
+<p class="firstpar">Last sunday the sun shone in on him so I took some pictures. He looked thoughtful there staring out of the window like he was contemplating something serious. I really know very little about Lenin, other than he was a communist leader in Russia at some point, so I haven&#8217;t a clue what he was thinking. I like to imagine it was something like &#8220;this is a nice view&#8221; or &#8220;isn&#8217;t it a sunny day?&#8221; but I fear he was probably worried about the state of the world.</p>
+
+<p style="text-align:center; margin:20px;"><a href="/photos/photodisplay.php?photo=L3Bob3Rvcy9sZW5pbi9sZW5pbl9vbl93aW5kb3dzaWxsLmpwZw%3D%3D"><img src="/photos/lenin/thumbs/lenin_on_windowsill.jpg" width="" height=""  alt="Lenin" /></a></p>
+
+<p class="firstpar">Try not to worry Lenin I&#8217;m sure things will work themselves out.</p>
+

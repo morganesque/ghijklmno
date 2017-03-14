@@ -1,0 +1,35 @@
+---
+layout: post
+status: publish
+published: true
+title: Santa Man
+author:
+  display_name: Tom
+  login: admin
+  email: tsmorgan@gmail.com
+  url: ''
+author_login: admin
+author_email: tsmorgan@gmail.com
+wordpress_id: 540
+wordpress_url: http://ghijklmno.net/santa-man/
+date: '2003-02-21 10:51:23 +0000'
+date_gmt: '2003-02-21 10:51:23 +0000'
+categories:
+- Old Blog
+tags: []
+comments: []
+---
+<!-- more -->
+
+<p>A man walks into a sports shop. He&#8217;s a large man and (what we might like to call) portly. He&#8217;s old too with a fairly long grey beard and so his over all appearance could be said to be something like Santa. Although a down at heel Santa wearing rather a badly chosen ensemble and with bicycle clips clutching at his ankles. He&#8217;s wearing glasses which is noticeable because Santa rarely does (except in those occasional <i>behind the scenes</i> bits you sometimes see in bad American Christmas movies, where they&#8217;ve got him wandering around ordering elves about and carrying a clipboard like some freakishly jolly line manager). A shop assistant walks briskly over to him.</p>
+
+<p>- Can I help you sir?- I&#8217;d like to buy a bag.- What kind of bag?- Just a bag I don&#8217;t care really.</p>
+
+<p>The assistant looks fairly disgruntled and glances over his shoulder at the colossal wall full of shelves full of bags behind him.</p>
+
+<p>- When are you going to use it mostly? What sports do you do?- I cycle ... at night</p>
+
+<p>The assistant thinks for a second and then remembers a bag he was looking at this morning. The one with all the strange reflective patches on it. He&#8217;d wondered to himself; who on earth would want a sports bag with lots of little reflective patches on it, and now in walks this man, the very same day. Turning to the man he says:</p>
+
+<p>- I think I&#8217;ve got the perfect bag for you sir!</p>
+

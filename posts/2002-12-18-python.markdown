@@ -1,0 +1,35 @@
+---
+layout: post
+status: publish
+published: true
+title: Python
+author:
+  display_name: Tom
+  login: admin
+  email: tsmorgan@gmail.com
+  url: ''
+author_login: admin
+author_email: tsmorgan@gmail.com
+wordpress_id: 523
+wordpress_url: http://ghijklmno.net/python/
+date: '2002-12-18 11:58:17 +0000'
+date_gmt: '2002-12-18 11:58:17 +0000'
+categories:
+- Old Blog
+tags: []
+comments: []
+---
+<!-- more -->
+
+<p>In the spirit of a previous post here I&#8217;ve found this</p>
+
+<p style="text-align:center"><a href="http://www.math-inf.uni-greifswald.de/~fricke/cds/pa.mp.html"><img src="/images/monty_sings.gif" width="105" height="106" alt="monty python sings" /></a></p>
+
+<p>to be the best choice of Christmas music in my collection at the moment. Not only is there obviously &#8220;Christmas in Heaven&#8221; but I&#8217;ve found also that many of the other songs seem to have strangely Christmassy overtones.</p>
+
+<p>Maybe it&#8217;s just my learned response to songs that I mostly heard when watching the films (probably at Xmas) when I was small but there again maybe not.</p>
+
+<p><i>"Always Look on the Bright Side of Life"</i> from Life of Brian was basically about Christ wasn&#8217;t it? Who can listen to <i>"The Galaxy Song"</i> without being reminded of Santa and his little elves. <i>"I&#8217;ve Got Two Legs"</i> for example, is a blatant ode to a feeling common at your average Xmas party and <i>"Never be rude to an Arab"</i> is a veritable hymn (with surprisingly topical relevance). <i>"Finland"</i> of course needs no explanation being allegedly the home of Santa himself and <i>"The Accountancy Shanty"</i> and the <i>"Money Song"</i> are chilling indictments of the commercialism which blights the modern Yule tide. The only obvious sore thumb in this array would be <i>"Oliver Cromwell"</i> who of course banned Christmas, being a puritan and all.</p>
+
+<p>Maybe that&#8217;s just the exception to prove the rule?</p>
+

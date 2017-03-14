@@ -1,37 +1,23 @@
 {
-  "name": "gulp",
-  "version": "0.0.1",
-  "description": "default for gulp projects",
-  "main": "gulpfile.js",
-  "dependencies": {
-    "gulp": "*",
-    "gulp-sass": "^2.2.0",
-    "gulp-util": "^3.0.7"
-  },
+  "name": "ghijklmno",
+  "version": "1.0.0",
+  "description": "my blog",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Tom Morgan",
+  "author": "",
   "license": "ISC",
-  "devDependencies": {
-    "gulp-util": "*",
-    "gulp-load-plugins": "*",
-    "gulp-jekyll": "*",
-    "gulp-autoprefixer": "*",
-    "gulp-uglify": "*",
-    "gulp-svgmin": "*",
-    "gulp-imagemin": "*",
-    "gulp-concat": "*",
-    "gulp-header": "*",
-    "gulp-ruby-sass": "*",
-    "gulp-changed": "*",
-    "node-notifier": "*",
-    "stream-combiner": "*",
-    "browser-sync": "*",
-    "gulp-cached": "*",
-    "gulp-footer": "*",
-    "gulp-shell": "*",
-    "gulp-filter": "*",
-    "gulp-sourcemaps": "~1.3.0"
+  "dependencies": {
+    "browser-sync": "^2.18.8",
+    "colors": "^1.1.2",
+    "filendir": "^1.0.0",
+    "gaze": "^1.1.2",
+    "lodash": "^4.17.4",
+    "marked": "^0.3.6",
+    "moment": "^2.17.1",
+    "momentjs": "^2.0.0",
+    "node-sass": "^4.5.0",
+    "yaml-front-matter": "^3.4.0"
   }
 }

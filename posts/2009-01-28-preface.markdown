@@ -1,0 +1,26 @@
+---
+layout: post
+status: publish
+published: true
+title: Preface
+author:
+  display_name: Tom
+  login: admin
+  email: tsmorgan@gmail.com
+  url: ''
+author_login: admin
+author_email: tsmorgan@gmail.com
+wordpress_id: 655
+wordpress_url: http://ghijklmno.net/preface/
+date: '2009-01-28 12:31:00 +0000'
+date_gmt: '2009-01-28 12:31:00 +0000'
+categories:
+- Uncategorized
+tags: []
+comments: []
+---
+
+<p class="note">This was one of a series of posts I wrote on a short lived android dev blog I had during a period where I did a tiny bit of android app development.</p>
+<!-- more -->
+OK just to start off I'm a complete novice here. Both to android and to java. Not to programming, I&#8217;ve done some php &amp; flash as3 work, it looks like the flash stuff might be most relevant so far but I'm aware of the vast pool of java knowledge that I&#8217;ve never even dipped my toe into. So a lot of this is likely to be very slow and basic but it might help me a bit with learning. See you at the beach.
+

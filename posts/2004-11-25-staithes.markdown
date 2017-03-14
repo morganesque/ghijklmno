@@ -1,0 +1,33 @@
+---
+layout: post
+status: publish
+published: true
+title: Staithes
+author:
+  display_name: Tom
+  login: admin
+  email: tsmorgan@gmail.com
+  url: ''
+author_login: admin
+author_email: tsmorgan@gmail.com
+wordpress_id: 627
+wordpress_url: http://ghijklmno.net/staithes/
+date: '2004-11-25 21:09:00 +0000'
+date_gmt: '2004-11-25 21:09:00 +0000'
+categories:
+- Old Blog
+tags: []
+comments: []
+---
+<!-- more -->
+
+<p>We went for a lovely weeks holiday in Staithes, a little fishing village on the east coast; in a little cottage with a little sea view and quiet a large open coal fire which I took great manly pleasure in lighting for us every afternoon and prodding occasionally. We actually had very good weather, considering the time of year, and managed to get around quite a bit; to Whitby, Robin Hood&#8217;s Bay and at least one big walk along a cliff top section of the Cleveland Way.</p>
+
+<p>We had a big soft cottagey bed in a little upstairs bedroom which not only stayed nice an warm (and had the view) but also  was just sufficient size to afford us enough oxygen for one nights sleep each which, considering the fact we tended to sleep in quiet late, was not nearly enough. We didn&#8217;t do much drinking but I still seemed to wake up immeasurably fuggy and dazed; a feeling which lasted only as long as it took to get out of the house and get some fresh air.</p>
+
+<p>Other than that we had a thoroughly relaxing time. It was one of those holidays which takes you just far enough away from your normal life that when you return the idea of actually working for a living seems faintly ridiculous. In other words just the type of holiday we needed.</p>
+
+<p>We also took <a href="http://www.flickr.com/photos/ghijklmno/sets/43289/show/">some photo&#8217;s</a></p>
+
+<p>You&#8217;ll notice they&#8217;re not in <a href="/photos/">the usual photo place</a> but in a new place I&#8217;m trying called <a href="http://www.flickr.com/">Flickr</a>, so why not pop over there and give it a look. Seems like a good service (hosting your images, letting you share them with folks, and all the obligatory internet type things) and for all intents and purposes it&#8217;s completely free!</p>
+

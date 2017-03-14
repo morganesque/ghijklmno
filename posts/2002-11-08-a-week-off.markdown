@@ -1,0 +1,29 @@
+---
+layout: post
+status: publish
+published: true
+title: A Week Off
+author:
+  display_name: Tom
+  login: admin
+  email: tsmorgan@gmail.com
+  url: ''
+author_login: admin
+author_email: tsmorgan@gmail.com
+wordpress_id: 508
+wordpress_url: http://ghijklmno.net/a-week-off/
+date: '2002-11-08 08:31:36 +0000'
+date_gmt: '2002-11-08 08:31:36 +0000'
+categories:
+- Old Blog
+tags: []
+comments: []
+---
+<!-- more -->
+
+<p>Woo Hoo!! Last day in work before a nice long week off. We&#8217;re going to go to all sorts of places and do all sorts of things and it&#8217;s going to be great.</p>
+
+<p>We&#8217;re going to go shopping and buy Christmas presents (yeah I know it&#8217;s November, but it was either this or buying the decorations and crackers so we compromised) for all those kids who&#8217;ve been good this year, and sit in the pub all afternoon and go for meals in (slightly) posh resturants, and drink beer and wine and leap about. We&#8217;re going to be entertained at theatres and in cinemas and rub shoulders with the .... other people there, and we&#8217;ll dance and sing and swing from the rafters and run and jump and skip and shout and my god it&#8217;s going to be great.</p>
+
+<p>And then on the second day we&#8217;ll ...</p>
+

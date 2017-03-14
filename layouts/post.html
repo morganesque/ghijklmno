@@ -1,0 +1,22 @@
+{% extends "base.html" %}
+
+{% block page_content %}
+
+  <div class="main__content">
+      <h1 class="post__title">{{page.title}}</h1>
+      <p class="post__date">&mdash; {{ page.date | formatDate("Mo MMMM Y") }}</p>
+      <div class="post__content content">
+        {% if page.standfirst %}<p class="standfirst">{{ page.standfirst }}</p>{% endif %}
+        {{ page.content | safe }}
+      </div>
+      <div class="post__nextprev cf">
+        {% if page.previous.url %}
+          <a class="link prev" href="{{page.previous.url}}"><span class="icon-arrow-left"></span> {{page.previous.title}}</a>
+        {% endif %}
+        {% if page.next.url %}
+          <a class="link next" href="{{page.next.url}}">{{ page.next.title }} <span class="icon-arrow-right"></span></a>
+        {% endif %}
+      </div>
+  </div>
+
+{% endblock %}

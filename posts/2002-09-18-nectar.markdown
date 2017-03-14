@@ -1,0 +1,29 @@
+---
+layout: post
+status: publish
+published: true
+title: Nectar
+author:
+  display_name: Tom
+  login: admin
+  email: tsmorgan@gmail.com
+  url: ''
+author_login: admin
+author_email: tsmorgan@gmail.com
+wordpress_id: 491
+wordpress_url: http://ghijklmno.net/nectar/
+date: '2002-09-18 16:54:29 +0100'
+date_gmt: '2002-09-18 16:54:29 +0100'
+categories:
+- Old Blog
+tags: []
+comments: []
+---
+<!-- more -->
+
+<p>You may have noticed <a href="http://www.guardian.co.uk/guardian_jobs_and_money/story/0,3605,791494,00.html">nectar</a>, you may notice it yet.</p>
+
+<p>I was reading about it in the Guardians nice and scary <a href="http://www.guardian.co.uk/bigbrother/privacy/0,12377,783005,00.html">Big Brother</a> section (they&#8217;ve been running on Saturday for the last few weeks). The slant of the article was, as you&#8217;d expect, using this new loyalty card scheme as an example of the way companies are now ganging together to collate and share the data they&#8217;re already gathering in vast quantities on every single one of us (except <a href="http://sorehead.org/">KEv</a> who cunningly pays in cash at the supermarket). The point being that by using this scheme you&#8217;ll be allowing BP to know what you buy in the way of groceries from Sainsburys, Debenhams to know how much petrol you consume each week, and Barclays to know all about those flamboyant Argos spending spree&#8217;s you go on monthly (OK maybe not).</p>
+
+<p>I happened to pop into my local BP station yesterday to buy some ice cream (for medicinal purposes you understand) and it was like a kind of purple Christmas in there. There was posters up everywhere with advertising, leaflets festooning every surface and I had to wait patiently in line, ice creams melting in my hand as the lovely lady behind the counter had to explain to each and every customer in line, the benefits and advantages of this nationwide surveillance scheme.</p>
+

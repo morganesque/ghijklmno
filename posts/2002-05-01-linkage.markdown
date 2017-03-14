@@ -1,0 +1,25 @@
+---
+layout: post
+status: publish
+published: true
+title: Linkage
+author:
+  display_name: Tom
+  login: admin
+  email: tsmorgan@gmail.com
+  url: ''
+author_login: admin
+author_email: tsmorgan@gmail.com
+wordpress_id: 449
+wordpress_url: http://ghijklmno.net/linkage/
+date: '2002-05-01 08:52:32 +0100'
+date_gmt: '2002-05-01 08:52:32 +0100'
+categories:
+- Old Blog
+tags: []
+comments: []
+---
+<!-- more -->
+
+<p>Kev is having a <a href="http://www.sorehead.org/">week of movies and music</a>. Very nice.</p>
+

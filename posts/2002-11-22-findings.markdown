@@ -1,0 +1,27 @@
+---
+layout: post
+status: publish
+published: true
+title: Findings
+author:
+  display_name: Tom
+  login: admin
+  email: tsmorgan@gmail.com
+  url: ''
+author_login: admin
+author_email: tsmorgan@gmail.com
+wordpress_id: 512
+wordpress_url: http://ghijklmno.net/findings/
+date: '2002-11-22 09:04:12 +0000'
+date_gmt: '2002-11-22 09:04:12 +0000'
+categories:
+- Old Blog
+tags: []
+comments: []
+---
+<!-- more -->
+
+<p>It seems that they might have <a href="http://www.orange-today.co.uk/news/story/sm_713677.html">prooved</a> that pot has some long lasting effects on the mental health of those who use it a lot, particularly from an early age. At the end of the Today Porgramme&#8217;s segment on this story this morning they said that these finding "would serve as a warning for countries who might be planning to legalise the drug".</p>
+
+<p>What? A drug that has potential negative effects on your health, particularly if over-used from an early age??? Shit, we&#8217;d better not make that legal then.</p>
+

@@ -1,0 +1,25 @@
+---
+layout: post
+status: publish
+published: true
+title: AS Tart
+author:
+  display_name: Tom
+  login: admin
+  email: tsmorgan@gmail.com
+  url: ''
+author_login: admin
+author_email: tsmorgan@gmail.com
+wordpress_id: 639
+wordpress_url: http://ghijklmno.net/as-tart/
+date: '2007-10-03 09:32:00 +0100'
+date_gmt: '2007-10-03 09:32:00 +0100'
+categories:
+- Uncategorized
+tags: []
+comments: []
+---
+<!-- more -->
+
+<p>Someone once said that blogging was a good way to learn about something. Well he's to blame for what follows, not me! Enjoy!</p>
+

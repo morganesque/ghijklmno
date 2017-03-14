@@ -1,0 +1,31 @@
+---
+layout: post
+status: publish
+published: true
+title: Holiday
+author:
+  display_name: Tom
+  login: admin
+  email: tsmorgan@gmail.com
+  url: ''
+author_login: admin
+author_email: tsmorgan@gmail.com
+wordpress_id: 568
+wordpress_url: http://ghijklmno.net/holiday/
+date: '2003-06-11 09:15:38 +0100'
+date_gmt: '2003-06-11 09:15:38 +0100'
+categories:
+- Old Blog
+tags: []
+comments: []
+---
+<!-- more -->
+
+<p>So yeah...</p>
+
+<p class="firstpar">We&#8217;re off to Paris for a weeks holiday soon. It&#8217;s just getting to the stage now where I&#8217;m reading the guide book and having a look at the map and thinking about which parts of it we absolutely definietly must not miss. There&#8217;s a hell of a lot of it you know.</p>
+
+<p>Obviously there&#8217;s art which (yes, I know) I mustn&#8217;t try and fill the whole holiday with because I&#8217;m not going by myself and not everyone wants to spend five days in the most romantic city in tht world staring at long dried paint in stuffy art galleries when there&#8217;s shopping to be had only a few moments walk away. But which bits should I try and see? Do you go for all the big famous ones or try and discover something different that you mightn&#8217;t have expected. I remember on a Uni trip to New York (making myself seem all sophisticated and well travelled here) seeing a small exhibition in a little gallery somewhere, by this video artist (can&#8217;t remember his name), was probably the hi-light of the trip (art-wise) whereas although it was nice to finally see the big famous paintings, the galleries were often mad jam packed and it felt a little bit more like I was just ticking them off rather than really enjoying them.</p>
+
+<p>So far I definietly want to go to the <a href="http://www.louvre.fr/">Louvre</a>, and the <a href="http://www.cnac-gp.fr/Pompidou/Home.nsf/docs/fhome">Centre Pompidou</a>, and the <a href="http://www.musee-orsay.fr:8081/ORSAY/orsaygb/HTML.NSF/By+Filename/mosimple+index?OpenDocument">Musee d&#8217;Orsay</a> so I suppose those are the big ones aren&#8217;t they. Maybe I&#8217;ll discover something little and exciting along the way.</p>
+

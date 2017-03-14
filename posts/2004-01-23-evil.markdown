@@ -1,0 +1,33 @@
+---
+layout: post
+status: publish
+published: true
+title: Evil
+author:
+  display_name: Tom
+  login: admin
+  email: tsmorgan@gmail.com
+  url: ''
+author_login: admin
+author_email: tsmorgan@gmail.com
+wordpress_id: 599
+wordpress_url: http://ghijklmno.net/evil/
+date: '2004-01-23 08:26:00 +0000'
+date_gmt: '2004-01-23 08:26:00 +0000'
+categories:
+- Old Blog
+tags: []
+comments: []
+---
+<!-- more -->
+
+<p>There was a woman on the news this morning being berated for saying that she might become a suicide bomber if she&#8217;d had to live in the conditions that some Palestinians have had to recently. She was an MP I think. I know very little about the situation in Palestine to be honest (only snippets of news).</p>
+
+<p>The point though seemed to be that in saying this she was sypathising with and therefore condoning suicide bombers and what they do. And so, seeing as what they do is evil, she must be being evil by condoning it.</p>
+
+<p>It seemed to me that, although the act of the suicide bomber is most certainly evil, branding the people who do it evil doesn&#8217;t serve to do anything more than provide a rather lazy way for us to avoid having to really think about (and maybe try to understand) why they do it. The theory seems to go that evil people will do evil things simply because they&#8217;re evil. What can you do about evil people?</p>
+
+<p>I don&#8217;t personally believe in evil people. I think evil, if there is such a thing, is in people actions not who they are. I think people can be mistaken, they can be ignorant, or motivated by a huge selfishness. I think people can be scared, or angry, or bitter. I think sometimes people can be sick, derranged or just plain mentally ill.</p>
+
+<p>I just don&#8217;t think they can be evil.</p>
+

@@ -1,0 +1,31 @@
+---
+layout: post
+status: publish
+published: true
+title: Stag
+author:
+  display_name: Tom
+  login: admin
+  email: tsmorgan@gmail.com
+  url: ''
+author_login: admin
+author_email: tsmorgan@gmail.com
+wordpress_id: 476
+wordpress_url: http://ghijklmno.net/stag/
+date: '2002-08-06 14:09:59 +0100'
+date_gmt: '2002-08-06 14:09:59 +0100'
+categories:
+- Old Blog
+tags: []
+comments: []
+---
+<!-- more -->
+
+<p>This weekend I attended a stag weekend in Edinburgh prior to next weeks happy hitching of Adrian to Gale.</p>
+
+<p>Got the train from Preston which was packed to the brim with people going up for the festival, and a surprising amount of other stag/hen parties. Needless to say a train had been cancelled earlier meaning our poor carriage had the task of carrying twice it&#8217;s capacity, and even more needless to say there was no chance of us getting to sit in our pre-booked seats. So we toodled off to first class and sat there for the entire journey, free of any upgrade charge and very comfortable thankyou-kindly (much to the chargrin of those already there).</p>
+
+<p>Stag do was great with much drinking and .... errr... well much drunk.</p>
+
+<p>Needless to say, we didn&#8217;t get to sit in first class on the way home.</p>
+
