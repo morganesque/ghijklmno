@@ -30,4 +30,3 @@ comments: []
 <p>Still it feels to me like the URL should stay. One of the things I&#8217;ve been thinking a lot about recently is the idea that links on HTML pages aren't really like connections. They're more like signposts. They send you off somewhere by telling you where to go. The fact that everything on the web has an address means they can do this, and that URL and be copied and shared and it'll always go to the same place. When that isn't the case something it isn't the web and there's no harm in users seeing that.</p>
 
 <p>Of course it can be done badly, confusingly, and even in a malicious and misleading kind of way, but that&#8217;s not to say that it shouldn't be there. By taking it away we remove and important clue which allows people to form a mental model of the web that makes sense; one that corresponds to reality.</p>
-
