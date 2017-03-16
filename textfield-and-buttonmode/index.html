@@ -38,7 +38,7 @@
 
   <div class="main__content">
       <h1 class="post__title">TextField and buttonMode</h1>
-      <p class="post__date">&mdash; 12th December 2007</p>
+      <p class="post__date">&mdash; 7th December 2007</p>
       <div class="post__content content">
         
         <p>Right so you want to create a click-able bit of text. So you create a TextField and stick your text in there and then you&#39;ll be wanting to addEventListener on that. Excellent, you&#8217;ve made your text click-able. You might be thinking &quot;that&#8217;s great, but why doesn&#39;t my mouse pointer change when I hover over the text&quot;. Well, that&#8217;s because you need to define the buttonMode to be true, to tell Flash that this thing you&#39;re creating is going to be a bit like a button. However, TextFields can&#39;t have a buttonMode. Only descendants of Sprite can have buttonMode. So what you need to do is create a Sprite and add the TextField to that before adding the Sprite to the stage.&quot;But my mouse pointer still doesn&#39;t change when I hover over the text!?!&quot;Well that&#8217;s because the Sprite you&#8217;ve created is empty apart from TextField and the TextField is still dealing with the MouseEvent. MOUSE_OVER by itself. We need to tell Flash that anything contained in the Sprite should be ignored in terms of what the mouse is doing. That&#8217;s where mouseChildren comes in.
