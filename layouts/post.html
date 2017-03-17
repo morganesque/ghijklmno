@@ -4,7 +4,7 @@
 
   <div class="main__content">
       <h1 class="post__title">{{page.title}}</h1>
-      <p class="post__date">&mdash; {{ page.date | formatDate("Mo MMMM Y") }}</p>
+      <p class="post__date">&mdash; {{ page.date | formatDate("Do MMMM Y") }}</p>
       <div class="post__content content">
         {% if page.standfirst %}<p class="standfirst">{{ page.standfirst }}</p>{% endif %}
         {{ page.content | safe }}

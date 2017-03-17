@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: "Curiosity, Enthusiasm &amp; Optimism"
+title: "Curiosity, Enthusiasm & Optimism"
 image:
 standfirst: 'How important is it that everyone in agile teams has a high level of skill, experience or seniority? Not very important at all.'
 ---

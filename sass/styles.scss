@@ -4,6 +4,7 @@ $primary:#666;
 $secondary:hsl(10,22%,62%);
 $tertiary:hsl(190,76%,42%);
 $blockquote:rgba($secondary,0.17);
+$aside:desaturate(lighten($tertiary,50),20);
 
 $global-border-box:true;
 
@@ -124,18 +125,28 @@ p {
     margin-bottom:2em;
   }
   blockquote {
-    padding:$bsu 2*$bsu;
-    margin-bottom:$bsu;
-    border-left:$bsu/4 solid $secondary;
+    font-style:italic;
+    font-size:1.1em;
+    padding:$bsu 2*$bsu 1.5*$bsu;
+    margin:2*$bsu 0;
+    border-left:$bsu/2 solid $secondary;
     background-color:$blockquote;
   }
-  h3.aside {
-    float:left;
-    color:$secondary;
-    margin:0 1em 0 0;
-    font-size:0.62em;
-    text-transform:uppercase;
-    letter-spacing:0.1em;
+  blockquote.aside {
+    background-color:$aside;
+    font-style:italic;
+    font-size:1em;
+    h3 {
+      float:left;
+      color:$secondary;
+      margin:2px $bsu/2 0 0;
+      font-size:0.84em;
+      text-transform:uppercase;
+      letter-spacing:0.1em;
+      font-style:normal;
+      font-family:sans-serif;
+      font-weight:bold;
+    }
   }
   pre, code {
     font-size:0.7em;
@@ -278,5 +289,3 @@ p {
   border-bottom: 1px dashed #EEE;
   background: #999;
 }
-
-.fish { background-color: red; }

@@ -18,8 +18,8 @@ Yet looking at it’s treatment here I was surprised. Instead of the aforementio
 
 Yes, The Sneetches seems at first to describe a situation analogous to racism. Two very similar types of creature, separated by a small difference in appearance, live segregated lives because one set ostracises the other because of that difference. Some sneetches have stars on their belly some don’t.
 
-<blockquote>
-Aside: rhyming “stars” with “thars” as in “the plain belly sneetches had none upon thars” is probably my favourite example of Dr Seuss's brilliantly blase attitude to neologism in aid of making a rhyme work.
+<blockquote class="aside">
+<h3>aside:</h3> Rhyming “stars” with “thars” as in “the plain belly sneetches had none upon thars” is probably my favourite example of Dr Seuss's brilliantly blase attitude to neologism in aid of making a rhyme work.
 </blockquote>
 
 However, then “a stranger drove up in the strangest of cars” and this is where the story changes. This new guy is called McBean and he's an inventor, an entrepreneur and he has a solution. He has a machine which will put belly stars onto plain bellied sneetches thereby rendering the whole star-apartheid situation moot. In fact, rendering any comparison to racism moot. People can't change their race but here we have a character offering to allow the sneetches the chance to change. So could Dr Seuss really be taking aim at racism?
