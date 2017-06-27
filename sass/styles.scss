@@ -133,13 +133,15 @@ p {
     background-color:$blockquote;
   }
   blockquote.aside {
+    $darkside:darken($aside,42);
     background-color:$aside;
     font-style:italic;
     font-size:1em;
+    border-left:$bsu/2 solid $darkside;
     h3 {
       float:left;
-      color:$secondary;
-      margin:2px $bsu/2 0 0;
+      color:$darkside;
+      margin:4px $bsu/2 0 0;
       font-size:0.84em;
       text-transform:uppercase;
       letter-spacing:0.1em;
@@ -288,4 +290,8 @@ p {
   border: 0;
   border-bottom: 1px dashed #EEE;
   background: #999;
+}
+.emphasis {
+  font-weight:700;
+  font-size:1.1em;
 }
