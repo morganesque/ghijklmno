@@ -5,7 +5,9 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node lib/index.js"
+    "start": "node lib/index.js",
+    "newpost": "node lib/newpost.js",
+    "renamepost": "node lib/rename.js"
   },
   "author": "",
   "license": "ISC",
@@ -14,12 +16,15 @@
     "colors": "^1.1.2",
     "filendir": "^1.0.0",
     "gaze": "^1.1.2",
+    "humanize-duration": "^3.10.0",
     "lodash": "^4.17.4",
     "marked": "^0.3.6",
     "moment": "^2.17.1",
-    "momentjs": "^2.0.0",
     "node-sass": "^4.5.0",
     "nunjucks": "^3.0.0",
+    "prompt": "^1.0.0",
+    "slugify": "^1.1.0",
     "yaml-front-matter": "^3.4.0"
-  }
+  },
+  "devDependencies": {}
 }
