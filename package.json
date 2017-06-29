@@ -7,7 +7,8 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node lib/index.js",
     "newpost": "node lib/newpost.js",
-    "renamepost": "node lib/rename.js"
+    "renamepost": "node lib/rename.js",
+    "renew": "node lib/renew.js"
   },
   "author": "",
   "license": "ISC",
