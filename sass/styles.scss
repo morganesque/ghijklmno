@@ -150,6 +150,9 @@ p {
       font-weight:bold;
     }
   }
+  blockquote.small {
+    font-size:1em;
+  }
   pre, code {
     font-size:0.7em;
     background-color:rgba(desaturate($tertiary,42),0.14);
