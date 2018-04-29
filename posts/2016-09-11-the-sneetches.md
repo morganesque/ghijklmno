@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: "The Sneetches"
+title: "The Sneetches Isn't About Racism"
 image: "/img/2016/sneetches.jpg"
 standfirst: "In which I discover a three year old meme and get all pedantic about it as an excuse to write a long post about one of my favourite Dr Seuss books."
 ---

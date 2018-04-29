@@ -4,6 +4,10 @@ title: "Will it write? Showing up"
 image: "/img/2017/rabbits.jpg"
 standfirst: "So here I am sitting waiting for the oven to cook some fish and I was thinking how often I tend to regard writing a blog post as some kind of essay that I need to deliberate over and hone like a piece of homework which is why I rarely write anything."
 ---
+<blockquote class="small">
+UPDATE: this blog post mentions a couple of people about who personally I have conflicted feelings. It was written before some of the recent revelations, but that isn't really the point. My inclusion of both in here isn't meant to be an endorsement of them individually. I hope that it's still OK to mention the ideas I've quoted without it being seen that way.
+</blockquote>
+
 Isn’t a blog meant to be more like a stream of consciousness which you are splurging out into a largely uninterested universe for no other reason than you have found yourself with a spare moment with nothing to do but wait for tea to be done?
 
 No&hellip; blogs can be either of these things and what I’m doing above is more like setting out the two ends of a spectrum which I mostly sit in the middle of. Of course the need for quality drives us to try our best when splurging out things into the universe and so that means that we naturally want to take a little care over the type of things we write. On the other hand this blog is clearly not important, or paid for, or really read by that many people so the need for that level of quality (especially if is it slightly paralysing) is probably counter-productive.
