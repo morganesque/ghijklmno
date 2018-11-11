@@ -2,14 +2,11 @@
 
 {% block page_content %}
 
-  {# <div class="main__content">
+  <div class="main__content">
       <h1 class="post__title" style="text-align:center">{{page.title}}</h1>
       <div class="post__content content">
-        {% if page.standfirst %}<p class="standfirst">{{ page.standfirst }}</p>{% endif %}
         {{ page.content | safe }}
       </div>
-  </div> #}
-
-  {{ page.content | safe }}
+  </div>
 
 {% endblock %}
