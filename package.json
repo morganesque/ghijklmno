@@ -8,7 +8,8 @@
     "start": "node lib/index.js",
     "newpost": "node lib/newpost.js",
     "rename": "node lib/rename.js",
-    "renew": "node lib/renew.js"
+    "renew": "node lib/renew.js",
+    "page": "node lib/makePage.js"
   },
   "author": "",
   "license": "ISC",
@@ -21,7 +22,7 @@
     "lodash": "^4.17.4",
     "marked": "^0.3.6",
     "moment": "^2.17.1",
-    "node-sass": "^4.5.0",
+    "node-sass": "^4.10.0",
     "nunjucks": "^3.0.0",
     "prompt": "^1.0.0",
     "slugify": "^1.1.0",
