@@ -1,11 +1,11 @@
 ---
 layout: post
 title: "Evolution for revolution?"
-image: "https://media.giphy.com/media/125slz3X3tqb84/giphy.gif"
-standfirst: "In which I talk about evolution as if it was affected by gravity. Which it is, but not in the way I suggest. It’s rather a clumsy metaphor but hopefully the point I’m making isn’t too obscured by that, or by this needlessly long preamble for that matter."
+image: "/img/2018/gravity.gif"
+standfirst: "In which I talk about making change happen by evolution, but then talk about evolution as if it was affected by gravity, which it is, but not in the way I suggest. It’s rather a clumsy metaphor but hopefully the point I’m making isn’t too obscured by that, or by this needlessly long preamble for that matter."
 ---
 
-I’ve been thinking a lot recently about making change happen. Change can come in lots of forms two of which are revolution and evolution.
+I’ved been thinking a lot recently about making change happen. Change can come in lots of forms two of which are revolution and evolution.
 
 For revolution you want to go to the centre, from there you can destroy everything and replace it with someone else. This sometimes happens and when it does it can be thrilling to witness. Sometimes however, that’s not possible. If you can’t destroy everything and start again then maybe you need to try evolution.
 
