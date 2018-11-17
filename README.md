@@ -27,7 +27,7 @@ The `build/` folder is a `gh-pages` branch of the same git repo so it's separate
 I tend to create a new branch for new blog posts and then merge them back to master once I've published them. This means that the `build/` folder can kind of get cluttered if I'm working on multiple new posts at different time.
 
 If I want to clean up `build/` in order to publish a new blog post I run
-`git reset --head` (reverts changes to modified files)
+`git reset --hard` (reverts changes to modified files)
 and then
 `git clean -fd` (removes all untracked files and directories)
 to clear get it ready.
