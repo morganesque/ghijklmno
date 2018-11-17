@@ -1,6 +1,6 @@
 ---
 layout: post
 title: "{{ title }}"
-image: ""
+image: "/img/2018/..."
 standfirst: ""
 ---
