@@ -19,7 +19,9 @@ However, I don’t think it is true, and the reason is Jeff Goldblum.
 
 <img class="img-full" src="{{ page.image }}" alt="jeff goldblum lounging"/>
 
-It was my son’s turn to pick a family film recently and he chose Jurassic Park. Before long we were subjected to Jeff’s [rather creepy explanation of chaos theory](https://www.youtube.com/watch?v=5cVLUPwrSmU) to Laura Dern whilst Sam Neil is distracted by … dinosaurs or something. The point he makes is that in a complex system tiny differences in initial conditions a) never repeat and b) can vastly affect the outcome.
+It was my son’s turn to pick a family film recently and he chose Jurassic Park. Before long we were subjected to Jeff’s [rather creepy explanation of chaos theory](https://www.youtube.com/watch?v=5cVLUPwrSmU) to Laura Dern whilst Sam Neil is distracted by … dinosaurs or something. He says this:
+
+<blockquote>In a complex system tiny differences in initial conditions a) never repeat and b) can vastly affect the outcome.</blockquote>
 
 It struck me that this is exactly what we’re faced with in work. A complex system. Not just the complex bureaucracy and processes we are attempting to improve but also in the complex organisational structures and team dynamics of the people attempting to get things done. The huge amount of variables in these situation render them &ldquo;complex&rdquo; in just the way Jeff is describing.
 
