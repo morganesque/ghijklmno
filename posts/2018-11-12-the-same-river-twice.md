@@ -2,7 +2,7 @@
 layout: post
 title: "The Same River Twice"
 image: "/img/2018/jeff.jpg"
-standfirst: "Working in the civil service we’re mostly looking at problems that have been around for a long time. Not only that but in searching for and refining our understanding of user needs we’re deliberately trying to look for those timeless problems specifically to prevent us from being distracted by more parochial concerns."
+standfirst: "Working in the civil service we’re mostly looking at problems that have been around for a long time. Not only that but in searching for and refining our understanding of user needs we’re deliberately trying to look for those timeless problems."
 ---
 
 It’s not surprising then to sometimes come up against a kind of fatalism from our colleagues, especially those who have seen attempts made numerous times to solve these (or related) problems.
