@@ -2,10 +2,10 @@
 layout: post
 title: "Spiderman and the retelling of stories"
 image: "/img/2018/..."
-standfirst: "My son got the Spiderman PS4 game for Xmas. It is great. Apart from the joyous experience of swinging through Manhattan is has an excellent central plot too."
+standfirst: "My son got the Spiderman PS4 game for Xmas. It is great. Apart from the joyous experience of swinging through Manhattan it has an excellent central plot too."
 ---
 
-I’m not a huge Spiderman aficionado, but I’ve seen enough films and childhood cartoons to know most of the folklore and recognise the characters. Especially the way the super-villains are introduced and given various types of an origin story. I liked the idea that in this version the characters are woven together in a different but still recognisable way. This character starts over here doing something with that character. This other character works in this place, but they're interested in that. It’s a good re-telling, and it adds to the enjoyment of the game. Fishing isn’t writ.
+I’m not a huge Spiderman aficionado, but I’ve seen enough films and childhood cartoons to know most of the folklore and recognise the characters. Especially the way the super-villains are introduced and given various types of an origin story. I liked the idea that in this version the characters are woven together in a different but still recognisable way. This character starts over here doing something with that character. This other character works in this place, but they're interested in that. It’s a good re-telling, and it adds to the enjoyment of the game.
 
 We also saw Mary Poppins Returns over the Christmas period. Again a retelling of a childhood favourite but with certain parts twisted and changed. I have to say I enjoyed it a lot although I would have liked a slightly more Julie Andrews-ish performance from Emily Blunt. It had just the same wonderfully imaginative, good-natured and nutty appeal of the original. It interested me recently, to hear it compared to Star Wars: The Force Awakens for pleasing fans while also creating something new.
 
