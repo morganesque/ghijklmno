@@ -15,7 +15,7 @@ At other times the context that the team finds itself working in includes an asp
 
 The team then has to live with a kind of cognitive dissonance. Are we doing this one way? Or are we doing it another?
 
-The processes and ceremonies or agile assume a multidisciplinary team. Faced with these hierarchical pressures, they stop working. Members of the team start to become confused and disconnected from the purpose and the direction that the team is going in. The things that make agile work begin to get left behind, even while people try to keep working as if they’re still doing it.
+The processes and ceremonies of agile assume a multidisciplinary team. Faced with these hierarchical pressures, they stop working. Members of the team start to become confused and disconnected from the purpose and the direction that the team is going in. The things that make agile work begin to get left behind, even while people try to keep working as if they’re still doing it.
 
 Agile needs to be a process of continual renewal. Both in terms of the work that is being done and the ways of working employed. I'm beginning to feel that checking whether we’ve drifted back into a hierarchical situation needs to be an integral part of that renewal. It needs to be a question we keep asking and one of the critical ways we judge whether an agile team is functioning correctly.
 
