@@ -7,7 +7,7 @@ image:
 standfirst: 'How important is it that everyone in agile teams has a high level of skill, experience or seniority? Not very important at all.'
 ---
 
-In a multi-disciplinary team, you’re very unlikely ever to get the whole team to be on exactly the same level in terms of experience. I was thinking recently that in this environment experience isn’t actually the most important factor in terms of contribution.
+In a multidisciplinary team, you’re very unlikely ever to get the whole team to be on exactly the same level in terms of experience. I was thinking recently that in this environment experience isn’t actually the most important factor in terms of contribution.
 
 Of course, an experienced person will perhaps bring more in certain areas and will maybe be able to contribute in a wider range of activities. But it’s the team as a whole that matters and the experience of individual members is less important.
 

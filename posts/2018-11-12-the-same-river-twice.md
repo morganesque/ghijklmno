@@ -25,7 +25,7 @@ It was my son’s turn to pick a family film recently and he chose Jurassic Park
 
 It struck me that this is exactly what we’re faced with in work. A complex system. Not just the complex bureaucracy and processes we are attempting to improve but also in the complex organisational structures and team dynamics of the people attempting to get things done. The huge amount of variables in these situation render them &ldquo;complex&rdquo; in just the way Jeff is describing.
 
-There are so many different factors at play. Different people, different stakeholders, different technology, different context. Even on a very small scale (for example, just within a small multi-disciplinary team), the idea that you could ever really repeat yourselves is nonsense. The question isn’t: Have we done this before? but: Is this a valuable thing to try now?
+There are so many different factors at play. Different people, different stakeholders, different technology, different context. Even on a very small scale (for example, just within a small team), the idea that you could ever really repeat yourselves is nonsense. The question isn’t: Have we done this before? but: Is this a valuable thing to try now?
 
 I’m not saying we should not try to learn anything from history. Of course understanding past mistakes is a must, if you can. But too often when people say these things what they're really saying is "Don't bother". This is not just a counsel of despair but it's also a counsel of inaction.
 
