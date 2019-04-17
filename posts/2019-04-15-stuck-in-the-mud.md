@@ -1,13 +1,9 @@
 ---
 layout: post
 title: "Stuck in the Mud"
-image: "/img/2018/..."
-standfirst: "This is something that's been kicking around my head for a while. I always thought I’d include it in a talk but never did. So here it is."
+image: "/img/2019/mysterymachine.jpg"
+standfirst: "When you think about how you'd like work to be, what do you think of? It's Scooby Doo isn't it? Me too! Just look at this."
 ---
-
-When you think about how you'd like work to be, what do you think of?
-
-It's Scooby Doo isn't it? Me too! Just look at this.
 
 <img class="img-full" src="/img/2019/mysterymachine.jpg" />
 
