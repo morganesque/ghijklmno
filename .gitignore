@@ -33,3 +33,5 @@ Thumbs.db
 # Ignore for Yeoman-Jekyll projects #
 node_modules
 drafts
+img
+js
