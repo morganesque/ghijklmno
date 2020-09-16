@@ -12,6 +12,9 @@
     <meta name="description" content="Tom Morgan's blog">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link href="https://fonts.googleapis.com/css?family=Volkhov" rel="stylesheet">
+    {% if page.canonical %}
+    <link rel="canonical" href="{{ page.canonical }}" />
+    {% endif %}
     <link rel="stylesheet" href="/css/styles.css">
     <!-- <script src="/js/modernizr.js"></script> -->
     <meta property="og:type" content="article">
