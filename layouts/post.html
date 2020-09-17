@@ -8,6 +8,9 @@
       <div class="post__content content">
         {% if page.standfirst %}<p class="standfirst">{{ page.standfirst }}</p>{% endif %}
         {{ page.content | safe }}
+        {% if page.canonical %}
+        <p class="note">First published at: <a href="{{ page.canonical }}">{{ page.canonical }} </a></p>
+        {% endif %}
       </div>
       <div class="post__nextprev cf">
         {% if page.previous.url %}
