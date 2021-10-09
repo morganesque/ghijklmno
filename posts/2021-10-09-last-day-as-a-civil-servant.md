@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Moving on (kind of)"
+title: "Moving on"
 image: "/img/2021/me-quarry.jpg"
 standfirst: "Ending my six and a half year stint as a civil servant today with a solitary trip to Quarry House to clear my locker and hand all my accumulated tech back to the nice man at the tech bar."
 canonical: ""
