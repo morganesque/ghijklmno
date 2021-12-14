@@ -35,7 +35,7 @@ h3 { font-size:1.5rem;}
   margin:0 auto $bsu;
   padding:0 1em;
   @include aboveOr(pem(560)){padding:0 3em; margin-bottom:$bsu*2}
-  @include aboveOr(pem(960)){max-width:47.37em;}
+  @include aboveOr(pem(960)){max-width:42em;}
 }
 
 .logo {
