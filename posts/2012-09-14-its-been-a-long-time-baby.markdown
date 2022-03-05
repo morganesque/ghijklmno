@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: It&#8217;s been a long time baby
+title: It’s been a long time baby
 author:
   display_name: Tom
   login: admin
@@ -44,4 +44,3 @@ comments: []
 <p>So with a bit of help from various export and import features of the various blogging platforms I&#8217;ve used over the years, and with a bit of hand crafted XML (the oldest blog was all my own work) I&#8217;ve managed to gather the entire lot in one place and now this is the home to that.</p>
 
 <p>I probably should have done it all along. Hindsight. Anyway it feels good to tidy things up a little, to find a place for everything and put everything in it&#8217;s place. No doubt now silence will descend again. Twas ever thus.</p>
-
