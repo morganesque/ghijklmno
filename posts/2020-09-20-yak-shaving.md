@@ -5,7 +5,7 @@ image: "/img/2020/yak.jpg"
 standfirst: ""
 canonical: ""
 ---
-You know [yak shaving](https://americanexpress.io/yak-shaving/) right? It's that idea that you start with a problem, then find that to solve that problem you need to solve another. Then you realise you can only solve this second problem by solving a third. And this goes on and on, until before you know it - so the saying goes - you find yourself halfway up a mountainside shaving a yak. And you think, "How did I get here?" Well, that's how I think of it anyway.
+You know [yak shaving](https://americanexpress.io/yak-shaving/) right? It's that idea that you start with a problem, then find that to solve that problem you need to solve another. Then you realise you can only solve this second problem by solving a third. And this goes on and on, until before you know it - so the saying goes - you find yourself halfway up a mountainside shaving a yak. And you think, "How did I get here?"
 
 <img class="img-full" src="{{ page.image }}" alt="Lazy Tom supplied no alt text, give him grief!" />
 
