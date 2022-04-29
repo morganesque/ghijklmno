@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: Scott Joplin &amp; the acquisition of skills
+title: Scott Joplin & the acquisition of skills
 author:
   display_name: Tom
   login: admin
@@ -36,4 +36,3 @@ comments: []
 <p>I think about all this now because it&#8217;s these kind of lessons I want my kids to learn. It&#8217;s hard because the only way to learn it is through experience and it&#8217;s almost impossible to engineer. But thinking about how I came to understand stuff like this is sometimes useful. Maybe just to keep it in mind when opportunities to give my kids opportunities arise.</p>
 
 <p>The American TV Show Yo Gabba Gabba included a song in which the lyrics went "keep on trying, keep on trying, never give up, never give up". It has become a kind of tradition in our house that if someone is obviously throwing up their hands and walking away from a thing we sing it to them. It&#8217;s an incredibly annoying song, and incredibly annoying to have it sung to you in those situations. Still every little helps.</p>
-
