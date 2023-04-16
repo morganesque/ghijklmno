@@ -14,7 +14,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "browser-sync": "^2.18.8",
+    "browser-sync": "^2.29.1",
     "colors": "^1.1.2",
     "filendir": "^1.0.0",
     "gaze": "^1.1.2",
