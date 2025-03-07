@@ -87,6 +87,7 @@ p {
   font-size:2em;
   line-height:1.2;
   margin-bottom:$bsu*1;
+  text-wrap:balance;
   @include aboveOr(pem(640)) {
     font-size:3em;
     line-height:1.1;

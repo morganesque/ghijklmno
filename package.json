@@ -9,6 +9,7 @@
     "newpost": "node lib/newpost.js",
     "rename": "node lib/rename.js",
     "renew": "node lib/renew.js",
+    "slot": "node lib/slot.js",
     "page": "node lib/makePage.js"
   },
   "author": "",
@@ -22,7 +23,7 @@
     "lodash": "^4.17.21",
     "marked": "^0.3.19",
     "moment": "^2.29.2",
-    "node-sass": "^7.0.0",
+    "node-sass": "^9.0.0",
     "nunjucks": "^3.0.0",
     "prompt": "^1.0.0",
     "slugify": "^1.1.0",
