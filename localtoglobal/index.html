@@ -4,7 +4,9 @@
 <!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
 <!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
 <head>
-    <title>localToGlobal - Ghijklmno - Tom Morgan</title>
+  
+    <title>localToGlobal - Ghijklmno - Tom Morgan’s blog</title>
+  
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="author" content="Tom Morgan">
@@ -12,11 +14,12 @@
     <meta name="description" content="Tom Morgan's blog">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link href="https://fonts.googleapis.com/css?family=Volkhov" rel="stylesheet">
+    
     <link rel="stylesheet" href="/css/styles.css">
     <!-- <script src="/js/modernizr.js"></script> -->
     <meta property="og:type" content="article">
     <meta property="og:title" content="localToGlobal">
-    <meta property="og:site_name" content="Ghijklmno - Tom Morgan">
+    <meta property="og:site_name" content="Ghijklmno - Tom Morgan’s blog">
     <meta property="og:url" content="http://ghijklmno.net">
     <meta property="og:description" content="">
     <meta property="og:type" content="article">
@@ -45,6 +48,7 @@
 <pre class="brush:as3; gutter:false; wrap-lines:false">var p:Point = new Point(toe.x,toe.y);var np:Point = toe.parent.localToGlobal(p);</pre>What I&#39;m doing there is finding out the actual global position of the <span style="font-style: italic;">toe</span>. So I create a new <span style="font-weight: bold;">Point</span> and pass in the <span style="font-style: italic;">x</span> and <span style="font-style: italic;">y</span> coordinates of <span style="font-style: italic;">toe</span>. Then I can find out where actually it is on the stage by  passing that <span style="font-weight: bold;">Point</span> into the function <span style="font-weight: bold;">localToGlobal</span>.Remember the key point here is that it&#8217;s the <span style="font-style: italic;">toe</span>&#39;s parent (the <span style="font-style: italic;">foot</span>?) which has to call the function because of course the <span style="font-style: italic;">x</span> and <span style="font-style: italic;">y</span> coordinates of <span style="font-style: italic;">toe</span> are relative to the <span style="font-style: italic;">foot</span> aren&#39;t they.</p>
 
 
+        
       </div>
       <div class="post__nextprev cf">
         

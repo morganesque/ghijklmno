@@ -4,7 +4,9 @@
 <!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
 <!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
 <head>
-    <title>Javascript, History, Resizing - Part 1 - Ghijklmno - Tom Morgan</title>
+  
+    <title>Javascript, History, Resizing - Part 1 - Ghijklmno - Tom Morgan’s blog</title>
+  
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="author" content="Tom Morgan">
@@ -12,11 +14,12 @@
     <meta name="description" content="Tom Morgan's blog">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link href="https://fonts.googleapis.com/css?family=Volkhov" rel="stylesheet">
+    
     <link rel="stylesheet" href="/css/styles.css">
     <!-- <script src="/js/modernizr.js"></script> -->
     <meta property="og:type" content="article">
     <meta property="og:title" content="Javascript, History, Resizing - Part 1">
-    <meta property="og:site_name" content="Ghijklmno - Tom Morgan">
+    <meta property="og:site_name" content="Ghijklmno - Tom Morgan’s blog">
     <meta property="og:url" content="http://ghijklmno.net">
     <meta property="og:description" content="">
     <meta property="og:type" content="article">
@@ -65,6 +68,7 @@ function resizePage(){ExternalInterface.call(&#039;resizePage&#039;,this.height)
 This must be placed at the <span style="font-weight: bold;">root</span> of your Flash movie, and called from there. I tend to use an Event or something to trigger it from elsewhere. The point here is that ExternalInterface is able to call the JavaScript function <span style="font-style: italic;"><span style="font-weight: bold;">resizePage</span> </span>and pass in the value <span style="font-style: italic; font-weight: bold;">this.height</span>. Because it&#8217;s at the root of the swf <span style="font-weight: bold; font-style: italic;">this</span> refers to the entire movie and therefore will expand and contract depending on the stuff you&#8217;ve added to it. Again I won&#39;t go into how and why you might call this function because this post is long enough already but still, I&#8217;ve found the above works pretty well, so I&#39;m happy.</p>
 
 
+        
       </div>
       <div class="post__nextprev cf">
         

@@ -4,7 +4,9 @@
 <!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
 <!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
 <head>
-    <title>addChild and removeChild and references. - Ghijklmno - Tom Morgan</title>
+  
+    <title>addChild and removeChild and references. - Ghijklmno - Tom Morgan’s blog</title>
+  
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="author" content="Tom Morgan">
@@ -12,11 +14,12 @@
     <meta name="description" content="Tom Morgan's blog">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link href="https://fonts.googleapis.com/css?family=Volkhov" rel="stylesheet">
+    
     <link rel="stylesheet" href="/css/styles.css">
     <!-- <script src="/js/modernizr.js"></script> -->
     <meta property="og:type" content="article">
     <meta property="og:title" content="addChild and removeChild and references.">
-    <meta property="og:site_name" content="Ghijklmno - Tom Morgan">
+    <meta property="og:site_name" content="Ghijklmno - Tom Morgan’s blog">
     <meta property="og:url" content="http://ghijklmno.net">
     <meta property="og:description" content="">
     <meta property="og:type" content="article">
@@ -48,6 +51,7 @@
 <pre>removeChild(img);</pre>and sure enough the last image I added is gone, but wait, what&#8217;s that? The image before that is still there. How the heck am I accidentally adding that back in?The problem goes back to the fact that the img variable isn&#39;t the same as the Loader I&#8217;ve added to the stage. It&#8217;s just a reference to that Loader. So what happens when I make the img variable reference a different Loader (i.e. the new one I&#8217;ve added)?What happens is I loose my control over the original image. It&#8217;s still sat there on the stage but now I have no way to connect to it (except perhaps by some iteration through the stage&#39;s children and possibly using removeChildAt).So the moral of the story: if you&#39;re reusing references to load different objects onto the stage (to replace each other) make sure you removeChild the referenced object first, that way you&#39;ll have nothing floating around in the background to surprise you later.</p>
 
 
+        
       </div>
       <div class="post__nextprev cf">
         

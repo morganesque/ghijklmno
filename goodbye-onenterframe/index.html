@@ -4,7 +4,9 @@
 <!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
 <!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
 <head>
-    <title>Goodbye onEnterFrame - Ghijklmno - Tom Morgan</title>
+  
+    <title>Goodbye onEnterFrame - Ghijklmno - Tom Morgan’s blog</title>
+  
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="author" content="Tom Morgan">
@@ -12,11 +14,12 @@
     <meta name="description" content="Tom Morgan's blog">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link href="https://fonts.googleapis.com/css?family=Volkhov" rel="stylesheet">
+    
     <link rel="stylesheet" href="/css/styles.css">
     <!-- <script src="/js/modernizr.js"></script> -->
     <meta property="og:type" content="article">
     <meta property="og:title" content="Goodbye onEnterFrame">
-    <meta property="og:site_name" content="Ghijklmno - Tom Morgan">
+    <meta property="og:site_name" content="Ghijklmno - Tom Morgan’s blog">
     <meta property="og:url" content="http://ghijklmno.net">
     <meta property="og:description" content="">
     <meta property="og:type" content="article">
@@ -46,6 +49,7 @@
 <pre>addEventListener(Event. ENTER_FRAME, onEnterFrame);function onEnterFrame(e:Event):void{      trace(&quot;and another frame gone!&quot;);}</pre>... but wait! If I just insert that into my old code I&#8217;ve missed a trick. You see my old onEnterFrame() function with it&#8217;s long list of if statements was doing me no good. All those if&#39;s returning false most of the time, long and unwieldy and hard to decipher the day after tomorrow. What this new addEventListener() is actually encouraging me to do is use it for just that purpose. Instead of checking and checking and checking again, I need to attach my nugget of code to the event I&#39;m waiting for. Then once it happens my code will get run. Not only that but I&#39;m left with nice, clean, well organised actionscript which I can come back to in over a week and still understand. The thing which I&#39;m still confused about right now is that apparently <q>the addEventListener() method can be called on any object that is part of the event flow</q>, but what is the event flow? And what objects are part of it?I must look into that.</p>
 
 
+        
       </div>
       <div class="post__nextprev cf">
         

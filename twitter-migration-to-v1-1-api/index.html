@@ -4,7 +4,9 @@
 <!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
 <!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
 <head>
-    <title>Twitter Migration to v1.1 API. My code breaks. I mend it.  - Ghijklmno - Tom Morgan</title>
+  
+    <title>Twitter Migration to v1.1 API. My code breaks. I mend it.  - Ghijklmno - Tom Morgan’s blog</title>
+  
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="author" content="Tom Morgan">
@@ -12,11 +14,12 @@
     <meta name="description" content="Tom Morgan's blog">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link href="https://fonts.googleapis.com/css?family=Volkhov" rel="stylesheet">
+    
     <link rel="stylesheet" href="/css/styles.css">
     <!-- <script src="/js/modernizr.js"></script> -->
     <meta property="og:type" content="article">
     <meta property="og:title" content="Twitter Migration to v1.1 API. My code breaks. I mend it. ">
-    <meta property="og:site_name" content="Ghijklmno - Tom Morgan">
+    <meta property="og:site_name" content="Ghijklmno - Tom Morgan’s blog">
     <meta property="og:url" content="http://ghijklmno.net">
     <meta property="og:description" content="">
     <meta property="og:type" content="article">
@@ -61,7 +64,7 @@
 <p><pre>$bearer_token_credentials = $consumer_key.&quot;:&quot;.$consumer_secret;
 $b64_bearer_token_credentials = base64_encode($bearer_token_credentials);</pre>
 I then had to post this string to the Twitter API at this URL:</p>
-<p><pre>$url = &#039;<a href="https://api.twitter.com/oauth2/token&amp;#039">https://api.twitter.com/oauth2/token&amp;#039</a>;;</pre></p>
+<p><pre>$url = &#039;<a href="https://api.twitter.com/oauth2/token&#039;">https://api.twitter.com/oauth2/token&#039;</a>;</pre></p>
 <p>I used CURL via PHP to do this. It took a bit of trial and error to get the CURL right but here&#39;s what I ended up with:</p>
 
 <p><pre>$headers = array(
@@ -91,7 +94,7 @@ $data = json_decode($output);</pre></p>
 <p><h3>4. Get My Twitter Feed</h3></p>
 <p>So finally I could now sent a request to the Twitter API to retrieve my timeline data. As before I needed to create a CURL request.</p>
 
-<p><pre>$url = &#039;<a href="https://api.twitter.com/1.1/statuses/user_timeline.json?count=100&amp;amp;screen_name=morganesque&amp;#039">https://api.twitter.com/1.1/statuses/user_timeline.json?count=100&amp;amp;screen_name=morganesque&amp;#039</a>;;</pre></p>
+<p><pre>$url = &#039;<a href="https://api.twitter.com/1.1/statuses/user_timeline.json?count=100&amp;amp;screen_name=morganesque&#039;">https://api.twitter.com/1.1/statuses/user_timeline.json?count=100&amp;amp;screen_name=morganesque&#039;</a>;</pre></p>
 <p>And then ... Kablammo!</p>
 
 <p><pre>$tw = curl_init($url);
@@ -110,6 +113,7 @@ var_dump($data);</pre></p>
 <p>Finally it might be worth sticking those tweets into a file and only going back to the API when that file is a bit old. Again I don&#39;t know exactly how many requests Twitter will accept before it starts getting sad about you, but unless you&#39;re updating your timeline every second and don&#39;t have too many visitors to your site, going back to the API for each and every request probably isn&#39;t a good idea.</p>
 
 
+        
       </div>
       <div class="post__nextprev cf">
         

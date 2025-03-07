@@ -4,7 +4,9 @@
 <!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
 <!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
 <head>
-    <title>startActivity - Ghijklmno - Tom Morgan</title>
+  
+    <title>startActivity - Ghijklmno - Tom Morgan’s blog</title>
+  
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="author" content="Tom Morgan">
@@ -12,11 +14,12 @@
     <meta name="description" content="Tom Morgan's blog">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link href="https://fonts.googleapis.com/css?family=Volkhov" rel="stylesheet">
+    
     <link rel="stylesheet" href="/css/styles.css">
     <!-- <script src="/js/modernizr.js"></script> -->
     <meta property="og:type" content="article">
     <meta property="og:title" content="startActivity">
-    <meta property="og:site_name" content="Ghijklmno - Tom Morgan">
+    <meta property="og:site_name" content="Ghijklmno - Tom Morgan’s blog">
     <meta property="og:url" content="http://ghijklmno.net">
     <meta property="og:description" content="">
     <meta property="og:type" content="article">
@@ -47,6 +50,7 @@
 <pre>Intent i = new Intent(this, NextActivity.class);startActivity(i);</pre>You create your Intent object and pass in the current context (<span style="font-weight: bold;">this</span>) and the Activity class that you&#39;re wanting to move to. All good?Not quite, if you run the code like this you&#39;ll get an error? Why? You haven&#39;t added the new Activity class to the manifest? Huh? The manifest needs to be told about all Activities before it&#39;ll let you view them. This seems to be the opposite of the resources situation where things are picked up automatically. I&#39;m sure there&#39;s a good reason but still... open up the AnroidManifest.xml and if you&#39;re using Eclipse (like me) there&#39;s nice easy interface for adding new Activities (under the Application tab).</p>
 
 
+        
       </div>
       <div class="post__nextprev cf">
         
