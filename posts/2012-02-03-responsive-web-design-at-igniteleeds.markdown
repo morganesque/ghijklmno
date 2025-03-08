@@ -21,7 +21,7 @@ comments: []
 ---
 <!-- more -->
 
-<p>Last night I did another <a href="http://en.wikipedia.org/wiki/Pecha_Kucha">pecha kucha</a> style talk this time at an event called <a href="http://igniteleeds.com/">Ignite</a> held at <a href="http://www.oldbroadcastinghouse.com/">Old Broadcasting House</a> in Leeds. The format is basically 20 slides each set to appear for 15 seconds and then auto-advance. As opposed to <a href="http://morganesque.com/blog/2011/04/magic-conspiracy-theories/">the BettaKulcha talk I did last April</a> this event has a more tech-heavy slant and so it was more appropriate to talk about something I do for a living.</p>
+<p>Last night I did another <a href="http://en.wikipedia.org/wiki/Pecha_Kucha">pecha kucha</a> style talk this time at an event called <a href="http://igniteleeds.com/">Ignite</a> held at <a href="http://www.oldbroadcastinghouse.com/">Old Broadcasting House</a> in Leeds. The format is basically 20 slides each set to appear for 15 seconds and then auto-advance. As opposed to <a href="http://morganesque.github.io/blog/2011/04/magic-conspiracy-theories/">the BettaKulcha talk I did last April</a> this event has a more tech-heavy slant and so it was more appropriate to talk about something I do for a living.</p>
 <!-- more -->
 <p><em>I chose to talk about Responsive Web Design. The slides are below, along with notes which (as before) are pretty much what I said or meant to say but with most of the umms and errrs removed.</em></p>
 
@@ -119,7 +119,7 @@ comments: []
 
 <p>So in conclusion I think it&#8217;s only by appreciating the way that web design is evolving, by understanding what it&#8217;s becoming and what it&#8217;s growing away from, can we start not only to redefine what web design is but also more importantly to rediscover what it has always been.</p>
 
-<p><em>(One thing I learned from <a href="http://morganesque.com/blog/2011/04/magic-conspiracy-theories/">my previous attempt at this kind of thing</a> was that you need to end with some kind of statement. Last time "I pulled a funny face, mumbled something about that being it, and quickly handed back the mike" which I didn't want to do this time. So I deliberately tried to come up with something which sounded final, so I could then say "the end" or something which would hopefully trigger polite applause. I can't remember exactly what I said now but I'm pleased that this seemed to work the way I intended. It&#8217;s nice to feel I learned something and have improved, even just a little).</em></p>
+<p><em>(One thing I learned from <a href="https://ghijklmno.net/magic-conspiracy-theories/">my previous attempt at this kind of thing</a> was that you need to end with some kind of statement. Last time "I pulled a funny face, mumbled something about that being it, and quickly handed back the mike" which I didn't want to do this time. So I deliberately tried to come up with something which sounded final, so I could then say "the end" or something which would hopefully trigger polite applause. I can't remember exactly what I said now but I'm pleased that this seemed to work the way I intended. It&#8217;s nice to feel I learned something and have improved, even just a little).</em></p>
 
 <p><a href="/img/2012/02/IgniteTalk2.020.jpg"><img title="IgniteTalk2.020" src="/img/2012/02/IgniteTalk2.020.jpg" alt="" width="100%" /></a></p>
 
