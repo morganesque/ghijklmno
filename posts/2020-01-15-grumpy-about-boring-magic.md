@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Being grumpy about boring magic"
+title: "Grumpy about boring magic"
 image: "/img/2020/drstrange.jpg"
 standfirst: "This was a quick response to a blog post about boring magic which weirdly bugged me. Just to say, all power to anyone who's making the world a better place, I'm just working out my own thoughts here."
 canonical: ""

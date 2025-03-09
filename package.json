@@ -9,6 +9,7 @@
     "newpost": "node lib/newpost.js",
     "rename": "node lib/rename.js",
     "renew": "node lib/renew.js",
+    "redate": "node lib/redate.js",
     "all": "node lib/all.js",
     "page": "node lib/makePage.js"
   },
