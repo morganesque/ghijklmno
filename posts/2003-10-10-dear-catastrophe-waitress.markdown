@@ -28,16 +28,13 @@ comments: []
 <p>But don&#8217;t take my word for it. Here&#8217;s a few reviews for your perusal.</p>
 
 <ul>
-<li><a href="http://www.rollingstone.com/reviews/cd/review.asp?aid=2047548"
->Rolling Stone</a> (short and sweet)</li>
-<li><a href="http://www.stylusmagazine.com/review.php?ID=1371"
->Stylus</a> (long and sweet)</li>
-<li><a href="http://www.nme.com/reviews/11401.htm"
->NME</a> (old faithful)</li>
-<li><a href="http://www.playlouder.co.uk/review/+dearcatastrophew/"
->PlayLouder</a> (a dissenting voice?)</li>
+  <li><a href="http://www.rollingstone.com/reviews/cd/review.asp?aid=2047548">Rolling Stone</a> (short and sweet)</li>
+  <li><a href="http://www.stylusmagazine.com/review.php?ID=1371">Stylus</a> (long and sweet)</li>
+  <li><a href="http://www.nme.com/reviews/11401.htm">NME</a> (old faithful)</li>
+  <li><a href="http://www.playlouder.co.uk/review/+dearcatastrophew/">PlayLouder</a> (a dissenting voice?)</li>
 </ul>
-<p class="firstpar">In fact <a href="http://www.metacritic.com/music/artists/belleandsebastian/dearcatastrophewaitress/"
+
+<p class="firstpar">In fact <a href="https://www.metacritic.com/music/dear-catastrophe-waitress/belle-and-sebastian"
 >Metacritic</a> do this better than me, just go there ;o)</p>
 
 <p class="firstpar">In other news it&#8217;s my sisters boyfriend James&#8217;s birthday tomorrow and I&#8217;ve only just posted the card so I&#8217;ll try and make up for it&#8217;s lateness by publicly apologising on a web page neither he or anyone who is likely to speak to him looks at! Haha! I was going to get a very heavily ironical card which looked like it was something your Gran might get you but was persuaded not to at the last minute by Kirsty who doesn&#8217;t understand what I find funny about that kind of thing. Probably for the best.</p>

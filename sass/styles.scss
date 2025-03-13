@@ -33,7 +33,7 @@ h3 { font-size:1.5rem;}
 
 .main__content {
   margin:0 auto $bsu;
-  padding:0 1em;
+  padding:0 2em;
   @include aboveOr(pem(560)){padding:0 3em; margin-bottom:$bsu*2}
   @include aboveOr(pem(960)){max-width:42em;}
 }
@@ -88,6 +88,7 @@ p {
   line-height:1.2;
   margin-bottom:$bsu*1;
   text-wrap:balance;
+  text-align:center;
   @include aboveOr(pem(640)) {
     font-size:3em;
     line-height:1.1;
@@ -209,6 +210,7 @@ p {
 
 .archive-link {
   width:7em;
+  display:block;
   margin:0 auto;
   text-align:center;
   margin-bottom:$bsu*4;
@@ -218,29 +220,23 @@ p {
 }
 
 .post__nextprev {
-  clear:both;
-  a {
-    position:relative;
-    display:inline-block;
-    @include aboveOr(pem(560))
-    {
-      span {
-        font-size:2em;
-        position:absolute;
-        top:50%;
-        margin-top:-0.5em;
-      }
-      &.next {
-        float:right;
-        span {left:103%;}
-      }
-      &.prev {
-        float:left;
-        span {right:102%;}
-      }
-    }
-  }
+  display: flex;
+  justify-content: space-between; /* Places the links at opposite ends */
+  flex-wrap: wrap; /* Allows the links to wrap onto the next line when needed */
 }
+
+.post__nextprev a {
+  // white-space: nowrap; /* Prevents the text inside the links from breaking */
+}
+
+.post__nextprev .prev {
+  margin-right: auto; /* Pushes the "prev" link to the left */
+}
+
+.post__nextprev .next {
+  margin-left: auto; /* Pushes the "next" link to the right */
+}
+
 
 .img-half-left {
   width:100%;
