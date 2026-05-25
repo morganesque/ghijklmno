@@ -24,8 +24,8 @@
     "lodash": "^4.17.21",
     "marked": "^0.3.19",
     "moment": "^2.29.2",
+    "nunjucks": "^3.2.4",
     "node-sass": "^9.0.0",
-    "nunjucks": "^3.0.0",
     "prompt": "^1.0.0",
     "slugify": "^1.1.0",
     "yaml-front-matter": "^3.4.0"
