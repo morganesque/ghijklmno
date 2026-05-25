@@ -11,7 +11,7 @@ author:
 author_login: admin
 author_email: tsmorgan@gmail.com
 wordpress_id: 283
-wordpress_url: http://morganesque.com/?p=283
+wordpress_url: http://morganesque.github.io/?p=283
 date: '2011-04-07 09:01:17 +0100'
 date_gmt: '2011-04-07 09:01:17 +0100'
 categories:

@@ -1,12 +1,12 @@
 @import "mixins";
 
-$primary:#666;
-$secondary:hsl(10,22%,62%);
-$tertiary:hsl(190,76%,42%);
-$blockquote:rgba($secondary,0.17);
-$aside:desaturate(lighten($tertiary,50),20);
+$primary: #666;
+$secondary: hsl(10, 22%, 62%);
+$tertiary: hsl(190, 76%, 42%);
+$blockquote: rgba($secondary, 0.17);
+$aside: desaturate(lighten($tertiary, 50), 20);
 
-$global-border-box:true;
+$global-border-box: true;
 
 @import "inuit.css/defaults";
 @import "inuit.css/generic/normalize";
@@ -14,287 +14,331 @@ $global-border-box:true;
 @import "inuit.css/generic/reset";
 @import "inuit.css/generic/clearfix";
 
-$bsu:24px;
+$bsu: 24px;
 
 @import "fonts";
 @import "icons";
 
 body {
   @extend %ff-book;
-  color:#333;
-  font-size:16px; line-height:1.6;
-  @include aboveOr(pem(640)) {font-size:19px;}
-  @include aboveOr(pem(1400)) {font-size:24px;}
+  color: #333;
+  font-size: 16px;
+  line-height: 1.6;
+  @include aboveOr(pem(640)) {
+    font-size: 19px;
+  }
+  @include aboveOr(pem(1400)) {
+    font-size: 24px;
+  }
 }
 
-h1 { font-size:3rem; line-height:1;}
-h2 { font-size:2rem;}
-h3 { font-size:1.5rem;}
+h1 {
+  font-size: 3rem;
+  line-height: 1;
+}
+h2 {
+  font-size: 2rem;
+}
+h3 {
+  font-size: 1.5rem;
+}
 
 .main__content {
-  margin:0 auto $bsu;
-  padding:0 1em;
-  @include aboveOr(pem(560)){padding:0 3em; margin-bottom:$bsu*2}
-  @include aboveOr(pem(960)){max-width:42em;}
+  margin: 0 auto $bsu;
+  padding: 0 2em;
+  @include aboveOr(pem(560)) {
+    padding: 0 3em;
+    margin-bottom: $bsu * 2;
+  }
+  @include aboveOr(pem(960)) {
+    max-width: 42em;
+  }
 }
 
 .logo {
   @extend %ff-light;
-  font-size:2em;
-  text-align:center;
-  margin:$bsu auto 0;
-  letter-spacing:0.05em;
-  width:100%;
-  img {max-width:480px}
-  @include aboveOr(pem(640)) {margin:$bsu*2 auto 0; }
+  font-size: 2em;
+  text-align: center;
+  margin: $bsu auto 0;
+  letter-spacing: 0.05em;
+  width: 100%;
+  img {
+    max-width: 480px;
+  }
+  @include aboveOr(pem(640)) {
+    margin: $bsu * 2 auto 0;
+  }
   a {
-    color:$secondary;
-    &:hover, &:active {
-      text-decoration:none;
+    color: $secondary;
+    &:hover,
+    &:active {
+      text-decoration: none;
     }
   }
 }
 
 a {
-  color:$tertiary;
-  text-decoration:none;
+  color: $tertiary;
+  text-decoration: none;
 }
 
 .link {
-  padding:$bsu/2;
-  &:hover, &:active {
-    background-color:$blockquote;
-    text-decoration:none;
+  padding: $bsu/2;
+  &:hover,
+  &:active {
+    background-color: $blockquote;
+    text-decoration: none;
   }
 }
 
 p {
-  margin-bottom:$bsu;
+  margin-bottom: $bsu;
 }
 
 .sub-heading {
-  font-size:0.9em;
-  text-align:center;
-  margin-top:0;
-  margin-bottom:$bsu;
-  padding:0;
-  @include aboveOr(pem(640)) {margin:2*$bsu;margin-top:0}
+  font-size: 0.9em;
+  text-align: center;
+  margin-top: 0;
+  margin-bottom: $bsu;
+  padding: 0;
+  @include aboveOr(pem(640)) {
+    margin: 2 * $bsu;
+    margin-top: 0;
+  }
 }
 
 .post__title {
   @extend %ff-black;
-  color:black;
-  font-size:2em;
-  line-height:1.2;
-  margin-bottom:$bsu*1;
+  color: black;
+  font-size: 2em;
+  line-height: 1.2;
+  margin-bottom: $bsu * 1;
+  text-wrap: balance;
+  text-align: center;
   @include aboveOr(pem(640)) {
-    font-size:3em;
-    line-height:1.1;
-    margin-bottom:$bsu*3;
+    font-size: 3em;
+    line-height: 1.1;
+    margin-bottom: $bsu * 3;
   }
 }
 
 .post__date {
-  margin-bottom:$bsu;
-  color:$secondary;
-  @include aboveOr(pem(640)) {margin-bottom:2*$bsu;}
+  margin-bottom: $bsu;
+  color: $secondary;
+  @include aboveOr(pem(640)) {
+    margin-bottom: 2 * $bsu;
+  }
 }
 
 .post__excerpt {
-  font-size:1.1em;
-  margin-bottom:$bsu;
-  @include aboveOr(pem(640))
-  {
-    font-size:1.2em;
-    line-height:1.5em;
-    margin-bottom:2*$bsu;
+  font-size: 1.1em;
+  margin-bottom: $bsu;
+  @include aboveOr(pem(640)) {
+    font-size: 1.2em;
+    line-height: 1.5em;
+    margin-bottom: 2 * $bsu;
   }
 }
 
 .post__content {
   h3 {
-    font-size:1.5em;
+    font-size: 1.5em;
   }
-  h1,h2,h3,h4 {
-  	font-weight:normal;
-    margin-bottom:$bsu;
+  h1,
+  h2,
+  h3,
+  h4 {
+    font-weight: normal;
+    margin-bottom: $bsu;
   }
   p.standfirst {
     @extend %ff-medium;
-    font-size:1.2em;
-    margin-bottom:2em;
+    font-size: 1.2em;
+    margin-bottom: 2em;
   }
   blockquote {
-    font-style:italic;
-    font-size:1.1em;
-    padding:$bsu 2*$bsu 1.5*$bsu;
-    margin:2*$bsu 0;
-    border-left:$bsu/2 solid $secondary;
-    background-color:$blockquote;
+    font-style: italic;
+    font-size: 1.1em;
+    padding: $bsu 2 * $bsu 1.5 * $bsu;
+    margin: 2 * $bsu 0;
+    border-left: $bsu/2 solid $secondary;
+    background-color: $blockquote;
   }
   blockquote.aside {
-    $darkside:darken($aside,42);
-    background-color:$aside;
-    font-style:italic;
-    font-size:1em;
-    border-left:$bsu/2 solid $darkside;
+    $darkside: darken($aside, 42);
+    background-color: $aside;
+    font-style: italic;
+    font-size: 1em;
+    border-left: $bsu/2 solid $darkside;
     h3 {
-      float:left;
-      color:$darkside;
-      margin:4px $bsu/2 0 0;
-      font-size:0.84em;
-      text-transform:uppercase;
-      letter-spacing:0.1em;
-      font-style:normal;
-      font-family:sans-serif;
-      font-weight:bold;
+      float: left;
+      color: $darkside;
+      margin: 4px $bsu/2 0 0;
+      font-size: 0.84em;
+      text-transform: uppercase;
+      letter-spacing: 0.1em;
+      font-style: normal;
+      font-family: sans-serif;
+      font-weight: bold;
     }
   }
   blockquote.small {
-    font-size:1em;
+    font-size: 1em;
   }
-  pre, code {
-    font-size:0.7em;
-    background-color:rgba(desaturate($tertiary,42),0.14);
-    padding:0.25em 0.5em;
-    border-radius:0.25em;
+  pre,
+  code {
+    font-size: 0.7em;
+    background-color: rgba(desaturate($tertiary, 42), 0.14);
+    padding: 0.25em 0.5em;
+    border-radius: 0.25em;
   }
   pre {
-    padding:$bsu;
-    margin-bottom:$bsu;
+    padding: $bsu;
+    margin-bottom: $bsu;
   }
-  ul,ol {
-    margin-bottom:$bsu;
-    padding:0 2*$bsu;
+  ul,
+  ol {
+    margin-bottom: $bsu;
+    padding: 0 2 * $bsu;
   }
   li {
-    margin-bottom:$bsu/2;
+    margin-bottom: $bsu/2;
   }
   .note {
-    background-color:rgba(desaturate($tertiary,42),0.14);
-    padding:1em;
-    font-size:0.8em;
+    background-color: rgba(desaturate($tertiary, 42), 0.14);
+    padding: 1em;
+    font-size: 0.8em;
   }
   a {
-    color:$tertiary;
-    background-color:lighten($secondary,35);
-    &:hover,&:active {
-      background-color:lighten(yellow,30);
+    color: $tertiary;
+    background-color: lighten($secondary, 35);
+    &:hover,
+    &:active {
+      background-color: lighten(yellow, 30);
     }
   }
 }
 
-
 .archive__skip {
-	margin-bottom:$bsu;
+  margin-bottom: $bsu;
 
-	ul {list-style:none}
-	li {display:inline;}
+  ul {
+    list-style: none;
+  }
+  li {
+    display: inline;
+  }
 }
 
 .year {
-	margin-bottom:$bsu;
-	list-style:none;
-	time {
-		color:rgba($primary, 0.76);
-		font-size:0.8em;
-		white-space:nowrap;
-	}
-}
-
-.post__content {
-  margin-bottom:2*$bsu;
-}
-
-.archive-link {
-  width:7em;
-  margin:0 auto;
-  text-align:center;
-  margin-bottom:$bsu*4;
-}
-.list-header {
-  margin-bottom:$bsu/4;
-}
-
-.post__nextprev {
-  clear:both;
-  a {
-    position:relative;
-    display:inline-block;
-    @include aboveOr(pem(560))
-    {
-      span {
-        font-size:2em;
-        position:absolute;
-        top:50%;
-        margin-top:-0.5em;
-      }
-      &.next {
-        float:right;
-        span {left:103%;}
-      }
-      &.prev {
-        float:left;
-        span {right:102%;}
-      }
-    }
+  margin-bottom: $bsu;
+  list-style: none;
+  time {
+    color: rgba($primary, 0.76);
+    font-size: 0.8em;
+    white-space: nowrap;
   }
 }
 
+.post__content {
+  margin-bottom: 2 * $bsu;
+}
+
+.archive-link {
+  width: 7em;
+  display: block;
+  margin: 0 auto;
+  text-align: center;
+  margin-bottom: $bsu * 4;
+}
+.list-header {
+  margin-bottom: $bsu/4;
+}
+
+.post__nextprev {
+  display: flex;
+  justify-content: space-between; /* Places the links at opposite ends */
+  flex-wrap: wrap; /* Allows the links to wrap onto the next line when needed */
+}
+
+.post__nextprev a {
+  // white-space: nowrap; /* Prevents the text inside the links from breaking */
+}
+
+.post__nextprev .prev {
+  margin-right: auto; /* Pushes the "prev" link to the left */
+}
+
+.post__nextprev .next {
+  margin-left: auto; /* Pushes the "next" link to the right */
+}
+
 .img-half-left {
-  width:100%;
+  width: 100%;
   @include aboveOr(pem(640)) {
-    width:50%;
-    float:left;
-    margin:0 2em 1em 0;
+    width: 50%;
+    float: left;
+    margin: 0 2em 1em 0;
   }
 }
 
 .img-half-right {
-  width:100%;
+  width: 100%;
   @include aboveOr(pem(640)) {
-    width:50%;
-    float:right;
-    margin:0 0 1em 2em;
+    width: 50%;
+    float: right;
+    margin: 0 0 1em 2em;
   }
 }
 
 .img-quart-left {
-  width:50%;
-  margin:0 auto;
-  display:block;
+  width: 50%;
+  margin: 0 auto;
+  display: block;
   @include aboveOr(pem(640)) {
-    width:25%;
-    float:left;
-    margin:0 2em 1em 0;
+    width: 25%;
+    float: left;
+    margin: 0 2em 1em 0;
   }
 }
 
 .img-quart-right {
-  width:50%;
-  margin:0 auto;
-  display:block;
+  width: 50%;
+  margin: 0 auto;
+  display: block;
   @include aboveOr(pem(640)) {
-    width:25%;
-    float:right;
-    margin:0 0 1em 2em;
+    width: 25%;
+    float: right;
+    margin: 0 0 1em 2em;
   }
 }
 
 .img-full {
-  width:100%;
-  margin:0 auto;
-  display:block;
+  width: 100%;
+  margin: 0 auto;
+  display: block;
 }
 
 .break {
-  width:12%;
-  margin:$bsu auto 3*$bsu/2;
+  width: 12%;
+  margin: $bsu auto 3 * $bsu/2;
   border: 0;
-  border-bottom: 1px dashed #EEE;
+  border-bottom: 1px dashed #eee;
   background: #999;
 }
 .emphasis {
-  font-weight:700;
-  font-size:1.1em;
+  font-weight: 700;
+  font-size: 1.1em;
+}
+
+figure {
+  img {
+    margin-bottom: 0;
+  }
+  figcaption {
+    font-size: 0.8em;
+    color: rgba($primary, 0.76);
+    text-align: center;
+    margin-top: 0.5em;
+  }
 }
